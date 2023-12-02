@@ -203,7 +203,7 @@ if __name__ == "__main__":
     # 1. update README.md file
     json_file = "adas-arxiv-daily.json"
     md_file   = "README.md"
-    daily_md_file = f"arxivs/{datetime.datetime.now().strftime("%Y%m%d")}.md"
+    daily_md_file = f"arxivs/{datetime.datetime.now().strftime('%Y%m%d')}.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
