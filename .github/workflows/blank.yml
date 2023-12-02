@@ -15,8 +15,8 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Vincentqyw
-  GITHUB_USER_EMAIL: scutpanzhiwei@163.com
+  GITHUB_USER_NAME: PeterJaq
+  GITHUB_USER_EMAIL: anqingjiang0524@gmail.com
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -52,7 +52,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md adas-arxiv-daily.json docs/adas-arxiv-daily-web.json docs/index.md docs/adas-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

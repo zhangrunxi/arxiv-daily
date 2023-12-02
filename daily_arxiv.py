@@ -186,8 +186,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Video_Classification"]                = "Video Classification"
-    keywords["MultiModal"]                 = "MultiModal"+"Modal fusion"
+    keywords["Autonomous_Driving"]  = "autonomous driving"
    
 
     for topic,keyword in keywords.items():
@@ -202,7 +201,7 @@ if __name__ == "__main__":
         print("\n")
 
     # 1. update README.md file
-    json_file = "cv-arxiv-daily.json"
+    json_file = "adas-arxiv-daily.json"
     md_file   = "README.md"
     # update json data
     update_json_file(json_file,data_collector)
@@ -210,7 +209,7 @@ if __name__ == "__main__":
     json_to_md(json_file,md_file)
 
     # 2. update docs/index.md file
-    json_file = "./docs/cv-arxiv-daily-web.json"
+    json_file = "./docs/adas-arxiv-daily-web.json"
     md_file   = "./docs/index.md"
     # update json data
     update_json_file(json_file,data_collector)
@@ -218,7 +217,7 @@ if __name__ == "__main__":
     json_to_md(json_file, md_file, to_web = True)
 
     # 3. Update docs/wechat.md file
-    json_file = "./docs/cv-arxiv-daily-wechat.json"
+    json_file = "./docs/adas-arxiv-daily-wechat.json"
     md_file   = "./docs/wechat.md"
     # update json data
     update_json_file(json_file, data_collector_web)
