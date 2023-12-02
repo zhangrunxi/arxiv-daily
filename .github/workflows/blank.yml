@@ -52,7 +52,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md adas-arxiv-daily.json docs/adas-arxiv-daily-web.json docs/index.md docs/adas-arxiv-daily-wechat.json docs/wechat.md
+          files: README.md adas-arxiv-daily.json docs/adas-arxiv-daily-web.json docs/index.md docs/adas-arxiv-daily-wechat.json docs/wechat.md arxivs
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
