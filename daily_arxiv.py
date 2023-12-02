@@ -76,11 +76,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
             if "official" in r and r["official"]:
                 cnt += 1
                 repo_url = r["official"]["url"]
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[![arxiv](https://img.shields.io/badge/arXiv-{paper_id}-b31b1b.svg)]({paper_url})|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]({repo_url})**|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
-                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
+                content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[![arxiv](https://img.shields.io/badge/arXiv-{paper_id}-b31b1b.svg)]({paper_url})|null|\n"
                 content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
 
             # TODO: select useful comments
