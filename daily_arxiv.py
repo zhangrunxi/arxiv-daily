@@ -208,7 +208,7 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
-    json_to_md(json_filem, daily_md_file)
+    json_to_md(json_file, daily_md_file)
 
     # 2. update docs/index.md file
     json_file = "./docs/adas-arxiv-daily-web.json"
