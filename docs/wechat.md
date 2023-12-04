@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-01, **Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**, Dekun Wu et.al., Paper: [http://arxiv.org/abs/2312.00746v1](http://arxiv.org/abs/2312.00746v1)
+- 2023-12-01, **Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**, Jason D. Hiser et.al., Paper: [http://arxiv.org/abs/2312.00714v1](http://arxiv.org/abs/2312.00714v1)
+- 2023-12-01, **PointBeV: A Sparse Approach to BeV Predictions**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2312.00703v1](http://arxiv.org/abs/2312.00703v1), Code: **[https://github.com/valeoai/pointbev](https://github.com/valeoai/pointbev)**
+- 2023-12-01, **Euclid preparation. TBD. Galaxy power spectrum modelling in real space**, Euclid Collaboration et.al., Paper: [http://arxiv.org/abs/2312.00679v1](http://arxiv.org/abs/2312.00679v1)
+- 2023-12-01, **The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**, Tianyu Ding et.al., Paper: [http://arxiv.org/abs/2312.00678v1](http://arxiv.org/abs/2312.00678v1), Code: **[https://github.com/tding1/efficient-llm-survey](https://github.com/tding1/efficient-llm-survey)**
+- 2023-12-01, **Generalized Label-Efficient 3D Scene Parsing via Hierarchical Feature Aligned Pre-Training and Region-Aware Fine-tuning**, Kangcheng Liu et.al., Paper: [http://arxiv.org/abs/2312.00663v1](http://arxiv.org/abs/2312.00663v1)
+- 2023-12-01, **Distributed Asynchronous Discrete-Time Feedback Optimization**, Gabriel Behrendt et.al., Paper: [http://arxiv.org/abs/2312.00646v1](http://arxiv.org/abs/2312.00646v1)
+- 2023-12-01, **Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach**, Yuxin Li et.al., Paper: [http://arxiv.org/abs/2312.00633v1](http://arxiv.org/abs/2312.00633v1)
+- 2023-12-01, **The Ecosystem of Trust (EoT): Enabling effective deployment of autonomous systems through collaborative and trusted ecosystems**, Jon Arne Glomsrud et.al., Paper: [http://arxiv.org/abs/2312.00629v1](http://arxiv.org/abs/2312.00629v1)
+- 2023-12-01, **Partial-wave projection of the one-particle exchange in three-body scattering amplitudes**, Andrew W. Jackura et.al., Paper: [http://arxiv.org/abs/2312.00625v1](http://arxiv.org/abs/2312.00625v1)
 - 2023-11-30, **TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**, Lihao Liu et.al., Paper: [http://arxiv.org/abs/2311.18839v1](http://arxiv.org/abs/2311.18839v1)
 - 2023-11-30, **Supersonic Gravitational Collapse for Non-Isentropic Gaseous Stars**, Christopher Alexander et.al., Paper: [http://arxiv.org/abs/2311.18795v1](http://arxiv.org/abs/2311.18795v1)
 - 2023-11-30, **Evaluating the Impact of Flaky Simulators on Testing Autonomous Driving Systems**, Mohammad Hossein Amini et.al., Paper: [http://arxiv.org/abs/2311.18768v1](http://arxiv.org/abs/2311.18768v1), Code: **[https://github.com/anonoymous9423013/anonymous_paper](https://github.com/anonoymous9423013/anonymous_paper)**
