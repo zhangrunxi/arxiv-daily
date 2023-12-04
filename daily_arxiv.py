@@ -21,7 +21,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=20):
     """
     @param topic: str
     @param query: str
@@ -56,6 +56,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+
+        print(paper_id, paper_title, publish_time)
 
 
       
