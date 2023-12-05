@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**|Anh-Quan Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.02158v1-b31b1b.svg)](http://arxiv.org/abs/2312.02158v1)|null|
+|**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.02144v1-b31b1b.svg)](http://arxiv.org/abs/2312.02144v1)|null|
+|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.02069v1-b31b1b.svg)](http://arxiv.org/abs/2312.02069v1)|null|
+|**2023-12-04**|**Information flows in nanomachines**|Juan Parrondo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.02068v1-b31b1b.svg)](http://arxiv.org/abs/2312.02068v1)|null|
+|**2023-12-04**|**Stochastic Optimal Control Matching**|Carles Domingo-Enrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.02027v1-b31b1b.svg)](http://arxiv.org/abs/2312.02027v1)|null|
+|**2023-12-04**|**Clonal dynamics of surface-driven growing tissues**|Ruslan Mukhamadiarov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.01923v1-b31b1b.svg)](http://arxiv.org/abs/2312.01923v1)|null|
+|**2023-12-04**|**COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction**|Qihang Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.01919v1-b31b1b.svg)](http://arxiv.org/abs/2312.01919v1)|null|
+|**2023-12-04**|**Model Predictive Control Approach to Autonomous Formation Flight**|Harun Celik et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.01907v1-b31b1b.svg)](http://arxiv.org/abs/2312.01907v1)|null|
+|**2023-12-04**|**Versatile manipulation of light- and dark- seeking particles on demand**|Zheng Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.01861v1-b31b1b.svg)](http://arxiv.org/abs/2312.01861v1)|null|
+|**2023-12-04**|**Unveiling Objects with SOLA: An Annotation-Free Image Search on the Object Level for Automotive Data Sets**|Philipp Rigoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.01860v1-b31b1b.svg)](http://arxiv.org/abs/2312.01860v1)|null|
 |**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.00746v1-b31b1b.svg)](http://arxiv.org/abs/2312.00746v1)|null|
 |**2023-12-01**|**Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**|Jason D. Hiser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.00714v1-b31b1b.svg)](http://arxiv.org/abs/2312.00714v1)|null|
 |**2023-12-01**|**PointBeV: A Sparse Approach to BeV Predictions**|Loick Chambon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.00703v1-b31b1b.svg)](http://arxiv.org/abs/2312.00703v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/pointbev)**|
