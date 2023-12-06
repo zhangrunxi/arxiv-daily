@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-05, **MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**, Zhangyang Xiong et.al., Paper: [http://arxiv.org/abs/2312.02963v1](http://arxiv.org/abs/2312.02963v1)
+- 2023-12-05, **Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing**, Ayoosh Bansal et.al., Paper: [http://arxiv.org/abs/2312.02937v1](http://arxiv.org/abs/2312.02937v1)
+- 2023-12-05, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v1](http://arxiv.org/abs/2312.02934v1), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
+- 2023-12-05, **Experimental Insights Towards Explainable and Interpretable Pedestrian Crossing Prediction**, Angie Nataly Melo et.al., Paper: [http://arxiv.org/abs/2312.02872v1](http://arxiv.org/abs/2312.02872v1)
+- 2023-12-05, **Are Vision Transformers More Data Hungry Than Newborn Visual Systems?**, Lalit Pandey et.al., Paper: [http://arxiv.org/abs/2312.02843v1](http://arxiv.org/abs/2312.02843v1), Code: **[https://github.com/buildingamind/vit-cot](https://github.com/buildingamind/vit-cot)**
+- 2023-12-05, **Quantum simulation for time-dependent Hamiltonians -- with applications to non-autonomous ordinary and partial differential equations**, Yu Cao et.al., Paper: [http://arxiv.org/abs/2312.02817v1](http://arxiv.org/abs/2312.02817v1)
+- 2023-12-05, **Empowering the 6G Cellular Architecture with Open RAN**, Michele Polese et.al., Paper: [http://arxiv.org/abs/2312.02746v1](http://arxiv.org/abs/2312.02746v1)
+- 2023-12-05, **A Comprehensive Study on Modelling and Control of Autonomous Underwater Vehicle**, Rajini Makam et.al., Paper: [http://arxiv.org/abs/2312.02690v1](http://arxiv.org/abs/2312.02690v1)
+- 2023-12-05, **A Self-Commissioning Edge Computing Method for Data-Driven Anomaly Detection in Power Electronic Systems**, Pere Izquierdo Gomez et.al., Paper: [http://arxiv.org/abs/2312.02661v1](http://arxiv.org/abs/2312.02661v1)
+- 2023-12-05, **THz-Driven Coherent Magnetization Dynamics in a Labyrinth Domain State**, M Riepp et.al., Paper: [http://arxiv.org/abs/2312.02654v1](http://arxiv.org/abs/2312.02654v1)
 - 2023-12-04, **PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2312.02158v1](http://arxiv.org/abs/2312.02158v1)
 - 2023-12-04, **Optimizing Camera Configurations for Multi-View Pedestrian Detection**, Yunzhong Hou et.al., Paper: [http://arxiv.org/abs/2312.02144v1](http://arxiv.org/abs/2312.02144v1)
 - 2023-12-04, **GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**, Shenhan Qian et.al., Paper: [http://arxiv.org/abs/2312.02069v1](http://arxiv.org/abs/2312.02069v1)
