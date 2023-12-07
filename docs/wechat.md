@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-06, **MatterGen: a generative model for inorganic materials design**, Claudio Zeni et.al., Paper: [http://arxiv.org/abs/2312.03687v1](http://arxiv.org/abs/2312.03687v1)
+- 2023-12-06, **Single-ion optical autocorrelator**, M. I. Hussain et.al., Paper: [http://arxiv.org/abs/2312.03679v1](http://arxiv.org/abs/2312.03679v1)
+- 2023-12-06, **Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**, Ming Nie et.al., Paper: [http://arxiv.org/abs/2312.03661v1](http://arxiv.org/abs/2312.03661v1), Code: **[https://github.com/fudan-zvg/reason2drive](https://github.com/fudan-zvg/reason2drive)**
+- 2023-12-06, **The SAMI Galaxy Survey: $Σ_{\rm SFR}$ drives the presence of complex emission line profiles in star-forming galaxies**, Henry R. M. Zovaro et.al., Paper: [http://arxiv.org/abs/2312.03659v1](http://arxiv.org/abs/2312.03659v1)
+- 2023-12-06, **Quantum Optics with Rydberg Superatoms**, Jan Kumlin et.al., Paper: [http://arxiv.org/abs/2312.03649v1](http://arxiv.org/abs/2312.03649v1)
+- 2023-12-06, **Towards Time Sensitive Networking on Smart Cities: Techniques, Challenges, and Solutions**, Rui Lopes et.al., Paper: [http://arxiv.org/abs/2312.03635v1](http://arxiv.org/abs/2312.03635v1)
+- 2023-12-06, **Observational study of intermittent solar jets: p-mode modulation**, Qiuzhuo Cai et.al., Paper: [http://arxiv.org/abs/2312.03571v1](http://arxiv.org/abs/2312.03571v1)
+- 2023-12-06, **Non-reciprocal topological solitons**, Jonas Veenstra et.al., Paper: [http://arxiv.org/abs/2312.03544v1](http://arxiv.org/abs/2312.03544v1)
+- 2023-12-06, **GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2312.03543v1](http://arxiv.org/abs/2312.03543v1), Code: **[https://github.com/petrichor625/talk2car_cavg](https://github.com/petrichor625/talk2car_cavg)**
+- 2023-12-06, **Bayesian variable selection in sample selection models using spike-and-slab priors**, Adam Iqbal et.al., Paper: [http://arxiv.org/abs/2312.03538v1](http://arxiv.org/abs/2312.03538v1)
 - 2023-12-05, **MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**, Zhangyang Xiong et.al., Paper: [http://arxiv.org/abs/2312.02963v1](http://arxiv.org/abs/2312.02963v1)
 - 2023-12-05, **Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing**, Ayoosh Bansal et.al., Paper: [http://arxiv.org/abs/2312.02937v1](http://arxiv.org/abs/2312.02937v1)
 - 2023-12-06, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v2](http://arxiv.org/abs/2312.02934v2), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
