@@ -4,7 +4,7 @@
 
 - 2023-12-05, **MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**, Zhangyang Xiong et.al., Paper: [http://arxiv.org/abs/2312.02963v1](http://arxiv.org/abs/2312.02963v1)
 - 2023-12-05, **Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing**, Ayoosh Bansal et.al., Paper: [http://arxiv.org/abs/2312.02937v1](http://arxiv.org/abs/2312.02937v1)
-- 2023-12-05, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v1](http://arxiv.org/abs/2312.02934v1), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
+- 2023-12-06, **WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2312.02934v2](http://arxiv.org/abs/2312.02934v2), Code: **[https://github.com/fudan-zvg/wovogen](https://github.com/fudan-zvg/wovogen)**
 - 2023-12-05, **Experimental Insights Towards Explainable and Interpretable Pedestrian Crossing Prediction**, Angie Nataly Melo et.al., Paper: [http://arxiv.org/abs/2312.02872v1](http://arxiv.org/abs/2312.02872v1)
 - 2023-12-05, **Are Vision Transformers More Data Hungry Than Newborn Visual Systems?**, Lalit Pandey et.al., Paper: [http://arxiv.org/abs/2312.02843v1](http://arxiv.org/abs/2312.02843v1), Code: **[https://github.com/buildingamind/vit-cot](https://github.com/buildingamind/vit-cot)**
 - 2023-12-05, **Quantum simulation for time-dependent Hamiltonians -- with applications to non-autonomous ordinary and partial differential equations**, Yu Cao et.al., Paper: [http://arxiv.org/abs/2312.02817v1](http://arxiv.org/abs/2312.02817v1)
