@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-07, **Digital Life Project: Autonomous 3D Characters with Social Intelligence**, Zhongang Cai et.al., Paper: [http://arxiv.org/abs/2312.04547v1](http://arxiv.org/abs/2312.04547v1)
+- 2023-12-07, **Trajeglish: Learning the Language of Driving Scenarios**, Jonah Philion et.al., Paper: [http://arxiv.org/abs/2312.04535v1](http://arxiv.org/abs/2312.04535v1)
+- 2023-12-07, **Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2312.04533v1](http://arxiv.org/abs/2312.04533v1)
+- 2023-12-07, **Bootstrapping Autonomous Radars with Self-Supervised Learning**, Yiduo Hao et.al., Paper: [http://arxiv.org/abs/2312.04519v1](http://arxiv.org/abs/2312.04519v1)
+- 2023-12-07, **Entanglement generation via single-qubit rotations in a teared Hilbert space**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2312.04507v1](http://arxiv.org/abs/2312.04507v1)
+- 2023-12-07, **AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**, Shusen Liu et.al., Paper: [http://arxiv.org/abs/2312.04494v1](http://arxiv.org/abs/2312.04494v1)
+- 2023-12-07, **FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2312.04484v1](http://arxiv.org/abs/2312.04484v1), Code: **[https://github.com/Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet)**
+- 2023-12-07, **Parking on trees with a (random) given degree sequence and the Frozen configuration model**, Alice Contat et.al., Paper: [http://arxiv.org/abs/2312.04472v1](http://arxiv.org/abs/2312.04472v1)
+- 2023-12-07, **Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion**, Kiran Chhatre et.al., Paper: [http://arxiv.org/abs/2312.04466v1](http://arxiv.org/abs/2312.04466v1), Code: **[https://github.com/kiranchhatre/amuse](https://github.com/kiranchhatre/amuse)**
+- 2023-12-07, **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2312.04461v1](http://arxiv.org/abs/2312.04461v1)
 - 2023-12-06, **MatterGen: a generative model for inorganic materials design**, Claudio Zeni et.al., Paper: [http://arxiv.org/abs/2312.03687v1](http://arxiv.org/abs/2312.03687v1)
 - 2023-12-06, **Single-ion optical autocorrelator**, M. I. Hussain et.al., Paper: [http://arxiv.org/abs/2312.03679v1](http://arxiv.org/abs/2312.03679v1)
 - 2023-12-06, **Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**, Ming Nie et.al., Paper: [http://arxiv.org/abs/2312.03661v1](http://arxiv.org/abs/2312.03661v1), Code: **[https://github.com/fudan-zvg/reason2drive](https://github.com/fudan-zvg/reason2drive)**
