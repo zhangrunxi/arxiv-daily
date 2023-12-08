@@ -8,7 +8,7 @@
 - 2023-12-06, **The SAMI Galaxy Survey: $Σ_{\rm SFR}$ drives the presence of complex emission line profiles in star-forming galaxies**, Henry R. M. Zovaro et.al., Paper: [http://arxiv.org/abs/2312.03659v1](http://arxiv.org/abs/2312.03659v1)
 - 2023-12-06, **Quantum Optics with Rydberg Superatoms**, Jan Kumlin et.al., Paper: [http://arxiv.org/abs/2312.03649v1](http://arxiv.org/abs/2312.03649v1)
 - 2023-12-06, **Towards Time Sensitive Networking on Smart Cities: Techniques, Challenges, and Solutions**, Rui Lopes et.al., Paper: [http://arxiv.org/abs/2312.03635v1](http://arxiv.org/abs/2312.03635v1)
-- 2023-12-06, **Observational study of intermittent solar jets: p-mode modulation**, Qiuzhuo Cai et.al., Paper: [http://arxiv.org/abs/2312.03571v1](http://arxiv.org/abs/2312.03571v1)
+- 2023-12-07, **Observational study of intermittent solar jets: p-mode modulation**, Qiuzhuo Cai et.al., Paper: [http://arxiv.org/abs/2312.03571v2](http://arxiv.org/abs/2312.03571v2)
 - 2023-12-06, **Non-reciprocal topological solitons**, Jonas Veenstra et.al., Paper: [http://arxiv.org/abs/2312.03544v1](http://arxiv.org/abs/2312.03544v1)
 - 2023-12-06, **GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2312.03543v1](http://arxiv.org/abs/2312.03543v1), Code: **[https://github.com/petrichor625/talk2car_cavg](https://github.com/petrichor625/talk2car_cavg)**
 - 2023-12-06, **Bayesian variable selection in sample selection models using spike-and-slab priors**, Adam Iqbal et.al., Paper: [http://arxiv.org/abs/2312.03538v1](http://arxiv.org/abs/2312.03538v1)
