@@ -188,7 +188,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Autonomous_Driving"]  = "autonomous driving"
+    keywords["Autonomous_Driving"]  = "abs:autonomous AND abs:driving"
    
 
     for topic,keyword in keywords.items():
