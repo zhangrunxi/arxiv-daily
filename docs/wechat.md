@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2023-12-08, **Kraken: enabling joint trajectory prediction by utilizing Mode Transformer and Greedy Mode Processing**, Daniil S. Antonenko et.al., Paper: [http://arxiv.org/abs/2312.05144v1](http://arxiv.org/abs/2312.05144v1)
+- 2023-12-08, **An Autonomous Driving model with BEV-V2X Perception, Trajectory Prediction and Driving Planning in Complex Traffic Intersections**, Fukang Li et.al., Paper: [http://arxiv.org/abs/2312.05104v1](http://arxiv.org/abs/2312.05104v1)
+- 2023-12-08, **Radar Perception in Autonomous Driving: Exploring Different Data Representations**, Shanliang Yao et.al., Paper: [http://arxiv.org/abs/2312.04861v1](http://arxiv.org/abs/2312.04861v1)
+- 2023-12-08, **Development and Assessment of Autonomous Vehicles in Both Fully Automated and Mixed Traffic Conditions**, Ahmed Abdelrahman et.al., Paper: [http://arxiv.org/abs/2312.04805v1](http://arxiv.org/abs/2312.04805v1)
+- 2023-12-07, **Fine-Grained Extraction of Road Networks via Joint Learning of Connectivity and Segmentation**, Yijia Xu et.al., Paper: [http://arxiv.org/abs/2312.04744v1](http://arxiv.org/abs/2312.04744v1)
 - 2023-12-07, **Digital Life Project: Autonomous 3D Characters with Social Intelligence**, Zhongang Cai et.al., Paper: [http://arxiv.org/abs/2312.04547v1](http://arxiv.org/abs/2312.04547v1)
 - 2023-12-07, **Trajeglish: Learning the Language of Driving Scenarios**, Jonah Philion et.al., Paper: [http://arxiv.org/abs/2312.04535v1](http://arxiv.org/abs/2312.04535v1)
 - 2023-12-07, **Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2312.04533v1](http://arxiv.org/abs/2312.04533v1)
@@ -12,6 +17,9 @@
 - 2023-12-07, **Parking on trees with a (random) given degree sequence and the Frozen configuration model**, Alice Contat et.al., Paper: [http://arxiv.org/abs/2312.04472v1](http://arxiv.org/abs/2312.04472v1)
 - 2023-12-07, **Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion**, Kiran Chhatre et.al., Paper: [http://arxiv.org/abs/2312.04466v1](http://arxiv.org/abs/2312.04466v1), Code: **[https://github.com/kiranchhatre/amuse](https://github.com/kiranchhatre/amuse)**
 - 2023-12-07, **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding**, Zhen Li et.al., Paper: [http://arxiv.org/abs/2312.04461v1](http://arxiv.org/abs/2312.04461v1)
+- 2023-12-07, **Deep Dynamics: Vehicle Dynamics Modeling with a Physics-Informed Neural Network for Autonomous Racing**, John Chrosniak et.al., Paper: [http://arxiv.org/abs/2312.04374v1](http://arxiv.org/abs/2312.04374v1)
+- 2023-12-07, **LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs**, Yunsheng Ma et.al., Paper: [http://arxiv.org/abs/2312.04372v1](http://arxiv.org/abs/2312.04372v1)
+- 2023-12-07, **Towards Knowledge-driven Autonomous Driving**, Xin Li et.al., Paper: [http://arxiv.org/abs/2312.04316v1](http://arxiv.org/abs/2312.04316v1), Code: **[https://github.com/pjlab-adg/awesome-knowledge-driven-ad](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**
 - 2023-12-06, **MatterGen: a generative model for inorganic materials design**, Claudio Zeni et.al., Paper: [http://arxiv.org/abs/2312.03687v1](http://arxiv.org/abs/2312.03687v1)
 - 2023-12-06, **Single-ion optical autocorrelator**, M. I. Hussain et.al., Paper: [http://arxiv.org/abs/2312.03679v1](http://arxiv.org/abs/2312.03679v1)
 - 2023-12-06, **Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**, Ming Nie et.al., Paper: [http://arxiv.org/abs/2312.03661v1](http://arxiv.org/abs/2312.03661v1), Code: **[https://github.com/fudan-zvg/reason2drive](https://github.com/fudan-zvg/reason2drive)**
