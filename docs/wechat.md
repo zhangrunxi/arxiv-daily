@@ -10,7 +10,7 @@
 - 2023-12-07, **Digital Life Project: Autonomous 3D Characters with Social Intelligence**, Zhongang Cai et.al., Paper: [http://arxiv.org/abs/2312.04547v1](http://arxiv.org/abs/2312.04547v1)
 - 2023-12-07, **Trajeglish: Learning the Language of Driving Scenarios**, Jonah Philion et.al., Paper: [http://arxiv.org/abs/2312.04535v1](http://arxiv.org/abs/2312.04535v1)
 - 2023-12-07, **Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**, Ivan Kapelyukh et.al., Paper: [http://arxiv.org/abs/2312.04533v1](http://arxiv.org/abs/2312.04533v1)
-- 2023-12-07, **Bootstrapping Autonomous Radars with Self-Supervised Learning**, Yiduo Hao et.al., Paper: [http://arxiv.org/abs/2312.04519v1](http://arxiv.org/abs/2312.04519v1)
+- 2023-12-09, **Bootstrapping Autonomous Radars with Self-Supervised Learning**, Yiduo Hao et.al., Paper: [http://arxiv.org/abs/2312.04519v2](http://arxiv.org/abs/2312.04519v2)
 - 2023-12-07, **Entanglement generation via single-qubit rotations in a teared Hilbert space**, Tao Zhang et.al., Paper: [http://arxiv.org/abs/2312.04507v1](http://arxiv.org/abs/2312.04507v1)
 - 2023-12-07, **AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**, Shusen Liu et.al., Paper: [http://arxiv.org/abs/2312.04494v1](http://arxiv.org/abs/2312.04494v1)
 - 2023-12-07, **FRNet: Frustum-Range Networks for Scalable LiDAR Segmentation**, Xiang Xu et.al., Paper: [http://arxiv.org/abs/2312.04484v1](http://arxiv.org/abs/2312.04484v1), Code: **[https://github.com/Xiangxu-0103/FRNet](https://github.com/Xiangxu-0103/FRNet)**
