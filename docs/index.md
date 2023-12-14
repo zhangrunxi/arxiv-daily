@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix**|Kewei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.08009v1-b31b1b.svg)](http://arxiv.org/abs/2312.08009v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwwcv/ssmp)**|
+|**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.08004v1-b31b1b.svg)](http://arxiv.org/abs/2312.08004v1)|null|
+|**2023-12-13**|**DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**|Xiaoyu Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07920v1-b31b1b.svg)](http://arxiv.org/abs/2312.07920v1)|null|
+|**2023-12-13**|**Integrated Path Tracking with DYC and MPC using LSTM Based Tire Force Estimator for Four-wheel Independent Steering and Driving Vehicle**|Sungjin Lim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07826v1-b31b1b.svg)](http://arxiv.org/abs/2312.07826v1)|null|
+|**2023-12-11**|**Spatiotemporal Event Graphs for Dynamic Scene Understanding**|Salman Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07621v1-b31b1b.svg)](http://arxiv.org/abs/2312.07621v1)|null|
 |**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07488v1-b31b1b.svg)](http://arxiv.org/abs/2312.07488v1)|null|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07424v2-b31b1b.svg)](http://arxiv.org/abs/2312.07424v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**Autonomous driving of trucks in off-road environment**|Kenny A. Q. Caldas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.07382v1-b31b1b.svg)](http://arxiv.org/abs/2312.07382v1)|null|
