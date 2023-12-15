@@ -2,12 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-14, **DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**, Wenhai Wang et.al., Paper: [http://arxiv.org/abs/2312.09245v1](http://arxiv.org/abs/2312.09245v1), Code: **[https://github.com/opengvlab/drivemlm](https://github.com/opengvlab/drivemlm)**
+- 2023-12-14, **OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**, Chubin Zhang et.al., Paper: [http://arxiv.org/abs/2312.09243v1](http://arxiv.org/abs/2312.09243v1), Code: **[https://github.com/linshan-bin/occnerf](https://github.com/linshan-bin/occnerf)**
+- 2023-12-14, **Learning Safety Constraints From Demonstration Using One-Class Decision Trees**, Mattijs Baert et.al., Paper: [http://arxiv.org/abs/2312.08837v1](http://arxiv.org/abs/2312.08837v1)
+- 2023-12-14, **Motion Planning and Control of Hybrid Flying-Crawling Quadrotors**, Dongnan Hu et.al., Paper: [http://arxiv.org/abs/2312.08718v1](http://arxiv.org/abs/2312.08718v1)
 - 2023-12-14, **Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2312.08009v2](http://arxiv.org/abs/2312.08009v2), Code: **[https://github.com/kwwcv/ssmp](https://github.com/kwwcv/ssmp)**
 - 2023-12-13, **Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**, Yang Jiao et.al., Paper: [http://arxiv.org/abs/2312.08004v1](http://arxiv.org/abs/2312.08004v1)
 - 2023-12-13, **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**, Xiaoyu Zhou et.al., Paper: [http://arxiv.org/abs/2312.07920v1](http://arxiv.org/abs/2312.07920v1)
 - 2023-12-13, **Integrated Path Tracking with DYC and MPC using LSTM Based Tire Force Estimator for Four-wheel Independent Steering and Driving Vehicle**, Sungjin Lim et.al., Paper: [http://arxiv.org/abs/2312.07826v1](http://arxiv.org/abs/2312.07826v1)
 - 2023-12-11, **Spatiotemporal Event Graphs for Dynamic Scene Understanding**, Salman Khan et.al., Paper: [http://arxiv.org/abs/2312.07621v1](http://arxiv.org/abs/2312.07621v1)
-- 2023-12-12, **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, Hao Shao et.al., Paper: [http://arxiv.org/abs/2312.07488v1](http://arxiv.org/abs/2312.07488v1)
+- 2023-12-12, **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, Hao Shao et.al., Paper: [http://arxiv.org/abs/2312.07488v1](http://arxiv.org/abs/2312.07488v1), Code: **[https://github.com/opendilab/lmdrive](https://github.com/opendilab/lmdrive)**
 - 2023-12-13, **How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**, Zhongyi Han et.al., Paper: [http://arxiv.org/abs/2312.07424v2](http://arxiv.org/abs/2312.07424v2), Code: **[https://github.com/jameszhou-gl/gpt-4v-distribution-shift](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**
 - 2023-12-12, **Autonomous driving of trucks in off-road environment**, Kenny A. Q. Caldas et.al., Paper: [http://arxiv.org/abs/2312.07382v1](http://arxiv.org/abs/2312.07382v1)
 - 2023-12-14, **MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**, Guangfeng Jiang et.al., Paper: [http://arxiv.org/abs/2312.06988v3](http://arxiv.org/abs/2312.06988v3), Code: **[https://github.com/jiangxb98/mwsis-plugin](https://github.com/jiangxb98/mwsis-plugin)**
