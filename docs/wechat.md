@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2023-12-13, **Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2312.08009v1](http://arxiv.org/abs/2312.08009v1), Code: **[https://github.com/kwwcv/ssmp](https://github.com/kwwcv/ssmp)**
+- 2023-12-14, **Semi-Supervised Class-Agnostic Motion Prediction with Pseudo Label Regeneration and BEVMix**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2312.08009v2](http://arxiv.org/abs/2312.08009v2), Code: **[https://github.com/kwwcv/ssmp](https://github.com/kwwcv/ssmp)**
 - 2023-12-13, **Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**, Yang Jiao et.al., Paper: [http://arxiv.org/abs/2312.08004v1](http://arxiv.org/abs/2312.08004v1)
 - 2023-12-13, **DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**, Xiaoyu Zhou et.al., Paper: [http://arxiv.org/abs/2312.07920v1](http://arxiv.org/abs/2312.07920v1)
 - 2023-12-13, **Integrated Path Tracking with DYC and MPC using LSTM Based Tire Force Estimator for Four-wheel Independent Steering and Driving Vehicle**, Sungjin Lim et.al., Paper: [http://arxiv.org/abs/2312.07826v1](http://arxiv.org/abs/2312.07826v1)
@@ -10,7 +10,7 @@
 - 2023-12-12, **LMDrive: Closed-Loop End-to-End Driving with Large Language Models**, Hao Shao et.al., Paper: [http://arxiv.org/abs/2312.07488v1](http://arxiv.org/abs/2312.07488v1)
 - 2023-12-13, **How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**, Zhongyi Han et.al., Paper: [http://arxiv.org/abs/2312.07424v2](http://arxiv.org/abs/2312.07424v2), Code: **[https://github.com/jameszhou-gl/gpt-4v-distribution-shift](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**
 - 2023-12-12, **Autonomous driving of trucks in off-road environment**, Kenny A. Q. Caldas et.al., Paper: [http://arxiv.org/abs/2312.07382v1](http://arxiv.org/abs/2312.07382v1)
-- 2023-12-13, **MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**, Guangfeng Jiang et.al., Paper: [http://arxiv.org/abs/2312.06988v2](http://arxiv.org/abs/2312.06988v2), Code: **[https://github.com/jiangxb98/mwsis-plugin](https://github.com/jiangxb98/mwsis-plugin)**
+- 2023-12-14, **MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving**, Guangfeng Jiang et.al., Paper: [http://arxiv.org/abs/2312.06988v3](http://arxiv.org/abs/2312.06988v3), Code: **[https://github.com/jiangxb98/mwsis-plugin](https://github.com/jiangxb98/mwsis-plugin)**
 - 2023-12-11, **Scalable Decentralized Cooperative Platoon using Multi-Agent Deep Reinforcement Learning**, Ahmed Abdelrahman et.al., Paper: [http://arxiv.org/abs/2312.06858v1](http://arxiv.org/abs/2312.06858v1)
 - 2023-12-11, **Partial End-to-end Reinforcement Learning for Robustness Against Modelling Error in Autonomous Racing**, Andrew Murdoch et.al., Paper: [http://arxiv.org/abs/2312.06406v1](http://arxiv.org/abs/2312.06406v1)
 - 2023-12-11, **BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2312.06371v1](http://arxiv.org/abs/2312.06371v1), Code: **[https://github.com/petrichor625/batraj-behavior-aware-model](https://github.com/petrichor625/batraj-behavior-aware-model)**
