@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Neurosymbolic Value-Inspired AI (Why, What, and How)**|Amit Sheth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09928v1-b31b1b.svg)](http://arxiv.org/abs/2312.09928v1)|null|
+|**2023-12-15**|**NeuroFlow: Development of lightweight and efficient model integration scheduling strategy for autonomous driving system**|Eunbin Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09588v1-b31b1b.svg)](http://arxiv.org/abs/2312.09588v1)|null|
+|**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09554v1-b31b1b.svg)](http://arxiv.org/abs/2312.09554v1)|null|
+|**2023-12-15**|**DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos**|Arjun Balasingam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09523v1-b31b1b.svg)](http://arxiv.org/abs/2312.09523v1)|null|
+|**2023-12-15**|**SlowTrack: Increasing the Latency of Camera-based Perception in Autonomous Driving Using Adversarial Examples**|Chen Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09520v1-b31b1b.svg)](http://arxiv.org/abs/2312.09520v1)|null|
+|**2023-12-15**|**EDA: Evolving and Distinct Anchors for Multimodal Motion Prediction**|Longzhong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09501v1-b31b1b.svg)](http://arxiv.org/abs/2312.09501v1)|null|
+|**2023-12-14**|**Large Language Models for Autonomous Driving: Real-World Experiments**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09397v1-b31b1b.svg)](http://arxiv.org/abs/2312.09397v1)|null|
 |**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09245v1-b31b1b.svg)](http://arxiv.org/abs/2312.09245v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opengvlab/drivemlm)**|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09243v1-b31b1b.svg)](http://arxiv.org/abs/2312.09243v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-14**|**Learning Safety Constraints From Demonstration Using One-Class Decision Trees**|Mattijs Baert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.08837v1-b31b1b.svg)](http://arxiv.org/abs/2312.08837v1)|null|
