@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Physics-informed Representation and Learning: Control and Risk Quantification**|Zhuoyuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.10594v1-b31b1b.svg)](http://arxiv.org/abs/2312.10594v1)|null|
+|**2023-12-16**|**Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**|Rohan Banerjee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.10557v1-b31b1b.svg)](http://arxiv.org/abs/2312.10557v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prishita123/curriculum_rl_for_driving)**|
+|**2023-12-16**|**Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Ming Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.10418v1-b31b1b.svg)](http://arxiv.org/abs/2312.10418v1)|null|
+|**2023-12-15**|**Constrained Meta-Reinforcement Learning for Adaptable Safety Guarantee with Differentiable Convex Programming**|Minjae Cho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.10230v1-b31b1b.svg)](http://arxiv.org/abs/2312.10230v1)|null|
+|**2023-12-15**|**Communication-Efficient Soft Actor-Critic Policy Collaboration via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.10123v1-b31b1b.svg)](http://arxiv.org/abs/2312.10123v1)|null|
 |**2023-12-15**|**Neurosymbolic Value-Inspired AI (Why, What, and How)**|Amit Sheth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09928v1-b31b1b.svg)](http://arxiv.org/abs/2312.09928v1)|null|
 |**2023-12-15**|**NeuroFlow: Development of lightweight and efficient model integration scheduling strategy for autonomous driving system**|Eunbin Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09588v1-b31b1b.svg)](http://arxiv.org/abs/2312.09588v1)|null|
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.09554v1-b31b1b.svg)](http://arxiv.org/abs/2312.09554v1)|null|
