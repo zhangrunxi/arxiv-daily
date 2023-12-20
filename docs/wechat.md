@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2023-12-19, **Tracking Any Object Amodally**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2312.12433v1](http://arxiv.org/abs/2312.12433v1)
+- 2023-12-19, **First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**, Stefan Schoder et.al., Paper: [http://arxiv.org/abs/2312.12314v1](http://arxiv.org/abs/2312.12314v1)
+- 2023-12-19, **M-BEV: Masked BEV Perception for Robust Autonomous Driving**, Siran Chen et.al., Paper: [http://arxiv.org/abs/2312.12144v1](http://arxiv.org/abs/2312.12144v1), Code: **[https://github.com/sranc3/m-bev](https://github.com/sranc3/m-bev)**
+- 2023-12-19, **Parameterized Decision-making with Multi-modal Perception for Autonomous Driving**, Yuyang Xia et.al., Paper: [http://arxiv.org/abs/2312.11935v1](http://arxiv.org/abs/2312.11935v1)
+- 2023-12-19, **Enhancing Social Decision-Making of Autonomous Vehicles: A Mixed-Strategy Game Approach With Interaction Orientation Identification**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2312.11843v1](http://arxiv.org/abs/2312.11843v1)
+- 2023-12-19, **Regulating Intermediate 3D Features for Vision-Centric Autonomous Driving**, Junkai Xu et.al., Paper: [http://arxiv.org/abs/2312.11837v1](http://arxiv.org/abs/2312.11837v1), Code: **[https://github.com/cskkxjk/vampire](https://github.com/cskkxjk/vampire)**
+- 2023-12-18, **Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects**, Min Hua et.al., Paper: [http://arxiv.org/abs/2312.11084v1](http://arxiv.org/abs/2312.11084v1)
+- 2023-12-18, **Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**, Shihao Feng et.al., Paper: [http://arxiv.org/abs/2312.11051v1](http://arxiv.org/abs/2312.11051v1)
+- 2023-12-18, **Multi-Moving Camera Pedestrian Tracking with a New Dataset and Global Link Model**, Yanting Zhang et.al., Paper: [http://arxiv.org/abs/2312.11035v1](http://arxiv.org/abs/2312.11035v1)
+- 2023-12-18, **Behaviour Description Database for AVs in Singapore**, Ana Isabel Garcia Guerra et.al., Paper: [http://arxiv.org/abs/2312.10941v1](http://arxiv.org/abs/2312.10941v1)
 - 2023-12-17, **Physics-informed Representation and Learning: Control and Risk Quantification**, Zhuoyuan Wang et.al., Paper: [http://arxiv.org/abs/2312.10594v1](http://arxiv.org/abs/2312.10594v1)
 - 2023-12-16, **Improving Environment Robustness of Deep Reinforcement Learning Approaches for Autonomous Racing Using Bayesian Optimization-based Curriculum Learning**, Rohan Banerjee et.al., Paper: [http://arxiv.org/abs/2312.10557v1](http://arxiv.org/abs/2312.10557v1), Code: **[https://github.com/prishita123/curriculum_rl_for_driving](https://github.com/prishita123/curriculum_rl_for_driving)**
 - 2023-12-16, **Fractional Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**, Ming Tang et.al., Paper: [http://arxiv.org/abs/2312.10418v1](http://arxiv.org/abs/2312.10418v1)
