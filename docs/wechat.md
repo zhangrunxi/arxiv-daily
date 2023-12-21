@@ -2,7 +2,13 @@
 
 ## Autonomous_Driving
 
-- 2023-12-19, **Tracking Any Object Amodally**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2312.12433v1](http://arxiv.org/abs/2312.12433v1)
+- 2023-12-20, **AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2312.13156v1](http://arxiv.org/abs/2312.13156v1)
+- 2023-12-20, **Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach**, Sushil Sharma et.al., Paper: [http://arxiv.org/abs/2312.13104v1](http://arxiv.org/abs/2312.13104v1)
+- 2023-12-20, **PPEA-Depth: Progressive Parameter-Efficient Adaptation for Self-Supervised Monocular Depth Estimation**, Yue-Jiang Dong et.al., Paper: [http://arxiv.org/abs/2312.13066v1](http://arxiv.org/abs/2312.13066v1)
+- 2023-12-20, **TADAP: Trajectory-Aided Drivable area Auto-labeling with Pre-trained self-supervised features in winter driving conditions**, Eerik Alamikkotervo et.al., Paper: [http://arxiv.org/abs/2312.12954v1](http://arxiv.org/abs/2312.12954v1)
+- 2023-12-20, **PointeNet: A Lightweight Framework for Effective and Efficient Point Cloud Analysis**, Lipeng Gu et.al., Paper: [http://arxiv.org/abs/2312.12743v1](http://arxiv.org/abs/2312.12743v1)
+- 2023-12-19, **Studying the Practices of Testing Machine Learning Software in the Wild**, Moses Openja et.al., Paper: [http://arxiv.org/abs/2312.12604v1](http://arxiv.org/abs/2312.12604v1), Code: **[https://github.com/swatlab-git/tosem-2021-replication](https://github.com/swatlab-git/tosem-2021-replication)**
+- 2023-12-19, **Tracking Any Object Amodally**, Cheng-Yen Hsieh et.al., Paper: [http://arxiv.org/abs/2312.12433v1](http://arxiv.org/abs/2312.12433v1), Code: **[https://github.com/WesleyHsieh0806/TAO-Amodal](https://github.com/WesleyHsieh0806/TAO-Amodal)**
 - 2023-12-19, **First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**, Stefan Schoder et.al., Paper: [http://arxiv.org/abs/2312.12314v1](http://arxiv.org/abs/2312.12314v1)
 - 2023-12-19, **M-BEV: Masked BEV Perception for Robust Autonomous Driving**, Siran Chen et.al., Paper: [http://arxiv.org/abs/2312.12144v1](http://arxiv.org/abs/2312.12144v1), Code: **[https://github.com/sranc3/m-bev](https://github.com/sranc3/m-bev)**
 - 2023-12-19, **Parameterized Decision-making with Multi-modal Perception for Autonomous Driving**, Yuyang Xia et.al., Paper: [http://arxiv.org/abs/2312.11935v1](http://arxiv.org/abs/2312.11935v1)
