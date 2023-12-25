@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14919v1-b31b1b.svg)](http://arxiv.org/abs/2312.14919v1)|null|
+|**2023-12-22**|**Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps**|Till Beemelmanns et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14606v1-b31b1b.svg)](http://arxiv.org/abs/2312.14606v1)|null|
+|**2023-12-22**|**MonoLSS: Learnable Sample Selection For Monocular 3D Detection**|Zhenjia Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14474v1-b31b1b.svg)](http://arxiv.org/abs/2312.14474v1)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14150v1-b31b1b.svg)](http://arxiv.org/abs/2312.14150v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
 |**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14115v1-b31b1b.svg)](http://arxiv.org/abs/2312.14115v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wayveai/lingoqa)**|
 |**2023-12-20**|**Building Lane-Level Maps from Aerial Images**|Jiawei Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.13449v1-b31b1b.svg)](http://arxiv.org/abs/2312.13449v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiawei-yao0812/aeriallanenet)**|

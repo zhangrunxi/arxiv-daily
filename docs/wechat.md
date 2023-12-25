@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2023-12-22, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v1](http://arxiv.org/abs/2312.14919v1)
+- 2023-12-22, **Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps**, Till Beemelmanns et.al., Paper: [http://arxiv.org/abs/2312.14606v1](http://arxiv.org/abs/2312.14606v1)
+- 2023-12-22, **MonoLSS: Learnable Sample Selection For Monocular 3D Detection**, Zhenjia Li et.al., Paper: [http://arxiv.org/abs/2312.14474v1](http://arxiv.org/abs/2312.14474v1)
 - 2023-12-21, **DriveLM: Driving with Graph Visual Question Answering**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2312.14150v1](http://arxiv.org/abs/2312.14150v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**
 - 2023-12-21, **LingoQA: Video Question Answering for Autonomous Driving**, Ana-Maria Marcu et.al., Paper: [http://arxiv.org/abs/2312.14115v1](http://arxiv.org/abs/2312.14115v1), Code: **[https://github.com/wayveai/lingoqa](https://github.com/wayveai/lingoqa)**
 - 2023-12-20, **Building Lane-Level Maps from Aerial Images**, Jiawei Yao et.al., Paper: [http://arxiv.org/abs/2312.13449v1](http://arxiv.org/abs/2312.13449v1), Code: **[https://github.com/jiawei-yao0812/aeriallanenet](https://github.com/jiawei-yao0812/aeriallanenet)**
