@@ -2,7 +2,14 @@
 
 ## Autonomous_Driving
 
-- 2023-12-22, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v1](http://arxiv.org/abs/2312.14919v1)
+- 2023-12-26, **LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**, Tianyu Li et.al., Paper: [http://arxiv.org/abs/2312.16108v1](http://arxiv.org/abs/2312.16108v1), Code: **[https://github.com/OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet)**
+- 2023-12-26, **V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**, Sanghun Jung et.al., Paper: [http://arxiv.org/abs/2312.16016v1](http://arxiv.org/abs/2312.16016v1)
+- 2023-12-26, **Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**, Yuqi Zheng et.al., Paper: [http://arxiv.org/abs/2312.15993v1](http://arxiv.org/abs/2312.15993v1)
+- 2023-12-26, **Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**, Yao Liu et.al., Paper: [http://arxiv.org/abs/2312.15881v1](http://arxiv.org/abs/2312.15881v1)
+- 2023-12-25, **A Survey on Open-Set Image Recognition**, Jiayin Sun et.al., Paper: [http://arxiv.org/abs/2312.15571v1](http://arxiv.org/abs/2312.15571v1)
+- 2023-12-23, **Pre-trained Trojan Attacks for Visual Recognition**, Aishan Liu et.al., Paper: [http://arxiv.org/abs/2312.15172v1](http://arxiv.org/abs/2312.15172v1)
+- 2023-12-23, **Scaling Is All You Need: Training Strong Policies for Autonomous Driving with JAX-Accelerated Reinforcement Learning**, Moritz Harmel et.al., Paper: [http://arxiv.org/abs/2312.15122v1](http://arxiv.org/abs/2312.15122v1)
+- 2023-12-26, **Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**, James Gunn et.al., Paper: [http://arxiv.org/abs/2312.14919v2](http://arxiv.org/abs/2312.14919v2)
 - 2023-12-22, **Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps**, Till Beemelmanns et.al., Paper: [http://arxiv.org/abs/2312.14606v1](http://arxiv.org/abs/2312.14606v1)
 - 2023-12-22, **MonoLSS: Learnable Sample Selection For Monocular 3D Detection**, Zhenjia Li et.al., Paper: [http://arxiv.org/abs/2312.14474v1](http://arxiv.org/abs/2312.14474v1)
 - 2023-12-21, **DriveLM: Driving with Graph Visual Question Answering**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2312.14150v1](http://arxiv.org/abs/2312.14150v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**

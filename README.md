@@ -4,7 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-22**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14919v1-b31b1b.svg)](http://arxiv.org/abs/2312.14919v1)|null|
+|**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16108v1-b31b1b.svg)](http://arxiv.org/abs/2312.16108v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/LaneSegNet)**|
+|**2023-12-26**|**V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**|Sanghun Jung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16016v1-b31b1b.svg)](http://arxiv.org/abs/2312.16016v1)|null|
+|**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15993v1-b31b1b.svg)](http://arxiv.org/abs/2312.15993v1)|null|
+|**2023-12-26**|**Attention-aware Social Graph Transformer Networks for Stochastic Trajectory Prediction**|Yao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15881v1-b31b1b.svg)](http://arxiv.org/abs/2312.15881v1)|null|
+|**2023-12-25**|**A Survey on Open-Set Image Recognition**|Jiayin Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15571v1-b31b1b.svg)](http://arxiv.org/abs/2312.15571v1)|null|
+|**2023-12-23**|**Pre-trained Trojan Attacks for Visual Recognition**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15172v1-b31b1b.svg)](http://arxiv.org/abs/2312.15172v1)|null|
+|**2023-12-23**|**Scaling Is All You Need: Training Strong Policies for Autonomous Driving with JAX-Accelerated Reinforcement Learning**|Moritz Harmel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15122v1-b31b1b.svg)](http://arxiv.org/abs/2312.15122v1)|null|
+|**2023-12-26**|**Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers**|James Gunn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14919v2-b31b1b.svg)](http://arxiv.org/abs/2312.14919v2)|null|
 |**2023-12-22**|**Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps**|Till Beemelmanns et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14606v1-b31b1b.svg)](http://arxiv.org/abs/2312.14606v1)|null|
 |**2023-12-22**|**MonoLSS: Learnable Sample Selection For Monocular 3D Detection**|Zhenjia Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14474v1-b31b1b.svg)](http://arxiv.org/abs/2312.14474v1)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.14150v1-b31b1b.svg)](http://arxiv.org/abs/2312.14150v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
