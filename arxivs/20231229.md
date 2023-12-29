@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.17163v1-b31b1b.svg)](http://arxiv.org/abs/2312.17163v1)|null|
+|**2023-12-28**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.17118v1-b31b1b.svg)](http://arxiv.org/abs/2312.17118v1)|null|
+|**2023-12-28**|**DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**|Wenyi Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16907v1-b31b1b.svg)](http://arxiv.org/abs/2312.16907v1)|null|
+|**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16648v1-b31b1b.svg)](http://arxiv.org/abs/2312.16648v1)|null|
+|**2023-12-27**|**Autonomous Docking Method via Non-linear Model Predictive Control**|Roni Permana Saputra et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16629v1-b31b1b.svg)](http://arxiv.org/abs/2312.16629v1)|null|
+|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16620v1-b31b1b.svg)](http://arxiv.org/abs/2312.16620v1)|null|
+|**2023-12-27**|**Exploring intra-task relations to improve meta-learning algorithms**|Prabhat Agarwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16612v1-b31b1b.svg)](http://arxiv.org/abs/2312.16612v1)|null|
 |**2023-12-26**|**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**|Tianyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16108v1-b31b1b.svg)](http://arxiv.org/abs/2312.16108v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenDriveLab/LaneSegNet)**|
 |**2023-12-26**|**V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**|Sanghun Jung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.16016v1-b31b1b.svg)](http://arxiv.org/abs/2312.16016v1)|null|
 |**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2312.15993v1-b31b1b.svg)](http://arxiv.org/abs/2312.15993v1)|null|

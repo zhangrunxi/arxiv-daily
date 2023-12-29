@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2023-12-28, **FENet: Focusing Enhanced Network for Lane Detection**, Liman Wang et.al., Paper: [http://arxiv.org/abs/2312.17163v1](http://arxiv.org/abs/2312.17163v1)
+- 2023-12-28, **Fully Sparse 3D Panoptic Occupancy Prediction**, Haisong Liu et.al., Paper: [http://arxiv.org/abs/2312.17118v1](http://arxiv.org/abs/2312.17118v1)
+- 2023-12-28, **DOEPatch: Dynamically Optimized Ensemble Model for Adversarial Patches Generation**, Wenyi Tan et.al., Paper: [http://arxiv.org/abs/2312.16907v1](http://arxiv.org/abs/2312.16907v1)
+- 2023-12-27, **LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**, Sai Shubodh Puligilla et.al., Paper: [http://arxiv.org/abs/2312.16648v1](http://arxiv.org/abs/2312.16648v1)
+- 2023-12-27, **Autonomous Docking Method via Non-linear Model Predictive Control**, Roni Permana Saputra et.al., Paper: [http://arxiv.org/abs/2312.16629v1](http://arxiv.org/abs/2312.16629v1)
+- 2023-12-27, **Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**, Amin Jalal Aghdasian et.al., Paper: [http://arxiv.org/abs/2312.16620v1](http://arxiv.org/abs/2312.16620v1)
+- 2023-12-27, **Exploring intra-task relations to improve meta-learning algorithms**, Prabhat Agarwal et.al., Paper: [http://arxiv.org/abs/2312.16612v1](http://arxiv.org/abs/2312.16612v1)
 - 2023-12-26, **LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**, Tianyu Li et.al., Paper: [http://arxiv.org/abs/2312.16108v1](http://arxiv.org/abs/2312.16108v1), Code: **[https://github.com/OpenDriveLab/LaneSegNet](https://github.com/OpenDriveLab/LaneSegNet)**
 - 2023-12-26, **V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation**, Sanghun Jung et.al., Paper: [http://arxiv.org/abs/2312.16016v1](http://arxiv.org/abs/2312.16016v1)
 - 2023-12-26, **Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**, Yuqi Zheng et.al., Paper: [http://arxiv.org/abs/2312.15993v1](http://arxiv.org/abs/2312.15993v1)
