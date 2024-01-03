@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-01-02, **Temporal Adaptive RGBT Tracking with Modality Prompt**, Hongyu Wang et.al., Paper: [http://arxiv.org/abs/2401.01244v1](http://arxiv.org/abs/2401.01244v1)
+- 2024-01-02, **PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**, Jiaming He et.al., Paper: [http://arxiv.org/abs/2401.01081v1](http://arxiv.org/abs/2401.01081v1)
+- 2024-01-02, **BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**, Dafeng Wei et.al., Paper: [http://arxiv.org/abs/2401.01065v1](http://arxiv.org/abs/2401.01065v1)
+- 2024-01-02, **Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models**, Xinpeng Ding et.al., Paper: [http://arxiv.org/abs/2401.00988v1](http://arxiv.org/abs/2401.00988v1), Code: **[https://github.com/xmed-lab/nuinstruct](https://github.com/xmed-lab/nuinstruct)**
+- 2023-12-31, **WoodScape Motion Segmentation for Autonomous Driving -- CVPR 2023 OmniCV Workshop Challenge**, Saravanabalagi Ramachandran et.al., Paper: [http://arxiv.org/abs/2401.00910v1](http://arxiv.org/abs/2401.00910v1)
+- 2024-01-01, **Socially Compliant Control of Autonomous Vehicles with Application to Eco-Driving**, Shian Wang et.al., Paper: [http://arxiv.org/abs/2401.00830v1](http://arxiv.org/abs/2401.00830v1)
+- 2023-12-31, **RainSD: Rain Style Diversification Module for Image Synthesis Enhancement using Feature-Level Style Distribution**, Hyeonjae Jeon et.al., Paper: [http://arxiv.org/abs/2401.00460v1](http://arxiv.org/abs/2401.00460v1)
+- 2023-12-31, **Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**, Wei-Jer Chang et.al., Paper: [http://arxiv.org/abs/2401.00391v1](http://arxiv.org/abs/2401.00391v1)
+- 2023-12-30, **TPatch: A Triggered Physical Adversarial Patch**, Wenjun Zhu et.al., Paper: [http://arxiv.org/abs/2401.00148v1](http://arxiv.org/abs/2401.00148v1), Code: **[https://github.com/usslab/tpatch](https://github.com/usslab/tpatch)**
+- 2023-12-30, **LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning**, S P Sharan et.al., Paper: [http://arxiv.org/abs/2401.00125v1](http://arxiv.org/abs/2401.00125v1)
 - 2023-12-29, **Visual Point Cloud Forecasting enables Scalable Autonomous Driving**, Zetong Yang et.al., Paper: [http://arxiv.org/abs/2312.17655v1](http://arxiv.org/abs/2312.17655v1), Code: **[https://github.com/opendrivelab/vidar](https://github.com/opendrivelab/vidar)**
 - 2024-01-01, **FENet: Focusing Enhanced Network for Lane Detection**, Liman Wang et.al., Paper: [http://arxiv.org/abs/2312.17163v2](http://arxiv.org/abs/2312.17163v2)
 - 2023-12-29, **Fully Sparse 3D Panoptic Occupancy Prediction**, Haisong Liu et.al., Paper: [http://arxiv.org/abs/2312.17118v2](http://arxiv.org/abs/2312.17118v2)
