@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-01-03, **Maximal steady-state entanglement in autonomous quantum thermal machines**, Shishir Khandelwal et.al., Paper: [http://arxiv.org/abs/2401.01776v1](http://arxiv.org/abs/2401.01776v1)
+- 2024-01-03, **Fuzzy Logic Controller Design for Mobile Robot Outdoor Navigation**, A. Wondosen et.al., Paper: [http://arxiv.org/abs/2401.01756v1](http://arxiv.org/abs/2401.01756v1), Code: **[https://github.com/WondesenB/FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)**
+- 2024-01-03, **Context-Aware Interaction Network for RGB-T Semantic Segmentation**, Ying Lv et.al., Paper: [http://arxiv.org/abs/2401.01624v1](http://arxiv.org/abs/2401.01624v1), Code: **[https://github.com/yinglv1106/cainet](https://github.com/yinglv1106/cainet)**
+- 2024-01-03, **Collaborative Perception for Connected and Autonomous Driving: Challenges, Possible Solutions and Opportunities**, Senkang Hu et.al., Paper: [http://arxiv.org/abs/2401.01544v1](http://arxiv.org/abs/2401.01544v1)
+- 2024-01-02, **A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook**, Mingyu Liu et.al., Paper: [http://arxiv.org/abs/2401.01454v1](http://arxiv.org/abs/2401.01454v1)
+- 2024-01-02, **Off-Road LiDAR Intensity Based Semantic Segmentation**, Kasi Viswanath et.al., Paper: [http://arxiv.org/abs/2401.01439v1](http://arxiv.org/abs/2401.01439v1), Code: **[https://github.com/moonlabiiserb/lidar-intensity-predictor](https://github.com/moonlabiiserb/lidar-intensity-predictor)**
 - 2024-01-02, **Temporal Adaptive RGBT Tracking with Modality Prompt**, Hongyu Wang et.al., Paper: [http://arxiv.org/abs/2401.01244v1](http://arxiv.org/abs/2401.01244v1)
 - 2024-01-02, **PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**, Jiaming He et.al., Paper: [http://arxiv.org/abs/2401.01081v1](http://arxiv.org/abs/2401.01081v1)
 - 2024-01-02, **BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**, Dafeng Wei et.al., Paper: [http://arxiv.org/abs/2401.01065v1](http://arxiv.org/abs/2401.01065v1)
