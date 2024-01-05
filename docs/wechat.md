@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-01-04, **How Do Pedestrians' Perception Change toward Autonomous Vehicles during Unmarked Midblock Multilane Crossings: Role of AV Operation and Signal Indication**, Fengjiao Zou et.al., Paper: [http://arxiv.org/abs/2401.02339v1](http://arxiv.org/abs/2401.02339v1)
+- 2024-01-04, **REDriver: Runtime Enforcement for Autonomous Vehicles**, Yang Sun et.al., Paper: [http://arxiv.org/abs/2401.02253v1](http://arxiv.org/abs/2401.02253v1)
+- 2024-01-04, **LADRI: LeArning-based Dynamic Risk Indicator in Automated Driving System**, Anil Ranjitbhai Patel et.al., Paper: [http://arxiv.org/abs/2401.02199v1](http://arxiv.org/abs/2401.02199v1)
+- 2024-01-04, **Inherently robust suboptimal MPC for autonomous racing with anytime feasible SQP**, Logan Numerow et.al., Paper: [http://arxiv.org/abs/2401.02194v1](http://arxiv.org/abs/2401.02194v1)
 - 2024-01-03, **Maximal steady-state entanglement in autonomous quantum thermal machines**, Shishir Khandelwal et.al., Paper: [http://arxiv.org/abs/2401.01776v1](http://arxiv.org/abs/2401.01776v1)
 - 2024-01-03, **Fuzzy Logic Controller Design for Mobile Robot Outdoor Navigation**, A. Wondosen et.al., Paper: [http://arxiv.org/abs/2401.01756v1](http://arxiv.org/abs/2401.01756v1), Code: **[https://github.com/WondesenB/FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)**
 - 2024-01-03, **Context-Aware Interaction Network for RGB-T Semantic Segmentation**, Ying Lv et.al., Paper: [http://arxiv.org/abs/2401.01624v1](http://arxiv.org/abs/2401.01624v1), Code: **[https://github.com/yinglv1106/cainet](https://github.com/yinglv1106/cainet)**

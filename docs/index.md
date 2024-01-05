@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**How Do Pedestrians' Perception Change toward Autonomous Vehicles during Unmarked Midblock Multilane Crossings: Role of AV Operation and Signal Indication**|Fengjiao Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.02339v1-b31b1b.svg)](http://arxiv.org/abs/2401.02339v1)|null|
+|**2024-01-04**|**REDriver: Runtime Enforcement for Autonomous Vehicles**|Yang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.02253v1-b31b1b.svg)](http://arxiv.org/abs/2401.02253v1)|null|
+|**2024-01-04**|**LADRI: LeArning-based Dynamic Risk Indicator in Automated Driving System**|Anil Ranjitbhai Patel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.02199v1-b31b1b.svg)](http://arxiv.org/abs/2401.02199v1)|null|
+|**2024-01-04**|**Inherently robust suboptimal MPC for autonomous racing with anytime feasible SQP**|Logan Numerow et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.02194v1-b31b1b.svg)](http://arxiv.org/abs/2401.02194v1)|null|
 |**2024-01-03**|**Maximal steady-state entanglement in autonomous quantum thermal machines**|Shishir Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.01776v1-b31b1b.svg)](http://arxiv.org/abs/2401.01776v1)|null|
 |**2024-01-03**|**Fuzzy Logic Controller Design for Mobile Robot Outdoor Navigation**|A. Wondosen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.01756v1-b31b1b.svg)](http://arxiv.org/abs/2401.01756v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WondesenB/FuzzyMobileRobotGuidance)**|
 |**2024-01-03**|**Context-Aware Interaction Network for RGB-T Semantic Segmentation**|Ying Lv et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.01624v1-b31b1b.svg)](http://arxiv.org/abs/2401.01624v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yinglv1106/cainet)**|
