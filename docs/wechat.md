@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-01-05, **Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**, Yuxin Yang et.al., Paper: [http://arxiv.org/abs/2401.02916v1](http://arxiv.org/abs/2401.02916v1)
+- 2024-01-04, **OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**, Rahul Ahuja et.al., Paper: [http://arxiv.org/abs/2401.02550v1](http://arxiv.org/abs/2401.02550v1)
 - 2024-01-04, **How Do Pedestrians' Perception Change toward Autonomous Vehicles during Unmarked Midblock Multilane Crossings: Role of AV Operation and Signal Indication**, Fengjiao Zou et.al., Paper: [http://arxiv.org/abs/2401.02339v1](http://arxiv.org/abs/2401.02339v1)
 - 2024-01-04, **REDriver: Runtime Enforcement for Autonomous Vehicles**, Yang Sun et.al., Paper: [http://arxiv.org/abs/2401.02253v1](http://arxiv.org/abs/2401.02253v1)
 - 2024-01-04, **LADRI: LeArning-based Dynamic Risk Indicator in Automated Driving System**, Anil Ranjitbhai Patel et.al., Paper: [http://arxiv.org/abs/2401.02199v1](http://arxiv.org/abs/2401.02199v1)
