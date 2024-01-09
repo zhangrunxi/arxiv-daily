@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-01-08, **RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2401.03907v1](http://arxiv.org/abs/2401.03907v1)
+- 2024-01-08, **UFO: Unidentified Foreground Object Detection in 3D Point Cloud**, Hyunjun Choi et.al., Paper: [http://arxiv.org/abs/2401.03846v1](http://arxiv.org/abs/2401.03846v1)
+- 2024-01-08, **WidthFormer: Toward Efficient Transformer-based BEV View Transformation**, Chenhongyi Yang et.al., Paper: [http://arxiv.org/abs/2401.03836v1](http://arxiv.org/abs/2401.03836v1)
+- 2024-01-08, **Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**, Kai Ren et.al., Paper: [http://arxiv.org/abs/2401.03799v1](http://arxiv.org/abs/2401.03799v1)
+- 2024-01-08, **NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**, Casimir Feldmann et.al., Paper: [http://arxiv.org/abs/2401.03771v1](http://arxiv.org/abs/2401.03771v1)
+- 2024-01-08, **DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**, Wencheng Han et.al., Paper: [http://arxiv.org/abs/2401.03641v1](http://arxiv.org/abs/2401.03641v1)
+- 2024-01-08, **DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2401.03629v1](http://arxiv.org/abs/2401.03629v1)
+- 2024-01-07, **Text-Driven Traffic Anomaly Detection with Temporal High-Frequency Modeling in Driving Videos**, Rongqin Liang et.al., Paper: [http://arxiv.org/abs/2401.03522v1](http://arxiv.org/abs/2401.03522v1)
+- 2024-01-07, **Reconfigurable Holographic Surface Aided Wireless Simultaneous Localization and Mapping**, Haobo Zhang et.al., Paper: [http://arxiv.org/abs/2401.03453v1](http://arxiv.org/abs/2401.03453v1)
+- 2024-01-06, **Challenges of Data-Driven Simulation of Diverse and Consistent Human Driving Behaviors**, Kalle Kujanpää et.al., Paper: [http://arxiv.org/abs/2401.03236v1](http://arxiv.org/abs/2401.03236v1)
 - 2024-01-05, **Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**, Yuxin Yang et.al., Paper: [http://arxiv.org/abs/2401.02916v1](http://arxiv.org/abs/2401.02916v1)
 - 2024-01-04, **OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**, Rahul Ahuja et.al., Paper: [http://arxiv.org/abs/2401.02550v1](http://arxiv.org/abs/2401.02550v1)
 - 2024-01-04, **How Do Pedestrians' Perception Change toward Autonomous Vehicles during Unmarked Midblock Multilane Crossings: Role of AV Operation and Signal Indication**, Fengjiao Zou et.al., Paper: [http://arxiv.org/abs/2401.02339v1](http://arxiv.org/abs/2401.02339v1)
