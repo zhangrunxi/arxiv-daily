@@ -2,9 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-01-09, **Robust Imitation Learning for Automated Game Testing**, Pierluigi Vito Amadori et.al., Paper: [http://arxiv.org/abs/2401.04572v1](http://arxiv.org/abs/2401.04572v1)
+- 2024-01-08, **Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2401.04206v1](http://arxiv.org/abs/2401.04206v1)
 - 2024-01-08, **RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2401.03907v1](http://arxiv.org/abs/2401.03907v1)
 - 2024-01-08, **UFO: Unidentified Foreground Object Detection in 3D Point Cloud**, Hyunjun Choi et.al., Paper: [http://arxiv.org/abs/2401.03846v1](http://arxiv.org/abs/2401.03846v1)
-- 2024-01-08, **WidthFormer: Toward Efficient Transformer-based BEV View Transformation**, Chenhongyi Yang et.al., Paper: [http://arxiv.org/abs/2401.03836v1](http://arxiv.org/abs/2401.03836v1)
+- 2024-01-09, **WidthFormer: Toward Efficient Transformer-based BEV View Transformation**, Chenhongyi Yang et.al., Paper: [http://arxiv.org/abs/2401.03836v2](http://arxiv.org/abs/2401.03836v2)
 - 2024-01-08, **Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**, Kai Ren et.al., Paper: [http://arxiv.org/abs/2401.03799v1](http://arxiv.org/abs/2401.03799v1)
 - 2024-01-08, **NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**, Casimir Feldmann et.al., Paper: [http://arxiv.org/abs/2401.03771v1](http://arxiv.org/abs/2401.03771v1)
 - 2024-01-08, **DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**, Wencheng Han et.al., Paper: [http://arxiv.org/abs/2401.03641v1](http://arxiv.org/abs/2401.03641v1)

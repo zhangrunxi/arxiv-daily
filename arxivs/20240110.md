@@ -4,9 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Robust Imitation Learning for Automated Game Testing**|Pierluigi Vito Amadori et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04572v1-b31b1b.svg)](http://arxiv.org/abs/2401.04572v1)|null|
+|**2024-01-08**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04206v1-b31b1b.svg)](http://arxiv.org/abs/2401.04206v1)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03907v1-b31b1b.svg)](http://arxiv.org/abs/2401.03907v1)|null|
 |**2024-01-08**|**UFO: Unidentified Foreground Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03846v1-b31b1b.svg)](http://arxiv.org/abs/2401.03846v1)|null|
-|**2024-01-08**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03836v1-b31b1b.svg)](http://arxiv.org/abs/2401.03836v1)|null|
+|**2024-01-09**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03836v2-b31b1b.svg)](http://arxiv.org/abs/2401.03836v2)|null|
 |**2024-01-08**|**Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**|Kai Ren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03799v1-b31b1b.svg)](http://arxiv.org/abs/2401.03799v1)|null|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03771v1-b31b1b.svg)](http://arxiv.org/abs/2401.03771v1)|null|
 |**2024-01-08**|**DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving**|Wencheng Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03641v1-b31b1b.svg)](http://arxiv.org/abs/2401.03641v1)|null|
