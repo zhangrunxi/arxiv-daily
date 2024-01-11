@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**|Daniel Attard et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04980v1-b31b1b.svg)](http://arxiv.org/abs/2401.04980v1)|null|
+|**2024-01-10**|**Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**|Beiwen Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04942v1-b31b1b.svg)](http://arxiv.org/abs/2401.04942v1)|null|
 |**2024-01-09**|**Robust Imitation Learning for Automated Game Testing**|Pierluigi Vito Amadori et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04572v1-b31b1b.svg)](http://arxiv.org/abs/2401.04572v1)|null|
 |**2024-01-08**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04206v1-b31b1b.svg)](http://arxiv.org/abs/2401.04206v1)|null|
 |**2024-01-08**|**RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.03907v1-b31b1b.svg)](http://arxiv.org/abs/2401.03907v1)|null|
