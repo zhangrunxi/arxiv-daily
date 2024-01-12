@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving
 
+- 2024-01-10, **VLP: Vision Language Planning for Autonomous Driving**, Chenbin Pan et.al., Paper: [http://arxiv.org/abs/2401.05577v1](http://arxiv.org/abs/2401.05577v1)
 - 2024-01-10, **Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**, Daniel Attard et.al., Paper: [http://arxiv.org/abs/2401.04980v1](http://arxiv.org/abs/2401.04980v1)
 - 2024-01-10, **Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**, Beiwen Tian et.al., Paper: [http://arxiv.org/abs/2401.04942v1](http://arxiv.org/abs/2401.04942v1)
 - 2024-01-09, **Robust Imitation Learning for Automated Game Testing**, Pierluigi Vito Amadori et.al., Paper: [http://arxiv.org/abs/2401.04572v1](http://arxiv.org/abs/2401.04572v1)
