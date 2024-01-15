@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06757v1-b31b1b.svg)](http://arxiv.org/abs/2401.06757v1)|null|
+|**2024-01-12**|**Real-time MPC with Control Barrier Functions for Autonomous Driving using Safety Enhanced Collocation**|Jean Pierre Allamaa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06648v1-b31b1b.svg)](http://arxiv.org/abs/2401.06648v1)|null|
+|**2024-01-12**|**Enhancing Throughput for TTEthernet via Co-optimizing Routing and Scheduling: An Online Time-Varying Graph-based Method**|Yaoxu He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06579v1-b31b1b.svg)](http://arxiv.org/abs/2401.06579v1)|null|
+|**2024-01-12**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06542v1-b31b1b.svg)](http://arxiv.org/abs/2401.06542v1)|null|
+|**2024-01-12**|**Personalized Reinforcement Learning with a Budget of Policies**|Dmitry Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06514v1-b31b1b.svg)](http://arxiv.org/abs/2401.06514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimonenka/rl_policy_budget)**|
+|**2024-01-12**|**Multi-Profile Quadratic Programming (MPQP) for Optimal Gap Selection and Speed Planning of Autonomous Driving**|Alexandre Miranda Anon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06305v1-b31b1b.svg)](http://arxiv.org/abs/2401.06305v1)|null|
 |**2024-01-10**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.05577v1-b31b1b.svg)](http://arxiv.org/abs/2401.05577v1)|null|
 |**2024-01-10**|**Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**|Daniel Attard et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04980v1-b31b1b.svg)](http://arxiv.org/abs/2401.04980v1)|null|
 |**2024-01-10**|**Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**|Beiwen Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.04942v1-b31b1b.svg)](http://arxiv.org/abs/2401.04942v1)|null|
