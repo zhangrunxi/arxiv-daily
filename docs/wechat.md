@@ -8,7 +8,7 @@
 - 2024-01-12, **Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2401.06542v1](http://arxiv.org/abs/2401.06542v1)
 - 2024-01-12, **Personalized Reinforcement Learning with a Budget of Policies**, Dmitry Ivanov et.al., Paper: [http://arxiv.org/abs/2401.06514v1](http://arxiv.org/abs/2401.06514v1), Code: **[https://github.com/dimonenka/rl_policy_budget](https://github.com/dimonenka/rl_policy_budget)**
 - 2024-01-12, **Multi-Profile Quadratic Programming (MPQP) for Optimal Gap Selection and Speed Planning of Autonomous Driving**, Alexandre Miranda Anon et.al., Paper: [http://arxiv.org/abs/2401.06305v1](http://arxiv.org/abs/2401.06305v1)
-- 2024-01-10, **VLP: Vision Language Planning for Autonomous Driving**, Chenbin Pan et.al., Paper: [http://arxiv.org/abs/2401.05577v1](http://arxiv.org/abs/2401.05577v1)
+- 2024-01-14, **VLP: Vision Language Planning for Autonomous Driving**, Chenbin Pan et.al., Paper: [http://arxiv.org/abs/2401.05577v2](http://arxiv.org/abs/2401.05577v2)
 - 2024-01-10, **Autonomous Navigation of Tractor-Trailer Vehicles through Roundabout Intersections**, Daniel Attard et.al., Paper: [http://arxiv.org/abs/2401.04980v1](http://arxiv.org/abs/2401.04980v1)
 - 2024-01-10, **Latency-aware Road Anomaly Segmentation in Videos: A Photorealistic Dataset and New Metrics**, Beiwen Tian et.al., Paper: [http://arxiv.org/abs/2401.04942v1](http://arxiv.org/abs/2401.04942v1)
 - 2024-01-09, **Robust Imitation Learning for Automated Game Testing**, Pierluigi Vito Amadori et.al., Paper: [http://arxiv.org/abs/2401.04572v1](http://arxiv.org/abs/2401.04572v1)
