@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.08045v1-b31b1b.svg)](http://arxiv.org/abs/2401.08045v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhanghm1995/forge_vfm4ad)**|
+|**2024-01-15**|**Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**|Bahareh Ghari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07801v1-b31b1b.svg)](http://arxiv.org/abs/2401.07801v1)|null|
+|**2024-01-15**|**Robustness Evaluation of Localization Techniques for Autonomous Racing**|Tian Yi Lim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07658v1-b31b1b.svg)](http://arxiv.org/abs/2401.07658v1)|null|
+|**2024-01-15**|**Semantic Scene Segmentation for Robotics**|Juana Valeria Hurtado et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07589v1-b31b1b.svg)](http://arxiv.org/abs/2401.07589v1)|null|
+|**2024-01-15**|**Geo-locating Road Objects using Inverse Haversine Formula with NVIDIA Driveworks**|Mamoona Birkhez Shami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07582v1-b31b1b.svg)](http://arxiv.org/abs/2401.07582v1)|null|
+|**2024-01-14**|**RSUD20K: A Dataset for Road Scene Understanding In Autonomous Driving**|Hasib Zunair et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07322v1-b31b1b.svg)](http://arxiv.org/abs/2401.07322v1)|null|
+|**2024-01-14**|**Photonic real time video image signal processor at 17Tb/s based on a Kerr microcomb**|Mengxi Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07197v1-b31b1b.svg)](http://arxiv.org/abs/2401.07197v1)|null|
+|**2024-01-13**|**ACAV: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings**|Huijia Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.07063v1-b31b1b.svg)](http://arxiv.org/abs/2401.07063v1)|null|
+|**2024-01-13**|**UniVision: A Unified Framework for Vision-Centric 3D Perception**|Yu Hong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06994v1-b31b1b.svg)](http://arxiv.org/abs/2401.06994v1)|null|
+|**2024-01-12**|**Open RAN LSTM Traffic Prediction and Slice Management using Deep Reinforcement Learning**|Fatemeh Lotfi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06922v1-b31b1b.svg)](http://arxiv.org/abs/2401.06922v1)|null|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06757v1-b31b1b.svg)](http://arxiv.org/abs/2401.06757v1)|null|
 |**2024-01-12**|**Real-time MPC with Control Barrier Functions for Autonomous Driving using Safety Enhanced Collocation**|Jean Pierre Allamaa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06648v1-b31b1b.svg)](http://arxiv.org/abs/2401.06648v1)|null|
 |**2024-01-12**|**Enhancing Throughput for TTEthernet via Co-optimizing Routing and Scheduling: An Online Time-Varying Graph-based Method**|Yaoxu He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.06579v1-b31b1b.svg)](http://arxiv.org/abs/2401.06579v1)|null|
