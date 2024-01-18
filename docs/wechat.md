@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-01-17, **Stream Query Denoising for Vectorized HD Map Construction**, Shuo Wang et.al., Paper: [http://arxiv.org/abs/2401.09112v1](http://arxiv.org/abs/2401.09112v1)
+- 2024-01-17, **Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2401.09032v1](http://arxiv.org/abs/2401.09032v1)
+- 2024-01-17, **Enhancing Campus Mobility: Achievements and Challenges of Autonomous Shuttle "Snow Lion''**, Yingbing Chen et.al., Paper: [http://arxiv.org/abs/2401.08939v1](http://arxiv.org/abs/2401.08939v1)
+- 2024-01-16, **Safe Mission-Level Path Planning for Exploration of Lunar Shadowed Regions by a Solar-Powered Rover**, Olivier Lamarre et.al., Paper: [http://arxiv.org/abs/2401.08558v1](http://arxiv.org/abs/2401.08558v1)
 - 2024-01-16, **Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**, Xu Yan et.al., Paper: [http://arxiv.org/abs/2401.08045v1](http://arxiv.org/abs/2401.08045v1), Code: **[https://github.com/zhanghm1995/forge_vfm4ad](https://github.com/zhanghm1995/forge_vfm4ad)**
 - 2024-01-15, **Pedestrian Detection in Low-Light Conditions: A Comprehensive Survey**, Bahareh Ghari et.al., Paper: [http://arxiv.org/abs/2401.07801v1](http://arxiv.org/abs/2401.07801v1)
 - 2024-01-15, **Robustness Evaluation of Localization Techniques for Autonomous Racing**, Tian Yi Lim et.al., Paper: [http://arxiv.org/abs/2401.07658v1](http://arxiv.org/abs/2401.07658v1)
