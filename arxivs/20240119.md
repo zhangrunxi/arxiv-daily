@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.09112v1-b31b1b.svg)](http://arxiv.org/abs/2401.09112v1)|null|
+|**2024-01-18**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.09112v2-b31b1b.svg)](http://arxiv.org/abs/2401.09112v2)|null|
 |**2024-01-17**|**Improved Consensus ADMM for Cooperative Motion Planning of Large-Scale Connected Autonomous Vehicles with Limited Communication**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.09032v1-b31b1b.svg)](http://arxiv.org/abs/2401.09032v1)|null|
 |**2024-01-17**|**Enhancing Campus Mobility: Achievements and Challenges of Autonomous Shuttle "Snow Lion''**|Yingbing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.08939v1-b31b1b.svg)](http://arxiv.org/abs/2401.08939v1)|null|
 |**2024-01-16**|**Safe Mission-Level Path Planning for Exploration of Lunar Shadowed Regions by a Solar-Powered Rover**|Olivier Lamarre et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.08558v1-b31b1b.svg)](http://arxiv.org/abs/2401.08558v1)|null|
