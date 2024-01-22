@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-01-19, **A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**, Shashwat Khandelwal et.al., Paper: [http://arxiv.org/abs/2401.10689v1](http://arxiv.org/abs/2401.10689v1)
+- 2024-01-19, **Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**, Shashwat Khandelwal et.al., Paper: [http://arxiv.org/abs/2401.10674v1](http://arxiv.org/abs/2401.10674v1)
+- 2024-01-19, **BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**, Mirza Nihal Baig et.al., Paper: [http://arxiv.org/abs/2401.10659v1](http://arxiv.org/abs/2401.10659v1)
+- 2024-01-19, **Episodic Reinforcement Learning with Expanded State-reward Space**, Dayang Liang et.al., Paper: [http://arxiv.org/abs/2401.10516v1](http://arxiv.org/abs/2401.10516v1)
+- 2024-01-19, **Towards Automated Driving Violation Cause Analysis in Scenario-Based Testing for Autonomous Driving Systems**, Ziwen Wan et.al., Paper: [http://arxiv.org/abs/2401.10443v1](http://arxiv.org/abs/2401.10443v1)
+- 2024-01-18, **Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**, Yongchen Zhou et.al., Paper: [http://arxiv.org/abs/2401.10402v1](http://arxiv.org/abs/2401.10402v1)
+- 2024-01-18, **Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**, Dewant Katare et.al., Paper: [http://arxiv.org/abs/2401.10397v1](http://arxiv.org/abs/2401.10397v1)
+- 2024-01-18, **LangProp: A code optimization framework using Language Models applied to driving**, Shu Ishida et.al., Paper: [http://arxiv.org/abs/2401.10314v1](http://arxiv.org/abs/2401.10314v1), Code: **[https://github.com/shuishida/langprop](https://github.com/shuishida/langprop)**
 - 2024-01-18, **Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**, Kaige Qu et.al., Paper: [http://arxiv.org/abs/2401.10156v1](http://arxiv.org/abs/2401.10156v1)
 - 2024-01-16, **Importance-Aware Image Segmentation-based Semantic Communication for Autonomous Driving**, Jie Lv et.al., Paper: [http://arxiv.org/abs/2401.10153v1](http://arxiv.org/abs/2401.10153v1)
 - 2024-01-18, **SensoDat: Simulation-based Sensor Dataset of Self-driving Cars**, Christian Birchler et.al., Paper: [http://arxiv.org/abs/2401.09808v1](http://arxiv.org/abs/2401.09808v1)

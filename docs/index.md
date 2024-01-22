@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10689v1-b31b1b.svg)](http://arxiv.org/abs/2401.10689v1)|null|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10674v1-b31b1b.svg)](http://arxiv.org/abs/2401.10674v1)|null|
+|**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10659v1-b31b1b.svg)](http://arxiv.org/abs/2401.10659v1)|null|
+|**2024-01-19**|**Episodic Reinforcement Learning with Expanded State-reward Space**|Dayang Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10516v1-b31b1b.svg)](http://arxiv.org/abs/2401.10516v1)|null|
+|**2024-01-19**|**Towards Automated Driving Violation Cause Analysis in Scenario-Based Testing for Autonomous Driving Systems**|Ziwen Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10443v1-b31b1b.svg)](http://arxiv.org/abs/2401.10443v1)|null|
+|**2024-01-18**|**Reconstructing the Invisible: Video Frame Restoration through Siamese Masked Conditional Variational Autoencoder**|Yongchen Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10402v1-b31b1b.svg)](http://arxiv.org/abs/2401.10402v1)|null|
+|**2024-01-18**|**Analyzing and Mitigating Bias for Vulnerable Classes: Towards Balanced Representation in Dataset**|Dewant Katare et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10397v1-b31b1b.svg)](http://arxiv.org/abs/2401.10397v1)|null|
+|**2024-01-18**|**LangProp: A code optimization framework using Language Models applied to driving**|Shu Ishida et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10314v1-b31b1b.svg)](http://arxiv.org/abs/2401.10314v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuishida/langprop)**|
 |**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10156v1-b31b1b.svg)](http://arxiv.org/abs/2401.10156v1)|null|
 |**2024-01-16**|**Importance-Aware Image Segmentation-based Semantic Communication for Autonomous Driving**|Jie Lv et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10153v1-b31b1b.svg)](http://arxiv.org/abs/2401.10153v1)|null|
 |**2024-01-18**|**SensoDat: Simulation-based Sensor Dataset of Self-driving Cars**|Christian Birchler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.09808v1-b31b1b.svg)](http://arxiv.org/abs/2401.09808v1)|null|
