@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Enhancing Safety in Nonlinear Systems: Design and Stability Analysis of Adaptive Cruise Control**|Fan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11961v1-b31b1b.svg)](http://arxiv.org/abs/2401.11961v1)|null|
+|**2024-01-22**|**Large receptive field strategy and important feature extraction strategy in 3D object detection**|Leichao Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11913v1-b31b1b.svg)](http://arxiv.org/abs/2401.11913v1)|null|
+|**2024-01-22**|**First-principles Based 3D Virtual Simulation Testing for Discovering SOTIF Corner Cases of Autonomous Driving**|Lehang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11876v1-b31b1b.svg)](http://arxiv.org/abs/2401.11876v1)|null|
+|**2024-01-22**|**Safe and Generalized end-to-end Autonomous Driving System with Reinforcement Learning and Demonstrations**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11792v1-b31b1b.svg)](http://arxiv.org/abs/2401.11792v1)|null|
+|**2024-01-21**|**Nigel -- Mechatronic Design and Robust Sim2Real Control of an Over-Actuated Autonomous Vehicle**|Chinmay Vilas Samak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11542v1-b31b1b.svg)](http://arxiv.org/abs/2401.11542v1)|null|
+|**2024-01-21**|**Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals**|Shaoheng Fang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11499v1-b31b1b.svg)](http://arxiv.org/abs/2401.11499v1)|null|
+|**2024-01-21**|**S$^3$M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11414v1-b31b1b.svg)](http://arxiv.org/abs/2401.11414v1)|null|
+|**2024-01-21**|**ANNA: A Deep Learning Based Dataset in Heterogeneous Traffic for Autonomous Vehicles**|Mahedi Kamal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11358v1-b31b1b.svg)](http://arxiv.org/abs/2401.11358v1)|null|
+|**2024-01-20**|**Enhancing System-Level Safety in Mixed-Autonomy Platoon via Safe Reinforcement Learning**|Jingyuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11148v1-b31b1b.svg)](http://arxiv.org/abs/2401.11148v1)|null|
+|**2024-01-19**|**Exploring Highly Quantised Neural Networks for Intrusion Detection in Automotive CAN**|Shashwat Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.11030v1-b31b1b.svg)](http://arxiv.org/abs/2401.11030v1)|null|
 |**2024-01-19**|**A Lightweight Multi-Attack CAN Intrusion Detection System on Hybrid FPGAs**|Shashwat Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10689v1-b31b1b.svg)](http://arxiv.org/abs/2401.10689v1)|null|
 |**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10674v1-b31b1b.svg)](http://arxiv.org/abs/2401.10674v1)|null|
 |**2024-01-19**|**BadODD: Bangladeshi Autonomous Driving Object Detection Dataset**|Mirza Nihal Baig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.10659v1-b31b1b.svg)](http://arxiv.org/abs/2401.10659v1)|null|
