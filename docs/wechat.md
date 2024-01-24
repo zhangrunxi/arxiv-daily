@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-01-23, **HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**, Qinhong Zhou et.al., Paper: [http://arxiv.org/abs/2401.12975v1](http://arxiv.org/abs/2401.12975v1), Code: **[https://github.com/umass-foundation-model/hazard](https://github.com/umass-foundation-model/hazard)**
+- 2024-01-23, **Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**, Lincan Li et.al., Paper: [http://arxiv.org/abs/2401.12888v1](http://arxiv.org/abs/2401.12888v1)
+- 2024-01-23, **MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**, Tim Brödermann et.al., Paper: [http://arxiv.org/abs/2401.12761v1](http://arxiv.org/abs/2401.12761v1)
+- 2024-01-23, **Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2401.12452v1](http://arxiv.org/abs/2401.12452v1)
+- 2024-01-22, **Evaluating Roadside Perception for Autonomous Vehicles: Insights from Field Testing**, Rusheng Zhang et.al., Paper: [http://arxiv.org/abs/2401.12392v1](http://arxiv.org/abs/2401.12392v1)
 - 2024-01-22, **Enhancing Safety in Nonlinear Systems: Design and Stability Analysis of Adaptive Cruise Control**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2401.11961v1](http://arxiv.org/abs/2401.11961v1)
 - 2024-01-22, **Large receptive field strategy and important feature extraction strategy in 3D object detection**, Leichao Cui et.al., Paper: [http://arxiv.org/abs/2401.11913v1](http://arxiv.org/abs/2401.11913v1)
 - 2024-01-22, **First-principles Based 3D Virtual Simulation Testing for Discovering SOTIF Corner Cases of Autonomous Driving**, Lehang Li et.al., Paper: [http://arxiv.org/abs/2401.11876v1](http://arxiv.org/abs/2401.11876v1)
