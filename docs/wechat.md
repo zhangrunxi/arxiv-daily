@@ -10,7 +10,7 @@
 - 2024-01-22, **Enhancing Safety in Nonlinear Systems: Design and Stability Analysis of Adaptive Cruise Control**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2401.11961v1](http://arxiv.org/abs/2401.11961v1)
 - 2024-01-22, **Large receptive field strategy and important feature extraction strategy in 3D object detection**, Leichao Cui et.al., Paper: [http://arxiv.org/abs/2401.11913v1](http://arxiv.org/abs/2401.11913v1)
 - 2024-01-22, **First-principles Based 3D Virtual Simulation Testing for Discovering SOTIF Corner Cases of Autonomous Driving**, Lehang Li et.al., Paper: [http://arxiv.org/abs/2401.11876v1](http://arxiv.org/abs/2401.11876v1)
-- 2024-01-23, **Safe and Generalized end-to-end Autonomous Driving System with Reinforcement Learning and Demonstrations**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2401.11792v2](http://arxiv.org/abs/2401.11792v2)
+- 2024-01-24, **Safe and Generalized end-to-end Autonomous Driving System with Reinforcement Learning and Demonstrations**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2401.11792v3](http://arxiv.org/abs/2401.11792v3)
 - 2024-01-21, **Nigel -- Mechatronic Design and Robust Sim2Real Control of an Over-Actuated Autonomous Vehicle**, Chinmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2401.11542v1](http://arxiv.org/abs/2401.11542v1)
 - 2024-01-21, **Self-Supervised Bird's Eye View Motion Prediction with Cross-Modality Signals**, Shaoheng Fang et.al., Paper: [http://arxiv.org/abs/2401.11499v1](http://arxiv.org/abs/2401.11499v1)
 - 2024-01-21, **S$^3$M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**, Zhiyuan Wu et.al., Paper: [http://arxiv.org/abs/2401.11414v1](http://arxiv.org/abs/2401.11414v1)
