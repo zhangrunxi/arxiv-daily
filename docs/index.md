@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.13630v1-b31b1b.svg)](http://arxiv.org/abs/2401.13630v1)|null|
+|**2024-01-24**|**Towards an Autonomous Compost Turner: Current State of Research**|Max Cichocki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.13493v1-b31b1b.svg)](http://arxiv.org/abs/2401.13493v1)|null|
+|**2024-01-24**|**ADMap: Anti-disturbance framework for reconstructing online vectorized HD map**|Haotian Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.13172v1-b31b1b.svg)](http://arxiv.org/abs/2401.13172v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hht1996ok/admap)**|
 |**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.12975v1-b31b1b.svg)](http://arxiv.org/abs/2401.12975v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umass-foundation-model/hazard)**|
 |**2024-01-23**|**Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**|Lincan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.12888v1-b31b1b.svg)](http://arxiv.org/abs/2401.12888v1)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.12761v1-b31b1b.svg)](http://arxiv.org/abs/2401.12761v1)|null|

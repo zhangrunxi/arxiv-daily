@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-01-24, **Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**, Emanuel Vieira et.al., Paper: [http://arxiv.org/abs/2401.13630v1](http://arxiv.org/abs/2401.13630v1)
+- 2024-01-24, **Towards an Autonomous Compost Turner: Current State of Research**, Max Cichocki et.al., Paper: [http://arxiv.org/abs/2401.13493v1](http://arxiv.org/abs/2401.13493v1)
+- 2024-01-24, **ADMap: Anti-disturbance framework for reconstructing online vectorized HD map**, Haotian Hu et.al., Paper: [http://arxiv.org/abs/2401.13172v1](http://arxiv.org/abs/2401.13172v1), Code: **[https://github.com/hht1996ok/admap](https://github.com/hht1996ok/admap)**
 - 2024-01-23, **HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**, Qinhong Zhou et.al., Paper: [http://arxiv.org/abs/2401.12975v1](http://arxiv.org/abs/2401.12975v1), Code: **[https://github.com/umass-foundation-model/hazard](https://github.com/umass-foundation-model/hazard)**
 - 2024-01-23, **Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies**, Lincan Li et.al., Paper: [http://arxiv.org/abs/2401.12888v1](http://arxiv.org/abs/2401.12888v1)
 - 2024-01-23, **MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**, Tim Brödermann et.al., Paper: [http://arxiv.org/abs/2401.12761v1](http://arxiv.org/abs/2401.12761v1)
