@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.14938v1-b31b1b.svg)](http://arxiv.org/abs/2401.14938v1)|null|
 |**2024-01-25**|**Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**|Dominik Rößle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.14325v1-b31b1b.svg)](http://arxiv.org/abs/2401.14325v1)|null|
 |**2024-01-25**|**WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models**|Hongliang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.13919v1-b31b1b.svg)](http://arxiv.org/abs/2401.13919v1)|null|
 |**2024-01-24**|**Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**|Spencer Carmichael et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.13853v1-b31b1b.svg)](http://arxiv.org/abs/2401.13853v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umautobots/nsavp_tools)**|

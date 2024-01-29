@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving
 
+- 2024-01-26, **DAM: Diffusion Activation Maximization for 3D Global Explanations**, Hanxiao Tan et.al., Paper: [http://arxiv.org/abs/2401.14938v1](http://arxiv.org/abs/2401.14938v1)
 - 2024-01-25, **Unlocking Past Information: Temporal Embeddings in Cooperative Bird's Eye View Prediction**, Dominik Rößle et.al., Paper: [http://arxiv.org/abs/2401.14325v1](http://arxiv.org/abs/2401.14325v1)
 - 2024-01-25, **WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models**, Hongliang He et.al., Paper: [http://arxiv.org/abs/2401.13919v1](http://arxiv.org/abs/2401.13919v1)
 - 2024-01-24, **Dataset and Benchmark: Novel Sensors for Autonomous Vehicle Perception**, Spencer Carmichael et.al., Paper: [http://arxiv.org/abs/2401.13853v1](http://arxiv.org/abs/2401.13853v1), Code: **[https://github.com/umautobots/nsavp_tools](https://github.com/umautobots/nsavp_tools)**
