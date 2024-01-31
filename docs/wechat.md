@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-01-30, **LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**, Yuan Chiang et.al., Paper: [http://arxiv.org/abs/2401.17244v1](http://arxiv.org/abs/2401.17244v1)
+- 2024-01-30, **MF-MOS: A Motion-Focused Model for Moving Object Segmentation**, Jintao Cheng et.al., Paper: [http://arxiv.org/abs/2401.17023v1](http://arxiv.org/abs/2401.17023v1), Code: **[https://github.com/scnu-rislab/mf-mos](https://github.com/scnu-rislab/mf-mos)**
+- 2024-01-30, **The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2401.16634v1](http://arxiv.org/abs/2401.16634v1)
+- 2024-01-30, **I came, I saw, I certified: some perspectives on the safety assurance of cyber-physical systems**, Mithila Sivakumar et.al., Paper: [http://arxiv.org/abs/2401.16633v1](http://arxiv.org/abs/2401.16633v1)
 - 2024-01-29, **FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**, Sungmin Woo et.al., Paper: [http://arxiv.org/abs/2401.16189v1](http://arxiv.org/abs/2401.16189v1)
 - 2024-01-29, **DeFlow: Decoder of Scene Flow Network in Autonomous Driving**, Qingwen Zhang et.al., Paper: [http://arxiv.org/abs/2401.16122v1](http://arxiv.org/abs/2401.16122v1), Code: **[https://github.com/kth-rpl/deflow](https://github.com/kth-rpl/deflow)**
 - 2024-01-29, **A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**, Moyun Liu et.al., Paper: [http://arxiv.org/abs/2401.15902v1](http://arxiv.org/abs/2401.15902v1)

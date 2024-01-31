@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.17244v1-b31b1b.svg)](http://arxiv.org/abs/2401.17244v1)|null|
+|**2024-01-30**|**MF-MOS: A Motion-Focused Model for Moving Object Segmentation**|Jintao Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.17023v1-b31b1b.svg)](http://arxiv.org/abs/2401.17023v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scnu-rislab/mf-mos)**|
+|**2024-01-30**|**The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.16634v1-b31b1b.svg)](http://arxiv.org/abs/2401.16634v1)|null|
+|**2024-01-30**|**I came, I saw, I certified: some perspectives on the safety assurance of cyber-physical systems**|Mithila Sivakumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.16633v1-b31b1b.svg)](http://arxiv.org/abs/2401.16633v1)|null|
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.16189v1-b31b1b.svg)](http://arxiv.org/abs/2401.16189v1)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.16122v1-b31b1b.svg)](http://arxiv.org/abs/2401.16122v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kth-rpl/deflow)**|
 |**2024-01-29**|**A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving**|Moyun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2401.15902v1-b31b1b.svg)](http://arxiv.org/abs/2401.15902v1)|null|
