@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-01-31, **CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**, Jiezhi Yang et.al., Paper: [http://arxiv.org/abs/2401.18075v1](http://arxiv.org/abs/2401.18075v1)
+- 2024-01-31, **LaneGraph2Seq: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement**, Renyuan Peng et.al., Paper: [http://arxiv.org/abs/2401.17609v1](http://arxiv.org/abs/2401.17609v1), Code: **[https://github.com/fudan-zvg/roadnet](https://github.com/fudan-zvg/roadnet)**
+- 2024-01-30, **Pixel to Elevation: Learning to Predict Elevation Maps at Long Range using Images for Autonomous Offroad Navigation**, Chanyoung Chung et.al., Paper: [http://arxiv.org/abs/2401.17484v1](http://arxiv.org/abs/2401.17484v1)
+- 2024-01-30, **ATPPNet: Attention based Temporal Point cloud Prediction Network**, Kaustab Pal et.al., Paper: [http://arxiv.org/abs/2401.17399v1](http://arxiv.org/abs/2401.17399v1)
 - 2024-01-30, **LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**, Yuan Chiang et.al., Paper: [http://arxiv.org/abs/2401.17244v1](http://arxiv.org/abs/2401.17244v1)
 - 2024-01-30, **MF-MOS: A Motion-Focused Model for Moving Object Segmentation**, Jintao Cheng et.al., Paper: [http://arxiv.org/abs/2401.17023v1](http://arxiv.org/abs/2401.17023v1), Code: **[https://github.com/scnu-rislab/mf-mos](https://github.com/scnu-rislab/mf-mos)**
 - 2024-01-30, **The Why, When, and How to Use Active Learning in Large-Data-Driven 3D Object Detection for Safe Autonomous Driving: An Empirical Exploration**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2401.16634v1](http://arxiv.org/abs/2401.16634v1)
