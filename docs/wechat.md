@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-02-01, **Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**, Tommaso Benciolini et.al., Paper: [http://arxiv.org/abs/2402.00697v1](http://arxiv.org/abs/2402.00697v1)
+- 2024-02-01, **Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**, Arindam Das et.al., Paper: [http://arxiv.org/abs/2402.00637v1](http://arxiv.org/abs/2402.00637v1)
+- 2024-02-01, **Uncertainty-Aware Partial-Label Learning**, Tobias Fuchs et.al., Paper: [http://arxiv.org/abs/2402.00592v1](http://arxiv.org/abs/2402.00592v1), Code: **[https://github.com/anon1248/uncertainty-aware-pll](https://github.com/anon1248/uncertainty-aware-pll)**
+- 2024-02-01, **Reconfigurable Intelligent Computational Surfaces for MEC-Assisted Autonomous Driving Networks**, Bo Yang et.al., Paper: [http://arxiv.org/abs/2402.00398v1](http://arxiv.org/abs/2402.00398v1)
+- 2024-02-01, **Multi-agent Path Finding for Cooperative Autonomous Driving**, Zhongxia Yan et.al., Paper: [http://arxiv.org/abs/2402.00334v1](http://arxiv.org/abs/2402.00334v1)
+- 2024-02-01, **SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2402.00321v1](http://arxiv.org/abs/2402.00321v1)
+- 2024-01-31, **Real-time Traffic Object Detection for Autonomous Driving**, Abdul Hannan Khan et.al., Paper: [http://arxiv.org/abs/2402.00128v1](http://arxiv.org/abs/2402.00128v1)
 - 2024-01-31, **CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**, Jiezhi Yang et.al., Paper: [http://arxiv.org/abs/2401.18075v1](http://arxiv.org/abs/2401.18075v1)
 - 2024-01-31, **LaneGraph2Seq: Lane Topology Extraction with Language Model via Vertex-Edge Encoding and Connectivity Enhancement**, Renyuan Peng et.al., Paper: [http://arxiv.org/abs/2401.17609v1](http://arxiv.org/abs/2401.17609v1), Code: **[https://github.com/fudan-zvg/roadnet](https://github.com/fudan-zvg/roadnet)**
 - 2024-01-30, **Pixel to Elevation: Learning to Predict Elevation Maps at Long Range using Images for Autonomous Offroad Navigation**, Chanyoung Chung et.al., Paper: [http://arxiv.org/abs/2401.17484v1](http://arxiv.org/abs/2401.17484v1)
