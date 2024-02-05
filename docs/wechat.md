@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-02-02, **Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization**, Lin Song et.al., Paper: [http://arxiv.org/abs/2402.01575v1](http://arxiv.org/abs/2402.01575v1)
+- 2024-02-02, **Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**, Korbinian Moller et.al., Paper: [http://arxiv.org/abs/2402.01507v1](http://arxiv.org/abs/2402.01507v1)
+- 2024-02-02, **A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**, Rainer Trauth et.al., Paper: [http://arxiv.org/abs/2402.01465v1](http://arxiv.org/abs/2402.01465v1)
+- 2024-02-02, **A survey on robustness in trajectory prediction for autonomous vehicles**, Jeroen Hagenus et.al., Paper: [http://arxiv.org/abs/2402.01397v1](http://arxiv.org/abs/2402.01397v1)
+- 2024-02-02, **Catching thermal avalanches in disordered XXZ model**, Tomasz Szołdra et.al., Paper: [http://arxiv.org/abs/2402.01362v1](http://arxiv.org/abs/2402.01362v1)
+- 2024-02-02, **LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2402.01246v1](http://arxiv.org/abs/2402.01246v1)
+- 2024-02-02, **A Survey for Foundation Models in Autonomous Driving**, Haoxiang Gao et.al., Paper: [http://arxiv.org/abs/2402.01105v1](http://arxiv.org/abs/2402.01105v1)
 - 2024-02-02, **Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**, Tommaso Benciolini et.al., Paper: [http://arxiv.org/abs/2402.00697v2](http://arxiv.org/abs/2402.00697v2)
 - 2024-02-01, **Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**, Arindam Das et.al., Paper: [http://arxiv.org/abs/2402.00637v1](http://arxiv.org/abs/2402.00637v1)
 - 2024-02-01, **Uncertainty-Aware Partial-Label Learning**, Tobias Fuchs et.al., Paper: [http://arxiv.org/abs/2402.00592v1](http://arxiv.org/abs/2402.00592v1), Code: **[https://github.com/anon1248/uncertainty-aware-pll](https://github.com/anon1248/uncertainty-aware-pll)**

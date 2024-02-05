@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization**|Lin Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01575v1-b31b1b.svg)](http://arxiv.org/abs/2402.01575v1)|null|
+|**2024-02-02**|**Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**|Korbinian Moller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01507v1-b31b1b.svg)](http://arxiv.org/abs/2402.01507v1)|null|
+|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01465v1-b31b1b.svg)](http://arxiv.org/abs/2402.01465v1)|null|
+|**2024-02-02**|**A survey on robustness in trajectory prediction for autonomous vehicles**|Jeroen Hagenus et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01397v1-b31b1b.svg)](http://arxiv.org/abs/2402.01397v1)|null|
+|**2024-02-02**|**Catching thermal avalanches in disordered XXZ model**|Tomasz Szołdra et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01362v1-b31b1b.svg)](http://arxiv.org/abs/2402.01362v1)|null|
+|**2024-02-02**|**LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01246v1-b31b1b.svg)](http://arxiv.org/abs/2402.01246v1)|null|
+|**2024-02-02**|**A Survey for Foundation Models in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.01105v1-b31b1b.svg)](http://arxiv.org/abs/2402.01105v1)|null|
 |**2024-02-02**|**Combining Belief Function Theory and Stochastic Model Predictive Control for Multi-Modal Uncertainty in Autonomous Driving**|Tommaso Benciolini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.00697v2-b31b1b.svg)](http://arxiv.org/abs/2402.00697v2)|null|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.00637v1-b31b1b.svg)](http://arxiv.org/abs/2402.00637v1)|null|
 |**2024-02-01**|**Uncertainty-Aware Partial-Label Learning**|Tobias Fuchs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.00592v1-b31b1b.svg)](http://arxiv.org/abs/2402.00592v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anon1248/uncertainty-aware-pll)**|
