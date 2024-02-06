@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-02-05, **Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**, Yihao Huang et.al., Paper: [http://arxiv.org/abs/2402.02738v1](http://arxiv.org/abs/2402.02738v1)
+- 2024-02-04, **A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**, Manuel Mar et.al., Paper: [http://arxiv.org/abs/2402.02603v1](http://arxiv.org/abs/2402.02603v1)
+- 2024-02-04, **Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**, Nico Schick et.al., Paper: [http://arxiv.org/abs/2402.02598v1](http://arxiv.org/abs/2402.02598v1)
+- 2024-02-04, **Hybrid-Prediction Integrated Planning for Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2402.02426v1](http://arxiv.org/abs/2402.02426v1)
+- 2024-02-03, **Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**, Pankaj Deoli et.al., Paper: [http://arxiv.org/abs/2402.02154v1](http://arxiv.org/abs/2402.02154v1)
+- 2024-02-03, **S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**, Yurui Chen et.al., Paper: [http://arxiv.org/abs/2402.02112v1](http://arxiv.org/abs/2402.02112v1)
+- 2024-02-03, **Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**, Xilai Li et.al., Paper: [http://arxiv.org/abs/2402.02090v1](http://arxiv.org/abs/2402.02090v1)
+- 2024-02-03, **RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**, Han Li et.al., Paper: [http://arxiv.org/abs/2402.02067v1](http://arxiv.org/abs/2402.02067v1), Code: **[https://github.com/mmocking/riders](https://github.com/mmocking/riders)**
+- 2024-02-03, **Multimodal-Enhanced Objectness Learner for Corner Case Detection in Autonomous Driving**, Lixing Xiao et.al., Paper: [http://arxiv.org/abs/2402.02026v1](http://arxiv.org/abs/2402.02026v1), Code: **[https://github.com/tryhiseyyysum/menol](https://github.com/tryhiseyyysum/menol)**
+- 2024-02-03, **A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions**, Hung Du et.al., Paper: [http://arxiv.org/abs/2402.01968v1](http://arxiv.org/abs/2402.01968v1)
 - 2024-02-02, **Efficient and Interaction-Aware Trajectory Planning for Autonomous Vehicles with Particle Swarm Optimization**, Lin Song et.al., Paper: [http://arxiv.org/abs/2402.01575v1](http://arxiv.org/abs/2402.01575v1)
 - 2024-02-02, **Overcoming Blind Spots: Occlusion Considerations for Improved Autonomous Driving Safety**, Korbinian Moller et.al., Paper: [http://arxiv.org/abs/2402.01507v1](http://arxiv.org/abs/2402.01507v1)
 - 2024-02-02, **A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**, Rainer Trauth et.al., Paper: [http://arxiv.org/abs/2402.01465v1](http://arxiv.org/abs/2402.01465v1)
