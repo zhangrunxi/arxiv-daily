@@ -2,11 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-02-06, **Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2402.04168v1](http://arxiv.org/abs/2402.04168v1)
+- 2024-02-06, **Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**, Yiming Xu et.al., Paper: [http://arxiv.org/abs/2402.03981v1](http://arxiv.org/abs/2402.03981v1)
+- 2024-02-06, **OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**, Guohang Yan et.al., Paper: [http://arxiv.org/abs/2402.03830v1](http://arxiv.org/abs/2402.03830v1), Code: **[https://github.com/pjlab-adg/oasim](https://github.com/pjlab-adg/oasim)**
+- 2024-02-05, **Efficient and Interpretable Traffic Destination Prediction using Explainable Boosting Machines**, Yasin Yousif et.al., Paper: [http://arxiv.org/abs/2402.03457v1](http://arxiv.org/abs/2402.03457v1)
 - 2024-02-05, **Improving Robustness of LiDAR-Camera Fusion Model against Weather Corruption from Fusion Strategy Perspective**, Yihao Huang et.al., Paper: [http://arxiv.org/abs/2402.02738v1](http://arxiv.org/abs/2402.02738v1)
 - 2024-02-04, **A Review of Full-Sized Autonomous Racing Vehicle Sensor Architecture**, Manuel Mar et.al., Paper: [http://arxiv.org/abs/2402.02603v1](http://arxiv.org/abs/2402.02603v1)
 - 2024-02-04, **Synthesizing Follow-Up Drive Data for Enhanced Road Safety in Intelligent Driving Function Systems**, Nico Schick et.al., Paper: [http://arxiv.org/abs/2402.02598v1](http://arxiv.org/abs/2402.02598v1)
 - 2024-02-04, **Hybrid-Prediction Integrated Planning for Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2402.02426v1](http://arxiv.org/abs/2402.02426v1)
-- 2024-02-03, **Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**, Pankaj Deoli et.al., Paper: [http://arxiv.org/abs/2402.02154v1](http://arxiv.org/abs/2402.02154v1)
+- 2024-02-03, **Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**, Pankaj Deoli et.al., Paper: [http://arxiv.org/abs/2402.02154v1](http://arxiv.org/abs/2402.02154v1), Code: **[https://github.com/rohtkumar/adversarial_attacks_on_segmentation](https://github.com/rohtkumar/adversarial_attacks_on_segmentation)**
 - 2024-02-03, **S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation**, Yurui Chen et.al., Paper: [http://arxiv.org/abs/2402.02112v1](http://arxiv.org/abs/2402.02112v1)
 - 2024-02-03, **Physical Perception Network and an All-weather Multi-modality Benchmark for Adverse Weather Image Fusion**, Xilai Li et.al., Paper: [http://arxiv.org/abs/2402.02090v1](http://arxiv.org/abs/2402.02090v1)
 - 2024-02-03, **RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**, Han Li et.al., Paper: [http://arxiv.org/abs/2402.02067v1](http://arxiv.org/abs/2402.02067v1), Code: **[https://github.com/mmocking/riders](https://github.com/mmocking/riders)**
