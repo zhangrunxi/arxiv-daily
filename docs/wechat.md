@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-02-07, **Tuning the feedback controller gains is a simple way to improve autonomous driving performance**, Wenyu Liang et.al., Paper: [http://arxiv.org/abs/2402.05064v1](http://arxiv.org/abs/2402.05064v1)
+- 2024-02-07, **Hierarchical Motion Planning and Offline Robust Model Predictive Control for Autonomous Vehicles**, Hung Duy Nguyen et.al., Paper: [http://arxiv.org/abs/2402.04769v1](http://arxiv.org/abs/2402.04769v1)
+- 2024-02-07, **Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2402.04720v1](http://arxiv.org/abs/2402.04720v1)
+- 2024-02-07, **LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**, Yawen Lu et.al., Paper: [http://arxiv.org/abs/2402.04546v1](http://arxiv.org/abs/2402.04546v1)
+- 2024-02-07, **BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**, Xin Zhao et.al., Paper: [http://arxiv.org/abs/2402.04519v1](http://arxiv.org/abs/2402.04519v1)
+- 2024-02-06, **Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2402.04318v1](http://arxiv.org/abs/2402.04318v1)
 - 2024-02-06, **Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2402.04168v1](http://arxiv.org/abs/2402.04168v1)
 - 2024-02-06, **Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**, Yiming Xu et.al., Paper: [http://arxiv.org/abs/2402.03981v1](http://arxiv.org/abs/2402.03981v1)
 - 2024-02-06, **OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**, Guohang Yan et.al., Paper: [http://arxiv.org/abs/2402.03830v1](http://arxiv.org/abs/2402.03830v1), Code: **[https://github.com/pjlab-adg/oasim](https://github.com/pjlab-adg/oasim)**
