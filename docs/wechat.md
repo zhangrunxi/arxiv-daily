@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-02-08, **Driving Everywhere with Large Language Model Policy Adaptation**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/abs/2402.05932v1)
+- 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1)
+- 2024-02-08, **Optimizing Delegation in Collaborative Human-AI Hybrid Teams**, Andrew Fuchs et.al., Paper: [http://arxiv.org/abs/2402.05605v1](http://arxiv.org/abs/2402.05605v1)
+- 2024-02-07, **Compressing Deep Reinforcement Learning Networks with a Dynamic Structured Pruning Method for Autonomous Driving**, Wensheng Su et.al., Paper: [http://arxiv.org/abs/2402.05146v1](http://arxiv.org/abs/2402.05146v1)
 - 2024-02-07, **Tuning the feedback controller gains is a simple way to improve autonomous driving performance**, Wenyu Liang et.al., Paper: [http://arxiv.org/abs/2402.05064v1](http://arxiv.org/abs/2402.05064v1)
 - 2024-02-07, **Hierarchical Motion Planning and Offline Robust Model Predictive Control for Autonomous Vehicles**, Hung Duy Nguyen et.al., Paper: [http://arxiv.org/abs/2402.04769v1](http://arxiv.org/abs/2402.04769v1)
 - 2024-02-07, **Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2402.04720v1](http://arxiv.org/abs/2402.04720v1)
