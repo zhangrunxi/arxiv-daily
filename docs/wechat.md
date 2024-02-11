@@ -1,17 +1,17 @@
-> Updated on 2024.02.10
+> Updated on 2024.02.11
 
 ## Autonomous_Driving
 
 - 2024-02-08, **Driving Everywhere with Large Language Model Policy Adaptation**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/abs/2402.05932v1)
-- 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1)
+- 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 - 2024-02-08, **Optimizing Delegation in Collaborative Human-AI Hybrid Teams**, Andrew Fuchs et.al., Paper: [http://arxiv.org/abs/2402.05605v1](http://arxiv.org/abs/2402.05605v1)
 - 2024-02-07, **Compressing Deep Reinforcement Learning Networks with a Dynamic Structured Pruning Method for Autonomous Driving**, Wensheng Su et.al., Paper: [http://arxiv.org/abs/2402.05146v1](http://arxiv.org/abs/2402.05146v1)
 - 2024-02-07, **Tuning the feedback controller gains is a simple way to improve autonomous driving performance**, Wenyu Liang et.al., Paper: [http://arxiv.org/abs/2402.05064v1](http://arxiv.org/abs/2402.05064v1)
 - 2024-02-07, **Hierarchical Motion Planning and Offline Robust Model Predictive Control for Autonomous Vehicles**, Hung Duy Nguyen et.al., Paper: [http://arxiv.org/abs/2402.04769v1](http://arxiv.org/abs/2402.04769v1)
-- 2024-02-07, **Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2402.04720v1](http://arxiv.org/abs/2402.04720v1)
+- 2024-02-07, **Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2402.04720v1](http://arxiv.org/abs/2402.04720v1), Code: **[https://github.com/tum-avs/frenetix-motion-planner](https://github.com/tum-avs/frenetix-motion-planner)**
 - 2024-02-07, **LiDAR-Forest Dataset: LiDAR Point Cloud Simulation Dataset for Forestry Application**, Yawen Lu et.al., Paper: [http://arxiv.org/abs/2402.04546v1](http://arxiv.org/abs/2402.04546v1)
 - 2024-02-07, **BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**, Xin Zhao et.al., Paper: [http://arxiv.org/abs/2402.04519v1](http://arxiv.org/abs/2402.04519v1)
-- 2024-02-06, **Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2402.04318v1](http://arxiv.org/abs/2402.04318v1)
+- 2024-02-06, **Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2402.04318v1](http://arxiv.org/abs/2402.04318v1), Code: **[https://github.com/petrichor625/gava](https://github.com/petrichor625/gava)**
 - 2024-02-06, **Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2402.04168v1](http://arxiv.org/abs/2402.04168v1)
 - 2024-02-06, **Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**, Yiming Xu et.al., Paper: [http://arxiv.org/abs/2402.03981v1](http://arxiv.org/abs/2402.03981v1)
 - 2024-02-06, **OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**, Guohang Yan et.al., Paper: [http://arxiv.org/abs/2402.03830v1](http://arxiv.org/abs/2402.03830v1), Code: **[https://github.com/pjlab-adg/oasim](https://github.com/pjlab-adg/oasim)**
