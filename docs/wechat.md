@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-02-09, **Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**, Brian Yang et.al., Paper: [http://arxiv.org/abs/2402.06559v1](http://arxiv.org/abs/2402.06559v1)
+- 2024-02-09, **CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**, Yifeng Bai et.al., Paper: [http://arxiv.org/abs/2402.06423v1](http://arxiv.org/abs/2402.06423v1)
 - 2024-02-08, **Driving Everywhere with Large Language Model Policy Adaptation**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/abs/2402.05932v1)
 - 2024-02-08, **Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**, Yuxi Wei et.al., Paper: [http://arxiv.org/abs/2402.05746v1](http://arxiv.org/abs/2402.05746v1), Code: **[https://github.com/yifanlu0227/chatsim](https://github.com/yifanlu0227/chatsim)**
 - 2024-02-08, **Optimizing Delegation in Collaborative Human-AI Hybrid Teams**, Andrew Fuchs et.al., Paper: [http://arxiv.org/abs/2402.05605v1](http://arxiv.org/abs/2402.05605v1)

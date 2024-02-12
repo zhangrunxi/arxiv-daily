@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.06559v1-b31b1b.svg)](http://arxiv.org/abs/2402.06559v1)|null|
+|**2024-02-09**|**CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**|Yifeng Bai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.06423v1-b31b1b.svg)](http://arxiv.org/abs/2402.06423v1)|null|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.05932v1-b31b1b.svg)](http://arxiv.org/abs/2402.05932v1)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.05746v1-b31b1b.svg)](http://arxiv.org/abs/2402.05746v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-08**|**Optimizing Delegation in Collaborative Human-AI Hybrid Teams**|Andrew Fuchs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.05605v1-b31b1b.svg)](http://arxiv.org/abs/2402.05605v1)|null|
