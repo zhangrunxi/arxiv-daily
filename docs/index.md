@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Interaction-Based Driving Scenario Classification and Labeling**|Cheng Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07720v1-b31b1b.svg)](http://arxiv.org/abs/2402.07720v1)|null|
+|**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07680v1-b31b1b.svg)](http://arxiv.org/abs/2402.07680v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-810/aydiv2)**|
+|**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07602v1-b31b1b.svg)](http://arxiv.org/abs/2402.07602v1)|null|
+|**2024-02-12**|**Affine term structure models driven by independent Lévy processes**|Michał Barski et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07503v1-b31b1b.svg)](http://arxiv.org/abs/2402.07503v1)|null|
+|**2024-02-11**|**Towards Explainable, Safe Autonomous Driving with Language Embeddings for Novelty Identification and Active Learning: Framework and Experimental Analysis with Real-World Data Sets**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07320v1-b31b1b.svg)](http://arxiv.org/abs/2402.07320v1)|null|
+|**2024-02-10**|**CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**|Anuj Pokhrel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07065v1-b31b1b.svg)](http://arxiv.org/abs/2402.07065v1)|null|
+|**2024-02-10**|**Risk assessment and observation of driver with pedestrian using instantaneous heart rate and HRV**|Riku Kikuta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07041v1-b31b1b.svg)](http://arxiv.org/abs/2402.07041v1)|null|
+|**2024-02-10**|**A Robotic Cyber-Physical System for Automated Reality Capture and Visualization in Construction Progress Monitoring**|Srijeet Halder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07034v1-b31b1b.svg)](http://arxiv.org/abs/2402.07034v1)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.06559v1-b31b1b.svg)](http://arxiv.org/abs/2402.06559v1)|null|
 |**2024-02-09**|**CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**|Yifeng Bai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.06423v1-b31b1b.svg)](http://arxiv.org/abs/2402.06423v1)|null|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.05932v1-b31b1b.svg)](http://arxiv.org/abs/2402.05932v1)|null|

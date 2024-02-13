@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-02-12, **Interaction-Based Driving Scenario Classification and Labeling**, Cheng Chang et.al., Paper: [http://arxiv.org/abs/2402.07720v1](http://arxiv.org/abs/2402.07720v1)
+- 2024-02-12, **AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**, Tanmoy Dam et.al., Paper: [http://arxiv.org/abs/2402.07680v1](http://arxiv.org/abs/2402.07680v1), Code: **[https://github.com/sanjay-810/aydiv2](https://github.com/sanjay-810/aydiv2)**
+- 2024-02-12, **DART: A Compact Platform For Autonomous Driving Research**, Lorenzo Lyons et.al., Paper: [http://arxiv.org/abs/2402.07602v1](http://arxiv.org/abs/2402.07602v1)
+- 2024-02-12, **Affine term structure models driven by independent Lévy processes**, Michał Barski et.al., Paper: [http://arxiv.org/abs/2402.07503v1](http://arxiv.org/abs/2402.07503v1)
+- 2024-02-11, **Towards Explainable, Safe Autonomous Driving with Language Embeddings for Novelty Identification and Active Learning: Framework and Experimental Analysis with Real-World Data Sets**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2402.07320v1](http://arxiv.org/abs/2402.07320v1)
+- 2024-02-10, **CAHSOR: Competence-Aware High-Speed Off-Road Ground Navigation in SE(3)**, Anuj Pokhrel et.al., Paper: [http://arxiv.org/abs/2402.07065v1](http://arxiv.org/abs/2402.07065v1)
+- 2024-02-10, **Risk assessment and observation of driver with pedestrian using instantaneous heart rate and HRV**, Riku Kikuta et.al., Paper: [http://arxiv.org/abs/2402.07041v1](http://arxiv.org/abs/2402.07041v1)
+- 2024-02-10, **A Robotic Cyber-Physical System for Automated Reality Capture and Visualization in Construction Progress Monitoring**, Srijeet Halder et.al., Paper: [http://arxiv.org/abs/2402.07034v1](http://arxiv.org/abs/2402.07034v1)
 - 2024-02-09, **Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**, Brian Yang et.al., Paper: [http://arxiv.org/abs/2402.06559v1](http://arxiv.org/abs/2402.06559v1)
 - 2024-02-09, **CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**, Yifeng Bai et.al., Paper: [http://arxiv.org/abs/2402.06423v1](http://arxiv.org/abs/2402.06423v1)
 - 2024-02-08, **Driving Everywhere with Large Language Model Policy Adaptation**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2402.05932v1](http://arxiv.org/abs/2402.05932v1)
