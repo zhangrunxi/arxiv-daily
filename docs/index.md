@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**|Peining Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.08423v1-b31b1b.svg)](http://arxiv.org/abs/2402.08423v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwfangit/emem-ndt)**|
+|**2024-02-13**|**MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**|Xiaohe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.08221v1-b31b1b.svg)](http://arxiv.org/abs/2402.08221v1)|null|
+|**2024-02-13**|**Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**|Mandar Pitale et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.08208v1-b31b1b.svg)](http://arxiv.org/abs/2402.08208v1)|null|
+|**2024-02-12**|**Portobello: Extending Driving Simulation from the Lab to the Road**|Fanjun Bu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.08061v1-b31b1b.svg)](http://arxiv.org/abs/2402.08061v1)|null|
 |**2024-02-12**|**Interaction-Based Driving Scenario Classification and Labeling**|Cheng Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07720v1-b31b1b.svg)](http://arxiv.org/abs/2402.07720v1)|null|
 |**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07680v1-b31b1b.svg)](http://arxiv.org/abs/2402.07680v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-810/aydiv2)**|
 |**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.07602v1-b31b1b.svg)](http://arxiv.org/abs/2402.07602v1)|null|

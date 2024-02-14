@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-02-13, **Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**, Peining Shen et.al., Paper: [http://arxiv.org/abs/2402.08423v1](http://arxiv.org/abs/2402.08423v1), Code: **[https://github.com/jwfangit/emem-ndt](https://github.com/jwfangit/emem-ndt)**
+- 2024-02-13, **MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**, Xiaohe Li et.al., Paper: [http://arxiv.org/abs/2402.08221v1](http://arxiv.org/abs/2402.08221v1)
+- 2024-02-13, **Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**, Mandar Pitale et.al., Paper: [http://arxiv.org/abs/2402.08208v1](http://arxiv.org/abs/2402.08208v1)
+- 2024-02-12, **Portobello: Extending Driving Simulation from the Lab to the Road**, Fanjun Bu et.al., Paper: [http://arxiv.org/abs/2402.08061v1](http://arxiv.org/abs/2402.08061v1)
 - 2024-02-12, **Interaction-Based Driving Scenario Classification and Labeling**, Cheng Chang et.al., Paper: [http://arxiv.org/abs/2402.07720v1](http://arxiv.org/abs/2402.07720v1)
 - 2024-02-12, **AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**, Tanmoy Dam et.al., Paper: [http://arxiv.org/abs/2402.07680v1](http://arxiv.org/abs/2402.07680v1), Code: **[https://github.com/sanjay-810/aydiv2](https://github.com/sanjay-810/aydiv2)**
 - 2024-02-12, **DART: A Compact Platform For Autonomous Driving Research**, Lorenzo Lyons et.al., Paper: [http://arxiv.org/abs/2402.07602v1](http://arxiv.org/abs/2402.07602v1)
