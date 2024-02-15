@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-02-14, **Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**, Michael Lanier et.al., Paper: [http://arxiv.org/abs/2402.09290v1](http://arxiv.org/abs/2402.09290v1)
+- 2024-02-14, **Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**, Michael Shaham et.al., Paper: [http://arxiv.org/abs/2402.09233v1](http://arxiv.org/abs/2402.09233v1)
 - 2024-02-13, **Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**, Peining Shen et.al., Paper: [http://arxiv.org/abs/2402.08423v1](http://arxiv.org/abs/2402.08423v1), Code: **[https://github.com/jwfangit/emem-ndt](https://github.com/jwfangit/emem-ndt)**
 - 2024-02-13, **MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**, Xiaohe Li et.al., Paper: [http://arxiv.org/abs/2402.08221v1](http://arxiv.org/abs/2402.08221v1)
 - 2024-02-13, **Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**, Mandar Pitale et.al., Paper: [http://arxiv.org/abs/2402.08208v1](http://arxiv.org/abs/2402.08208v1)
