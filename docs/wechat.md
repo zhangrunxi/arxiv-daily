@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-02-15, **Trajectory Guidance: Enhanced Remote Driving of highly-automated Vehicles**, Domagoj Majstorovic et.al., Paper: [http://arxiv.org/abs/2402.10014v1](http://arxiv.org/abs/2402.10014v1)
+- 2024-02-15, **Exploiting Alpha Transparency In Language And Vision-Based AI Systems**, David Noever et.al., Paper: [http://arxiv.org/abs/2402.09671v1](http://arxiv.org/abs/2402.09671v1)
+- 2024-02-14, **How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?**, Congcong Wen et.al., Paper: [http://arxiv.org/abs/2402.09546v1](http://arxiv.org/abs/2402.09546v1)
 - 2024-02-14, **Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**, Michael Lanier et.al., Paper: [http://arxiv.org/abs/2402.09290v1](http://arxiv.org/abs/2402.09290v1)
 - 2024-02-14, **Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**, Michael Shaham et.al., Paper: [http://arxiv.org/abs/2402.09233v1](http://arxiv.org/abs/2402.09233v1)
 - 2024-02-13, **Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**, Peining Shen et.al., Paper: [http://arxiv.org/abs/2402.08423v1](http://arxiv.org/abs/2402.08423v1), Code: **[https://github.com/jwfangit/emem-ndt](https://github.com/jwfangit/emem-ndt)**

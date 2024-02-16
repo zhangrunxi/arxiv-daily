@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Trajectory Guidance: Enhanced Remote Driving of highly-automated Vehicles**|Domagoj Majstorovic et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10014v1-b31b1b.svg)](http://arxiv.org/abs/2402.10014v1)|null|
+|**2024-02-15**|**Exploiting Alpha Transparency In Language And Vision-Based AI Systems**|David Noever et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09671v1-b31b1b.svg)](http://arxiv.org/abs/2402.09671v1)|null|
+|**2024-02-14**|**How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?**|Congcong Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09546v1-b31b1b.svg)](http://arxiv.org/abs/2402.09546v1)|null|
 |**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09290v1-b31b1b.svg)](http://arxiv.org/abs/2402.09290v1)|null|
 |**2024-02-14**|**Design and Realization of a Benchmarking Testbed for Evaluating Autonomous Platooning Algorithms**|Michael Shaham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09233v1-b31b1b.svg)](http://arxiv.org/abs/2402.09233v1)|null|
 |**2024-02-13**|**Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**|Peining Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.08423v1-b31b1b.svg)](http://arxiv.org/abs/2402.08423v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwfangit/emem-ndt)**|
