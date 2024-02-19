@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10828v1-b31b1b.svg)](http://arxiv.org/abs/2402.10828v1)|null|
+|**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10761v1-b31b1b.svg)](http://arxiv.org/abs/2402.10761v1)|null|
+|**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10580v1-b31b1b.svg)](http://arxiv.org/abs/2402.10580v1)|null|
+|**2024-02-16**|**Barrier-Enhanced Homotopic Parallel Trajectory Optimization for Safety-Critical Autonomous Driving**|Lei Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10441v1-b31b1b.svg)](http://arxiv.org/abs/2402.10441v1)|null|
 |**2024-02-15**|**Trajectory Guidance: Enhanced Remote Driving of highly-automated Vehicles**|Domagoj Majstorovic et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10014v1-b31b1b.svg)](http://arxiv.org/abs/2402.10014v1)|null|
 |**2024-02-15**|**Exploiting Alpha Transparency In Language And Vision-Based AI Systems**|David Noever et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09671v1-b31b1b.svg)](http://arxiv.org/abs/2402.09671v1)|null|
 |**2024-02-14**|**How Secure Are Large Language Models (LLMs) for Navigation in Urban Environments?**|Congcong Wen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.09546v1-b31b1b.svg)](http://arxiv.org/abs/2402.09546v1)|null|
