@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-02-19, **UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**, Chang Won Lee et.al., Paper: [http://arxiv.org/abs/2402.12303v1](http://arxiv.org/abs/2402.12303v1)
+- 2024-02-19, **DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**, Xiaoyu Tian et.al., Paper: [http://arxiv.org/abs/2402.12289v1](http://arxiv.org/abs/2402.12289v1)
+- 2024-02-19, **Modified RRT* for Path Planning in Autonomous Driving**, Sugirtha T et.al., Paper: [http://arxiv.org/abs/2402.12129v1](http://arxiv.org/abs/2402.12129v1)
+- 2024-02-19, **Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**, Abhishek Kuriyal et.al., Paper: [http://arxiv.org/abs/2402.12098v1](http://arxiv.org/abs/2402.12098v1), Code: **[https://github.com/geoai4cities/pgs-cam](https://github.com/geoai4cities/pgs-cam)**
+- 2024-02-19, **Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge**, Daniel Jakab et.al., Paper: [http://arxiv.org/abs/2402.12041v1](http://arxiv.org/abs/2402.12041v1)
+- 2024-02-19, **A novel framework for adaptive stress testing of autonomous vehicles in highways**, Linh Trinh et.al., Paper: [http://arxiv.org/abs/2402.11813v1](http://arxiv.org/abs/2402.11813v1)
+- 2024-02-19, **SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**, Jialei Xu et.al., Paper: [http://arxiv.org/abs/2402.11791v1](http://arxiv.org/abs/2402.11791v1)
+- 2024-02-18, **GenAD: Generative End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2402.11502v1](http://arxiv.org/abs/2402.11502v1)
+- 2024-02-18, **Adaptive Decision-Making for Autonomous Vehicles: A Learning-Enhanced Game-Theoretic Approach in Interactive Environments**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2402.11467v1](http://arxiv.org/abs/2402.11467v1)
+- 2024-02-17, **Exploiting T-norms for Deep Learning in Autonomous Driving**, Mihaela Cătălina Stoian et.al., Paper: [http://arxiv.org/abs/2402.11362v1](http://arxiv.org/abs/2402.11362v1)
 - 2024-02-16, **RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**, Jianhao Yuan et.al., Paper: [http://arxiv.org/abs/2402.10828v1](http://arxiv.org/abs/2402.10828v1)
 - 2024-02-16, **Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**, Benjamin Sullivan et.al., Paper: [http://arxiv.org/abs/2402.10761v1](http://arxiv.org/abs/2402.10761v1)
 - 2024-02-16, **Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**, Steven Landgraf et.al., Paper: [http://arxiv.org/abs/2402.10580v1](http://arxiv.org/abs/2402.10580v1)

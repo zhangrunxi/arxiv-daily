@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**|Chang Won Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12303v1-b31b1b.svg)](http://arxiv.org/abs/2402.12303v1)|null|
+|**2024-02-19**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12289v1-b31b1b.svg)](http://arxiv.org/abs/2402.12289v1)|null|
+|**2024-02-19**|**Modified RRT* for Path Planning in Autonomous Driving**|Sugirtha T et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12129v1-b31b1b.svg)](http://arxiv.org/abs/2402.12129v1)|null|
+|**2024-02-19**|**Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization**|Abhishek Kuriyal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12098v1-b31b1b.svg)](http://arxiv.org/abs/2402.12098v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geoai4cities/pgs-cam)**|
+|**2024-02-19**|**Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenge**|Daniel Jakab et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12041v1-b31b1b.svg)](http://arxiv.org/abs/2402.12041v1)|null|
+|**2024-02-19**|**A novel framework for adaptive stress testing of autonomous vehicles in highways**|Linh Trinh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.11813v1-b31b1b.svg)](http://arxiv.org/abs/2402.11813v1)|null|
+|**2024-02-19**|**SDGE: Stereo Guided Depth Estimation for 360° Camera Sets**|Jialei Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.11791v1-b31b1b.svg)](http://arxiv.org/abs/2402.11791v1)|null|
+|**2024-02-18**|**GenAD: Generative End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.11502v1-b31b1b.svg)](http://arxiv.org/abs/2402.11502v1)|null|
+|**2024-02-18**|**Adaptive Decision-Making for Autonomous Vehicles: A Learning-Enhanced Game-Theoretic Approach in Interactive Environments**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.11467v1-b31b1b.svg)](http://arxiv.org/abs/2402.11467v1)|null|
+|**2024-02-17**|**Exploiting T-norms for Deep Learning in Autonomous Driving**|Mihaela Cătălina Stoian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.11362v1-b31b1b.svg)](http://arxiv.org/abs/2402.11362v1)|null|
 |**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10828v1-b31b1b.svg)](http://arxiv.org/abs/2402.10828v1)|null|
 |**2024-02-16**|**Autonomous Emergency Braking With Driver-In-The-Loop: Torque Vectoring for Active Learning**|Benjamin Sullivan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10761v1-b31b1b.svg)](http://arxiv.org/abs/2402.10761v1)|null|
 |**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.10580v1-b31b1b.svg)](http://arxiv.org/abs/2402.10580v1)|null|
