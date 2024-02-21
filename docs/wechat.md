@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-02-20, **Self-Perception Versus Objective Driving Behavior: Subject Study of Lateral Vehicle Guidance**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2402.13104v1](http://arxiv.org/abs/2402.13104v1)
+- 2024-02-20, **3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**, Sen Yuan et.al., Paper: [http://arxiv.org/abs/2402.13062v1](http://arxiv.org/abs/2402.13062v1)
+- 2024-02-20, **Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**, Anju Rani et.al., Paper: [http://arxiv.org/abs/2402.12923v1](http://arxiv.org/abs/2402.12923v1)
+- 2024-02-20, **PIP-Net: Pedestrian Intention Prediction in the Wild**, Mohsen Azarmi et.al., Paper: [http://arxiv.org/abs/2402.12810v1](http://arxiv.org/abs/2402.12810v1)
+- 2024-02-20, **Smart Mobility Digital Twin Based Automated Vehicle Navigation System: A Proof of Concept**, Kui Wang et.al., Paper: [http://arxiv.org/abs/2402.12682v1](http://arxiv.org/abs/2402.12682v1)
+- 2024-02-20, **Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles**, Dong Hu et.al., Paper: [http://arxiv.org/abs/2402.12666v1](http://arxiv.org/abs/2402.12666v1)
 - 2024-02-19, **UncertaintyTrack: Exploiting Detection and Localization Uncertainty in Multi-Object Tracking**, Chang Won Lee et.al., Paper: [http://arxiv.org/abs/2402.12303v1](http://arxiv.org/abs/2402.12303v1)
 - 2024-02-19, **DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**, Xiaoyu Tian et.al., Paper: [http://arxiv.org/abs/2402.12289v1](http://arxiv.org/abs/2402.12289v1)
 - 2024-02-19, **Modified RRT* for Path Planning in Autonomous Driving**, Sugirtha T et.al., Paper: [http://arxiv.org/abs/2402.12129v1](http://arxiv.org/abs/2402.12129v1)
