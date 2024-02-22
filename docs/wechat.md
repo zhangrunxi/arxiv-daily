@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2024-02-20, **Self-Perception Versus Objective Driving Behavior: Subject Study of Lateral Vehicle Guidance**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2402.13104v1](http://arxiv.org/abs/2402.13104v1)
+- 2024-02-21, **Self-Perception Versus Objective Driving Behavior: Subject Study of Lateral Vehicle Guidance**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2402.13104v2](http://arxiv.org/abs/2402.13104v2)
 - 2024-02-20, **3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**, Sen Yuan et.al., Paper: [http://arxiv.org/abs/2402.13062v1](http://arxiv.org/abs/2402.13062v1)
 - 2024-02-20, **Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**, Anju Rani et.al., Paper: [http://arxiv.org/abs/2402.12923v1](http://arxiv.org/abs/2402.12923v1)
 - 2024-02-20, **PIP-Net: Pedestrian Intention Prediction in the Wild**, Mohsen Azarmi et.al., Paper: [http://arxiv.org/abs/2402.12810v1](http://arxiv.org/abs/2402.12810v1)

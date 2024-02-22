@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-20**|**Self-Perception Versus Objective Driving Behavior: Subject Study of Lateral Vehicle Guidance**|Johann Haselberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.13104v1-b31b1b.svg)](http://arxiv.org/abs/2402.13104v1)|null|
+|**2024-02-21**|**Self-Perception Versus Objective Driving Behavior: Subject Study of Lateral Vehicle Guidance**|Johann Haselberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.13104v2-b31b1b.svg)](http://arxiv.org/abs/2402.13104v2)|null|
 |**2024-02-20**|**3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**|Sen Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.13062v1-b31b1b.svg)](http://arxiv.org/abs/2402.13062v1)|null|
 |**2024-02-20**|**Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey**|Anju Rani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12923v1-b31b1b.svg)](http://arxiv.org/abs/2402.12923v1)|null|
 |**2024-02-20**|**PIP-Net: Pedestrian Intention Prediction in the Wild**|Mohsen Azarmi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.12810v1-b31b1b.svg)](http://arxiv.org/abs/2402.12810v1)|null|
