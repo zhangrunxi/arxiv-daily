@@ -2,9 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-02-23, **AI-powered simulation-based inference of a genuinely spatial-stochastic model of early mouse embryogenesis**, Michael A. Ramirez-Sierra et.al., Paper: [http://arxiv.org/abs/2402.15330v1](http://arxiv.org/abs/2402.15330v1)
+- 2024-02-23, **EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2402.15272v1](http://arxiv.org/abs/2402.15272v1), Code: **[https://github.com/bosszhe/emiff](https://github.com/bosszhe/emiff)**
+- 2024-02-22, **Path Planning based on 2D Object Bounding-box**, Yanliang Huang et.al., Paper: [http://arxiv.org/abs/2402.14933v1](http://arxiv.org/abs/2402.14933v1)
 - 2024-02-22, **Exploring the Influence of Driving Context on Lateral Driving Style Preferences: A Simulator-Based Study**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2402.14432v1](http://arxiv.org/abs/2402.14432v1)
 - 2024-02-22, **Human-machine social systems**, Milena Tsvetkova et.al., Paper: [http://arxiv.org/abs/2402.14410v1](http://arxiv.org/abs/2402.14410v1)
-- 2024-02-22, **RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**, Changsong Pang et.al., Paper: [http://arxiv.org/abs/2402.14380v1](http://arxiv.org/abs/2402.14380v1)
+- 2024-02-22, **RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**, Changsong Pang et.al., Paper: [http://arxiv.org/abs/2402.14380v1](http://arxiv.org/abs/2402.14380v1), Code: **[https://github.com/orca-uboat/radarmoseve](https://github.com/orca-uboat/radarmoseve)**
 - 2024-02-21, **Blending Data-Driven Priors in Dynamic Games**, Justin Lidard et.al., Paper: [http://arxiv.org/abs/2402.14174v1](http://arxiv.org/abs/2402.14174v1)
 - 2024-02-21, **Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**, Mehdi Azarafza et.al., Paper: [http://arxiv.org/abs/2402.13602v1](http://arxiv.org/abs/2402.13602v1)
 - 2024-02-21, **EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2402.13537v1](http://arxiv.org/abs/2402.13537v1)
