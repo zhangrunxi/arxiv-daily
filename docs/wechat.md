@@ -8,7 +8,7 @@
 - 2024-02-22, **Exploring the Influence of Driving Context on Lateral Driving Style Preferences: A Simulator-Based Study**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2402.14432v1](http://arxiv.org/abs/2402.14432v1)
 - 2024-02-22, **Human-machine social systems**, Milena Tsvetkova et.al., Paper: [http://arxiv.org/abs/2402.14410v1](http://arxiv.org/abs/2402.14410v1)
 - 2024-02-22, **RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**, Changsong Pang et.al., Paper: [http://arxiv.org/abs/2402.14380v1](http://arxiv.org/abs/2402.14380v1), Code: **[https://github.com/orca-uboat/radarmoseve](https://github.com/orca-uboat/radarmoseve)**
-- 2024-02-21, **Blending Data-Driven Priors in Dynamic Games**, Justin Lidard et.al., Paper: [http://arxiv.org/abs/2402.14174v1](http://arxiv.org/abs/2402.14174v1)
+- 2024-02-23, **Blending Data-Driven Priors in Dynamic Games**, Justin Lidard et.al., Paper: [http://arxiv.org/abs/2402.14174v2](http://arxiv.org/abs/2402.14174v2)
 - 2024-02-21, **Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**, Mehdi Azarafza et.al., Paper: [http://arxiv.org/abs/2402.13602v1](http://arxiv.org/abs/2402.13602v1)
 - 2024-02-21, **EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2402.13537v1](http://arxiv.org/abs/2402.13537v1)
 - 2024-02-21, **Learning to Model Diverse Driving Behaviors in Highly Interactive Autonomous Driving Scenarios with Multi-Agent Reinforcement Learning**, Liu Weiwei et.al., Paper: [http://arxiv.org/abs/2402.13481v1](http://arxiv.org/abs/2402.13481v1)
