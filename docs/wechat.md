@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-02-26, **Trajectory Prediction for Autonomous Driving Using a Transformer Network**, Zhenning Li et.al., Paper: [http://arxiv.org/abs/2402.16501v1](http://arxiv.org/abs/2402.16501v1)
+- 2024-02-26, **Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**, Jin Ding et.al., Paper: [http://arxiv.org/abs/2402.16479v1](http://arxiv.org/abs/2402.16479v1)
+- 2024-02-26, **SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**, Yu Lin et.al., Paper: [http://arxiv.org/abs/2402.16249v1](http://arxiv.org/abs/2402.16249v1)
+- 2024-02-25, **Machine Learning-Based Vehicle Intention Trajectory Recognition and Prediction for Autonomous Driving**, Hanyi Yu et.al., Paper: [http://arxiv.org/abs/2402.16036v1](http://arxiv.org/abs/2402.16036v1)
+- 2024-02-24, **Construction and application of artificial intelligence crowdsourcing map based on multi-track GPS data**, Yong Wang et.al., Paper: [http://arxiv.org/abs/2402.15796v1](http://arxiv.org/abs/2402.15796v1)
+- 2024-02-24, **Discretionary Lane-Change Decision and Control via Parameterized Soft Actor-Critic for Hybrid Action Space**, Yuan Lin et.al., Paper: [http://arxiv.org/abs/2402.15790v1](http://arxiv.org/abs/2402.15790v1)
+- 2024-02-24, **Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**, Lingji Chen et.al., Paper: [http://arxiv.org/abs/2402.15756v1](http://arxiv.org/abs/2402.15756v1)
+- 2024-02-24, **Stabilizing remote entanglement via waveguide dissipation**, Parth S. Shah et.al., Paper: [http://arxiv.org/abs/2402.15701v1](http://arxiv.org/abs/2402.15701v1)
+- 2024-02-23, **Multi-Constraint Safe RL with Objective Suppression for Safety-Critical Applications**, Zihan Zhou et.al., Paper: [http://arxiv.org/abs/2402.15650v1](http://arxiv.org/abs/2402.15650v1)
+- 2024-02-23, **Cohere3D: Exploiting Temporal Coherence for Unsupervised Representation Learning of Vision-based Autonomous Driving**, Yichen Xie et.al., Paper: [http://arxiv.org/abs/2402.15583v1](http://arxiv.org/abs/2402.15583v1)
 - 2024-02-23, **AI-powered simulation-based inference of a genuinely spatial-stochastic model of early mouse embryogenesis**, Michael A. Ramirez-Sierra et.al., Paper: [http://arxiv.org/abs/2402.15330v1](http://arxiv.org/abs/2402.15330v1)
 - 2024-02-23, **EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**, Zhe Wang et.al., Paper: [http://arxiv.org/abs/2402.15272v1](http://arxiv.org/abs/2402.15272v1), Code: **[https://github.com/bosszhe/emiff](https://github.com/bosszhe/emiff)**
 - 2024-02-22, **Path Planning based on 2D Object Bounding-box**, Yanliang Huang et.al., Paper: [http://arxiv.org/abs/2402.14933v1](http://arxiv.org/abs/2402.14933v1)

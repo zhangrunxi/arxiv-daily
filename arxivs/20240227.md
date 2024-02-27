@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16501v1-b31b1b.svg)](http://arxiv.org/abs/2402.16501v1)|null|
+|**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16479v1-b31b1b.svg)](http://arxiv.org/abs/2402.16479v1)|null|
+|**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16249v1-b31b1b.svg)](http://arxiv.org/abs/2402.16249v1)|null|
+|**2024-02-25**|**Machine Learning-Based Vehicle Intention Trajectory Recognition and Prediction for Autonomous Driving**|Hanyi Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16036v1-b31b1b.svg)](http://arxiv.org/abs/2402.16036v1)|null|
+|**2024-02-24**|**Construction and application of artificial intelligence crowdsourcing map based on multi-track GPS data**|Yong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15796v1-b31b1b.svg)](http://arxiv.org/abs/2402.15796v1)|null|
+|**2024-02-24**|**Discretionary Lane-Change Decision and Control via Parameterized Soft Actor-Critic for Hybrid Action Space**|Yuan Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15790v1-b31b1b.svg)](http://arxiv.org/abs/2402.15790v1)|null|
+|**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15756v1-b31b1b.svg)](http://arxiv.org/abs/2402.15756v1)|null|
+|**2024-02-24**|**Stabilizing remote entanglement via waveguide dissipation**|Parth S. Shah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15701v1-b31b1b.svg)](http://arxiv.org/abs/2402.15701v1)|null|
+|**2024-02-23**|**Multi-Constraint Safe RL with Objective Suppression for Safety-Critical Applications**|Zihan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15650v1-b31b1b.svg)](http://arxiv.org/abs/2402.15650v1)|null|
+|**2024-02-23**|**Cohere3D: Exploiting Temporal Coherence for Unsupervised Representation Learning of Vision-based Autonomous Driving**|Yichen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15583v1-b31b1b.svg)](http://arxiv.org/abs/2402.15583v1)|null|
 |**2024-02-23**|**AI-powered simulation-based inference of a genuinely spatial-stochastic model of early mouse embryogenesis**|Michael A. Ramirez-Sierra et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15330v1-b31b1b.svg)](http://arxiv.org/abs/2402.15330v1)|null|
 |**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.15272v1-b31b1b.svg)](http://arxiv.org/abs/2402.15272v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bosszhe/emiff)**|
 |**2024-02-22**|**Path Planning based on 2D Object Bounding-box**|Yanliang Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.14933v1-b31b1b.svg)](http://arxiv.org/abs/2402.14933v1)|null|
