@@ -4,6 +4,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**QoS prediction in radio vehicular environments via prior user information**|Noor Ul Ain et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17689v1-b31b1b.svg)](http://arxiv.org/abs/2402.17689v1)|null|
+|**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17653v1-b31b1b.svg)](http://arxiv.org/abs/2402.17653v1)|null|
+|**2024-02-27**|**An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains**|George Eskandar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17562v1-b31b1b.svg)](http://arxiv.org/abs/2402.17562v1)|null|
+|**2024-02-27**|**Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction**|Zihao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17430v1-b31b1b.svg)](http://arxiv.org/abs/2402.17430v1)|null|
+|**2024-02-27**|**RACP: Risk-Aware Contingency Planning with Multi-Modal Predictions**|Khaled A. Mustafa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17387v1-b31b1b.svg)](http://arxiv.org/abs/2402.17387v1)|null|
+|**2024-02-27**|**ICP-Flow: LiDAR Scene Flow Estimation with ICP**|Yancong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17351v1-b31b1b.svg)](http://arxiv.org/abs/2402.17351v1)|null|
+|**2024-02-26**|**Reinforcement Learning Based Oscillation Dampening: Scaling up Single-Agent RL algorithms to a 100 AV highway field operational test**|Kathy Jang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.17050v1-b31b1b.svg)](http://arxiv.org/abs/2402.17050v1)|null|
+|**2024-02-26**|**Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)**|Qifeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16720v1-b31b1b.svg)](http://arxiv.org/abs/2402.16720v1)|null|
+|**2024-02-26**|**Learning Based NMPC Adaptation for Autonomous Driving using Parallelized Digital Twin**|Jean Pierre Allamaa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16645v1-b31b1b.svg)](http://arxiv.org/abs/2402.16645v1)|null|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16501v1-b31b1b.svg)](http://arxiv.org/abs/2402.16501v1)|null|
 |**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16479v1-b31b1b.svg)](http://arxiv.org/abs/2402.16479v1)|null|
 |**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.16249v1-b31b1b.svg)](http://arxiv.org/abs/2402.16249v1)|null|
