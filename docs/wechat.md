@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-02-28, **Evaluating Decision Optimality of Autonomous Driving via Metamorphic Testing**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2402.18393v1](http://arxiv.org/abs/2402.18393v1)
+- 2024-02-28, **Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**, Miriam Louise Carnot et.al., Paper: [http://arxiv.org/abs/2402.18309v1](http://arxiv.org/abs/2402.18309v1)
+- 2024-02-28, **EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**, Jiacheng Lin et.al., Paper: [http://arxiv.org/abs/2402.18302v1](http://arxiv.org/abs/2402.18302v1), Code: **[https://github.com/lab206/echotrack](https://github.com/lab206/echotrack)**
+- 2024-02-28, **PiShield: A NeSy Framework for Learning with Requirements**, Mihaela Cătălina Stoian et.al., Paper: [http://arxiv.org/abs/2402.18285v1](http://arxiv.org/abs/2402.18285v1), Code: **[https://github.com/mihaela-stoian/pishield](https://github.com/mihaela-stoian/pishield)**
+- 2024-02-28, **EAN-MapNet: Efficient Vectorized HD Map Construction with Anchor Neighborhoods**, Huiyuan Xiong et.al., Paper: [http://arxiv.org/abs/2402.18278v1](http://arxiv.org/abs/2402.18278v1)
+- 2024-02-28, **NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes**, Cidan Shi et.al., Paper: [http://arxiv.org/abs/2402.18172v1](http://arxiv.org/abs/2402.18172v1), Code: **[https://github.com/cidanshi/nitedr-nighttime-image-de-raining](https://github.com/cidanshi/nitedr-nighttime-image-de-raining)**
+- 2024-02-28, **3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling**, Chaokang Jiang et.al., Paper: [http://arxiv.org/abs/2402.18146v1](http://arxiv.org/abs/2402.18146v1), Code: **[https://github.com/jiangchaokang/3dsflabelling](https://github.com/jiangchaokang/3dsflabelling)**
+- 2024-02-28, **OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2402.18140v1](http://arxiv.org/abs/2402.18140v1)
+- 2024-02-28, **Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging**, Bhargav Ghanekar et.al., Paper: [http://arxiv.org/abs/2402.18102v1](http://arxiv.org/abs/2402.18102v1)
+- 2024-02-27, **ICAT: An Indoor Connected and Autonomous Testbed for Vehicle Computing**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2402.17933v1](http://arxiv.org/abs/2402.17933v1)
 - 2024-02-27, **QoS prediction in radio vehicular environments via prior user information**, Noor Ul Ain et.al., Paper: [http://arxiv.org/abs/2402.17689v1](http://arxiv.org/abs/2402.17689v1)
 - 2024-02-27, **Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**, David S. W. Williams et.al., Paper: [http://arxiv.org/abs/2402.17653v1](http://arxiv.org/abs/2402.17653v1)
 - 2024-02-27, **An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains**, George Eskandar et.al., Paper: [http://arxiv.org/abs/2402.17562v1](http://arxiv.org/abs/2402.17562v1)
