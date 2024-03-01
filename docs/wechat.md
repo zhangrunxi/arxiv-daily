@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-02-29, **Genie: Smart ROS-based Caching for Connected Autonomous Robots**, Zexin Li et.al., Paper: [http://arxiv.org/abs/2402.19410v1](http://arxiv.org/abs/2402.19410v1)
+- 2024-02-29, **Towards Safe and Reliable Autonomous Driving: Dynamic Occupancy Set Prediction**, Wenbo Shao et.al., Paper: [http://arxiv.org/abs/2402.19385v1](http://arxiv.org/abs/2402.19385v1)
+- 2024-02-29, **RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**, Jonas Frey et.al., Paper: [http://arxiv.org/abs/2402.19341v1](http://arxiv.org/abs/2402.19341v1)
+- 2024-02-29, **T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition**, Zhiyuan Yang et.al., Paper: [http://arxiv.org/abs/2402.19264v1](http://arxiv.org/abs/2402.19264v1)
+- 2024-02-29, **A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2402.19251v1](http://arxiv.org/abs/2402.19251v1), Code: **[https://github.com/petrichor625/hltp](https://github.com/petrichor625/hltp)**
+- 2024-02-29, **CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**, Domenique Zipperling et.al., Paper: [http://arxiv.org/abs/2402.19105v1](http://arxiv.org/abs/2402.19105v1)
+- 2024-02-29, **GoalNet: Goal Areas Oriented Pedestrian Trajectory Prediction**, Ching-Lin Lee et.al., Paper: [http://arxiv.org/abs/2402.19002v1](http://arxiv.org/abs/2402.19002v1)
+- 2024-02-29, **Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**, Yang Liu et.al., Paper: [http://arxiv.org/abs/2402.18844v1](http://arxiv.org/abs/2402.18844v1), Code: **[https://github.com/liuyangme/sota-3dhpe-hmr](https://github.com/liuyangme/sota-3dhpe-hmr)**
+- 2024-02-29, **Brain-inspired and Self-based Artificial Intelligence**, Yi Zeng et.al., Paper: [http://arxiv.org/abs/2402.18784v1](http://arxiv.org/abs/2402.18784v1)
+- 2024-02-29, **How to Evaluate Human-likeness of Interaction-aware Driver Models**, Jemin Woo et.al., Paper: [http://arxiv.org/abs/2402.18775v1](http://arxiv.org/abs/2402.18775v1)
 - 2024-02-28, **Evaluating Decision Optimality of Autonomous Driving via Metamorphic Testing**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2402.18393v1](http://arxiv.org/abs/2402.18393v1)
 - 2024-02-28, **Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**, Miriam Louise Carnot et.al., Paper: [http://arxiv.org/abs/2402.18309v1](http://arxiv.org/abs/2402.18309v1)
 - 2024-02-28, **EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**, Jiacheng Lin et.al., Paper: [http://arxiv.org/abs/2402.18302v1](http://arxiv.org/abs/2402.18302v1), Code: **[https://github.com/lab206/echotrack](https://github.com/lab206/echotrack)**
