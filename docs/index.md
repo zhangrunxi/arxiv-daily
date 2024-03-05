@@ -8,9 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01316v1-b31b1b.svg)](http://arxiv.org/abs/2403.01316v1)|null|
+|**2024-03-02**|**Autonomous Intelligent Systems: From Illusion of Control to Inescapable Delusion**|Stéphane Grumbach et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01292v1-b31b1b.svg)](http://arxiv.org/abs/2403.01292v1)|null|
+|**2024-03-02**|**On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving**|Kaituo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01238v1-b31b1b.svg)](http://arxiv.org/abs/2403.01238v1)|null|
+|**2024-03-02**|**Results and Lessons Learned from Autonomous Driving Transportation Services in Airfield, Crowded Indoor, and Urban Environments**|Doosan Baek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01233v1-b31b1b.svg)](http://arxiv.org/abs/2403.01233v1)|null|
+|**2024-03-02**|**Run-time Introspection of 2D Object Detection in Automated Driving Systems Using Learning Representations**|Hakan Yekta Yatbaz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01172v1-b31b1b.svg)](http://arxiv.org/abs/2403.01172v1)|null|
+|**2024-03-01**|**Safe Hybrid-Action Reinforcement Learning-Based Decision and Control for Discretionary Lane Change**|Ruichen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.00446v1-b31b1b.svg)](http://arxiv.org/abs/2403.00446v1)|null|
+|**2024-03-01**|**MS-Net: A Multi-Path Sparse Model for Motion Prediction in Multi-Scenes**|Xiaqiang Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.00353v1-b31b1b.svg)](http://arxiv.org/abs/2403.00353v1)|null|
 |**2024-02-29**|**Genie: Smart ROS-based Caching for Connected Autonomous Robots**|Zexin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19410v1-b31b1b.svg)](http://arxiv.org/abs/2402.19410v1)|null|
 |**2024-02-29**|**Towards Safe and Reliable Autonomous Driving: Dynamic Occupancy Set Prediction**|Wenbo Shao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19385v1-b31b1b.svg)](http://arxiv.org/abs/2402.19385v1)|null|
-|**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19341v1-b31b1b.svg)](http://arxiv.org/abs/2402.19341v1)|null|
+|**2024-03-03**|**RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19341v2-b31b1b.svg)](http://arxiv.org/abs/2402.19341v2)|null|
 |**2024-02-29**|**T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition**|Zhiyuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19264v1-b31b1b.svg)](http://arxiv.org/abs/2402.19264v1)|null|
 |**2024-02-29**|**A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19251v1-b31b1b.svg)](http://arxiv.org/abs/2402.19251v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/petrichor625/hltp)**|
 |**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2402.19105v1-b31b1b.svg)](http://arxiv.org/abs/2402.19105v1)|null|
