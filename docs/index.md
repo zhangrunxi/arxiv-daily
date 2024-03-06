@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.03181v1-b31b1b.svg)](http://arxiv.org/abs/2403.03181v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.03111v1-b31b1b.svg)](http://arxiv.org/abs/2403.03111v1)|null|
+|**2024-03-05**|**Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**|Yuan Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02882v1-b31b1b.svg)](http://arxiv.org/abs/2403.02882v1)|null|
+|**2024-03-05**|**ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving**|Han Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02877v1-b31b1b.svg)](http://arxiv.org/abs/2403.02877v1)|null|
+|**2024-03-05**|**OORD: The Oxford Offroad Radar Dataset**|Matthew Gadd et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02845v1-b31b1b.svg)](http://arxiv.org/abs/2403.02845v1)|null|
+|**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02710v1-b31b1b.svg)](http://arxiv.org/abs/2403.02710v1)|null|
+|**2024-03-05**|**UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**|Ohn Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02642v1-b31b1b.svg)](http://arxiv.org/abs/2403.02642v1)|null|
+|**2024-03-05**|**HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative**|Cong Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02640v1-b31b1b.svg)](http://arxiv.org/abs/2403.02640v1)|null|
+|**2024-03-05**|**World Models for Autonomous Driving: An Initial Survey**|Yanchen Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02622v1-b31b1b.svg)](http://arxiv.org/abs/2403.02622v1)|null|
+|**2024-03-04**|**Uncertainty-Aware Prediction and Application in Planning for Autonomous Driving: Definitions, Methods, and Comparison**|Wenbo Shao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.02297v1-b31b1b.svg)](http://arxiv.org/abs/2403.02297v1)|null|
 |**2024-03-02**|**TUMTraf V2X Cooperative Perception Dataset**|Walter Zimmer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01316v1-b31b1b.svg)](http://arxiv.org/abs/2403.01316v1)|null|
 |**2024-03-02**|**Autonomous Intelligent Systems: From Illusion of Control to Inescapable Delusion**|Stéphane Grumbach et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01292v1-b31b1b.svg)](http://arxiv.org/abs/2403.01292v1)|null|
 |**2024-03-02**|**On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving**|Kaituo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.01238v1-b31b1b.svg)](http://arxiv.org/abs/2403.01238v1)|null|

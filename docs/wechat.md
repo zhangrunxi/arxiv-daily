@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-03-05, **Behavior Generation with Latent Actions**, Seungjae Lee et.al., Paper: [http://arxiv.org/abs/2403.03181v1](http://arxiv.org/abs/2403.03181v1), Code: **[https://github.com/jayLEE0301/vq_bet_official](https://github.com/jayLEE0301/vq_bet_official)**
+- 2024-03-05, **Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**, Mohamed Afifi et.al., Paper: [http://arxiv.org/abs/2403.03111v1](http://arxiv.org/abs/2403.03111v1)
+- 2024-03-05, **Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**, Yuan Lin et.al., Paper: [http://arxiv.org/abs/2403.02882v1](http://arxiv.org/abs/2403.02882v1)
+- 2024-03-05, **ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving**, Han Lu et.al., Paper: [http://arxiv.org/abs/2403.02877v1](http://arxiv.org/abs/2403.02877v1)
+- 2024-03-05, **OORD: The Oxford Offroad Radar Dataset**, Matthew Gadd et.al., Paper: [http://arxiv.org/abs/2403.02845v1](http://arxiv.org/abs/2403.02845v1)
+- 2024-03-05, **FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**, Jiawei Hou et.al., Paper: [http://arxiv.org/abs/2403.02710v1](http://arxiv.org/abs/2403.02710v1)
+- 2024-03-05, **UFO: Uncertainty-aware LiDAR-image Fusion for Off-road Semantic Terrain Map Estimation**, Ohn Kim et.al., Paper: [http://arxiv.org/abs/2403.02642v1](http://arxiv.org/abs/2403.02642v1)
+- 2024-03-05, **HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative**, Cong Ma et.al., Paper: [http://arxiv.org/abs/2403.02640v1](http://arxiv.org/abs/2403.02640v1)
+- 2024-03-05, **World Models for Autonomous Driving: An Initial Survey**, Yanchen Guan et.al., Paper: [http://arxiv.org/abs/2403.02622v1](http://arxiv.org/abs/2403.02622v1)
+- 2024-03-04, **Uncertainty-Aware Prediction and Application in Planning for Autonomous Driving: Definitions, Methods, and Comparison**, Wenbo Shao et.al., Paper: [http://arxiv.org/abs/2403.02297v1](http://arxiv.org/abs/2403.02297v1)
 - 2024-03-02, **TUMTraf V2X Cooperative Perception Dataset**, Walter Zimmer et.al., Paper: [http://arxiv.org/abs/2403.01316v1](http://arxiv.org/abs/2403.01316v1)
 - 2024-03-02, **Autonomous Intelligent Systems: From Illusion of Control to Inescapable Delusion**, Stéphane Grumbach et.al., Paper: [http://arxiv.org/abs/2403.01292v1](http://arxiv.org/abs/2403.01292v1)
 - 2024-03-02, **On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving**, Kaituo Feng et.al., Paper: [http://arxiv.org/abs/2403.01238v1](http://arxiv.org/abs/2403.01238v1)
