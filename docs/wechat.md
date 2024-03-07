@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-03-06, **3D Object Visibility Prediction in Autonomous Driving**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2403.03681v1](http://arxiv.org/abs/2403.03681v1)
+- 2024-03-06, **Learning Adversarial MDPs with Stochastic Hard Constraints**, Francesco Emanuele Stradi et.al., Paper: [http://arxiv.org/abs/2403.03672v1](http://arxiv.org/abs/2403.03672v1)
+- 2024-03-06, **Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**, He Li et.al., Paper: [http://arxiv.org/abs/2403.03541v1](http://arxiv.org/abs/2403.03541v1)
+- 2024-03-06, **Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**, Wonhyeok Choi et.al., Paper: [http://arxiv.org/abs/2403.03468v1](http://arxiv.org/abs/2403.03468v1)
 - 2024-03-05, **Behavior Generation with Latent Actions**, Seungjae Lee et.al., Paper: [http://arxiv.org/abs/2403.03181v1](http://arxiv.org/abs/2403.03181v1), Code: **[https://github.com/jayLEE0301/vq_bet_official](https://github.com/jayLEE0301/vq_bet_official)**
 - 2024-03-05, **Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**, Mohamed Afifi et.al., Paper: [http://arxiv.org/abs/2403.03111v1](http://arxiv.org/abs/2403.03111v1)
 - 2024-03-05, **Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**, Yuan Lin et.al., Paper: [http://arxiv.org/abs/2403.02882v1](http://arxiv.org/abs/2403.02882v1)
