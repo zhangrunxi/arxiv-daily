@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-03-07, **A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**, Kensuke Nakamura et.al., Paper: [http://arxiv.org/abs/2403.04745v1](http://arxiv.org/abs/2403.04745v1)
+- 2024-03-07, **Embodied Understanding of Driving Scenarios**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2403.04593v1](http://arxiv.org/abs/2403.04593v1)
+- 2024-03-07, **FriendNet: Detection-Friendly Dehazing Network**, Yihua Fan et.al., Paper: [http://arxiv.org/abs/2403.04443v1](http://arxiv.org/abs/2403.04443v1)
+- 2024-03-07, **LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**, Haojie Xin et.al., Paper: [http://arxiv.org/abs/2403.04299v1](http://arxiv.org/abs/2403.04299v1)
+- 2024-03-07, **Generalizing Cooperative Eco-driving via Multi-residual Task Learning**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2403.04232v1](http://arxiv.org/abs/2403.04232v1)
+- 2024-03-07, **Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**, Napat Karnchanachari et.al., Paper: [http://arxiv.org/abs/2403.04133v1](http://arxiv.org/abs/2403.04133v1)
 - 2024-03-06, **3D Object Visibility Prediction in Autonomous Driving**, Chuanyu Luo et.al., Paper: [http://arxiv.org/abs/2403.03681v1](http://arxiv.org/abs/2403.03681v1)
 - 2024-03-06, **Learning Adversarial MDPs with Stochastic Hard Constraints**, Francesco Emanuele Stradi et.al., Paper: [http://arxiv.org/abs/2403.03672v1](http://arxiv.org/abs/2403.03672v1)
 - 2024-03-06, **Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**, He Li et.al., Paper: [http://arxiv.org/abs/2403.03541v1](http://arxiv.org/abs/2403.03541v1)

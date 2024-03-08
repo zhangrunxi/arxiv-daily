@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04745v1-b31b1b.svg)](http://arxiv.org/abs/2403.04745v1)|null|
+|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04593v1-b31b1b.svg)](http://arxiv.org/abs/2403.04593v1)|null|
+|**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04443v1-b31b1b.svg)](http://arxiv.org/abs/2403.04443v1)|null|
+|**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04299v1-b31b1b.svg)](http://arxiv.org/abs/2403.04299v1)|null|
+|**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04232v1-b31b1b.svg)](http://arxiv.org/abs/2403.04232v1)|null|
+|**2024-03-07**|**Towards learning-based planning:The nuPlan benchmark for real-world autonomous driving**|Napat Karnchanachari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04133v1-b31b1b.svg)](http://arxiv.org/abs/2403.04133v1)|null|
 |**2024-03-06**|**3D Object Visibility Prediction in Autonomous Driving**|Chuanyu Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.03681v1-b31b1b.svg)](http://arxiv.org/abs/2403.03681v1)|null|
 |**2024-03-06**|**Learning Adversarial MDPs with Stochastic Hard Constraints**|Francesco Emanuele Stradi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.03672v1-b31b1b.svg)](http://arxiv.org/abs/2403.03672v1)|null|
 |**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.03541v1-b31b1b.svg)](http://arxiv.org/abs/2403.03541v1)|null|
