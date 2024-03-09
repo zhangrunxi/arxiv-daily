@@ -5,7 +5,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04745v1-b31b1b.svg)](http://arxiv.org/abs/2403.04745v1)|null|
-|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04593v1-b31b1b.svg)](http://arxiv.org/abs/2403.04593v1)|null|
+|**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04593v1-b31b1b.svg)](http://arxiv.org/abs/2403.04593v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/elm)**|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04443v1-b31b1b.svg)](http://arxiv.org/abs/2403.04443v1)|null|
 |**2024-03-07**|**LitSim: Conflict-aware Policy for Long-term Interactive Traffic Simulation**|Haojie Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04299v1-b31b1b.svg)](http://arxiv.org/abs/2403.04299v1)|null|
 |**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04232v1-b31b1b.svg)](http://arxiv.org/abs/2403.04232v1)|null|
