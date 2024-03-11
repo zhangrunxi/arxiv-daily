@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05513v1-b31b1b.svg)](http://arxiv.org/abs/2403.05513v1)|null|
+|**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05489v1-b31b1b.svg)](http://arxiv.org/abs/2403.05489v1)|null|
+|**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05329v1-b31b1b.svg)](http://arxiv.org/abs/2403.05329v1)|null|
+|**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05327v1-b31b1b.svg)](http://arxiv.org/abs/2403.05327v1)|null|
+|**2024-03-08**|**LVIC: Multi-modality segmentation by Lifting Visual Info as Cue**|Zichao Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05159v1-b31b1b.svg)](http://arxiv.org/abs/2403.05159v1)|null|
+|**2024-03-08**|**LanePtrNet: Revisiting Lane Detection as Point Voting and Grouping on Curves**|Jiayan Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05155v1-b31b1b.svg)](http://arxiv.org/abs/2403.05155v1)|null|
+|**2024-03-08**|**RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**|Kai Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05133v1-b31b1b.svg)](http://arxiv.org/abs/2403.05133v1)|null|
+|**2024-03-08**|**DyRoNet: A Low-Rank Adapter Enhanced Dynamic Routing Network for Streaming Perception**|Xiang Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05050v1-b31b1b.svg)](http://arxiv.org/abs/2403.05050v1)|null|
+|**2024-03-08**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05002v1-b31b1b.svg)](http://arxiv.org/abs/2403.05002v1)|null|
+|**2024-03-07**|**Fooling Neural Networks for Motion Forecasting via Adversarial Attacks**|Edgar Medina et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04954v1-b31b1b.svg)](http://arxiv.org/abs/2403.04954v1)|null|
 |**2024-03-07**|**A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**|Kensuke Nakamura et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04745v1-b31b1b.svg)](http://arxiv.org/abs/2403.04745v1)|null|
 |**2024-03-07**|**Embodied Understanding of Driving Scenarios**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04593v1-b31b1b.svg)](http://arxiv.org/abs/2403.04593v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/elm)**|
 |**2024-03-07**|**FriendNet: Detection-Friendly Dehazing Network**|Yihua Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.04443v1-b31b1b.svg)](http://arxiv.org/abs/2403.04443v1)|null|
