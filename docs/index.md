@@ -8,6 +8,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06845v1-b31b1b.svg)](http://arxiv.org/abs/2403.06845v1)|null|
+|**2024-03-11**|**PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**|Mert Gulsen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06698v1-b31b1b.svg)](http://arxiv.org/abs/2403.06698v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batuceng/diffusion-layer-robustness-pc)**|
+|**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06538v1-b31b1b.svg)](http://arxiv.org/abs/2403.06538v1)|null|
+|**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06501v1-b31b1b.svg)](http://arxiv.org/abs/2403.06501v1)|null|
+|**2024-03-10**|**On depth prediction for autonomous driving using self-supervised learning**|Houssem Boulahbal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06194v1-b31b1b.svg)](http://arxiv.org/abs/2403.06194v1)|null|
+|**2024-03-10**|**Cross-Cluster Shifting for Efficient and Effective 3D Object Detection in Autonomous Driving**|Zhili Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06166v1-b31b1b.svg)](http://arxiv.org/abs/2403.06166v1)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05907v1-b31b1b.svg)](http://arxiv.org/abs/2403.05907v1)|null|
+|**2024-03-09**|**Fast Kernel Scene Flow**|Xueqian Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05896v1-b31b1b.svg)](http://arxiv.org/abs/2403.05896v1)|null|
+|**2024-03-09**|**SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection**|Gang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05817v1-b31b1b.svg)](http://arxiv.org/abs/2403.05817v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhanggang001/hednet)**|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05513v1-b31b1b.svg)](http://arxiv.org/abs/2403.05513v1)|null|
 |**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05489v1-b31b1b.svg)](http://arxiv.org/abs/2403.05489v1)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.05329v1-b31b1b.svg)](http://arxiv.org/abs/2403.05329v1)|null|

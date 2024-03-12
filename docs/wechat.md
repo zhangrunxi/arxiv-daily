@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-03-11, **DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2403.06845v1](http://arxiv.org/abs/2403.06845v1)
+- 2024-03-11, **PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**, Mert Gulsen et.al., Paper: [http://arxiv.org/abs/2403.06698v1](http://arxiv.org/abs/2403.06698v1), Code: **[https://github.com/batuceng/diffusion-layer-robustness-pc](https://github.com/batuceng/diffusion-layer-robustness-pc)**
+- 2024-03-11, **3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**, Xiting Zhao et.al., Paper: [http://arxiv.org/abs/2403.06538v1](http://arxiv.org/abs/2403.06538v1)
+- 2024-03-11, **3D Semantic Segmentation-Driven Representations for 3D Object Detection**, Hayeon O et.al., Paper: [http://arxiv.org/abs/2403.06501v1](http://arxiv.org/abs/2403.06501v1)
+- 2024-03-10, **On depth prediction for autonomous driving using self-supervised learning**, Houssem Boulahbal et.al., Paper: [http://arxiv.org/abs/2403.06194v1](http://arxiv.org/abs/2403.06194v1)
+- 2024-03-10, **Cross-Cluster Shifting for Efficient and Effective 3D Object Detection in Autonomous Driving**, Zhili Chen et.al., Paper: [http://arxiv.org/abs/2403.06166v1](http://arxiv.org/abs/2403.06166v1)
+- 2024-03-09, **Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**, Junyi Cao et.al., Paper: [http://arxiv.org/abs/2403.05907v1](http://arxiv.org/abs/2403.05907v1)
+- 2024-03-09, **Fast Kernel Scene Flow**, Xueqian Li et.al., Paper: [http://arxiv.org/abs/2403.05896v1](http://arxiv.org/abs/2403.05896v1)
+- 2024-03-09, **SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection**, Gang Zhang et.al., Paper: [http://arxiv.org/abs/2403.05817v1](http://arxiv.org/abs/2403.05817v1), Code: **[https://github.com/zhanggang001/hednet](https://github.com/zhanggang001/hednet)**
 - 2024-03-08, **A Detection and Filtering Framework for Collaborative Localization**, Thirumalaesh Ashokkumar et.al., Paper: [http://arxiv.org/abs/2403.05513v1](http://arxiv.org/abs/2403.05513v1)
 - 2024-03-08, **JointMotion: Joint Self-supervision for Joint Motion Prediction**, Royden Wagner et.al., Paper: [http://arxiv.org/abs/2403.05489v1](http://arxiv.org/abs/2403.05489v1)
 - 2024-03-08, **OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**, Ji Zhang et.al., Paper: [http://arxiv.org/abs/2403.05329v1](http://arxiv.org/abs/2403.05329v1)
