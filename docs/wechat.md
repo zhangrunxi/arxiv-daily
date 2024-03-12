@@ -10,8 +10,8 @@
 - 2024-03-08, **LanePtrNet: Revisiting Lane Detection as Point Voting and Grouping on Curves**, Jiayan Cao et.al., Paper: [http://arxiv.org/abs/2403.05155v1](http://arxiv.org/abs/2403.05155v1)
 - 2024-03-08, **RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**, Kai Xiong et.al., Paper: [http://arxiv.org/abs/2403.05133v1](http://arxiv.org/abs/2403.05133v1)
 - 2024-03-08, **DyRoNet: A Low-Rank Adapter Enhanced Dynamic Routing Network for Streaming Perception**, Xiang Huang et.al., Paper: [http://arxiv.org/abs/2403.05050v1](http://arxiv.org/abs/2403.05050v1)
-- 2024-03-08, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v1](http://arxiv.org/abs/2403.05002v1)
-- 2024-03-07, **Fooling Neural Networks for Motion Forecasting via Adversarial Attacks**, Edgar Medina et.al., Paper: [http://arxiv.org/abs/2403.04954v1](http://arxiv.org/abs/2403.04954v1)
+- 2024-03-11, **LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**, Xinrui Wu et.al., Paper: [http://arxiv.org/abs/2403.05002v2](http://arxiv.org/abs/2403.05002v2)
+- 2024-03-11, **Fooling Neural Networks for Motion Forecasting via Adversarial Attacks**, Edgar Medina et.al., Paper: [http://arxiv.org/abs/2403.04954v2](http://arxiv.org/abs/2403.04954v2)
 - 2024-03-07, **A General Calibrated Regret Metric for Detecting and Mitigating Human-Robot Interaction Failures**, Kensuke Nakamura et.al., Paper: [http://arxiv.org/abs/2403.04745v1](http://arxiv.org/abs/2403.04745v1)
 - 2024-03-07, **Embodied Understanding of Driving Scenarios**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2403.04593v1](http://arxiv.org/abs/2403.04593v1), Code: **[https://github.com/opendrivelab/elm](https://github.com/opendrivelab/elm)**
 - 2024-03-07, **FriendNet: Detection-Friendly Dehazing Network**, Yihua Fan et.al., Paper: [http://arxiv.org/abs/2403.04443v1](http://arxiv.org/abs/2403.04443v1)
