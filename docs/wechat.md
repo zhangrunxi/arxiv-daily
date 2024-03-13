@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-03-12, **RobotCycle: Assessing Cycling Safety in Urban Environments**, Efimia Panagiotaki et.al., Paper: [http://arxiv.org/abs/2403.07789v1](http://arxiv.org/abs/2403.07789v1)
+- 2024-03-12, **Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2403.07746v1](http://arxiv.org/abs/2403.07746v1)
+- 2024-03-12, **A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**, Quoc-Vinh Lai-Dang et.al., Paper: [http://arxiv.org/abs/2403.07542v1](http://arxiv.org/abs/2403.07542v1)
+- 2024-03-12, **Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**, JunDa Cheng et.al., Paper: [http://arxiv.org/abs/2403.07535v1](http://arxiv.org/abs/2403.07535v1)
+- 2024-03-12, **Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**, Alexander Timans et.al., Paper: [http://arxiv.org/abs/2403.07263v1](http://arxiv.org/abs/2403.07263v1)
+- 2024-03-12, **Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**, Adam Villaflor et.al., Paper: [http://arxiv.org/abs/2403.07232v1](http://arxiv.org/abs/2403.07232v1)
+- 2024-03-11, **RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**, Raphael Trumpp et.al., Paper: [http://arxiv.org/abs/2403.07129v1](http://arxiv.org/abs/2403.07129v1)
 - 2024-03-11, **DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2403.06845v1](http://arxiv.org/abs/2403.06845v1)
 - 2024-03-11, **PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**, Mert Gulsen et.al., Paper: [http://arxiv.org/abs/2403.06698v1](http://arxiv.org/abs/2403.06698v1), Code: **[https://github.com/batuceng/diffusion-layer-robustness-pc](https://github.com/batuceng/diffusion-layer-robustness-pc)**
 - 2024-03-11, **3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**, Xiting Zhao et.al., Paper: [http://arxiv.org/abs/2403.06538v1](http://arxiv.org/abs/2403.06538v1)

@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**RobotCycle: Assessing Cycling Safety in Urban Environments**|Efimia Panagiotaki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07789v1-b31b1b.svg)](http://arxiv.org/abs/2403.07789v1)|null|
+|**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07746v1-b31b1b.svg)](http://arxiv.org/abs/2403.07746v1)|null|
+|**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07542v1-b31b1b.svg)](http://arxiv.org/abs/2403.07542v1)|null|
+|**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07535v1-b31b1b.svg)](http://arxiv.org/abs/2403.07535v1)|null|
+|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07263v1-b31b1b.svg)](http://arxiv.org/abs/2403.07263v1)|null|
+|**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07232v1-b31b1b.svg)](http://arxiv.org/abs/2403.07232v1)|null|
+|**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07129v1-b31b1b.svg)](http://arxiv.org/abs/2403.07129v1)|null|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06845v1-b31b1b.svg)](http://arxiv.org/abs/2403.06845v1)|null|
 |**2024-03-11**|**PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**|Mert Gulsen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06698v1-b31b1b.svg)](http://arxiv.org/abs/2403.06698v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batuceng/diffusion-layer-robustness-pc)**|
 |**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.06538v1-b31b1b.svg)](http://arxiv.org/abs/2403.06538v1)|null|
