@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08760v1-b31b1b.svg)](http://arxiv.org/abs/2403.08760v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08748v1-b31b1b.svg)](http://arxiv.org/abs/2403.08748v1)|null|
+|**2024-03-13**|**Negative Wigner function by decaying interaction from equilibrium**|Michal Kolář et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08474v1-b31b1b.svg)](http://arxiv.org/abs/2403.08474v1)|null|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08455v1-b31b1b.svg)](http://arxiv.org/abs/2403.08455v1)|null|
+|**2024-03-13**|**DeepCSHAP: Utilizing Shapley Values to Explain Deep Complex-Valued Neural Networks**|Florian Eilers et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08428v1-b31b1b.svg)](http://arxiv.org/abs/2403.08428v1)|null|
+|**2024-03-13**|**Optimized Detection and Classification on GTRSB: Advancing Traffic Sign Recognition with Convolutional Neural Networks**|Dhruv Toshniwal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08283v1-b31b1b.svg)](http://arxiv.org/abs/2403.08283v1)|null|
 |**2024-03-12**|**RobotCycle: Assessing Cycling Safety in Urban Environments**|Efimia Panagiotaki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07789v1-b31b1b.svg)](http://arxiv.org/abs/2403.07789v1)|null|
 |**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07746v1-b31b1b.svg)](http://arxiv.org/abs/2403.07746v1)|null|
 |**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.07542v1-b31b1b.svg)](http://arxiv.org/abs/2403.07542v1)|null|

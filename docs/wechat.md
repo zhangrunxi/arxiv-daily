@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-03-13, **MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**, Jialv Zou et.al., Paper: [http://arxiv.org/abs/2403.08760v1](http://arxiv.org/abs/2403.08760v1), Code: **[https://github.com/hustvl/mim4d](https://github.com/hustvl/mim4d)**
+- 2024-03-13, **Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**, Samuel Sze et.al., Paper: [http://arxiv.org/abs/2403.08748v1](http://arxiv.org/abs/2403.08748v1)
+- 2024-03-13, **Negative Wigner function by decaying interaction from equilibrium**, Michal Kolář et.al., Paper: [http://arxiv.org/abs/2403.08474v1](http://arxiv.org/abs/2403.08474v1)
+- 2024-03-13, **IAMCV Multi-Scenario Vehicle Interaction Dataset**, Novel Certad et.al., Paper: [http://arxiv.org/abs/2403.08455v1](http://arxiv.org/abs/2403.08455v1)
+- 2024-03-13, **DeepCSHAP: Utilizing Shapley Values to Explain Deep Complex-Valued Neural Networks**, Florian Eilers et.al., Paper: [http://arxiv.org/abs/2403.08428v1](http://arxiv.org/abs/2403.08428v1)
+- 2024-03-13, **Optimized Detection and Classification on GTRSB: Advancing Traffic Sign Recognition with Convolutional Neural Networks**, Dhruv Toshniwal et.al., Paper: [http://arxiv.org/abs/2403.08283v1](http://arxiv.org/abs/2403.08283v1)
 - 2024-03-12, **RobotCycle: Assessing Cycling Safety in Urban Environments**, Efimia Panagiotaki et.al., Paper: [http://arxiv.org/abs/2403.07789v1](http://arxiv.org/abs/2403.07789v1)
 - 2024-03-12, **Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**, Philipp Wolters et.al., Paper: [http://arxiv.org/abs/2403.07746v1](http://arxiv.org/abs/2403.07746v1)
 - 2024-03-12, **A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**, Quoc-Vinh Lai-Dang et.al., Paper: [http://arxiv.org/abs/2403.07542v1](http://arxiv.org/abs/2403.07542v1)
