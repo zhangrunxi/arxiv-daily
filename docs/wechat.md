@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-03-14, **Generalized Predictive Model for Autonomous Driving**, Jiazhi Yang et.al., Paper: [http://arxiv.org/abs/2403.09630v1](http://arxiv.org/abs/2403.09630v1)
+- 2024-03-14, **Are you a robot? Detecting Autonomous Vehicles from Behavior Analysis**, Fabio Maresca et.al., Paper: [http://arxiv.org/abs/2403.09571v1](http://arxiv.org/abs/2403.09571v1)
+- 2024-03-14, **On STPA for Distributed Development of Safe Autonomous Driving: An Interview Study**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2403.09509v1](http://arxiv.org/abs/2403.09509v1)
+- 2024-03-14, **An Industrial Experience Report about Challenges from Continuous Monitoring, Improvement, and Deployment for Autonomous Driving Features**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2403.09474v1](http://arxiv.org/abs/2403.09474v1)
+- 2024-03-14, **EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**, Jiaqing Zhang et.al., Paper: [http://arxiv.org/abs/2403.09323v1](http://arxiv.org/abs/2403.09323v1)
+- 2024-03-14, **Intention-aware Denoising Diffusion Model for Trajectory Prediction**, Chen Liu et.al., Paper: [http://arxiv.org/abs/2403.09190v1](http://arxiv.org/abs/2403.09190v1)
+- 2024-03-14, **PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**, Tianyuan Yuan et.al., Paper: [http://arxiv.org/abs/2403.09079v1](http://arxiv.org/abs/2403.09079v1)
+- 2024-03-13, **Safe Road-Crossing by Autonomous Wheelchairs: a Novel Dataset and its Experimental Evaluation**, Carlo Grigioni et.al., Paper: [http://arxiv.org/abs/2403.08984v1](http://arxiv.org/abs/2403.08984v1)
+- 2024-03-13, **FogGuard: guarding YOLO against fog using perceptual loss**, Soheil Gharatappeh et.al., Paper: [http://arxiv.org/abs/2403.08939v1](http://arxiv.org/abs/2403.08939v1)
+- 2024-03-13, **CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow**, Chenbin Pan et.al., Paper: [http://arxiv.org/abs/2403.08919v1](http://arxiv.org/abs/2403.08919v1)
 - 2024-03-13, **MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**, Jialv Zou et.al., Paper: [http://arxiv.org/abs/2403.08760v1](http://arxiv.org/abs/2403.08760v1), Code: **[https://github.com/hustvl/mim4d](https://github.com/hustvl/mim4d)**
 - 2024-03-13, **Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**, Samuel Sze et.al., Paper: [http://arxiv.org/abs/2403.08748v1](http://arxiv.org/abs/2403.08748v1)
 - 2024-03-13, **Negative Wigner function by decaying interaction from equilibrium**, Michal Kolář et.al., Paper: [http://arxiv.org/abs/2403.08474v1](http://arxiv.org/abs/2403.08474v1)
