@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09630v1-b31b1b.svg)](http://arxiv.org/abs/2403.09630v1)|null|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09630v1-b31b1b.svg)](http://arxiv.org/abs/2403.09630v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/driveagi)**|
 |**2024-03-14**|**Are you a robot? Detecting Autonomous Vehicles from Behavior Analysis**|Fabio Maresca et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09571v1-b31b1b.svg)](http://arxiv.org/abs/2403.09571v1)|null|
 |**2024-03-14**|**On STPA for Distributed Development of Safe Autonomous Driving: An Interview Study**|Ali Nouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09509v1-b31b1b.svg)](http://arxiv.org/abs/2403.09509v1)|null|
 |**2024-03-14**|**An Industrial Experience Report about Challenges from Continuous Monitoring, Improvement, and Deployment for Autonomous Driving Features**|Ali Nouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09474v1-b31b1b.svg)](http://arxiv.org/abs/2403.09474v1)|null|
-|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09323v1-b31b1b.svg)](http://arxiv.org/abs/2403.09323v1)|null|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09323v1-b31b1b.svg)](http://arxiv.org/abs/2403.09323v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/icey-zhang/efficientmfd)**|
 |**2024-03-14**|**Intention-aware Denoising Diffusion Model for Trajectory Prediction**|Chen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09190v1-b31b1b.svg)](http://arxiv.org/abs/2403.09190v1)|null|
-|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09079v1-b31b1b.svg)](http://arxiv.org/abs/2403.09079v1)|null|
+|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.09079v1-b31b1b.svg)](http://arxiv.org/abs/2403.09079v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Safe Road-Crossing by Autonomous Wheelchairs: a Novel Dataset and its Experimental Evaluation**|Carlo Grigioni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08984v1-b31b1b.svg)](http://arxiv.org/abs/2403.08984v1)|null|
 |**2024-03-13**|**FogGuard: guarding YOLO against fog using perceptual loss**|Soheil Gharatappeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08939v1-b31b1b.svg)](http://arxiv.org/abs/2403.08939v1)|null|
 |**2024-03-13**|**CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow**|Chenbin Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.08919v1-b31b1b.svg)](http://arxiv.org/abs/2403.08919v1)|null|
