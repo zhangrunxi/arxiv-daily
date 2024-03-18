@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-03-15, **P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**, Zhou Jiang et.al., Paper: [http://arxiv.org/abs/2403.10521v1](http://arxiv.org/abs/2403.10521v1)
+- 2024-03-15, **Gradient based Feature Attribution in Explainable AI: A Technical Review**, Yongjie Wang et.al., Paper: [http://arxiv.org/abs/2403.10415v1](http://arxiv.org/abs/2403.10415v1)
+- 2024-03-15, **Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**, Hongyuan Yu et.al., Paper: [http://arxiv.org/abs/2403.10413v1](http://arxiv.org/abs/2403.10413v1), Code: **[https://github.com/marvinyu1995/hyctas](https://github.com/marvinyu1995/hyctas)**
+- 2024-03-15, **SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2403.10353v1](http://arxiv.org/abs/2403.10353v1)
+- 2024-03-15, **CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**, Yukun Li et.al., Paper: [http://arxiv.org/abs/2403.10245v1](http://arxiv.org/abs/2403.10245v1)
+- 2024-03-15, **RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**, Ruiyang Hao et.al., Paper: [http://arxiv.org/abs/2403.10145v1](http://arxiv.org/abs/2403.10145v1)
+- 2024-03-15, **Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2403.10107v1](http://arxiv.org/abs/2403.10107v1)
+- 2024-03-15, **RangeLDM: Fast Realistic LiDAR Point Cloud Generation**, Qianjiang Hu et.al., Paper: [http://arxiv.org/abs/2403.10094v1](http://arxiv.org/abs/2403.10094v1)
+- 2024-03-15, **Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**, Jingyi Xu et.al., Paper: [http://arxiv.org/abs/2403.10001v1](http://arxiv.org/abs/2403.10001v1), Code: **[https://github.com/etrontech/vfmseg](https://github.com/etrontech/vfmseg)**
+- 2024-03-14, **Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models**, Jiahui Wu et.al., Paper: [http://arxiv.org/abs/2403.09906v1](http://arxiv.org/abs/2403.09906v1)
 - 2024-03-14, **Generalized Predictive Model for Autonomous Driving**, Jiazhi Yang et.al., Paper: [http://arxiv.org/abs/2403.09630v1](http://arxiv.org/abs/2403.09630v1), Code: **[https://github.com/opendrivelab/driveagi](https://github.com/opendrivelab/driveagi)**
 - 2024-03-14, **Are you a robot? Detecting Autonomous Vehicles from Behavior Analysis**, Fabio Maresca et.al., Paper: [http://arxiv.org/abs/2403.09571v1](http://arxiv.org/abs/2403.09571v1)
 - 2024-03-14, **On STPA for Distributed Development of Safe Autonomous Driving: An Interview Study**, Ali Nouri et.al., Paper: [http://arxiv.org/abs/2403.09509v1](http://arxiv.org/abs/2403.09509v1)
