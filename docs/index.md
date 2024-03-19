@@ -8,6 +8,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11695v1-b31b1b.svg)](http://arxiv.org/abs/2403.11695v1)|null|
+|**2024-03-18**|**SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**|Amira Guesmi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11515v1-b31b1b.svg)](http://arxiv.org/abs/2403.11515v1)|null|
+|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11496v1-b31b1b.svg)](http://arxiv.org/abs/2403.11496v1)|null|
+|**2024-03-18**|**Demystifying Deep Reinforcement Learning-Based Autonomous Vehicle Decision-Making**|Hanxi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11432v1-b31b1b.svg)](http://arxiv.org/abs/2403.11432v1)|null|
+|**2024-03-17**|**Driving Style Alignment for LLM-powered Driver Agent**|Ruoxuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11368v1-b31b1b.svg)](http://arxiv.org/abs/2403.11368v1)|null|
+|**2024-03-17**|**Large Language Models Powered Context-aware Motion Prediction**|Xiaoji Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11057v1-b31b1b.svg)](http://arxiv.org/abs/2403.11057v1)|null|
 |**2024-03-15**|**P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**|Zhou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.10521v1-b31b1b.svg)](http://arxiv.org/abs/2403.10521v1)|null|
 |**2024-03-15**|**Gradient based Feature Attribution in Explainable AI: A Technical Review**|Yongjie Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.10415v1-b31b1b.svg)](http://arxiv.org/abs/2403.10415v1)|null|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.10413v1-b31b1b.svg)](http://arxiv.org/abs/2403.10413v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marvinyu1995/hyctas)**|
