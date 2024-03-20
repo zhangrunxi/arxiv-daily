@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**|Dongyang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.12552v1-b31b1b.svg)](http://arxiv.org/abs/2403.12552v1)|null|
+|**2024-03-18**|**Safety Implications of Explainable Artificial Intelligence in End-to-End Autonomous Driving**|Shahin Atakishiyev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.12176v1-b31b1b.svg)](http://arxiv.org/abs/2403.12176v1)|null|
+|**2024-03-18**|**HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation**|Ce Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.12033v1-b31b1b.svg)](http://arxiv.org/abs/2403.12033v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhangce01/HiKER-SGG)**|
+|**2024-03-18**|**Informed Spectral Normalized Gaussian Processes for Trajectory Prediction**|Christian Schlauch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11966v1-b31b1b.svg)](http://arxiv.org/abs/2403.11966v1)|null|
+|**2024-03-18**|**Single-Agent Actor Critic for Decentralized Cooperative Driving**|Shengchao Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11914v1-b31b1b.svg)](http://arxiv.org/abs/2403.11914v1)|null|
+|**2024-03-19**|**Reinforcement Learning with Latent State Inference for Autonomous On-ramp Merging under Observation Delay**|Amin Tabrizian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11852v2-b31b1b.svg)](http://arxiv.org/abs/2403.11852v2)|null|
+|**2024-03-18**|**GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**|Ziying Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11848v1-b31b1b.svg)](http://arxiv.org/abs/2403.11848v1)|null|
+|**2024-03-18**|**EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding**|Wenhua Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11789v1-b31b1b.svg)](http://arxiv.org/abs/2403.11789v1)|null|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11695v1-b31b1b.svg)](http://arxiv.org/abs/2403.11695v1)|null|
 |**2024-03-18**|**SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**|Amira Guesmi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11515v1-b31b1b.svg)](http://arxiv.org/abs/2403.11515v1)|null|
 |**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.11496v1-b31b1b.svg)](http://arxiv.org/abs/2403.11496v1)|null|

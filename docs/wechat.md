@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-03-19, **M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2403.12552v1](http://arxiv.org/abs/2403.12552v1)
+- 2024-03-18, **Safety Implications of Explainable Artificial Intelligence in End-to-End Autonomous Driving**, Shahin Atakishiyev et.al., Paper: [http://arxiv.org/abs/2403.12176v1](http://arxiv.org/abs/2403.12176v1)
+- 2024-03-18, **HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2403.12033v1](http://arxiv.org/abs/2403.12033v1), Code: **[https://github.com/zhangce01/HiKER-SGG](https://github.com/zhangce01/HiKER-SGG)**
+- 2024-03-18, **Informed Spectral Normalized Gaussian Processes for Trajectory Prediction**, Christian Schlauch et.al., Paper: [http://arxiv.org/abs/2403.11966v1](http://arxiv.org/abs/2403.11966v1)
+- 2024-03-18, **Single-Agent Actor Critic for Decentralized Cooperative Driving**, Shengchao Yan et.al., Paper: [http://arxiv.org/abs/2403.11914v1](http://arxiv.org/abs/2403.11914v1)
+- 2024-03-19, **Reinforcement Learning with Latent State Inference for Autonomous On-ramp Merging under Observation Delay**, Amin Tabrizian et.al., Paper: [http://arxiv.org/abs/2403.11852v2](http://arxiv.org/abs/2403.11852v2)
+- 2024-03-18, **GraphBEV: Towards Robust BEV Feature Alignment for Multi-Modal 3D Object Detection**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2403.11848v1](http://arxiv.org/abs/2403.11848v1)
+- 2024-03-18, **EMIE-MAP: Large-Scale Road Surface Reconstruction Based on Explicit Mesh and Implicit Encoding**, Wenhua Wu et.al., Paper: [http://arxiv.org/abs/2403.11789v1](http://arxiv.org/abs/2403.11789v1)
 - 2024-03-18, **TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**, Ali Asghar Sharifi et.al., Paper: [http://arxiv.org/abs/2403.11695v1](http://arxiv.org/abs/2403.11695v1)
 - 2024-03-18, **SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**, Amira Guesmi et.al., Paper: [http://arxiv.org/abs/2403.11515v1](http://arxiv.org/abs/2403.11515v1)
 - 2024-03-18, **MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**, Thien-Minh Nguyen et.al., Paper: [http://arxiv.org/abs/2403.11496v1](http://arxiv.org/abs/2403.11496v1)
