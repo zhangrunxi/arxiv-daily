@@ -8,7 +8,7 @@
 - 2024-03-18, **Demystifying Deep Reinforcement Learning-Based Autonomous Vehicle Decision-Making**, Hanxi Wan et.al., Paper: [http://arxiv.org/abs/2403.11432v1](http://arxiv.org/abs/2403.11432v1)
 - 2024-03-17, **Driving Style Alignment for LLM-powered Driver Agent**, Ruoxuan Yang et.al., Paper: [http://arxiv.org/abs/2403.11368v1](http://arxiv.org/abs/2403.11368v1)
 - 2024-03-17, **Large Language Models Powered Context-aware Motion Prediction**, Xiaoji Zheng et.al., Paper: [http://arxiv.org/abs/2403.11057v1](http://arxiv.org/abs/2403.11057v1)
-- 2024-03-15, **P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**, Zhou Jiang et.al., Paper: [http://arxiv.org/abs/2403.10521v1](http://arxiv.org/abs/2403.10521v1)
+- 2024-03-19, **P-MapNet: Far-seeing Map Generator Enhanced by both SDMap and HDMap Priors**, Zhou Jiang et.al., Paper: [http://arxiv.org/abs/2403.10521v2](http://arxiv.org/abs/2403.10521v2)
 - 2024-03-15, **Gradient based Feature Attribution in Explainable AI: A Technical Review**, Yongjie Wang et.al., Paper: [http://arxiv.org/abs/2403.10415v1](http://arxiv.org/abs/2403.10415v1)
 - 2024-03-15, **Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**, Hongyuan Yu et.al., Paper: [http://arxiv.org/abs/2403.10413v1](http://arxiv.org/abs/2403.10413v1), Code: **[https://github.com/marvinyu1995/hyctas](https://github.com/marvinyu1995/hyctas)**
 - 2024-03-15, **SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2403.10353v1](http://arxiv.org/abs/2403.10353v1)
