@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2024-03-20, **Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**, Luca Giamattei et.al., Paper: [http://arxiv.org/abs/2403.13729v1](http://arxiv.org/abs/2403.13729v1)
-- 2024-03-20, **AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**, Xiaosong Jia et.al., Paper: [http://arxiv.org/abs/2403.13331v1](http://arxiv.org/abs/2403.13331v1)
+- 2024-03-21, **AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**, Xiaosong Jia et.al., Paper: [http://arxiv.org/abs/2403.13331v2](http://arxiv.org/abs/2403.13331v2)
 - 2024-03-20, **Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2403.13261v1](http://arxiv.org/abs/2403.13261v1), Code: **[https://github.com/kwwcv/selfmotion](https://github.com/kwwcv/selfmotion)**
 - 2024-03-20, **A Rule-Compliance Path Planner for Lane-Merge Scenarios Based on Responsibility-Sensitive Safety**, Pengfei Lin et.al., Paper: [http://arxiv.org/abs/2403.13251v1](http://arxiv.org/abs/2403.13251v1)
 - 2024-03-19, **M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2403.12552v1](http://arxiv.org/abs/2403.12552v1)
