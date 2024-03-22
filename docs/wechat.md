@@ -2,9 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-03-21, **Efficient Model Learning and Adaptive Tracking Control of Magnetic Micro-Robots for Non-Contact Manipulation**, Yongyi Jia et.al., Paper: [http://arxiv.org/abs/2403.14414v1](http://arxiv.org/abs/2403.14414v1)
+- 2024-03-21, **SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**, Lizhe Liu et.al., Paper: [http://arxiv.org/abs/2403.14366v1](http://arxiv.org/abs/2403.14366v1)
+- 2024-03-21, **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**, Yoonsung Kim et.al., Paper: [http://arxiv.org/abs/2403.14353v1](http://arxiv.org/abs/2403.14353v1)
+- 2024-03-21, **Event-triggered Boundary Control of Mixed-autonomy Traffic**, Yihuai Zhang et.al., Paper: [http://arxiv.org/abs/2403.14194v1](http://arxiv.org/abs/2403.14194v1)
 - 2024-03-20, **Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**, Luca Giamattei et.al., Paper: [http://arxiv.org/abs/2403.13729v1](http://arxiv.org/abs/2403.13729v1)
 - 2024-03-21, **AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**, Xiaosong Jia et.al., Paper: [http://arxiv.org/abs/2403.13331v2](http://arxiv.org/abs/2403.13331v2)
-- 2024-03-20, **Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2403.13261v1](http://arxiv.org/abs/2403.13261v1), Code: **[https://github.com/kwwcv/selfmotion](https://github.com/kwwcv/selfmotion)**
+- 2024-03-21, **Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**, Kewei Wang et.al., Paper: [http://arxiv.org/abs/2403.13261v2](http://arxiv.org/abs/2403.13261v2), Code: **[https://github.com/kwwcv/selfmotion](https://github.com/kwwcv/selfmotion)**
 - 2024-03-20, **A Rule-Compliance Path Planner for Lane-Merge Scenarios Based on Responsibility-Sensitive Safety**, Pengfei Lin et.al., Paper: [http://arxiv.org/abs/2403.13251v1](http://arxiv.org/abs/2403.13251v1)
 - 2024-03-19, **M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2403.12552v1](http://arxiv.org/abs/2403.12552v1)
 - 2024-03-18, **Safety Implications of Explainable Artificial Intelligence in End-to-End Autonomous Driving**, Shahin Atakishiyev et.al., Paper: [http://arxiv.org/abs/2403.12176v1](http://arxiv.org/abs/2403.12176v1)
