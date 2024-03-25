@@ -4,6 +4,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15370v1-b31b1b.svg)](http://arxiv.org/abs/2403.15370v1)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15313v1-b31b1b.svg)](http://arxiv.org/abs/2403.15313v1)|null|
+|**2024-03-22**|**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**|Junbo Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15241v1-b31b1b.svg)](http://arxiv.org/abs/2403.15241v1)|null|
+|**2024-03-22**|**AV-Occupant Perceived Risk Model for Cut-In Scenarios with Empirical Evaluation**|Sarah Barendswaard et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15171v1-b31b1b.svg)](http://arxiv.org/abs/2403.15171v1)|null|
+|**2024-03-22**|**Learning from Visual Demonstrations through Differentiable Nonlinear MPC for Personalized Autonomous Driving**|Flavia Sofia Acerbo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15102v1-b31b1b.svg)](http://arxiv.org/abs/2403.15102v1)|null|
+|**2024-03-22**|**Tri-Perspective View Decomposition for Geometry-Aware Depth Completion**|Zhiqiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.15008v1-b31b1b.svg)](http://arxiv.org/abs/2403.15008v1)|null|
+|**2024-03-22**|**Boundary-Aware Value Function Generation for Safe Stochastic Motion Planning**|Junhong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.14956v1-b31b1b.svg)](http://arxiv.org/abs/2403.14956v1)|null|
+|**2024-03-22**|**Unifying Lane-Level Traffic Prediction from a Graph Structural Perspective: Benchmark and Baseline**|Shuhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.14941v1-b31b1b.svg)](http://arxiv.org/abs/2403.14941v1)|null|
 |**2024-03-21**|**Efficient Model Learning and Adaptive Tracking Control of Magnetic Micro-Robots for Non-Contact Manipulation**|Yongyi Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.14414v1-b31b1b.svg)](http://arxiv.org/abs/2403.14414v1)|null|
 |**2024-03-21**|**SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**|Lizhe Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.14366v1-b31b1b.svg)](http://arxiv.org/abs/2403.14366v1)|null|
 |**2024-03-21**|**DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics**|Yoonsung Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.14353v1-b31b1b.svg)](http://arxiv.org/abs/2403.14353v1)|null|
