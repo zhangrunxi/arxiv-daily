@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-03-25, **Synapse: Learning Preferential Concepts from Visual Demonstrations**, Sadanand Modak et.al., Paper: [http://arxiv.org/abs/2403.16689v1](http://arxiv.org/abs/2403.16689v1)
+- 2024-03-25, **RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2403.16440v1](http://arxiv.org/abs/2403.16440v1), Code: **[https://github.com/vdigpku/rcbevdet](https://github.com/vdigpku/rcbevdet)**
+- 2024-03-25, **Producing and Leveraging Online Map Uncertainty in Trajectory Prediction**, Xunjiang Gu et.al., Paper: [http://arxiv.org/abs/2403.16439v1](http://arxiv.org/abs/2403.16439v1), Code: **[https://github.com/alfredgu001324/mapuncertaintyprediction](https://github.com/alfredgu001324/mapuncertaintyprediction)**
+- 2024-03-25, **ProIn: Learning to Predict Trajectory Based on Progressive Interactions for Autonomous Driving**, Yinke Dong et.al., Paper: [http://arxiv.org/abs/2403.16374v1](http://arxiv.org/abs/2403.16374v1)
+- 2024-03-25, **Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**, Madhumitha Sakthi et.al., Paper: [http://arxiv.org/abs/2403.16338v1](http://arxiv.org/abs/2403.16338v1)
+- 2024-03-24, **Interference Management for Integrated Sensing and Communication Systems: A Survey**, Yangyang Niu et.al., Paper: [http://arxiv.org/abs/2403.16189v1](http://arxiv.org/abs/2403.16189v1)
+- 2024-03-24, **Self-Supervised Multi-Frame Neural Scene Flow**, Dongrui Liu et.al., Paper: [http://arxiv.org/abs/2403.16116v1](http://arxiv.org/abs/2403.16116v1)
+- 2024-03-24, **Are NeRFs ready for autonomous driving? Towards closing the real-to-simulation gap**, Carl Lindström et.al., Paper: [http://arxiv.org/abs/2403.16092v1](http://arxiv.org/abs/2403.16092v1)
+- 2024-03-23, **iA$^*$: Imperative Learning-based A$^*$ Search for Pathfinding**, Xiangyu Chen et.al., Paper: [http://arxiv.org/abs/2403.15870v1](http://arxiv.org/abs/2403.15870v1)
+- 2024-03-23, **Spatio-Temporal Bi-directional Cross-frame Memory for Distractor Filtering Point Cloud Single Object Tracking**, Shaoyu Sun et.al., Paper: [http://arxiv.org/abs/2403.15831v1](http://arxiv.org/abs/2403.15831v1)
 - 2024-03-22, **Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**, Aqeel Anwar et.al., Paper: [http://arxiv.org/abs/2403.15370v1](http://arxiv.org/abs/2403.15370v1)
 - 2024-03-22, **CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**, Nicolas Baumann et.al., Paper: [http://arxiv.org/abs/2403.15313v1](http://arxiv.org/abs/2403.15313v1)
 - 2024-03-22, **IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**, Junbo Yin et.al., Paper: [http://arxiv.org/abs/2403.15241v1](http://arxiv.org/abs/2403.15241v1)
