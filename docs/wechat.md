@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-03-26, **Low-Latency Neural Stereo Streaming**, Qiqi Hou et.al., Paper: [http://arxiv.org/abs/2403.17879v1](http://arxiv.org/abs/2403.17879v1)
+- 2024-03-26, **Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**, Axel Brunnbauer et.al., Paper: [http://arxiv.org/abs/2403.17805v1](http://arxiv.org/abs/2403.17805v1), Code: **[https://github.com/autonomousdrivingexaminer/mats-gym](https://github.com/autonomousdrivingexaminer/mats-gym)**
+- 2024-03-26, **Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**, MReza Alipour Sormoli et.al., Paper: [http://arxiv.org/abs/2403.17779v1](http://arxiv.org/abs/2403.17779v1)
+- 2024-03-26, **LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**, Ruiji Liu et.al., Paper: [http://arxiv.org/abs/2403.17774v1](http://arxiv.org/abs/2403.17774v1)
+- 2024-03-26, **UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**, Maciej K Wozniak et.al., Paper: [http://arxiv.org/abs/2403.17633v1](http://arxiv.org/abs/2403.17633v1)
+- 2024-03-26, **Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**, Junhao Zheng et.al., Paper: [http://arxiv.org/abs/2403.17301v1](http://arxiv.org/abs/2403.17301v1), Code: **[https://github.com/gandolfczjh/3d2fool](https://github.com/gandolfczjh/3d2fool)**
+- 2024-03-25, **TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation**, Quang-Huy Che et.al., Paper: [http://arxiv.org/abs/2403.16958v1](http://arxiv.org/abs/2403.16958v1)
+- 2024-03-25, **Exploring Communication Technologies, Standards, and Challenges in Electrified Vehicle Charging**, Xiang Ma et.al., Paper: [http://arxiv.org/abs/2403.16830v1](http://arxiv.org/abs/2403.16830v1)
 - 2024-03-25, **Synapse: Learning Preferential Concepts from Visual Demonstrations**, Sadanand Modak et.al., Paper: [http://arxiv.org/abs/2403.16689v1](http://arxiv.org/abs/2403.16689v1)
 - 2024-03-25, **RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**, Zhiwei Lin et.al., Paper: [http://arxiv.org/abs/2403.16440v1](http://arxiv.org/abs/2403.16440v1), Code: **[https://github.com/vdigpku/rcbevdet](https://github.com/vdigpku/rcbevdet)**
 - 2024-03-25, **Producing and Leveraging Online Map Uncertainty in Trajectory Prediction**, Xunjiang Gu et.al., Paper: [http://arxiv.org/abs/2403.16439v1](http://arxiv.org/abs/2403.16439v1), Code: **[https://github.com/alfredgu001324/mapuncertaintyprediction](https://github.com/alfredgu001324/mapuncertaintyprediction)**
