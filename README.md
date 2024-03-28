@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Temporal Logic Formalisation of ISO 34502 Critical Scenarios: Modular Construction with the RSS Safety Distance**|Jesse Reimann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18764v1-b31b1b.svg)](http://arxiv.org/abs/2403.18764v1)|null|
+|**2024-03-27**|**Autonomous Quantum Heat Engine Based on Non-Markovian Dynamics of an Optomechanical Hamiltonian**|Miika Rasola et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18515v1-b31b1b.svg)](http://arxiv.org/abs/2403.18515v1)|null|
+|**2024-03-27**|**LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models**|Mingxing Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18344v1-b31b1b.svg)](http://arxiv.org/abs/2403.18344v1)|null|
+|**2024-03-27**|**Long and Short-Term Constraints Driven Safe Reinforcement Learning for Autonomous Driving**|Xuemin Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18209v1-b31b1b.svg)](http://arxiv.org/abs/2403.18209v1)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18207v1-b31b1b.svg)](http://arxiv.org/abs/2403.18207v1)|null|
+|**2024-03-26**|**A Study on the Use of Simulation in Synthesizing Path-Following Control Policies for Autonomous Ground Robots**|Harry Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.18021v1-b31b1b.svg)](http://arxiv.org/abs/2403.18021v1)|null|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.17879v1-b31b1b.svg)](http://arxiv.org/abs/2403.17879v1)|null|
 |**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.17805v1-b31b1b.svg)](http://arxiv.org/abs/2403.17805v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousdrivingexaminer/mats-gym)**|
 |**2024-03-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2403.17779v1-b31b1b.svg)](http://arxiv.org/abs/2403.17779v1)|null|
