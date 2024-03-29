@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-03-28, **Human-compatible driving partners through data-regularized self-play reinforcement learning**, Daphne Cornelisse et.al., Paper: [http://arxiv.org/abs/2403.19648v1](http://arxiv.org/abs/2403.19648v1), Code: **[https://github.com/emerge-lab/nocturne_lab](https://github.com/emerge-lab/nocturne_lab)**
+- 2024-03-28, **Situation Awareness for Driver-Centric Driving Style Adaptation**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2403.19595v1](http://arxiv.org/abs/2403.19595v1), Code: **[https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)**
+- 2024-03-28, **Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**, Simon Idoko et.al., Paper: [http://arxiv.org/abs/2403.19461v1](http://arxiv.org/abs/2403.19461v1)
+- 2024-03-28, **SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control**, Binyuan Huang et.al., Paper: [http://arxiv.org/abs/2403.19438v1](http://arxiv.org/abs/2403.19438v1)
+- 2024-03-28, **Learning a Formally Verified Control Barrier Function in Stochastic Environment**, Manan Tayal et.al., Paper: [http://arxiv.org/abs/2403.19332v1](http://arxiv.org/abs/2403.19332v1)
+- 2024-03-28, **CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation**, Lingjun Zhao et.al., Paper: [http://arxiv.org/abs/2403.19104v1](http://arxiv.org/abs/2403.19104v1)
+- 2024-03-28, **GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving**, Yunpeng Zhang et.al., Paper: [http://arxiv.org/abs/2403.19098v1](http://arxiv.org/abs/2403.19098v1), Code: **[https://github.com/zhangyp15/graphad](https://github.com/zhangyp15/graphad)**
+- 2024-03-27, **GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety considerations and Reinforcement Learning**, Hsin-Jung Yang et.al., Paper: [http://arxiv.org/abs/2403.19062v1](http://arxiv.org/abs/2403.19062v1)
+- 2024-03-27, **Design principles, growth laws, and competition of minimal autocatalysts**, Yann Sakref et.al., Paper: [http://arxiv.org/abs/2403.19047v1](http://arxiv.org/abs/2403.19047v1)
+- 2024-03-27, **Ensuring Safe Autonomy: Navigating the Future of Autonomous Vehicles**, Patrick Wolf et.al., Paper: [http://arxiv.org/abs/2403.19006v1](http://arxiv.org/abs/2403.19006v1)
 - 2024-03-27, **Temporal Logic Formalisation of ISO 34502 Critical Scenarios: Modular Construction with the RSS Safety Distance**, Jesse Reimann et.al., Paper: [http://arxiv.org/abs/2403.18764v1](http://arxiv.org/abs/2403.18764v1)
 - 2024-03-27, **Autonomous Quantum Heat Engine Based on Non-Markovian Dynamics of an Optomechanical Hamiltonian**, Miika Rasola et.al., Paper: [http://arxiv.org/abs/2403.18515v1](http://arxiv.org/abs/2403.18515v1)
 - 2024-03-27, **LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models**, Mingxing Peng et.al., Paper: [http://arxiv.org/abs/2403.18344v1](http://arxiv.org/abs/2403.18344v1)
