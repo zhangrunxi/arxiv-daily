@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-03-29, **LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving**, Pranjal Paul et.al., Paper: [http://arxiv.org/abs/2403.20116v1](http://arxiv.org/abs/2403.20116v1)
+- 2024-03-29, **SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**, Zhongrui Yu et.al., Paper: [http://arxiv.org/abs/2403.20079v1](http://arxiv.org/abs/2403.20079v1)
+- 2024-03-29, **HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**, Zhuopeng Li et.al., Paper: [http://arxiv.org/abs/2403.20032v1](http://arxiv.org/abs/2403.20032v1)
+- 2024-03-29, **CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning**, Luke Rowe et.al., Paper: [http://arxiv.org/abs/2403.19918v1](http://arxiv.org/abs/2403.19918v1)
+- 2024-03-29, **PLoc: A New Evaluation Criterion Based on Physical Location for Autonomous Driving Datasets**, Ruining Yang et.al., Paper: [http://arxiv.org/abs/2403.19893v1](http://arxiv.org/abs/2403.19893v1)
+- 2024-03-28, **Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**, Akshay Gopalkrishnan et.al., Paper: [http://arxiv.org/abs/2403.19838v1](http://arxiv.org/abs/2403.19838v1), Code: **[https://github.com/akshaygopalkr/em-vlm4ad](https://github.com/akshaygopalkr/em-vlm4ad)**
+- 2024-03-28, **ENet-21: An Optimized light CNN Structure for Lane Detection**, Seyed Rasoul Hosseini et.al., Paper: [http://arxiv.org/abs/2403.19782v1](http://arxiv.org/abs/2403.19782v1)
 - 2024-03-28, **Human-compatible driving partners through data-regularized self-play reinforcement learning**, Daphne Cornelisse et.al., Paper: [http://arxiv.org/abs/2403.19648v1](http://arxiv.org/abs/2403.19648v1), Code: **[https://github.com/emerge-lab/nocturne_lab](https://github.com/emerge-lab/nocturne_lab)**
 - 2024-03-28, **Situation Awareness for Driver-Centric Driving Style Adaptation**, Johann Haselberger et.al., Paper: [http://arxiv.org/abs/2403.19595v1](http://arxiv.org/abs/2403.19595v1), Code: **[https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation](https://github.com/jhaselberger/sadc-situation-awareness-for-driver-centric-driving-style-adaptation)**
 - 2024-03-28, **Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**, Simon Idoko et.al., Paper: [http://arxiv.org/abs/2403.19461v1](http://arxiv.org/abs/2403.19461v1), Code: **[https://github.com/cisimon7/vqoptmain](https://github.com/cisimon7/vqoptmain)**
