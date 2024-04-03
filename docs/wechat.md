@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-04-02, **Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**, Maico H. W. Engelaar et.al., Paper: [http://arxiv.org/abs/2404.02111v1](http://arxiv.org/abs/2404.02111v1)
+- 2024-04-02, **WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2404.02082v1](http://arxiv.org/abs/2404.02082v1), Code: **[https://github.com/yangchen1997/wcdt](https://github.com/yangchen1997/wcdt)**
+- 2024-04-02, **Improving Bird's Eye View Semantic Segmentation by Task Decomposition**, Tianhao Zhao et.al., Paper: [http://arxiv.org/abs/2404.01925v1](http://arxiv.org/abs/2404.01925v1)
+- 2024-04-02, **Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**, Ioanna Souvatzoglou et.al., Paper: [http://arxiv.org/abs/2404.01757v1](http://arxiv.org/abs/2404.01757v1)
+- 2024-04-02, **Exploring Latent Pathways: Enhancing the Interpretability of Autonomous Driving with a Variational Autoencoder**, Anass Bairouk et.al., Paper: [http://arxiv.org/abs/2404.01750v1](http://arxiv.org/abs/2404.01750v1)
+- 2024-04-02, **Towards Scalable & Efficient Interaction-Aware Planning in Autonomous Vehicles using Knowledge Distillation**, Piyush Gupta et.al., Paper: [http://arxiv.org/abs/2404.01746v1](http://arxiv.org/abs/2404.01746v1)
+- 2024-04-02, **Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2404.01703v1](http://arxiv.org/abs/2404.01703v1)
+- 2024-04-02, **PhysORD: A Neuro-Symbolic Approach for Physics-infused Motion Prediction in Off-road Driving**, Zhipeng Zhao et.al., Paper: [http://arxiv.org/abs/2404.01596v1](http://arxiv.org/abs/2404.01596v1), Code: **[https://github.com/sair-lab/physord](https://github.com/sair-lab/physord)**
+- 2024-04-02, **Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection**, Seokha Moon et.al., Paper: [http://arxiv.org/abs/2404.01580v1](http://arxiv.org/abs/2404.01580v1)
+- 2024-04-02, **Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**, Daniil Lisus et.al., Paper: [http://arxiv.org/abs/2404.01537v1](http://arxiv.org/abs/2404.01537v1)
 - 2024-03-29, **LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving**, Pranjal Paul et.al., Paper: [http://arxiv.org/abs/2403.20116v1](http://arxiv.org/abs/2403.20116v1)
 - 2024-03-29, **SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**, Zhongrui Yu et.al., Paper: [http://arxiv.org/abs/2403.20079v1](http://arxiv.org/abs/2403.20079v1)
 - 2024-03-29, **HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes**, Zhuopeng Li et.al., Paper: [http://arxiv.org/abs/2403.20032v1](http://arxiv.org/abs/2403.20032v1)
