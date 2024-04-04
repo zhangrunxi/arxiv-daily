@@ -2,6 +2,15 @@
 
 ## Autonomous_Driving
 
+- 2024-04-03, **LidarDM: Generative LiDAR Simulation in a Generated World**, Vlas Zyrianov et.al., Paper: [http://arxiv.org/abs/2404.02903v1](http://arxiv.org/abs/2404.02903v1)
+- 2024-04-03, **One Stack to Rule them All: To Drive Automated Vehicles, and Reach for the 4th level**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2404.02645v1](http://arxiv.org/abs/2404.02645v1)
+- 2024-04-03, **Leveraging Swarm Intelligence to Drive Autonomously: A Particle Swarm Optimization based Approach to Motion Planning**, Sven Ochs et.al., Paper: [http://arxiv.org/abs/2404.02644v1](http://arxiv.org/abs/2404.02644v1)
+- 2024-04-03, **Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion**, Zhiyu Huang et.al., Paper: [http://arxiv.org/abs/2404.02524v1](http://arxiv.org/abs/2404.02524v1)
+- 2024-04-03, **HENet: Hybrid Encoding for End-to-end Multi-task 3D Perception from Multi-view Cameras**, Zhongyu Xia et.al., Paper: [http://arxiv.org/abs/2404.02517v1](http://arxiv.org/abs/2404.02517v1), Code: **[https://github.com/vdigpku/henet](https://github.com/vdigpku/henet)**
+- 2024-04-03, **Optimizing traffic signs and lights visibility for the teleoperation of autonomous vehicles through ROI compression**, I. Dror et.al., Paper: [http://arxiv.org/abs/2404.02481v1](http://arxiv.org/abs/2404.02481v1)
+- 2024-04-03, **AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning with Value-based Dataset**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2404.02429v1](http://arxiv.org/abs/2404.02429v1)
+- 2024-04-02, **OFMPNet: Deep End-to-End Model for Occupancy and Flow Prediction in Urban Environment**, Youshaa Murhij et.al., Paper: [http://arxiv.org/abs/2404.02263v1](http://arxiv.org/abs/2404.02263v1), Code: **[https://github.com/youshaamurhij/ofmpnet](https://github.com/youshaamurhij/ofmpnet)**
+- 2024-04-02, **OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2404.02227v1](http://arxiv.org/abs/2404.02227v1), Code: **[https://github.com/hai-chao-zhang/oostraj](https://github.com/hai-chao-zhang/oostraj)**
 - 2024-04-02, **Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**, Maico H. W. Engelaar et.al., Paper: [http://arxiv.org/abs/2404.02111v1](http://arxiv.org/abs/2404.02111v1)
 - 2024-04-02, **WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2404.02082v1](http://arxiv.org/abs/2404.02082v1), Code: **[https://github.com/yangchen1997/wcdt](https://github.com/yangchen1997/wcdt)**
 - 2024-04-02, **Improving Bird's Eye View Semantic Segmentation by Task Decomposition**, Tianhao Zhao et.al., Paper: [http://arxiv.org/abs/2404.01925v1](http://arxiv.org/abs/2404.01925v1)
