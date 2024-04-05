@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03539v1-b31b1b.svg)](http://arxiv.org/abs/2404.03539v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorebianchi98/fg-clip)**|
+|**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03510v1-b31b1b.svg)](http://arxiv.org/abs/2404.03510v1)|null|
+|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03493v1-b31b1b.svg)](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03274v1-b31b1b.svg)](http://arxiv.org/abs/2404.03274v1)|null|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03191v1-b31b1b.svg)](http://arxiv.org/abs/2404.03191v1)|null|
+|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03110v1-b31b1b.svg)](http://arxiv.org/abs/2404.03110v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noyzzz/emap)**|
 |**2024-04-03**|**LidarDM: Generative LiDAR Simulation in a Generated World**|Vlas Zyrianov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.02903v1-b31b1b.svg)](http://arxiv.org/abs/2404.02903v1)|null|
 |**2024-04-03**|**One Stack to Rule them All: To Drive Automated Vehicles, and Reach for the 4th level**|Sven Ochs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.02645v1-b31b1b.svg)](http://arxiv.org/abs/2404.02645v1)|null|
 |**2024-04-03**|**Leveraging Swarm Intelligence to Drive Autonomously: A Particle Swarm Optimization based Approach to Motion Planning**|Sven Ochs et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.02644v1-b31b1b.svg)](http://arxiv.org/abs/2404.02644v1)|null|
