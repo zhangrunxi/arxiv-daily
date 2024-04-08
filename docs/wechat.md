@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-04-05, **Exploring Probabilistic Models for Semi-supervised Learning**, Jianfeng Wang et.al., Paper: [http://arxiv.org/abs/2404.04199v1](http://arxiv.org/abs/2404.04199v1)
+- 2024-04-05, **You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**, Qiushi Li et.al., Paper: [http://arxiv.org/abs/2404.04098v1](http://arxiv.org/abs/2404.04098v1)
+- 2024-04-05, **Derivative-free tree optimization for complex systems**, Ye Wei et.al., Paper: [http://arxiv.org/abs/2404.04062v1](http://arxiv.org/abs/2404.04062v1)
+- 2024-04-05, **Scaling Motion Forecasting Models with Ensemble Distillation**, Scott Ettinger et.al., Paper: [http://arxiv.org/abs/2404.03843v1](http://arxiv.org/abs/2404.03843v1)
+- 2024-04-04, **Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**, Elham Amin Mansour et.al., Paper: [http://arxiv.org/abs/2404.03799v1](http://arxiv.org/abs/2404.03799v1)
+- 2024-04-04, **Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**, Spyridon Chavlis et.al., Paper: [http://arxiv.org/abs/2404.03708v1](http://arxiv.org/abs/2404.03708v1)
 - 2024-04-04, **Is CLIP the main roadblock for fine-grained open-world perception?**, Lorenzo Bianchi et.al., Paper: [http://arxiv.org/abs/2404.03539v1](http://arxiv.org/abs/2404.03539v1), Code: **[https://github.com/lorebianchi98/fg-clip](https://github.com/lorebianchi98/fg-clip)**
 - 2024-04-04, **Materials for High Temperature Digital Electronics**, Dhiren K. Pradhan et.al., Paper: [http://arxiv.org/abs/2404.03510v1](http://arxiv.org/abs/2404.03510v1)
 - 2024-04-05, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v2](http://arxiv.org/abs/2404.03493v2)
