@@ -1,10 +1,10 @@
-> Updated on 2024.04.07
+> Updated on 2024.04.08
 
 ## Autonomous_Driving
 
 - 2024-04-04, **Is CLIP the main roadblock for fine-grained open-world perception?**, Lorenzo Bianchi et.al., Paper: [http://arxiv.org/abs/2404.03539v1](http://arxiv.org/abs/2404.03539v1), Code: **[https://github.com/lorebianchi98/fg-clip](https://github.com/lorebianchi98/fg-clip)**
 - 2024-04-04, **Materials for High Temperature Digital Electronics**, Dhiren K. Pradhan et.al., Paper: [http://arxiv.org/abs/2404.03510v1](http://arxiv.org/abs/2404.03510v1)
-- 2024-04-04, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v1](http://arxiv.org/abs/2404.03493v1)
+- 2024-04-05, **A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**, Iqra Bano et.al., Paper: [http://arxiv.org/abs/2404.03493v2](http://arxiv.org/abs/2404.03493v2)
 - 2024-04-04, **Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2404.03274v1](http://arxiv.org/abs/2404.03274v1)
 - 2024-04-04, **CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**, Beibei Wang et.al., Paper: [http://arxiv.org/abs/2404.03191v1](http://arxiv.org/abs/2404.03191v1)
 - 2024-04-03, **Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**, Navid Mahdian et.al., Paper: [http://arxiv.org/abs/2404.03110v1](http://arxiv.org/abs/2404.03110v1), Code: **[https://github.com/noyzzz/emap](https://github.com/noyzzz/emap)**

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03539v1-b31b1b.svg)](http://arxiv.org/abs/2404.03539v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorebianchi98/fg-clip)**|
 |**2024-04-04**|**Materials for High Temperature Digital Electronics**|Dhiren K. Pradhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03510v1-b31b1b.svg)](http://arxiv.org/abs/2404.03510v1)|null|
-|**2024-04-04**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03493v1-b31b1b.svg)](http://arxiv.org/abs/2404.03493v1)|null|
+|**2024-04-05**|**A Methodology to Study the Impact of Spiking Neural Network Parameters considering Event-Based Automotive Data**|Iqra Bano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03493v2-b31b1b.svg)](http://arxiv.org/abs/2404.03493v2)|null|
 |**2024-04-04**|**Traversability-aware Adaptive Optimization for Path Planning and Control in Mountainous Terrain**|Se-Wook Yoo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03274v1-b31b1b.svg)](http://arxiv.org/abs/2404.03274v1)|null|
 |**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03191v1-b31b1b.svg)](http://arxiv.org/abs/2404.03191v1)|null|
 |**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.03110v1-b31b1b.svg)](http://arxiv.org/abs/2404.03110v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noyzzz/emap)**|
