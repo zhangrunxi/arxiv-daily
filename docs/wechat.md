@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-04-08, **Residual Chain Prediction for Autonomous Driving Path Planning**, Liguo Zhou et.al., Paper: [http://arxiv.org/abs/2404.05423v1](http://arxiv.org/abs/2404.05423v1)
+- 2024-04-08, **Human Detection from 4D Radar Data in Low-Visibility Field Conditions**, Mikael Skog et.al., Paper: [http://arxiv.org/abs/2404.05307v1](http://arxiv.org/abs/2404.05307v1)
+- 2024-04-08, **Detecting Every Object from Events**, Haitian Zhang et.al., Paper: [http://arxiv.org/abs/2404.05285v1](http://arxiv.org/abs/2404.05285v1), Code: **[https://github.com/hatins/deoe](https://github.com/hatins/deoe)**
+- 2024-04-08, **MOSE: Boosting Vision-based Roadside 3D Object Detection with Scene Cues**, Xiahan Chen et.al., Paper: [http://arxiv.org/abs/2404.05280v1](http://arxiv.org/abs/2404.05280v1)
+- 2024-04-08, **UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**, Haimei Zhao et.al., Paper: [http://arxiv.org/abs/2404.05145v1](http://arxiv.org/abs/2404.05145v1)
+- 2024-04-08, **Better Monocular 3D Detectors with LiDAR from the Past**, Yurong You et.al., Paper: [http://arxiv.org/abs/2404.05139v1](http://arxiv.org/abs/2404.05139v1), Code: **[https://github.com/yurongyou/asyncdepth](https://github.com/yurongyou/asyncdepth)**
+- 2024-04-07, **MonoTAKD: Teaching Assistant Knowledge Distillation for Monocular 3D Object Detection**, Hou-I Liu et.al., Paper: [http://arxiv.org/abs/2404.04910v1](http://arxiv.org/abs/2404.04910v1)
+- 2024-04-07, **Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2404.04869v1](http://arxiv.org/abs/2404.04869v1)
+- 2024-04-07, **Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**, Jinlong Li et.al., Paper: [http://arxiv.org/abs/2404.04804v1](http://arxiv.org/abs/2404.04804v1)
+- 2024-04-06, **HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2404.04653v1](http://arxiv.org/abs/2404.04653v1), Code: **[https://github.com/ziongo6/hawkdrive](https://github.com/ziongo6/hawkdrive)**
 - 2024-04-05, **Exploring Probabilistic Models for Semi-supervised Learning**, Jianfeng Wang et.al., Paper: [http://arxiv.org/abs/2404.04199v1](http://arxiv.org/abs/2404.04199v1)
 - 2024-04-05, **You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**, Qiushi Li et.al., Paper: [http://arxiv.org/abs/2404.04098v1](http://arxiv.org/abs/2404.04098v1)
 - 2024-04-05, **Derivative-free tree optimization for complex systems**, Ye Wei et.al., Paper: [http://arxiv.org/abs/2404.04062v1](http://arxiv.org/abs/2404.04062v1)
