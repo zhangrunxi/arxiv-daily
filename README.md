@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-09**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06351v1-b31b1b.svg)](http://arxiv.org/abs/2404.06351v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaolongtang23/hpnet)**|
+|**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06345v1-b31b1b.svg)](http://arxiv.org/abs/2404.06345v1)|null|
+|**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06256v1-b31b1b.svg)](http://arxiv.org/abs/2404.06256v1)|null|
+|**2024-04-09**|**Towards Autonomous Driving with Small-Scale Cars: A Survey of Recent Development**|Dianzhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06229v1-b31b1b.svg)](http://arxiv.org/abs/2404.06229v1)|null|
+|**2024-04-09**|**Hierarchical Insights: Exploiting Structural Similarities for Reliable 3D Semantic Segmentation**|Mariella Dreissig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06124v1-b31b1b.svg)](http://arxiv.org/abs/2404.06124v1)|null|
+|**2024-04-09**|**Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**|Yunting Gui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06015v1-b31b1b.svg)](http://arxiv.org/abs/2404.06015v1)|null|
 |**2024-04-08**|**Residual Chain Prediction for Autonomous Driving Path Planning**|Liguo Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.05423v1-b31b1b.svg)](http://arxiv.org/abs/2404.05423v1)|null|
 |**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.05307v1-b31b1b.svg)](http://arxiv.org/abs/2404.05307v1)|null|
 |**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.05285v1-b31b1b.svg)](http://arxiv.org/abs/2404.05285v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatins/deoe)**|

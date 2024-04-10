@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-04-09, **HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**, Xiaolong Tang et.al., Paper: [http://arxiv.org/abs/2404.06351v1](http://arxiv.org/abs/2404.06351v1), Code: **[https://github.com/xiaolongtang23/hpnet](https://github.com/xiaolongtang23/hpnet)**
+- 2024-04-09, **AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**, Senkang Hu et.al., Paper: [http://arxiv.org/abs/2404.06345v1](http://arxiv.org/abs/2404.06345v1)
+- 2024-04-09, **Label-Efficient 3D Object Detection For Road-Side Units**, Minh-Quan Dao et.al., Paper: [http://arxiv.org/abs/2404.06256v1](http://arxiv.org/abs/2404.06256v1)
+- 2024-04-09, **Towards Autonomous Driving with Small-Scale Cars: A Survey of Recent Development**, Dianzhao Li et.al., Paper: [http://arxiv.org/abs/2404.06229v1](http://arxiv.org/abs/2404.06229v1)
+- 2024-04-09, **Hierarchical Insights: Exploiting Structural Similarities for Reliable 3D Semantic Segmentation**, Mariella Dreissig et.al., Paper: [http://arxiv.org/abs/2404.06124v1](http://arxiv.org/abs/2404.06124v1)
+- 2024-04-09, **Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**, Yunting Gui et.al., Paper: [http://arxiv.org/abs/2404.06015v1](http://arxiv.org/abs/2404.06015v1)
 - 2024-04-08, **Residual Chain Prediction for Autonomous Driving Path Planning**, Liguo Zhou et.al., Paper: [http://arxiv.org/abs/2404.05423v1](http://arxiv.org/abs/2404.05423v1)
 - 2024-04-08, **Human Detection from 4D Radar Data in Low-Visibility Field Conditions**, Mikael Skog et.al., Paper: [http://arxiv.org/abs/2404.05307v1](http://arxiv.org/abs/2404.05307v1)
 - 2024-04-08, **Detecting Every Object from Events**, Haitian Zhang et.al., Paper: [http://arxiv.org/abs/2404.05285v1](http://arxiv.org/abs/2404.05285v1), Code: **[https://github.com/hatins/deoe](https://github.com/hatins/deoe)**
