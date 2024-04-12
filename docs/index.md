@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 
 ## Autonomous_Driving
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06715v1-b31b1b.svg)](http://arxiv.org/abs/2404.06715v1)|null|
 |**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06638v1-b31b1b.svg)](http://arxiv.org/abs/2404.06638v1)|null|
 |**2024-04-09**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06605v1-b31b1b.svg)](http://arxiv.org/abs/2404.06605v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ztsrxh/roadbev)**|
-|**2024-04-09**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06351v1-b31b1b.svg)](http://arxiv.org/abs/2404.06351v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaolongtang23/hpnet)**|
+|**2024-04-11**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06351v2-b31b1b.svg)](http://arxiv.org/abs/2404.06351v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaolongtang23/hpnet)**|
 |**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06345v1-b31b1b.svg)](http://arxiv.org/abs/2404.06345v1)|null|
 |**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06256v1-b31b1b.svg)](http://arxiv.org/abs/2404.06256v1)|null|
 |**2024-04-09**|**Towards Autonomous Driving with Small-Scale Cars: A Survey of Recent Development**|Dianzhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.06229v1-b31b1b.svg)](http://arxiv.org/abs/2404.06229v1)|null|
