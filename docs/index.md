@@ -2,14 +2,19 @@
 layout: default
 ---
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08570v1-b31b1b.svg)](http://arxiv.org/abs/2404.08570v1)|null|
+|**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08563v1-b31b1b.svg)](http://arxiv.org/abs/2404.08563v1)|null|
+|**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08271v1-b31b1b.svg)](http://arxiv.org/abs/2404.08271v1)|null|
+|**2024-04-11**|**Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**|Md Nahid Sadik et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08081v1-b31b1b.svg)](http://arxiv.org/abs/2404.08081v1)|null|
+|**2024-04-11**|**VeTraSS: Vehicle Trajectory Similarity Search Through Graph Modeling and Representation Learning**|Ming Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08021v1-b31b1b.svg)](http://arxiv.org/abs/2404.08021v1)|null|
 |**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07821v1-b31b1b.svg)](http://arxiv.org/abs/2404.07821v1)|null|
-|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07762v1-b31b1b.svg)](http://arxiv.org/abs/2404.07762v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-12**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07762v2-b31b1b.svg)](http://arxiv.org/abs/2404.07762v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wljungbergh/neuroncap)**|
 |**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07626v1-b31b1b.svg)](http://arxiv.org/abs/2404.07626v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanwang-shan/homofusion)**|
 |**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07569v1-b31b1b.svg)](http://arxiv.org/abs/2404.07569v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mh0797/interplan)**|
 |**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.07495v1-b31b1b.svg)](http://arxiv.org/abs/2404.07495v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stiphyjay/pillartrack)**|

@@ -1,9 +1,14 @@
-> Updated on 2024.04.14
+> Updated on 2024.04.15
 
 ## Autonomous_Driving
 
+- 2024-04-12, **Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**, Hanlin Tian et.al., Paper: [http://arxiv.org/abs/2404.08570v1](http://arxiv.org/abs/2404.08570v1)
+- 2024-04-12, **FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**, Hexiang Wei et.al., Paper: [http://arxiv.org/abs/2404.08563v1](http://arxiv.org/abs/2404.08563v1)
+- 2024-04-12, **Transfer Learning Study of Motion Transformer-based Trajectory Predictions**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2404.08271v1](http://arxiv.org/abs/2404.08271v1)
+- 2024-04-11, **Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**, Md Nahid Sadik et.al., Paper: [http://arxiv.org/abs/2404.08081v1](http://arxiv.org/abs/2404.08081v1)
+- 2024-04-11, **VeTraSS: Vehicle Trajectory Similarity Search Through Graph Modeling and Representation Learning**, Ming Cheng et.al., Paper: [http://arxiv.org/abs/2404.08021v1](http://arxiv.org/abs/2404.08021v1)
 - 2024-04-11, **Sparse Laneformer**, Ji Liu et.al., Paper: [http://arxiv.org/abs/2404.07821v1](http://arxiv.org/abs/2404.07821v1)
-- 2024-04-11, **NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2404.07762v1](http://arxiv.org/abs/2404.07762v1), Code: **[https://github.com/wljungbergh/neuroncap](https://github.com/wljungbergh/neuroncap)**
+- 2024-04-12, **NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2404.07762v2](http://arxiv.org/abs/2404.07762v2), Code: **[https://github.com/wljungbergh/neuroncap](https://github.com/wljungbergh/neuroncap)**
 - 2024-04-11, **Homography Guided Temporal Fusion for Road Line and Marking Segmentation**, Shan Wang et.al., Paper: [http://arxiv.org/abs/2404.07626v1](http://arxiv.org/abs/2404.07626v1), Code: **[https://github.com/shanwang-shan/homofusion](https://github.com/shanwang-shan/homofusion)**
 - 2024-04-11, **Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**, Marcel Hallgarten et.al., Paper: [http://arxiv.org/abs/2404.07569v1](http://arxiv.org/abs/2404.07569v1), Code: **[https://github.com/mh0797/interplan](https://github.com/mh0797/interplan)**
 - 2024-04-11, **PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**, Weisheng Xu et.al., Paper: [http://arxiv.org/abs/2404.07495v1](http://arxiv.org/abs/2404.07495v1), Code: **[https://github.com/stiphyjay/pillartrack](https://github.com/stiphyjay/pillartrack)**
