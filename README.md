@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Sampling for Model Predictive Trajectory Planning in Autonomous Driving using Normalizing Flows**|Georg Rabenstein et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09657v1-b31b1b.svg)](http://arxiv.org/abs/2404.09657v1)|null|
+|**2024-04-15**|**Closing Optical Bloch Equations in waveguide QED: Dynamics, Energetics**|Samyak Pratyush Prasad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09648v1-b31b1b.svg)](http://arxiv.org/abs/2404.09648v1)|null|
+|**2024-04-15**|**Characterization and Mitigation of Insufficiencies in Automated Driving Systems**|Yuting Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09557v1-b31b1b.svg)](http://arxiv.org/abs/2404.09557v1)|null|
+|**2024-04-15**|**SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**|Pin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09502v1-b31b1b.svg)](http://arxiv.org/abs/2404.09502v1)|null|
+|**2024-04-15**|**Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**|Genjia Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09496v1-b31b1b.svg)](http://arxiv.org/abs/2404.09496v1)|null|
+|**2024-04-15**|**VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**|Bonan Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09431v1-b31b1b.svg)](http://arxiv.org/abs/2404.09431v1)|null|
+|**2024-04-14**|**SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint**|Vasudha Venkatesan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09277v1-b31b1b.svg)](http://arxiv.org/abs/2404.09277v1)|null|
+|**2024-04-14**|**VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**|Fei Xue et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09271v1-b31b1b.svg)](http://arxiv.org/abs/2404.09271v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feixue94/vrs-nerf)**|
+|**2024-04-14**|**Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**|Yanhao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09169v1-b31b1b.svg)](http://arxiv.org/abs/2404.09169v1)|null|
+|**2024-04-13**|**Intention-Aware Control Based on Belief-Space Specifications and Stochastic Expansion**|Zengjie Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.09037v1-b31b1b.svg)](http://arxiv.org/abs/2404.09037v1)|null|
 |**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08570v1-b31b1b.svg)](http://arxiv.org/abs/2404.08570v1)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08563v1-b31b1b.svg)](http://arxiv.org/abs/2404.08563v1)|null|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.08271v1-b31b1b.svg)](http://arxiv.org/abs/2404.08271v1)|null|

@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-04-15, **Sampling for Model Predictive Trajectory Planning in Autonomous Driving using Normalizing Flows**, Georg Rabenstein et.al., Paper: [http://arxiv.org/abs/2404.09657v1](http://arxiv.org/abs/2404.09657v1)
+- 2024-04-15, **Closing Optical Bloch Equations in waveguide QED: Dynamics, Energetics**, Samyak Pratyush Prasad et.al., Paper: [http://arxiv.org/abs/2404.09648v1](http://arxiv.org/abs/2404.09648v1)
+- 2024-04-15, **Characterization and Mitigation of Insufficiencies in Automated Driving Systems**, Yuting Fu et.al., Paper: [http://arxiv.org/abs/2404.09557v1](http://arxiv.org/abs/2404.09557v1)
+- 2024-04-15, **SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**, Pin Tang et.al., Paper: [http://arxiv.org/abs/2404.09502v1](http://arxiv.org/abs/2404.09502v1)
+- 2024-04-15, **Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**, Genjia Liu et.al., Paper: [http://arxiv.org/abs/2404.09496v1](http://arxiv.org/abs/2404.09496v1)
+- 2024-04-15, **VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection**, Bonan Ding et.al., Paper: [http://arxiv.org/abs/2404.09431v1](http://arxiv.org/abs/2404.09431v1)
+- 2024-04-14, **SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint**, Vasudha Venkatesan et.al., Paper: [http://arxiv.org/abs/2404.09277v1](http://arxiv.org/abs/2404.09277v1)
+- 2024-04-14, **VRS-NeRF: Visual Relocalization with Sparse Neural Radiance Field**, Fei Xue et.al., Paper: [http://arxiv.org/abs/2404.09271v1](http://arxiv.org/abs/2404.09271v1), Code: **[https://github.com/feixue94/vrs-nerf](https://github.com/feixue94/vrs-nerf)**
+- 2024-04-14, **Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration**, Yanhao Zhang et.al., Paper: [http://arxiv.org/abs/2404.09169v1](http://arxiv.org/abs/2404.09169v1)
+- 2024-04-13, **Intention-Aware Control Based on Belief-Space Specifications and Stochastic Expansion**, Zengjie Zhang et.al., Paper: [http://arxiv.org/abs/2404.09037v1](http://arxiv.org/abs/2404.09037v1)
 - 2024-04-12, **Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**, Hanlin Tian et.al., Paper: [http://arxiv.org/abs/2404.08570v1](http://arxiv.org/abs/2404.08570v1)
 - 2024-04-12, **FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**, Hexiang Wei et.al., Paper: [http://arxiv.org/abs/2404.08563v1](http://arxiv.org/abs/2404.08563v1)
 - 2024-04-12, **Transfer Learning Study of Motion Transformer-based Trajectory Predictions**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2404.08271v1](http://arxiv.org/abs/2404.08271v1)
