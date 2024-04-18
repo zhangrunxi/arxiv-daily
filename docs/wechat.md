@@ -5,7 +5,7 @@
 - 2024-04-16, **N-Agent Ad Hoc Teamwork**, Caroline Wang et.al., Paper: [http://arxiv.org/abs/2404.10740v1](http://arxiv.org/abs/2404.10740v1)
 - 2024-04-16, **Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**, Yanze Li et.al., Paper: [http://arxiv.org/abs/2404.10595v1](http://arxiv.org/abs/2404.10595v1)
 - 2024-04-16, **LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System**, Shijing Hu et.al., Paper: [http://arxiv.org/abs/2404.10498v1](http://arxiv.org/abs/2404.10498v1)
-- 2024-04-16, **ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**, Jiawei Sun et.al., Paper: [http://arxiv.org/abs/2404.10295v1](http://arxiv.org/abs/2404.10295v1)
+- 2024-04-17, **ControlMTR: Control-Guided Motion Transformer with Scene-Compliant Intention Points for Feasible Motion Prediction**, Jiawei Sun et.al., Paper: [http://arxiv.org/abs/2404.10295v2](http://arxiv.org/abs/2404.10295v2)
 - 2024-04-16, **PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network**, Yuning Wang et.al., Paper: [http://arxiv.org/abs/2404.10263v1](http://arxiv.org/abs/2404.10263v1)
 - 2024-04-15, **Sampling for Model Predictive Trajectory Planning in Autonomous Driving using Normalizing Flows**, Georg Rabenstein et.al., Paper: [http://arxiv.org/abs/2404.09657v1](http://arxiv.org/abs/2404.09657v1)
 - 2024-04-15, **Closing Optical Bloch Equations in waveguide QED: Dynamics, Energetics**, Samyak Pratyush Prasad et.al., Paper: [http://arxiv.org/abs/2404.09648v1](http://arxiv.org/abs/2404.09648v1)
