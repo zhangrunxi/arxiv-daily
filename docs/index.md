@@ -8,6 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12292v1-b31b1b.svg)](http://arxiv.org/abs/2404.12292v1)|null|
+|**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12256v1-b31b1b.svg)](http://arxiv.org/abs/2404.12256v1)|null|
+|**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12165v1-b31b1b.svg)](http://arxiv.org/abs/2404.12165v1)|null|
+|**2024-04-18**|**S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**|Xiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11946v1-b31b1b.svg)](http://arxiv.org/abs/2404.11946v1)|null|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11803v1-b31b1b.svg)](http://arxiv.org/abs/2404.11803v1)|null|
+|**2024-04-17**|**Developing Situational Awareness for Joint Action with Autonomous Vehicles**|Robert Kaufman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11800v1-b31b1b.svg)](http://arxiv.org/abs/2404.11800v1)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11764v1-b31b1b.svg)](http://arxiv.org/abs/2404.11764v1)|null|
+|**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11665v1-b31b1b.svg)](http://arxiv.org/abs/2404.11665v1)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11605v1-b31b1b.svg)](http://arxiv.org/abs/2404.11605v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shark0-0/vg4d)**|
 |**2024-04-18**|**SERENE: A Collusion Resilient Replication-based Verification Framework**|Amir Esmaeili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11410v2-b31b1b.svg)](http://arxiv.org/abs/2404.11410v2)|null|
 |**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.11357v1-b31b1b.svg)](http://arxiv.org/abs/2404.11357v1)|null|

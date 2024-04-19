@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-04-18, **Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**, Niklas Penzel et.al., Paper: [http://arxiv.org/abs/2404.12292v1](http://arxiv.org/abs/2404.12292v1)
+- 2024-04-18, **An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**, Jilan Samiuddin et.al., Paper: [http://arxiv.org/abs/2404.12256v1](http://arxiv.org/abs/2404.12256v1)
+- 2024-04-18, **Stability Certificates for Receding Horizon Games**, Sophie Hall et.al., Paper: [http://arxiv.org/abs/2404.12165v1](http://arxiv.org/abs/2404.12165v1)
+- 2024-04-18, **S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2404.11946v1](http://arxiv.org/abs/2404.11946v1)
+- 2024-04-17, **TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2404.11803v1](http://arxiv.org/abs/2404.11803v1)
+- 2024-04-17, **Developing Situational Awareness for Joint Action with Autonomous Vehicles**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2404.11800v1](http://arxiv.org/abs/2404.11800v1)
+- 2024-04-17, **Multimodal 3D Object Detection on Unseen Domains**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2404.11764v1](http://arxiv.org/abs/2404.11764v1)
+- 2024-04-17, **Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**, Mohammad Javad Askarizadeh et.al., Paper: [http://arxiv.org/abs/2404.11665v1](http://arxiv.org/abs/2404.11665v1)
 - 2024-04-17, **VG4D: Vision-Language Model Goes 4D Video Recognition**, Zhichao Deng et.al., Paper: [http://arxiv.org/abs/2404.11605v1](http://arxiv.org/abs/2404.11605v1), Code: **[https://github.com/shark0-0/vg4d](https://github.com/shark0-0/vg4d)**
 - 2024-04-18, **SERENE: A Collusion Resilient Replication-based Verification Framework**, Amir Esmaeili et.al., Paper: [http://arxiv.org/abs/2404.11410v2](http://arxiv.org/abs/2404.11410v2)
 - 2024-04-17, **Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**, Hangtao Zhang et.al., Paper: [http://arxiv.org/abs/2404.11357v1](http://arxiv.org/abs/2404.11357v1)
