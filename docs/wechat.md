@@ -1,4 +1,4 @@
-> Updated on 2024.04.18
+> Updated on 2024.04.19
 
 ## Autonomous_Driving
 
@@ -10,7 +10,7 @@
 - 2024-04-17, **D-Aug: Enhancing Data Augmentation for Dynamic LiDAR Scenes**, Jiaxing Zhao et.al., Paper: [http://arxiv.org/abs/2404.11127v1](http://arxiv.org/abs/2404.11127v1)
 - 2024-04-17, **Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**, Jingrong Wang et.al., Paper: [http://arxiv.org/abs/2404.11070v1](http://arxiv.org/abs/2404.11070v1), Code: **[https://github.com/whuwangjr/sky-view-images](https://github.com/whuwangjr/sky-view-images)**
 - 2024-04-17, **How to deal with glare for improved perception of Autonomous Vehicles**, Muhammad Z. Alam et.al., Paper: [http://arxiv.org/abs/2404.10992v1](http://arxiv.org/abs/2404.10992v1)
-- 2024-04-16, **End-To-End Training and Testing Gamification Framework to Learn Human Highway Driving**, Satya R. Jaladi et.al., Paper: [http://arxiv.org/abs/2404.10849v1](http://arxiv.org/abs/2404.10849v1)
+- 2024-04-18, **End-To-End Training and Testing Gamification Framework to Learn Human Highway Driving**, Satya R. Jaladi et.al., Paper: [http://arxiv.org/abs/2404.10849v2](http://arxiv.org/abs/2404.10849v2)
 - 2024-04-16, **N-Agent Ad Hoc Teamwork**, Caroline Wang et.al., Paper: [http://arxiv.org/abs/2404.10740v1](http://arxiv.org/abs/2404.10740v1)
 - 2024-04-16, **Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**, Yanze Li et.al., Paper: [http://arxiv.org/abs/2404.10595v1](http://arxiv.org/abs/2404.10595v1)
 - 2024-04-16, **LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System**, Shijing Hu et.al., Paper: [http://arxiv.org/abs/2404.10498v1](http://arxiv.org/abs/2404.10498v1)
