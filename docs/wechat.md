@@ -3,7 +3,7 @@
 ## Autonomous_Driving
 
 - 2024-04-17, **VG4D: Vision-Language Model Goes 4D Video Recognition**, Zhichao Deng et.al., Paper: [http://arxiv.org/abs/2404.11605v1](http://arxiv.org/abs/2404.11605v1), Code: **[https://github.com/shark0-0/vg4d](https://github.com/shark0-0/vg4d)**
-- 2024-04-17, **SERENE: A Collusion Resilient Replication-based Verification Framework**, Amir Esmaeili et.al., Paper: [http://arxiv.org/abs/2404.11410v1](http://arxiv.org/abs/2404.11410v1)
+- 2024-04-18, **SERENE: A Collusion Resilient Replication-based Verification Framework**, Amir Esmaeili et.al., Paper: [http://arxiv.org/abs/2404.11410v2](http://arxiv.org/abs/2404.11410v2)
 - 2024-04-17, **Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**, Hangtao Zhang et.al., Paper: [http://arxiv.org/abs/2404.11357v1](http://arxiv.org/abs/2404.11357v1)
 - 2024-04-17, **KI-GAN: Knowledge-Informed Generative Adversarial Networks for Enhanced Multi-Vehicle Trajectory Forecasting at Signalized Intersections**, Chuheng Wei et.al., Paper: [http://arxiv.org/abs/2404.11181v1](http://arxiv.org/abs/2404.11181v1), Code: **[https://github.com/chuhengwei/ki_gan](https://github.com/chuhengwei/ki_gan)**
 - 2024-04-17, **AI-equipped scanning probe microscopy for autonomous site-specific atomic-level characterization at room temperature**, Zhuo Diao et.al., Paper: [http://arxiv.org/abs/2404.11162v1](http://arxiv.org/abs/2404.11162v1)
