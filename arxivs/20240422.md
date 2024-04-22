@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12916v1-b31b1b.svg)](http://arxiv.org/abs/2404.12916v1)|null|
+|**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12867v1-b31b1b.svg)](http://arxiv.org/abs/2404.12867v1)|null|
+|**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12856v1-b31b1b.svg)](http://arxiv.org/abs/2404.12856v1)|null|
+|**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12798v1-b31b1b.svg)](http://arxiv.org/abs/2404.12798v1)|null|
+|**2024-04-19**|**Camera Agnostic Two-Head Network for Ego-Lane Inference**|Chaehyeon Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12770v1-b31b1b.svg)](http://arxiv.org/abs/2404.12770v1)|null|
+|**2024-04-19**|**A Containerized Microservice Architecture for a ROS 2 Autonomous Driving Software: An End-to-End Latency Evaluation**|Tobias Betz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12683v1-b31b1b.svg)](http://arxiv.org/abs/2404.12683v1)|null|
+|**2024-04-19**|**Dragtraffic: A Non-Expert Interactive and Point-Based Controllable Traffic Scene Generation Framework**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12624v1-b31b1b.svg)](http://arxiv.org/abs/2404.12624v1)|null|
+|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12538v1-b31b1b.svg)](http://arxiv.org/abs/2404.12538v1)|null|
+|**2024-04-18**|**SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation**|Mykola Lavreniuk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12501v1-b31b1b.svg)](http://arxiv.org/abs/2404.12501v1)|null|
+|**2024-04-18**|**Learning a Stable, Safe, Distributed Feedback Controller for a Heterogeneous Platoon of Vehicles**|Michael H. Shaham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12474v1-b31b1b.svg)](http://arxiv.org/abs/2404.12474v1)|null|
 |**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12292v1-b31b1b.svg)](http://arxiv.org/abs/2404.12292v1)|null|
 |**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12256v1-b31b1b.svg)](http://arxiv.org/abs/2404.12256v1)|null|
 |**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12165v1-b31b1b.svg)](http://arxiv.org/abs/2404.12165v1)|null|
