@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**|Jie Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14327v1-b31b1b.svg)](http://arxiv.org/abs/2404.14327v1)|null|
+|**2024-04-22**|**Localization Based on MIMO Backscattering from Retro-Directive Antenna Arrays**|Marina Lotti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14206v1-b31b1b.svg)](http://arxiv.org/abs/2404.14206v1)|null|
+|**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14095v1-b31b1b.svg)](http://arxiv.org/abs/2404.14095v1)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14034v1-b31b1b.svg)](http://arxiv.org/abs/2404.14034v1)|null|
+|**2024-04-22**|**Collaborative Perception Datasets in Autonomous Driving: A Survey**|Melih Yazgan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14022v1-b31b1b.svg)](http://arxiv.org/abs/2404.14022v1)|null|
+|**2024-04-22**|**Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems Through the Lens of Image Mutation**|Liwen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.13945v1-b31b1b.svg)](http://arxiv.org/abs/2404.13945v1)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.13816v1-b31b1b.svg)](http://arxiv.org/abs/2404.13816v1)|null|
+|**2024-04-21**|**Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving**|Shuyao Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.13786v1-b31b1b.svg)](http://arxiv.org/abs/2404.13786v1)|null|
+|**2024-04-21**|**Seamless Underwater Navigation with Limited Doppler Velocity Log Measurements**|Nadav Cohen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.13742v1-b31b1b.svg)](http://arxiv.org/abs/2404.13742v1)|null|
+|**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.13443v1-b31b1b.svg)](http://arxiv.org/abs/2404.13443v1)|null|
 |**2024-04-22**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12916v2-b31b1b.svg)](http://arxiv.org/abs/2404.12916v2)|null|
 |**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12867v1-b31b1b.svg)](http://arxiv.org/abs/2404.12867v1)|null|
 |**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12856v1-b31b1b.svg)](http://arxiv.org/abs/2404.12856v1)|null|
