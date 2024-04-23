@@ -2,7 +2,7 @@
 
 ## Autonomous_Driving
 
-- 2024-04-19, **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**, Zhenyang Ni et.al., Paper: [http://arxiv.org/abs/2404.12916v1](http://arxiv.org/abs/2404.12916v1)
+- 2024-04-22, **Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**, Zhenyang Ni et.al., Paper: [http://arxiv.org/abs/2404.12916v2](http://arxiv.org/abs/2404.12916v2)
 - 2024-04-19, **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**, Xingtai Gui et.al., Paper: [http://arxiv.org/abs/2404.12867v1](http://arxiv.org/abs/2404.12867v1)
 - 2024-04-19, **Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2404.12856v1](http://arxiv.org/abs/2404.12856v1)
 - 2024-04-19, **A Point-Based Approach to Efficient LiDAR Multi-Task Perception**, Christopher Lang et.al., Paper: [http://arxiv.org/abs/2404.12798v1](http://arxiv.org/abs/2404.12798v1)

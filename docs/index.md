@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-19**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12916v1-b31b1b.svg)](http://arxiv.org/abs/2404.12916v1)|null|
+|**2024-04-22**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12916v2-b31b1b.svg)](http://arxiv.org/abs/2404.12916v2)|null|
 |**2024-04-19**|**FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving**|Xingtai Gui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12867v1-b31b1b.svg)](http://arxiv.org/abs/2404.12867v1)|null|
 |**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12856v1-b31b1b.svg)](http://arxiv.org/abs/2404.12856v1)|null|
 |**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.12798v1-b31b1b.svg)](http://arxiv.org/abs/2404.12798v1)|null|
