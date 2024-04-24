@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-04-23, **Driver Activity Classification Using Generalizable Representations from Vision-Language Models**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2404.14906v1](http://arxiv.org/abs/2404.14906v1)
+- 2024-04-23, **LaneCorrect: Self-supervised Lane Detection**, Ming Nie et.al., Paper: [http://arxiv.org/abs/2404.14671v1](http://arxiv.org/abs/2404.14671v1)
 - 2024-04-22, **PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**, Jie Cheng et.al., Paper: [http://arxiv.org/abs/2404.14327v1](http://arxiv.org/abs/2404.14327v1)
 - 2024-04-22, **Localization Based on MIMO Backscattering from Retro-Directive Antenna Arrays**, Marina Lotti et.al., Paper: [http://arxiv.org/abs/2404.14206v1](http://arxiv.org/abs/2404.14206v1)
 - 2024-04-22, **Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**, Sofía Coloma et.al., Paper: [http://arxiv.org/abs/2404.14095v1](http://arxiv.org/abs/2404.14095v1)
