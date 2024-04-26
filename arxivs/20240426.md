@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16672v1-b31b1b.svg)](http://arxiv.org/abs/2404.16672v1)|null|
+|**2024-04-25**|**Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**|Minrui Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16356v1-b31b1b.svg)](http://arxiv.org/abs/2404.16356v1)|null|
+|**2024-04-25**|**A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**|Yifan Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16266v1-b31b1b.svg)](http://arxiv.org/abs/2404.16266v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emi-group/evoxbench)**|
+|**2024-04-24**|**A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges**|Melih Yazgan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16139v1-b31b1b.svg)](http://arxiv.org/abs/2404.16139v1)|null|
+|**2024-04-24**|**ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity**|Qinxi Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16027v1-b31b1b.svg)](http://arxiv.org/abs/2404.16027v1)|null|
+|**2024-04-24**|**Learning Car-Following Behaviors Using Bayesian Matrix Normal Mixture Regression**|Chengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.16023v1-b31b1b.svg)](http://arxiv.org/abs/2404.16023v1)|null|
 |**2024-04-23**|**Driver Activity Classification Using Generalizable Representations from Vision-Language Models**|Ross Greer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14906v1-b31b1b.svg)](http://arxiv.org/abs/2404.14906v1)|null|
 |**2024-04-23**|**LaneCorrect: Self-supervised Lane Detection**|Ming Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14671v1-b31b1b.svg)](http://arxiv.org/abs/2404.14671v1)|null|
 |**2024-04-22**|**PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**|Jie Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.14327v1-b31b1b.svg)](http://arxiv.org/abs/2404.14327v1)|null|

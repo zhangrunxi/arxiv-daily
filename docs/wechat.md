@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-04-25, **RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**, Diego Martinez-Baselga et.al., Paper: [http://arxiv.org/abs/2404.16672v1](http://arxiv.org/abs/2404.16672v1)
+- 2024-04-25, **Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**, Minrui Xu et.al., Paper: [http://arxiv.org/abs/2404.16356v1](http://arxiv.org/abs/2404.16356v1)
+- 2024-04-25, **A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**, Yifan Zhao et.al., Paper: [http://arxiv.org/abs/2404.16266v1](http://arxiv.org/abs/2404.16266v1), Code: **[https://github.com/emi-group/evoxbench](https://github.com/emi-group/evoxbench)**
+- 2024-04-24, **A Survey on Intermediate Fusion Methods for Collaborative Perception Categorized by Real World Challenges**, Melih Yazgan et.al., Paper: [http://arxiv.org/abs/2404.16139v1](http://arxiv.org/abs/2404.16139v1)
+- 2024-04-24, **ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity**, Qinxi Yu et.al., Paper: [http://arxiv.org/abs/2404.16027v1](http://arxiv.org/abs/2404.16027v1)
+- 2024-04-24, **Learning Car-Following Behaviors Using Bayesian Matrix Normal Mixture Regression**, Chengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2404.16023v1](http://arxiv.org/abs/2404.16023v1)
 - 2024-04-23, **Driver Activity Classification Using Generalizable Representations from Vision-Language Models**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2404.14906v1](http://arxiv.org/abs/2404.14906v1)
 - 2024-04-23, **LaneCorrect: Self-supervised Lane Detection**, Ming Nie et.al., Paper: [http://arxiv.org/abs/2404.14671v1](http://arxiv.org/abs/2404.14671v1)
 - 2024-04-22, **PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**, Jie Cheng et.al., Paper: [http://arxiv.org/abs/2404.14327v1](http://arxiv.org/abs/2404.14327v1)
