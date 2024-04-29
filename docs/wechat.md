@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-04-26, **A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2404.17520v1](http://arxiv.org/abs/2404.17520v1)
+- 2024-04-26, **Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**, Moussa Kassem Sbeyti et.al., Paper: [http://arxiv.org/abs/2404.17427v1](http://arxiv.org/abs/2404.17427v1)
+- 2024-04-26, **On the Road to Clarity: Exploring Explainable AI for World Models in a Driver Assistance System**, Mohamed Roshdi et.al., Paper: [http://arxiv.org/abs/2404.17350v1](http://arxiv.org/abs/2404.17350v1)
+- 2024-04-26, **Dense Road Surface Grip Map Prediction from Multimodal Image Data**, Jyri Maanpää et.al., Paper: [http://arxiv.org/abs/2404.17324v1](http://arxiv.org/abs/2404.17324v1)
+- 2024-04-26, **Scene-Extrapolation: Generating Interactive Traffic Scenarios**, Maximilian Zipfl et.al., Paper: [http://arxiv.org/abs/2404.17224v1](http://arxiv.org/abs/2404.17224v1)
 - 2024-04-25, **RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**, Diego Martinez-Baselga et.al., Paper: [http://arxiv.org/abs/2404.16672v1](http://arxiv.org/abs/2404.16672v1)
 - 2024-04-25, **Integration of Mixture of Experts and Multimodal Generative AI in Internet of Vehicles: A Survey**, Minrui Xu et.al., Paper: [http://arxiv.org/abs/2404.16356v1](http://arxiv.org/abs/2404.16356v1)
 - 2024-04-25, **A Multi-objective Optimization Benchmark Test Suite for Real-time Semantic Segmentation**, Yifan Zhao et.al., Paper: [http://arxiv.org/abs/2404.16266v1](http://arxiv.org/abs/2404.16266v1), Code: **[https://github.com/emi-group/evoxbench](https://github.com/emi-group/evoxbench)**
