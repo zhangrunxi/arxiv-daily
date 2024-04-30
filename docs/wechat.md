@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-04-29, **PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**, Jasper Hoffmann et.al., Paper: [http://arxiv.org/abs/2404.18863v1](http://arxiv.org/abs/2404.18863v1)
+- 2024-04-29, **Safe Reach Set Computation via Neural Barrier Certificates**, Alessandro Abate et.al., Paper: [http://arxiv.org/abs/2404.18813v1](http://arxiv.org/abs/2404.18813v1)
+- 2024-04-29, **Uncertainty-boosted Robust Video Activity Anticipation**, Zhaobo Qi et.al., Paper: [http://arxiv.org/abs/2404.18648v1](http://arxiv.org/abs/2404.18648v1), Code: **[https://github.com/qzhb/ubrv2a](https://github.com/qzhb/ubrv2a)**
+- 2024-04-29, **Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification**, Ruben Grewal et.al., Paper: [http://arxiv.org/abs/2404.18573v1](http://arxiv.org/abs/2404.18573v1), Code: **[https://github.com/ast-fortiss-tum/misbehaviour-prediction-with-uncertainty-quantification](https://github.com/ast-fortiss-tum/misbehaviour-prediction-with-uncertainty-quantification)**
+- 2024-04-29, **MRIC: Model-Based Reinforcement-Imitation Learning with Mixture-of-Codebooks for Autonomous Driving Simulation**, Baotian He et.al., Paper: [http://arxiv.org/abs/2404.18464v1](http://arxiv.org/abs/2404.18464v1)
+- 2024-04-29, **$ν$-DBA: Neural Implicit Dense Bundle Adjustment Enables Image-Only Driving Scene Reconstruction**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2404.18439v1](http://arxiv.org/abs/2404.18439v1)
+- 2024-04-28, **RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**, Oded Bialer et.al., Paper: [http://arxiv.org/abs/2404.18150v1](http://arxiv.org/abs/2404.18150v1)
+- 2024-04-27, **BoostRad: Enhancing Object Detection by Boosting Radar Reflections**, Yuval Haitman et.al., Paper: [http://arxiv.org/abs/2404.17861v1](http://arxiv.org/abs/2404.17861v1)
+- 2024-04-27, **Motion planning for off-road autonomous driving based on human-like cognition and weight adaptation**, Yuchun Wang et.al., Paper: [http://arxiv.org/abs/2404.17820v1](http://arxiv.org/abs/2404.17820v1)
+- 2024-04-27, **CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving**, Junyi Gu et.al., Paper: [http://arxiv.org/abs/2404.17793v1](http://arxiv.org/abs/2404.17793v1), Code: **[https://github.com/claud1234/fcn_transformer_object_segmentation](https://github.com/claud1234/fcn_transformer_object_segmentation)**
 - 2024-04-26, **A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2404.17520v1](http://arxiv.org/abs/2404.17520v1)
 - 2024-04-26, **Cost-Sensitive Uncertainty-Based Failure Recognition for Object Detection**, Moussa Kassem Sbeyti et.al., Paper: [http://arxiv.org/abs/2404.17427v1](http://arxiv.org/abs/2404.17427v1)
 - 2024-04-26, **On the Road to Clarity: Exploring Explainable AI for World Models in a Driver Assistance System**, Mohamed Roshdi et.al., Paper: [http://arxiv.org/abs/2404.17350v1](http://arxiv.org/abs/2404.17350v1)
