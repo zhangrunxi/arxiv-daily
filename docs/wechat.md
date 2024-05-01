@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-04-30, **PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**, Jingbo Wang et.al., Paper: [http://arxiv.org/abs/2404.19722v1](http://arxiv.org/abs/2404.19722v1)
+- 2024-04-30, **Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**, Zhanwei Zhang et.al., Paper: [http://arxiv.org/abs/2404.19384v1](http://arxiv.org/abs/2404.19384v1)
+- 2024-04-30, **SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**, Zhigang Sun et.al., Paper: [http://arxiv.org/abs/2404.19379v1](http://arxiv.org/abs/2404.19379v1)
+- 2024-04-30, **G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction**, Zhanwei Zhang et.al., Paper: [http://arxiv.org/abs/2404.19330v1](http://arxiv.org/abs/2404.19330v1), Code: **[https://github.com/zhanwei-z/g2ltraj](https://github.com/zhanwei-z/g2ltraj)**
 - 2024-04-29, **PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**, Jasper Hoffmann et.al., Paper: [http://arxiv.org/abs/2404.18863v1](http://arxiv.org/abs/2404.18863v1)
 - 2024-04-29, **Safe Reach Set Computation via Neural Barrier Certificates**, Alessandro Abate et.al., Paper: [http://arxiv.org/abs/2404.18813v1](http://arxiv.org/abs/2404.18813v1)
 - 2024-04-29, **Uncertainty-boosted Robust Video Activity Anticipation**, Zhaobo Qi et.al., Paper: [http://arxiv.org/abs/2404.18648v1](http://arxiv.org/abs/2404.18648v1), Code: **[https://github.com/qzhb/ubrv2a](https://github.com/qzhb/ubrv2a)**

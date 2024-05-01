@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**|Jingbo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19722v1-b31b1b.svg)](http://arxiv.org/abs/2404.19722v1)|null|
+|**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19384v1-b31b1b.svg)](http://arxiv.org/abs/2404.19384v1)|null|
+|**2024-04-30**|**SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**|Zhigang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19379v1-b31b1b.svg)](http://arxiv.org/abs/2404.19379v1)|null|
+|**2024-04-30**|**G2LTraj: A Global-to-Local Generation Approach for Trajectory Prediction**|Zhanwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19330v1-b31b1b.svg)](http://arxiv.org/abs/2404.19330v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhanwei-z/g2ltraj)**|
 |**2024-04-29**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.18863v1-b31b1b.svg)](http://arxiv.org/abs/2404.18863v1)|null|
 |**2024-04-29**|**Safe Reach Set Computation via Neural Barrier Certificates**|Alessandro Abate et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.18813v1-b31b1b.svg)](http://arxiv.org/abs/2404.18813v1)|null|
 |**2024-04-29**|**Uncertainty-boosted Robust Video Activity Anticipation**|Zhaobo Qi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.18648v1-b31b1b.svg)](http://arxiv.org/abs/2404.18648v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qzhb/ubrv2a)**|
