@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-05-01, **Lane Segmentation Refinement with Diffusion Models**, Antonio Ruiz et.al., Paper: [http://arxiv.org/abs/2405.00620v1](http://arxiv.org/abs/2405.00620v1)
+- 2024-05-01, **GAD-Generative Learning for HD Map-Free Autonomous Driving**, Weijian Sun et.al., Paper: [http://arxiv.org/abs/2405.00515v1](http://arxiv.org/abs/2405.00515v1)
+- 2024-05-01, **On the Relevance of Byzantine Robust Optimization Against Data Poisoning**, Sadegh Farhadkhani et.al., Paper: [http://arxiv.org/abs/2405.00491v1](http://arxiv.org/abs/2405.00491v1)
+- 2024-05-01, **RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models**, Mohamed Manzour Hussien et.al., Paper: [http://arxiv.org/abs/2405.00449v1](http://arxiv.org/abs/2405.00449v1)
+- 2024-05-01, **Dual-Role AoI-based Incentive Mechanism for HD map Crowdsourcing**, Wentao Ye et.al., Paper: [http://arxiv.org/abs/2405.00353v1](http://arxiv.org/abs/2405.00353v1)
+- 2024-05-01, **Enhance Planning with Physics-informed Safety Controllor for End-to-end Autonomous Driving**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/2405.00316v1](http://arxiv.org/abs/2405.00316v1)
+- 2024-04-30, **SemVecNet: Generalizable Vector Map Generation for Arbitrary Sensor Configurations**, Narayanan Elavathur Ranganatha et.al., Paper: [http://arxiv.org/abs/2405.00250v1](http://arxiv.org/abs/2405.00250v1)
+- 2024-04-30, **Guiding Attention in End-to-End Driving Models**, Diego Porres et.al., Paper: [http://arxiv.org/abs/2405.00242v1](http://arxiv.org/abs/2405.00242v1)
+- 2024-04-30, **STT: Stateful Tracking with Transformers for Autonomous Driving**, Longlong Jing et.al., Paper: [http://arxiv.org/abs/2405.00236v1](http://arxiv.org/abs/2405.00236v1)
+- 2024-04-30, **A decomposition-based approach for large-scale pickup and delivery problems**, G. Hiermann et.al., Paper: [http://arxiv.org/abs/2405.00230v1](http://arxiv.org/abs/2405.00230v1)
 - 2024-04-30, **PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**, Jingbo Wang et.al., Paper: [http://arxiv.org/abs/2404.19722v1](http://arxiv.org/abs/2404.19722v1)
 - 2024-04-30, **Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**, Zhanwei Zhang et.al., Paper: [http://arxiv.org/abs/2404.19384v1](http://arxiv.org/abs/2404.19384v1)
 - 2024-04-30, **SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**, Zhigang Sun et.al., Paper: [http://arxiv.org/abs/2404.19379v1](http://arxiv.org/abs/2404.19379v1)

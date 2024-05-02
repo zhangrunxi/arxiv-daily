@@ -8,6 +8,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Lane Segmentation Refinement with Diffusion Models**|Antonio Ruiz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00620v1-b31b1b.svg)](http://arxiv.org/abs/2405.00620v1)|null|
+|**2024-05-01**|**GAD-Generative Learning for HD Map-Free Autonomous Driving**|Weijian Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00515v1-b31b1b.svg)](http://arxiv.org/abs/2405.00515v1)|null|
+|**2024-05-01**|**On the Relevance of Byzantine Robust Optimization Against Data Poisoning**|Sadegh Farhadkhani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00491v1-b31b1b.svg)](http://arxiv.org/abs/2405.00491v1)|null|
+|**2024-05-01**|**RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models**|Mohamed Manzour Hussien et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00449v1-b31b1b.svg)](http://arxiv.org/abs/2405.00449v1)|null|
+|**2024-05-01**|**Dual-Role AoI-based Incentive Mechanism for HD map Crowdsourcing**|Wentao Ye et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00353v1-b31b1b.svg)](http://arxiv.org/abs/2405.00353v1)|null|
+|**2024-05-01**|**Enhance Planning with Physics-informed Safety Controllor for End-to-end Autonomous Driving**|Hang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00316v1-b31b1b.svg)](http://arxiv.org/abs/2405.00316v1)|null|
+|**2024-04-30**|**SemVecNet: Generalizable Vector Map Generation for Arbitrary Sensor Configurations**|Narayanan Elavathur Ranganatha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00250v1-b31b1b.svg)](http://arxiv.org/abs/2405.00250v1)|null|
+|**2024-04-30**|**Guiding Attention in End-to-End Driving Models**|Diego Porres et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00242v1-b31b1b.svg)](http://arxiv.org/abs/2405.00242v1)|null|
+|**2024-04-30**|**STT: Stateful Tracking with Transformers for Autonomous Driving**|Longlong Jing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00236v1-b31b1b.svg)](http://arxiv.org/abs/2405.00236v1)|null|
+|**2024-04-30**|**A decomposition-based approach for large-scale pickup and delivery problems**|G. Hiermann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00230v1-b31b1b.svg)](http://arxiv.org/abs/2405.00230v1)|null|
 |**2024-04-30**|**PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios**|Jingbo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19722v1-b31b1b.svg)](http://arxiv.org/abs/2404.19722v1)|null|
 |**2024-04-30**|**Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection**|Zhanwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19384v1-b31b1b.svg)](http://arxiv.org/abs/2404.19384v1)|null|
 |**2024-04-30**|**SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs**|Zhigang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2404.19379v1-b31b1b.svg)](http://arxiv.org/abs/2404.19379v1)|null|
