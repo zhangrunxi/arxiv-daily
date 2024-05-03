@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01538v1-b31b1b.svg)](http://arxiv.org/abs/2405.01538v1)|null|
+|**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01533v1-b31b1b.svg)](http://arxiv.org/abs/2405.01533v1)|null|
+|**2024-05-02**|**An Advanced Framework for Ultra-Realistic Simulation and Digital Twinning for Autonomous Vehicles**|Yuankai He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01328v1-b31b1b.svg)](http://arxiv.org/abs/2405.01328v1)|null|
+|**2024-05-02**|**MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01266v1-b31b1b.svg)](http://arxiv.org/abs/2405.01266v1)|null|
+|**2024-05-02**|**A Survey on Semantic Communication Networks: Architecture, Security, and Privacy**|Shaolong Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01221v1-b31b1b.svg)](http://arxiv.org/abs/2405.01221v1)|null|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01108v1-b31b1b.svg)](http://arxiv.org/abs/2405.01108v1)|null|
+|**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01073v1-b31b1b.svg)](http://arxiv.org/abs/2405.01073v1)|null|
+|**2024-05-02**|**A Roadmap for Simulation-Based Testing of Autonomous Cyber-Physical Systems: Challenges and Future Direction**|Christian Birchler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01064v1-b31b1b.svg)](http://arxiv.org/abs/2405.01064v1)|null|
+|**2024-05-02**|**Rare Collision Risk Estimation of Autonomous Vehicles with Multi-Agent Situation Awareness**|Mahdieh Zaker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01011v1-b31b1b.svg)](http://arxiv.org/abs/2405.01011v1)|null|
+|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00900v1-b31b1b.svg)](http://arxiv.org/abs/2405.00900v1)|null|
 |**2024-05-01**|**Lane Segmentation Refinement with Diffusion Models**|Antonio Ruiz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00620v1-b31b1b.svg)](http://arxiv.org/abs/2405.00620v1)|null|
 |**2024-05-01**|**GAD-Generative Learning for HD Map-Free Autonomous Driving**|Weijian Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00515v1-b31b1b.svg)](http://arxiv.org/abs/2405.00515v1)|null|
 |**2024-05-01**|**On the Relevance of Byzantine Robust Optimization Against Data Poisoning**|Sadegh Farhadkhani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.00491v1-b31b1b.svg)](http://arxiv.org/abs/2405.00491v1)|null|
