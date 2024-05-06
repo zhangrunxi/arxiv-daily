@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.02145v1-b31b1b.svg)](http://arxiv.org/abs/2405.02145v1)|null|
+|**2024-05-03**|**Obstacle Avoidance of Autonomous Vehicles: An LPVMPC with Scheduling Trust Region**|Maryam Nezami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.02030v1-b31b1b.svg)](http://arxiv.org/abs/2405.02030v1)|null|
+|**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.02008v1-b31b1b.svg)](http://arxiv.org/abs/2405.02008v1)|null|
+|**2024-05-03**|**M${^2}$Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation**|Yingshuang Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.02004v1-b31b1b.svg)](http://arxiv.org/abs/2405.02004v1)|null|
+|**2024-05-03**|**Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots**|Joonho Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01792v1-b31b1b.svg)](http://arxiv.org/abs/2405.01792v1)|null|
+|**2024-05-02**|**Language-Enhanced Latent Representations for Out-of-Distribution Detection in Autonomous Driving**|Zhenjiang Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01691v1-b31b1b.svg)](http://arxiv.org/abs/2405.01691v1)|null|
+|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01673v1-b31b1b.svg)](http://arxiv.org/abs/2405.01673v1)|null|
 |**2024-05-02**|**Multi-Space Alignments Towards Universal LiDAR Segmentation**|Youquan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01538v1-b31b1b.svg)](http://arxiv.org/abs/2405.01538v1)|null|
 |**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01533v1-b31b1b.svg)](http://arxiv.org/abs/2405.01533v1)|null|
 |**2024-05-02**|**An Advanced Framework for Ultra-Realistic Simulation and Digital Twinning for Autonomous Vehicles**|Yuankai He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.01328v1-b31b1b.svg)](http://arxiv.org/abs/2405.01328v1)|null|
