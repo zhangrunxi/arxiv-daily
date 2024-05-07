@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-05-06, **RoboCar: A Rapidly Deployable Open-Source Platform for Autonomous Driving Research**, Mehdi Testouri et.al., Paper: [http://arxiv.org/abs/2405.03572v1](http://arxiv.org/abs/2405.03572v1)
+- 2024-05-06, **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**, Zheng Zhu et.al., Paper: [http://arxiv.org/abs/2405.03520v1](http://arxiv.org/abs/2405.03520v1), Code: **[https://github.com/gigaai-research/general-world-models-survey](https://github.com/gigaai-research/general-world-models-survey)**
+- 2024-05-06, **PAFOT: A Position-Based Approach for Finding Optimal Tests of Autonomous Vehicles**, Victor Crespo-Rodriguez et.al., Paper: [http://arxiv.org/abs/2405.03326v1](http://arxiv.org/abs/2405.03326v1)
+- 2024-05-06, **Evaluation of Drivers' Interaction Ability at Social Scenarios: A Process-Based Framework**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2405.03273v1](http://arxiv.org/abs/2405.03273v1)
+- 2024-05-05, **SalFAU-Net: Saliency Fusion Attention U-Net for Salient Object Detection**, Kassaw Abraham Mulat et.al., Paper: [http://arxiv.org/abs/2405.02906v1](http://arxiv.org/abs/2405.02906v1)
+- 2024-05-04, **Accelerating Autonomy: Insights from Pro Racers in the Era of Autonomous Racing - An Expert Interview Study**, Frederik Werner et.al., Paper: [http://arxiv.org/abs/2405.02620v1](http://arxiv.org/abs/2405.02620v1)
+- 2024-05-04, **Vision-based 3D occupancy prediction in autonomous driving: a review and outlook**, Yanan Zhang et.al., Paper: [http://arxiv.org/abs/2405.02595v1](http://arxiv.org/abs/2405.02595v1), Code: **[https://github.com/zya3d/awesome-3d-occupancy-prediction](https://github.com/zya3d/awesome-3d-occupancy-prediction)**
 - 2024-05-03, **Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2405.02145v1](http://arxiv.org/abs/2405.02145v1)
 - 2024-05-03, **Obstacle Avoidance of Autonomous Vehicles: An LPVMPC with Scheduling Trust Region**, Maryam Nezami et.al., Paper: [http://arxiv.org/abs/2405.02030v1](http://arxiv.org/abs/2405.02030v1)
 - 2024-05-03, **DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**, Peijin Jia et.al., Paper: [http://arxiv.org/abs/2405.02008v1](http://arxiv.org/abs/2405.02008v1)
