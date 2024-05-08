@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04491v1-b31b1b.svg)](http://arxiv.org/abs/2405.04491v1)|null|
+|**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04390v1-b31b1b.svg)](http://arxiv.org/abs/2405.04390v1)|null|
+|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04290v1-b31b1b.svg)](http://arxiv.org/abs/2405.04290v1)|null|
+|**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04146v1-b31b1b.svg)](http://arxiv.org/abs/2405.04146v1)|null|
+|**2024-05-07**|**ESP: Extro-Spective Prediction for Long-term Behavior Reasoning in Emergency Scenarios**|Dingrui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04100v1-b31b1b.svg)](http://arxiv.org/abs/2405.04100v1)|null|
+|**2024-05-07**|**Feature Map Convergence Evaluation for Functional Module**|Ludan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04041v1-b31b1b.svg)](http://arxiv.org/abs/2405.04041v1)|null|
+|**2024-05-07**|**Deep Event-based Object Detection in Autonomous Driving: A Survey**|Bingquan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03995v1-b31b1b.svg)](http://arxiv.org/abs/2405.03995v1)|null|
+|**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03971v1-b31b1b.svg)](http://arxiv.org/abs/2405.03971v1)|null|
+|**2024-05-07**|**Role of Sensing and Computer Vision in 6G Wireless Communications**|Seungnyun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03945v1-b31b1b.svg)](http://arxiv.org/abs/2405.03945v1)|null|
+|**2024-05-07**|**Roadside Units Assisted Localized Automated Vehicle Maneuvering: An Offline Reinforcement Learning Approach**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03935v1-b31b1b.svg)](http://arxiv.org/abs/2405.03935v1)|null|
 |**2024-05-06**|**RoboCar: A Rapidly Deployable Open-Source Platform for Autonomous Driving Research**|Mehdi Testouri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03572v1-b31b1b.svg)](http://arxiv.org/abs/2405.03572v1)|null|
 |**2024-05-06**|**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**|Zheng Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03520v1-b31b1b.svg)](http://arxiv.org/abs/2405.03520v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gigaai-research/general-world-models-survey)**|
 |**2024-05-06**|**PAFOT: A Position-Based Approach for Finding Optimal Tests of Autonomous Vehicles**|Victor Crespo-Rodriguez et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.03326v1-b31b1b.svg)](http://arxiv.org/abs/2405.03326v1)|null|

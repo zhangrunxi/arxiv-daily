@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-05-07, **TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**, Jonathan Wilder Lavington et.al., Paper: [http://arxiv.org/abs/2405.04491v1](http://arxiv.org/abs/2405.04491v1)
+- 2024-05-07, **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**, Chen Min et.al., Paper: [http://arxiv.org/abs/2405.04390v1](http://arxiv.org/abs/2405.04390v1)
+- 2024-05-07, **Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**, Yuxuan Xia et.al., Paper: [http://arxiv.org/abs/2405.04290v1](http://arxiv.org/abs/2405.04290v1)
+- 2024-05-07, **pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2405.04146v1](http://arxiv.org/abs/2405.04146v1)
+- 2024-05-07, **ESP: Extro-Spective Prediction for Long-term Behavior Reasoning in Emergency Scenarios**, Dingrui Wang et.al., Paper: [http://arxiv.org/abs/2405.04100v1](http://arxiv.org/abs/2405.04100v1)
+- 2024-05-07, **Feature Map Convergence Evaluation for Functional Module**, Ludan Zhang et.al., Paper: [http://arxiv.org/abs/2405.04041v1](http://arxiv.org/abs/2405.04041v1)
+- 2024-05-07, **Deep Event-based Object Detection in Autonomous Driving: A Survey**, Bingquan Zhou et.al., Paper: [http://arxiv.org/abs/2405.03995v1](http://arxiv.org/abs/2405.03995v1)
+- 2024-05-07, **Unified End-to-End V2X Cooperative Autonomous Driving**, Zhiwei Li et.al., Paper: [http://arxiv.org/abs/2405.03971v1](http://arxiv.org/abs/2405.03971v1)
+- 2024-05-07, **Role of Sensing and Computer Vision in 6G Wireless Communications**, Seungnyun Kim et.al., Paper: [http://arxiv.org/abs/2405.03945v1](http://arxiv.org/abs/2405.03945v1)
+- 2024-05-07, **Roadside Units Assisted Localized Automated Vehicle Maneuvering: An Offline Reinforcement Learning Approach**, Kui Wang et.al., Paper: [http://arxiv.org/abs/2405.03935v1](http://arxiv.org/abs/2405.03935v1)
 - 2024-05-06, **RoboCar: A Rapidly Deployable Open-Source Platform for Autonomous Driving Research**, Mehdi Testouri et.al., Paper: [http://arxiv.org/abs/2405.03572v1](http://arxiv.org/abs/2405.03572v1)
 - 2024-05-06, **Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**, Zheng Zhu et.al., Paper: [http://arxiv.org/abs/2405.03520v1](http://arxiv.org/abs/2405.03520v1), Code: **[https://github.com/gigaai-research/general-world-models-survey](https://github.com/gigaai-research/general-world-models-survey)**
 - 2024-05-06, **PAFOT: A Position-Based Approach for Finding Optimal Tests of Autonomous Vehicles**, Victor Crespo-Rodriguez et.al., Paper: [http://arxiv.org/abs/2405.03326v1](http://arxiv.org/abs/2405.03326v1)
