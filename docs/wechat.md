@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-05-08, **Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2405.05258v1](http://arxiv.org/abs/2405.05258v1), Code: **[https://github.com/ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix)**
+- 2024-05-08, **A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**, Huaiyuan Xu et.al., Paper: [http://arxiv.org/abs/2405.05173v1](http://arxiv.org/abs/2405.05173v1)
+- 2024-05-08, **DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**, Zeyu Han et.al., Paper: [http://arxiv.org/abs/2405.05131v1](http://arxiv.org/abs/2405.05131v1)
+- 2024-05-08, **Novel Actor-Critic Algorithm for Robust Decision Making of CAV under Delays and Loss of V2X Data**, Zine el abidine Kherroubi et.al., Paper: [http://arxiv.org/abs/2405.05072v1](http://arxiv.org/abs/2405.05072v1)
+- 2024-05-08, **Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**, Zhengxing Lan et.al., Paper: [http://arxiv.org/abs/2405.04909v1](http://arxiv.org/abs/2405.04909v1)
 - 2024-05-07, **TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**, Jonathan Wilder Lavington et.al., Paper: [http://arxiv.org/abs/2405.04491v1](http://arxiv.org/abs/2405.04491v1)
 - 2024-05-07, **DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**, Chen Min et.al., Paper: [http://arxiv.org/abs/2405.04390v1](http://arxiv.org/abs/2405.04390v1)
 - 2024-05-07, **Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**, Yuxuan Xia et.al., Paper: [http://arxiv.org/abs/2405.04290v1](http://arxiv.org/abs/2405.04290v1)

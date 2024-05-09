@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**|Lingdong Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05258v1-b31b1b.svg)](http://arxiv.org/abs/2405.05258v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ldkong1205/LaserMix)**|
+|**2024-05-08**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05173v1-b31b1b.svg)](http://arxiv.org/abs/2405.05173v1)|null|
+|**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05131v1-b31b1b.svg)](http://arxiv.org/abs/2405.05131v1)|null|
+|**2024-05-08**|**Novel Actor-Critic Algorithm for Robust Decision Making of CAV under Delays and Loss of V2X Data**|Zine el abidine Kherroubi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05072v1-b31b1b.svg)](http://arxiv.org/abs/2405.05072v1)|null|
+|**2024-05-08**|**Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models**|Zhengxing Lan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04909v1-b31b1b.svg)](http://arxiv.org/abs/2405.04909v1)|null|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04491v1-b31b1b.svg)](http://arxiv.org/abs/2405.04491v1)|null|
 |**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04390v1-b31b1b.svg)](http://arxiv.org/abs/2405.04390v1)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.04290v1-b31b1b.svg)](http://arxiv.org/abs/2405.04290v1)|null|
