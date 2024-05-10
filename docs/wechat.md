@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-05-09, **Probing Multimodal LLMs as World Models for Driving**, Shiva Sreeram et.al., Paper: [http://arxiv.org/abs/2405.05956v1](http://arxiv.org/abs/2405.05956v1), Code: **[https://github.com/sreeramsa/drivesim](https://github.com/sreeramsa/drivesim)**
+- 2024-05-09, **Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2405.05885v1](http://arxiv.org/abs/2405.05885v1)
+- 2024-05-09, **Towards Robust Physical-world Backdoor Attacks on Lane Detection**, Xinwei Zhang et.al., Paper: [http://arxiv.org/abs/2405.05553v1](http://arxiv.org/abs/2405.05553v1)
+- 2024-05-07, **Tiny Deep Ensemble: Uncertainty Estimation in Edge AI Accelerators via Ensembling Normalization Layers with Shared Weights**, Soyed Tuhin Ahmed et.al., Paper: [http://arxiv.org/abs/2405.05286v1](http://arxiv.org/abs/2405.05286v1)
 - 2024-05-08, **Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2405.05258v1](http://arxiv.org/abs/2405.05258v1), Code: **[https://github.com/ldkong1205/LaserMix](https://github.com/ldkong1205/LaserMix)**
 - 2024-05-08, **A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**, Huaiyuan Xu et.al., Paper: [http://arxiv.org/abs/2405.05173v1](http://arxiv.org/abs/2405.05173v1)
 - 2024-05-08, **DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**, Zeyu Han et.al., Paper: [http://arxiv.org/abs/2405.05131v1](http://arxiv.org/abs/2405.05131v1)
