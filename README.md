@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06600v1-b31b1b.svg)](http://arxiv.org/abs/2405.06600v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ying-fu/lmot)**|
+|**2024-05-10**|**Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**|Nathan Ludlow et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06578v1-b31b1b.svg)](http://arxiv.org/abs/2405.06578v1)|null|
+|**2024-05-10**|**Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**|Ana Petra Jukić et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06473v1-b31b1b.svg)](http://arxiv.org/abs/2405.06473v1)|null|
+|**2024-05-10**|**Path Planning and Motion Control for Accurate Positioning of Car-like Robots**|Jin Dai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06290v1-b31b1b.svg)](http://arxiv.org/abs/2405.06290v1)|null|
+|**2024-05-10**|**Selective Focus: Investigating Semantics Sensitivity in Post-training Quantization for Lane Detection**|Yunqian Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06264v1-b31b1b.svg)](http://arxiv.org/abs/2405.06264v1)|null|
 |**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05956v1-b31b1b.svg)](http://arxiv.org/abs/2405.05956v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreeramsa/drivesim)**|
 |**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05885v1-b31b1b.svg)](http://arxiv.org/abs/2405.05885v1)|null|
 |**2024-05-09**|**Towards Robust Physical-world Backdoor Attacks on Lane Detection**|Xinwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.05553v1-b31b1b.svg)](http://arxiv.org/abs/2405.05553v1)|null|

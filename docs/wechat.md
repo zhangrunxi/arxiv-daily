@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-05-10, **Multi-Object Tracking in the Dark**, Xinzhe Wang et.al., Paper: [http://arxiv.org/abs/2405.06600v1](http://arxiv.org/abs/2405.06600v1), Code: **[https://github.com/ying-fu/lmot](https://github.com/ying-fu/lmot)**
+- 2024-05-10, **Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**, Nathan Ludlow et.al., Paper: [http://arxiv.org/abs/2405.06578v1](http://arxiv.org/abs/2405.06578v1)
+- 2024-05-10, **Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**, Ana Petra Jukić et.al., Paper: [http://arxiv.org/abs/2405.06473v1](http://arxiv.org/abs/2405.06473v1)
+- 2024-05-10, **Path Planning and Motion Control for Accurate Positioning of Car-like Robots**, Jin Dai et.al., Paper: [http://arxiv.org/abs/2405.06290v1](http://arxiv.org/abs/2405.06290v1)
+- 2024-05-10, **Selective Focus: Investigating Semantics Sensitivity in Post-training Quantization for Lane Detection**, Yunqian Fan et.al., Paper: [http://arxiv.org/abs/2405.06264v1](http://arxiv.org/abs/2405.06264v1)
 - 2024-05-09, **Probing Multimodal LLMs as World Models for Driving**, Shiva Sreeram et.al., Paper: [http://arxiv.org/abs/2405.05956v1](http://arxiv.org/abs/2405.05956v1), Code: **[https://github.com/sreeramsa/drivesim](https://github.com/sreeramsa/drivesim)**
 - 2024-05-09, **Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2405.05885v1](http://arxiv.org/abs/2405.05885v1)
 - 2024-05-09, **Towards Robust Physical-world Backdoor Attacks on Lane Detection**, Xinwei Zhang et.al., Paper: [http://arxiv.org/abs/2405.05553v1](http://arxiv.org/abs/2405.05553v1)
