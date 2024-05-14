@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-05-13, **AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2405.07865v1](http://arxiv.org/abs/2405.07865v1)
+- 2024-05-13, **oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**, Abdul Hannan Khan et.al., Paper: [http://arxiv.org/abs/2405.07698v1](http://arxiv.org/abs/2405.07698v1)
+- 2024-05-13, **Comprehensive Analysis of Access Control Models in Edge Computing: Challenges, Solutions, and Future Directions**, Tao Xue et.al., Paper: [http://arxiv.org/abs/2405.07685v1](http://arxiv.org/abs/2405.07685v1)
+- 2024-05-12, **Modeling Pedestrian Intrinsic Uncertainty for Multimodal Stochastic Trajectory Prediction via Energy Plan Denoising**, Yao Liu et.al., Paper: [http://arxiv.org/abs/2405.07164v1](http://arxiv.org/abs/2405.07164v1)
+- 2024-05-11, **Multi-agent Traffic Prediction via Denoised Endpoint Distribution**, Yao Liu et.al., Paper: [http://arxiv.org/abs/2405.07041v1](http://arxiv.org/abs/2405.07041v1)
+- 2024-05-10, **GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**, Mingyu Liu et.al., Paper: [http://arxiv.org/abs/2405.06782v1](http://arxiv.org/abs/2405.06782v1)
+- 2024-05-10, **Boolean matrix logic programming for active learning of gene functions in genome-scale metabolic network models**, Lun Ai et.al., Paper: [http://arxiv.org/abs/2405.06724v1](http://arxiv.org/abs/2405.06724v1)
 - 2024-05-10, **Multi-Object Tracking in the Dark**, Xinzhe Wang et.al., Paper: [http://arxiv.org/abs/2405.06600v1](http://arxiv.org/abs/2405.06600v1), Code: **[https://github.com/ying-fu/lmot](https://github.com/ying-fu/lmot)**
 - 2024-05-10, **Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**, Nathan Ludlow et.al., Paper: [http://arxiv.org/abs/2405.06578v1](http://arxiv.org/abs/2405.06578v1)
 - 2024-05-10, **Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**, Ana Petra Jukić et.al., Paper: [http://arxiv.org/abs/2405.06473v1](http://arxiv.org/abs/2405.06473v1)

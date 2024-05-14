@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07865v1-b31b1b.svg)](http://arxiv.org/abs/2405.07865v1)|null|
+|**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07698v1-b31b1b.svg)](http://arxiv.org/abs/2405.07698v1)|null|
+|**2024-05-13**|**Comprehensive Analysis of Access Control Models in Edge Computing: Challenges, Solutions, and Future Directions**|Tao Xue et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07685v1-b31b1b.svg)](http://arxiv.org/abs/2405.07685v1)|null|
+|**2024-05-12**|**Modeling Pedestrian Intrinsic Uncertainty for Multimodal Stochastic Trajectory Prediction via Energy Plan Denoising**|Yao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07164v1-b31b1b.svg)](http://arxiv.org/abs/2405.07164v1)|null|
+|**2024-05-11**|**Multi-agent Traffic Prediction via Denoised Endpoint Distribution**|Yao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07041v1-b31b1b.svg)](http://arxiv.org/abs/2405.07041v1)|null|
+|**2024-05-10**|**GraphRelate3D: Context-Dependent 3D Object Detection with Inter-Object Relationship Graphs**|Mingyu Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06782v1-b31b1b.svg)](http://arxiv.org/abs/2405.06782v1)|null|
+|**2024-05-10**|**Boolean matrix logic programming for active learning of gene functions in genome-scale metabolic network models**|Lun Ai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06724v1-b31b1b.svg)](http://arxiv.org/abs/2405.06724v1)|null|
 |**2024-05-10**|**Multi-Object Tracking in the Dark**|Xinzhe Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06600v1-b31b1b.svg)](http://arxiv.org/abs/2405.06600v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ying-fu/lmot)**|
 |**2024-05-10**|**Hierarchical Learned Risk-Aware Planning Framework for Human Driving Modeling**|Nathan Ludlow et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06578v1-b31b1b.svg)](http://arxiv.org/abs/2405.06578v1)|null|
 |**2024-05-10**|**Autonomous Driving with a Deep Dual-Model Solution for Steering and Braking Control**|Ana Petra Jukić et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.06473v1-b31b1b.svg)](http://arxiv.org/abs/2405.06473v1)|null|
