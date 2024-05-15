@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.08816v1-b31b1b.svg)](http://arxiv.org/abs/2405.08816v1)|null|
+|**2024-05-14**|**Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**|Luisa Schwirten et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.08794v1-b31b1b.svg)](http://arxiv.org/abs/2405.08794v1)|null|
+|**2024-05-14**|**Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?**|Francesco Marchiori et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.08466v1-b31b1b.svg)](http://arxiv.org/abs/2405.08466v1)|null|
+|**2024-05-14**|**TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**|Martín Bayón-Gutiérrez et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.08429v1-b31b1b.svg)](http://arxiv.org/abs/2405.08429v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martin-bayon/tednet)**|
+|**2024-05-13**|**Equivariant Deep Learning of Mixed-Integer Optimal Control Solutions for Vehicle Decision Making and Motion Planning**|Rudolf Reiter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.08122v1-b31b1b.svg)](http://arxiv.org/abs/2405.08122v1)|null|
 |**2024-05-13**|**AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07865v1-b31b1b.svg)](http://arxiv.org/abs/2405.07865v1)|null|
 |**2024-05-13**|**oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**|Abdul Hannan Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07698v1-b31b1b.svg)](http://arxiv.org/abs/2405.07698v1)|null|
 |**2024-05-13**|**Comprehensive Analysis of Access Control Models in Edge Computing: Challenges, Solutions, and Future Directions**|Tao Xue et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.07685v1-b31b1b.svg)](http://arxiv.org/abs/2405.07685v1)|null|

@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-05-14, **The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2405.08816v1](http://arxiv.org/abs/2405.08816v1)
+- 2024-05-14, **Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**, Luisa Schwirten et.al., Paper: [http://arxiv.org/abs/2405.08794v1](http://arxiv.org/abs/2405.08794v1)
+- 2024-05-14, **Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?**, Francesco Marchiori et.al., Paper: [http://arxiv.org/abs/2405.08466v1](http://arxiv.org/abs/2405.08466v1)
+- 2024-05-14, **TEDNet: Twin Encoder Decoder Neural Network for 2D Camera and LiDAR Road Detection**, Martín Bayón-Gutiérrez et.al., Paper: [http://arxiv.org/abs/2405.08429v1](http://arxiv.org/abs/2405.08429v1), Code: **[https://github.com/martin-bayon/tednet](https://github.com/martin-bayon/tednet)**
+- 2024-05-13, **Equivariant Deep Learning of Mixed-Integer Optimal Control Solutions for Vehicle Decision Making and Motion Planning**, Rudolf Reiter et.al., Paper: [http://arxiv.org/abs/2405.08122v1](http://arxiv.org/abs/2405.08122v1)
 - 2024-05-13, **AnoVox: A Benchmark for Multimodal Anomaly Detection in Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2405.07865v1](http://arxiv.org/abs/2405.07865v1)
 - 2024-05-13, **oTTC: Object Time-to-Contact for Motion Estimation in Autonomous Driving**, Abdul Hannan Khan et.al., Paper: [http://arxiv.org/abs/2405.07698v1](http://arxiv.org/abs/2405.07698v1)
 - 2024-05-13, **Comprehensive Analysis of Access Control Models in Edge Computing: Challenges, Solutions, and Future Directions**, Tao Xue et.al., Paper: [http://arxiv.org/abs/2405.07685v1](http://arxiv.org/abs/2405.07685v1)
