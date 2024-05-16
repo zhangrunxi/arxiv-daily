@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-05-15, **CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**, Dechen Gao et.al., Paper: [http://arxiv.org/abs/2405.09111v1](http://arxiv.org/abs/2405.09111v1)
+- 2024-05-15, **Chaos-based reinforcement learning with TD3**, Toshitaka Matsuki et.al., Paper: [http://arxiv.org/abs/2405.09086v1](http://arxiv.org/abs/2405.09086v1)
+- 2024-05-15, **Perception Without Vision for Trajectory Prediction: Ego Vehicle Dynamics as Scene Representation for Efficient Active Learning in Autonomous Driving**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2405.09049v1](http://arxiv.org/abs/2405.09049v1)
+- 2024-05-14, **The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks**, Ziquan Liu et.al., Paper: [http://arxiv.org/abs/2405.08886v1](http://arxiv.org/abs/2405.08886v1)
 - 2024-05-14, **The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2405.08816v1](http://arxiv.org/abs/2405.08816v1)
 - 2024-05-14, **Ambiguous Annotations: When is a Pedestrian not a Pedestrian?**, Luisa Schwirten et.al., Paper: [http://arxiv.org/abs/2405.08794v1](http://arxiv.org/abs/2405.08794v1)
 - 2024-05-14, **Work-in-Progress: Crash Course: Can (Under Attack) Autonomous Driving Beat Human Drivers?**, Francesco Marchiori et.al., Paper: [http://arxiv.org/abs/2405.08466v1](http://arxiv.org/abs/2405.08466v1)
