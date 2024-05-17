@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-05-16, **Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2405.10145v1](http://arxiv.org/abs/2405.10145v1)
+- 2024-05-16, **Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**, Tobias Demmler et.al., Paper: [http://arxiv.org/abs/2405.10134v1](http://arxiv.org/abs/2405.10134v1)
+- 2024-05-16, **Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2405.10132v1](http://arxiv.org/abs/2405.10132v1)
+- 2024-05-16, **Infrared Adversarial Car Stickers**, Xiaopei Zhu et.al., Paper: [http://arxiv.org/abs/2405.09924v1](http://arxiv.org/abs/2405.09924v1)
+- 2024-05-16, **PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**, Xusheng Li et.al., Paper: [http://arxiv.org/abs/2405.09828v1](http://arxiv.org/abs/2405.09828v1)
+- 2024-05-16, **Collision Avoidance Metric for 3D Camera Evaluation**, Vage Taamazyan et.al., Paper: [http://arxiv.org/abs/2405.09755v1](http://arxiv.org/abs/2405.09755v1)
+- 2024-05-15, **Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**, Guo Yachan et.al., Paper: [http://arxiv.org/abs/2405.09682v1](http://arxiv.org/abs/2405.09682v1)
 - 2024-05-15, **CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**, Dechen Gao et.al., Paper: [http://arxiv.org/abs/2405.09111v1](http://arxiv.org/abs/2405.09111v1)
 - 2024-05-15, **Chaos-based reinforcement learning with TD3**, Toshitaka Matsuki et.al., Paper: [http://arxiv.org/abs/2405.09086v1](http://arxiv.org/abs/2405.09086v1)
 - 2024-05-15, **Perception Without Vision for Trajectory Prediction: Ego Vehicle Dynamics as Scene Representation for Efficient Active Learning in Autonomous Driving**, Ross Greer et.al., Paper: [http://arxiv.org/abs/2405.09049v1](http://arxiv.org/abs/2405.09049v1)
