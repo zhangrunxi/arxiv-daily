@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving
 
+- 2024-05-17, **GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**, Xin Tan et.al., Paper: [http://arxiv.org/abs/2405.10591v1](http://arxiv.org/abs/2405.10591v1)
+- 2024-05-17, **Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2405.10567v1](http://arxiv.org/abs/2405.10567v1)
+- 2024-05-17, **NeRO: Neural Road Surface Reconstruction**, Ruibo Wang et.al., Paper: [http://arxiv.org/abs/2405.10554v1](http://arxiv.org/abs/2405.10554v1)
 - 2024-05-16, **Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2405.10145v1](http://arxiv.org/abs/2405.10145v1)
 - 2024-05-16, **Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**, Tobias Demmler et.al., Paper: [http://arxiv.org/abs/2405.10134v1](http://arxiv.org/abs/2405.10134v1)
 - 2024-05-16, **Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2405.10132v1](http://arxiv.org/abs/2405.10132v1)

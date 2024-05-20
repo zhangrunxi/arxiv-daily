@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**|Xin Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10591v1-b31b1b.svg)](http://arxiv.org/abs/2405.10591v1)|null|
+|**2024-05-17**|**Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10567v1-b31b1b.svg)](http://arxiv.org/abs/2405.10567v1)|null|
+|**2024-05-17**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10554v1-b31b1b.svg)](http://arxiv.org/abs/2405.10554v1)|null|
 |**2024-05-16**|**Deep Koopman Operator-Informed Safety Command Governor for Autonomous Vehicles**|Hao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10145v1-b31b1b.svg)](http://arxiv.org/abs/2405.10145v1)|null|
 |**2024-05-16**|**Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10134v1-b31b1b.svg)](http://arxiv.org/abs/2405.10134v1)|null|
 |**2024-05-16**|**Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10132v1-b31b1b.svg)](http://arxiv.org/abs/2405.10132v1)|null|
