@@ -4,6 +4,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12120v1-b31b1b.svg)](http://arxiv.org/abs/2405.12120v1)|null|
+|**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11995v1-b31b1b.svg)](http://arxiv.org/abs/2405.11995v1)|null|
+|**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11980v1-b31b1b.svg)](http://arxiv.org/abs/2405.11980v1)|null|
+|**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11903v1-b31b1b.svg)](http://arxiv.org/abs/2405.11903v1)|null|
+|**2024-05-20**|**Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction**|Aryan Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11823v1-b31b1b.svg)](http://arxiv.org/abs/2405.11823v1)|null|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11682v1-b31b1b.svg)](http://arxiv.org/abs/2405.11682v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziongo6/fadet)**|
+|**2024-05-18**|**Symmetrically Threaded SQUIDs As Next Generation Kerr-cat Qubits**|Bibek Bhandari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11375v1-b31b1b.svg)](http://arxiv.org/abs/2405.11375v1)|null|
+|**2024-05-18**|**Generalized Multi-Objective Reinforcement Learning with Envelope Updates in URLLC-enabled Vehicular Networks**|Zijiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11331v1-b31b1b.svg)](http://arxiv.org/abs/2405.11331v1)|null|
+|**2024-05-18**|**RuleFuser: Injecting Rules in Evidential Networks for Robust Out-of-Distribution Trajectory Prediction**|Jay Patrikar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11139v1-b31b1b.svg)](http://arxiv.org/abs/2405.11139v1)|null|
 |**2024-05-17**|**GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**|Xin Tan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10591v1-b31b1b.svg)](http://arxiv.org/abs/2405.10591v1)|null|
 |**2024-05-17**|**Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10567v1-b31b1b.svg)](http://arxiv.org/abs/2405.10567v1)|null|
 |**2024-05-17**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10554v1-b31b1b.svg)](http://arxiv.org/abs/2405.10554v1)|null|
