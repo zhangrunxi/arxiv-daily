@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 
 ## Autonomous_Driving
 
@@ -15,7 +15,7 @@ layout: default
 |**2024-05-16**|**Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10134v1-b31b1b.svg)](http://arxiv.org/abs/2405.10134v1)|null|
 |**2024-05-16**|**Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.10132v1-b31b1b.svg)](http://arxiv.org/abs/2405.10132v1)|null|
 |**2024-05-16**|**Infrared Adversarial Car Stickers**|Xiaopei Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09924v1-b31b1b.svg)](http://arxiv.org/abs/2405.09924v1)|null|
-|**2024-05-16**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09828v1-b31b1b.svg)](http://arxiv.org/abs/2405.09828v1)|null|
+|**2024-05-19**|**PillarNeXt: Improving the 3D detector by introducing Voxel2Pillar feature encoding and extracting multi-scale features**|Xusheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09828v2-b31b1b.svg)](http://arxiv.org/abs/2405.09828v2)|null|
 |**2024-05-16**|**Collision Avoidance Metric for 3D Camera Evaluation**|Vage Taamazyan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09755v1-b31b1b.svg)](http://arxiv.org/abs/2405.09755v1)|null|
 |**2024-05-15**|**Synth-to-Real Unsupervised Domain Adaptation for Instance Segmentation**|Guo Yachan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09682v1-b31b1b.svg)](http://arxiv.org/abs/2405.09682v1)|null|
 |**2024-05-15**|**CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**|Dechen Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.09111v1-b31b1b.svg)](http://arxiv.org/abs/2405.09111v1)|null|
