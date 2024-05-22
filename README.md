@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12864v1-b31b1b.svg)](http://arxiv.org/abs/2405.12864v1)|null|
+|**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12503v1-b31b1b.svg)](http://arxiv.org/abs/2405.12503v1)|null|
+|**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12456v1-b31b1b.svg)](http://arxiv.org/abs/2405.12456v1)|null|
 |**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12120v1-b31b1b.svg)](http://arxiv.org/abs/2405.12120v1)|null|
 |**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11995v1-b31b1b.svg)](http://arxiv.org/abs/2405.11995v1)|null|
 |**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.11980v1-b31b1b.svg)](http://arxiv.org/abs/2405.11980v1)|null|
