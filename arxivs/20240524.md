@@ -4,6 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14870v1-b31b1b.svg)](http://arxiv.org/abs/2405.14870v1)|null|
+|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14747v1-b31b1b.svg)](http://arxiv.org/abs/2405.14747v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franpin/TopoLogic)**|
+|**2024-05-23**|**SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**|Mariusz Wiśniewski et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14584v1-b31b1b.svg)](http://arxiv.org/abs/2405.14584v1)|null|
+|**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14475v1-b31b1b.svg)](http://arxiv.org/abs/2405.14475v1)|null|
+|**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14342v1-b31b1b.svg)](http://arxiv.org/abs/2405.14342v1)|null|
+|**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14241v1-b31b1b.svg)](http://arxiv.org/abs/2405.14241v1)|null|
+|**2024-05-23**|**Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds**|Hanwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14210v1-b31b1b.svg)](http://arxiv.org/abs/2405.14210v1)|null|
+|**2024-05-23**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14200v1-b31b1b.svg)](http://arxiv.org/abs/2405.14200v1)|null|
+|**2024-05-23**|**Towards Transferable Attacks Against Vision-LLMs in Autonomous Driving with Typography**|Nhat Chung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14169v1-b31b1b.svg)](http://arxiv.org/abs/2405.14169v1)|null|
+|**2024-05-22**|**ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles**|Jiawei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14062v1-b31b1b.svg)](http://arxiv.org/abs/2405.14062v1)|null|
 |**2024-05-21**|**Transparency Distortion Robustness for SOTA Image Segmentation Tasks**|Volker Knauthe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12864v1-b31b1b.svg)](http://arxiv.org/abs/2405.12864v1)|null|
 |**2024-05-21**|**CLRKDNet: Speeding up Lane Detection with Knowledge Distillation**|Weiqing Qi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12503v1-b31b1b.svg)](http://arxiv.org/abs/2405.12503v1)|null|
 |**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.12456v1-b31b1b.svg)](http://arxiv.org/abs/2405.12456v1)|null|
