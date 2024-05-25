@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14870v1-b31b1b.svg)](http://arxiv.org/abs/2405.14870v1)|null|
-|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14747v1-b31b1b.svg)](http://arxiv.org/abs/2405.14747v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franpin/TopoLogic)**|
+|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14870v1-b31b1b.svg)](http://arxiv.org/abs/2405.14870v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-mmlab/mmdetection3d)**|
+|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14747v1-b31b1b.svg)](http://arxiv.org/abs/2405.14747v1)|null|
 |**2024-05-23**|**SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**|Mariusz Wiśniewski et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14584v1-b31b1b.svg)](http://arxiv.org/abs/2405.14584v1)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14475v1-b31b1b.svg)](http://arxiv.org/abs/2405.14475v1)|null|
 |**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14342v1-b31b1b.svg)](http://arxiv.org/abs/2405.14342v1)|null|
