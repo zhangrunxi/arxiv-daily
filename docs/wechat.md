@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-05-24, **SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2405.15677v1](http://arxiv.org/abs/2405.15677v1)
+- 2024-05-24, **Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**, Jianbiao Mei et.al., Paper: [http://arxiv.org/abs/2405.15324v1](http://arxiv.org/abs/2405.15324v1), Code: **[https://github.com/pjlab-adg/leapad](https://github.com/pjlab-adg/leapad)**
+- 2024-05-24, **3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**, Boyi Sun et.al., Paper: [http://arxiv.org/abs/2405.15286v1](http://arxiv.org/abs/2405.15286v1), Code: **[https://github.com/sbysbysbys/uov](https://github.com/sbysbysbys/uov)**
+- 2024-05-24, **Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**, Yuhang Liu et.al., Paper: [http://arxiv.org/abs/2405.15274v1](http://arxiv.org/abs/2405.15274v1)
+- 2024-05-24, **Label-efficient Semantic Scene Completion with Scribble Annotations**, Song Wang et.al., Paper: [http://arxiv.org/abs/2405.15170v1](http://arxiv.org/abs/2405.15170v1), Code: **[https://github.com/songw-zju/scribble2scene](https://github.com/songw-zju/scribble2scene)**
 - 2024-05-23, **An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**, Jiahao Sun et.al., Paper: [http://arxiv.org/abs/2405.14870v1](http://arxiv.org/abs/2405.14870v1), Code: **[https://github.com/open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d)**
 - 2024-05-23, **TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**, Yanping Fu et.al., Paper: [http://arxiv.org/abs/2405.14747v1](http://arxiv.org/abs/2405.14747v1)
 - 2024-05-23, **SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**, Mariusz Wiśniewski et.al., Paper: [http://arxiv.org/abs/2405.14584v1](http://arxiv.org/abs/2405.14584v1)
