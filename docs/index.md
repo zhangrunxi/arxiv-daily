@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 
 ## Autonomous_Driving
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14747v1-b31b1b.svg)](http://arxiv.org/abs/2405.14747v1)|null|
 |**2024-05-23**|**SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**|Mariusz Wiśniewski et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14584v1-b31b1b.svg)](http://arxiv.org/abs/2405.14584v1)|null|
 |**2024-05-23**|**MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**|Ruiyuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14475v1-b31b1b.svg)](http://arxiv.org/abs/2405.14475v1)|null|
-|**2024-05-23**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14342v1-b31b1b.svg)](http://arxiv.org/abs/2405.14342v1)|null|
+|**2024-05-24**|**RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**|Zhiheng Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14342v2-b31b1b.svg)](http://arxiv.org/abs/2405.14342v2)|null|
 |**2024-05-23**|**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**|Chaokang Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14241v1-b31b1b.svg)](http://arxiv.org/abs/2405.14241v1)|null|
 |**2024-05-23**|**Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds**|Hanwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14210v1-b31b1b.svg)](http://arxiv.org/abs/2405.14210v1)|null|
 |**2024-05-23**|**Awesome Multi-modal Object Tracking**|Chunhui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.14200v1-b31b1b.svg)](http://arxiv.org/abs/2405.14200v1)|null|

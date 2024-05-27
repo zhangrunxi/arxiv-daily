@@ -1,4 +1,4 @@
-> Updated on 2024.05.26
+> Updated on 2024.05.27
 
 ## Autonomous_Driving
 
@@ -6,7 +6,7 @@
 - 2024-05-23, **TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**, Yanping Fu et.al., Paper: [http://arxiv.org/abs/2405.14747v1](http://arxiv.org/abs/2405.14747v1)
 - 2024-05-23, **SE3D: A Framework For Saliency Method Evaluation In 3D Imaging**, Mariusz Wiśniewski et.al., Paper: [http://arxiv.org/abs/2405.14584v1](http://arxiv.org/abs/2405.14584v1)
 - 2024-05-23, **MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes**, Ruiyuan Gao et.al., Paper: [http://arxiv.org/abs/2405.14475v1](http://arxiv.org/abs/2405.14475v1)
-- 2024-05-23, **RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**, Zhiheng Feng et.al., Paper: [http://arxiv.org/abs/2405.14342v1](http://arxiv.org/abs/2405.14342v1)
+- 2024-05-24, **RoGS: Large Scale Road Surface Reconstruction based on 2D Gaussian Splatting**, Zhiheng Feng et.al., Paper: [http://arxiv.org/abs/2405.14342v2](http://arxiv.org/abs/2405.14342v2)
 - 2024-05-23, **NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation**, Chaokang Jiang et.al., Paper: [http://arxiv.org/abs/2405.14241v1](http://arxiv.org/abs/2405.14241v1)
 - 2024-05-23, **Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds**, Hanwei Zhang et.al., Paper: [http://arxiv.org/abs/2405.14210v1](http://arxiv.org/abs/2405.14210v1)
 - 2024-05-23, **Awesome Multi-modal Object Tracking**, Chunhui Zhang et.al., Paper: [http://arxiv.org/abs/2405.14200v1](http://arxiv.org/abs/2405.14200v1)
