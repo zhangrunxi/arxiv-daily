@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-05-27, **GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2405.17429v1](http://arxiv.org/abs/2405.17429v1), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
+- 2024-05-27, **Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**, Shuai Zeng et.al., Paper: [http://arxiv.org/abs/2405.17422v1](http://arxiv.org/abs/2405.17422v1), Code: **[https://github.com/wzzheng/hass](https://github.com/wzzheng/hass)**
+- 2024-05-27, **MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2405.17419v1](http://arxiv.org/abs/2405.17419v1), Code: **[https://github.com/donghao51/multiood](https://github.com/donghao51/multiood)**
+- 2024-05-27, **Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**, Shenyuan Gao et.al., Paper: [http://arxiv.org/abs/2405.17398v1](http://arxiv.org/abs/2405.17398v1), Code: **[https://github.com/opendrivelab/vista](https://github.com/opendrivelab/vista)**
+- 2024-05-27, **BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction**, Zikang Zhou et.al., Paper: [http://arxiv.org/abs/2405.17372v1](http://arxiv.org/abs/2405.17372v1)
+- 2024-05-27, **Towards Accurate Ego-lane Identification with Early Time Series Classification**, Yuchuan Jin et.al., Paper: [http://arxiv.org/abs/2405.17270v1](http://arxiv.org/abs/2405.17270v1)
+- 2024-05-27, **DINO-SD: Champion Solution for ICRA 2024 RoboDepth Challenge**, Yifan Mao et.al., Paper: [http://arxiv.org/abs/2405.17102v1](http://arxiv.org/abs/2405.17102v1)
+- 2024-05-27, **A Two-Level Stochastic Model for the Lateral Movement of Vehicles Within Their Lane Under Homogeneous Traffic Conditions**, Nicole Neis et.al., Paper: [http://arxiv.org/abs/2405.17080v1](http://arxiv.org/abs/2405.17080v1)
+- 2024-05-27, **SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**, Avinash Nittur Ramesh et.al., Paper: [http://arxiv.org/abs/2405.17030v1](http://arxiv.org/abs/2405.17030v1)
+- 2024-05-27, **Bounding Random Test Set Size with Computational Learning Theory**, Neil Walkinshaw et.al., Paper: [http://arxiv.org/abs/2405.17019v1](http://arxiv.org/abs/2405.17019v1)
 - 2024-05-24, **SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2405.15677v1](http://arxiv.org/abs/2405.15677v1)
 - 2024-05-24, **Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**, Jianbiao Mei et.al., Paper: [http://arxiv.org/abs/2405.15324v1](http://arxiv.org/abs/2405.15324v1), Code: **[https://github.com/pjlab-adg/leapad](https://github.com/pjlab-adg/leapad)**
 - 2024-05-24, **3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**, Boyi Sun et.al., Paper: [http://arxiv.org/abs/2405.15286v1](http://arxiv.org/abs/2405.15286v1), Code: **[https://github.com/sbysbysbys/uov](https://github.com/sbysbysbys/uov)**
