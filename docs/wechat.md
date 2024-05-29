@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-05-28, **3D StreetUnveiler with Semantic-Aware 2DGS**, Jingwei Xu et.al., Paper: [http://arxiv.org/abs/2405.18416v1](http://arxiv.org/abs/2405.18416v1)
+- 2024-05-28, **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**, Yifan Bai et.al., Paper: [http://arxiv.org/abs/2405.18361v1](http://arxiv.org/abs/2405.18361v1)
+- 2024-05-28, **Safe Multi-Agent Reinforcement Learning with Bilevel Optimization in Autonomous Driving**, Zhi Zheng et.al., Paper: [http://arxiv.org/abs/2405.18209v1](http://arxiv.org/abs/2405.18209v1), Code: **[https://github.com/saferl-lab/safe-marl-in-autonomous-driving](https://github.com/saferl-lab/safe-marl-in-autonomous-driving)**
+- 2024-05-28, **MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**, Mathieu Cocheteux et.al., Paper: [http://arxiv.org/abs/2405.18021v1](http://arxiv.org/abs/2405.18021v1)
+- 2024-05-28, **Self-supervised Pre-training for Transferable Multi-modal Perception**, Xiaohao Xu et.al., Paper: [http://arxiv.org/abs/2405.17942v1](http://arxiv.org/abs/2405.17942v1)
+- 2024-05-28, **Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task**, Huiping Zhuang et.al., Paper: [http://arxiv.org/abs/2405.17779v1](http://arxiv.org/abs/2405.17779v1), Code: **[https://github.com/ZHUANGHP/Analytic-continual-learning](https://github.com/ZHUANGHP/Analytic-continual-learning)**
+- 2024-05-27, **DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**, Linhan Wang et.al., Paper: [http://arxiv.org/abs/2405.17705v1](http://arxiv.org/abs/2405.17705v1)
 - 2024-05-27, **GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2405.17429v1](http://arxiv.org/abs/2405.17429v1), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-05-27, **Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**, Shuai Zeng et.al., Paper: [http://arxiv.org/abs/2405.17422v1](http://arxiv.org/abs/2405.17422v1), Code: **[https://github.com/wzzheng/hass](https://github.com/wzzheng/hass)**
 - 2024-05-27, **MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**, Hao Dong et.al., Paper: [http://arxiv.org/abs/2405.17419v1](http://arxiv.org/abs/2405.17419v1), Code: **[https://github.com/donghao51/multiood](https://github.com/donghao51/multiood)**
