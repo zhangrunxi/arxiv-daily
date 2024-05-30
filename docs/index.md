@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 
 ## Autonomous_Driving
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-05-28**|**MULi-Ev: Maintaining Unperturbed LiDAR-Event Calibration**|Mathieu Cocheteux et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.18021v1-b31b1b.svg)](http://arxiv.org/abs/2405.18021v1)|null|
 |**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17942v1-b31b1b.svg)](http://arxiv.org/abs/2405.17942v1)|null|
 |**2024-05-28**|**Online Analytic Exemplar-Free Continual Learning with Large Models for Imbalanced Autonomous Driving Task**|Huiping Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17779v1-b31b1b.svg)](http://arxiv.org/abs/2405.17779v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZHUANGHP/Analytic-continual-learning)**|
-|**2024-05-27**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17705v1-b31b1b.svg)](http://arxiv.org/abs/2405.17705v1)|null|
+|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17705v2-b31b1b.svg)](http://arxiv.org/abs/2405.17705v2)|null|
 |**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17429v1-b31b1b.svg)](http://arxiv.org/abs/2405.17429v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huang-yh/gaussianformer)**|
 |**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17422v1-b31b1b.svg)](http://arxiv.org/abs/2405.17422v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/hass)**|
 |**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2405.17419v1-b31b1b.svg)](http://arxiv.org/abs/2405.17419v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donghao51/multiood)**|
