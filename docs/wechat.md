@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-05-29, **Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2405.19326v1](http://arxiv.org/abs/2405.19326v1)
+- 2024-05-29, **Real-Time Environment Condition Classification for Autonomous Vehicles**, Marco Introvigne et.al., Paper: [http://arxiv.org/abs/2405.19305v1](http://arxiv.org/abs/2405.19305v1)
+- 2024-05-29, **Act Natural! Projecting Autonomous System Trajectories Into Naturalistic Behavior Sets**, Hamzah I. Khan et.al., Paper: [http://arxiv.org/abs/2405.19292v1](http://arxiv.org/abs/2405.19292v1)
+- 2024-05-29, **Conditional Latent ODEs for Motion Prediction in Autonomous Driving**, Khang Truong Giang et.al., Paper: [http://arxiv.org/abs/2405.19183v1](http://arxiv.org/abs/2405.19183v1)
+- 2024-05-29, **Quantum Optimal Control of Squeezing in Cavity Optomechanics**, Anton Halaski et.al., Paper: [http://arxiv.org/abs/2405.19070v1](http://arxiv.org/abs/2405.19070v1)
+- 2024-05-29, **A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**, Niclas Vödisch et.al., Paper: [http://arxiv.org/abs/2405.19035v1](http://arxiv.org/abs/2405.19035v1), Code: **[https://github.com/robot-learning-freiburg/PASTEL](https://github.com/robot-learning-freiburg/PASTEL)**
+- 2024-05-29, **Optimizing Vehicular Networks with Variational Quantum Circuits-based Reinforcement Learning**, Zijiang Yan et.al., Paper: [http://arxiv.org/abs/2405.18984v1](http://arxiv.org/abs/2405.18984v1)
+- 2024-05-29, **SSGA-Net: Stepwise Spatial Global-local Aggregation Networks for for Autonomous Driving**, Yiming Cui et.al., Paper: [http://arxiv.org/abs/2405.18857v1](http://arxiv.org/abs/2405.18857v1)
+- 2024-05-29, **LetsMap: Unsupervised Representation Learning for Semantic BEV Mapping**, Nikhil Gosala et.al., Paper: [http://arxiv.org/abs/2405.18852v1](http://arxiv.org/abs/2405.18852v1)
+- 2024-05-29, **A new platooning model for connected and autonomous vehicles to improve string stability**, Shouwei Hui et.al., Paper: [http://arxiv.org/abs/2405.18791v1](http://arxiv.org/abs/2405.18791v1)
 - 2024-05-28, **3D StreetUnveiler with Semantic-Aware 2DGS**, Jingwei Xu et.al., Paper: [http://arxiv.org/abs/2405.18416v1](http://arxiv.org/abs/2405.18416v1)
 - 2024-05-28, **Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**, Yifan Bai et.al., Paper: [http://arxiv.org/abs/2405.18361v1](http://arxiv.org/abs/2405.18361v1)
 - 2024-05-28, **Safe Multi-Agent Reinforcement Learning with Bilevel Optimization in Autonomous Driving**, Zhi Zheng et.al., Paper: [http://arxiv.org/abs/2405.18209v1](http://arxiv.org/abs/2405.18209v1), Code: **[https://github.com/saferl-lab/safe-marl-in-autonomous-driving](https://github.com/saferl-lab/safe-marl-in-autonomous-driving)**
