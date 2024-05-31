@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
+- 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
+- 2024-05-30, **MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**, Angel Villar-Corrales et.al., Paper: [http://arxiv.org/abs/2405.19921v1](http://arxiv.org/abs/2405.19921v1), Code: **[https://github.com/angelvillar96/MCDS-VSS](https://github.com/angelvillar96/MCDS-VSS)**
+- 2024-05-30, **Learning Task-relevant Sequence Representations via Intrinsic Dynamics Characteristics in Reinforcement Learning**, Dayang Liang et.al., Paper: [http://arxiv.org/abs/2405.19736v1](http://arxiv.org/abs/2405.19736v1)
+- 2024-05-30, **Autonomous Driving with Spiking Neural Networks**, Rui-Jie Zhu et.al., Paper: [http://arxiv.org/abs/2405.19687v1](http://arxiv.org/abs/2405.19687v1), Code: **[https://github.com/ridgerchu/sad](https://github.com/ridgerchu/sad)**
+- 2024-05-30, **SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation**, Wenchao Sun et.al., Paper: [http://arxiv.org/abs/2405.19620v1](http://arxiv.org/abs/2405.19620v1), Code: **[https://github.com/swc-17/sparsedrive](https://github.com/swc-17/sparsedrive)**
 - 2024-05-29, **Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**, Tianrun Chen et.al., Paper: [http://arxiv.org/abs/2405.19326v1](http://arxiv.org/abs/2405.19326v1)
 - 2024-05-29, **Real-Time Environment Condition Classification for Autonomous Vehicles**, Marco Introvigne et.al., Paper: [http://arxiv.org/abs/2405.19305v1](http://arxiv.org/abs/2405.19305v1)
 - 2024-05-29, **Act Natural! Projecting Autonomous System Trajectories Into Naturalistic Behavior Sets**, Hamzah I. Khan et.al., Paper: [http://arxiv.org/abs/2405.19292v1](http://arxiv.org/abs/2405.19292v1)
