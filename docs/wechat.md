@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-05-31, **Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2405.20991v1](http://arxiv.org/abs/2405.20991v1), Code: **[https://github.com/kth-rpl/detect_vlm](https://github.com/kth-rpl/detect_vlm)**
+- 2024-05-31, **Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**, Linlin Yu et.al., Paper: [http://arxiv.org/abs/2405.20986v1](http://arxiv.org/abs/2405.20986v1)
+- 2024-05-31, **Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**, Jin-Hee Lee et.al., Paper: [http://arxiv.org/abs/2405.20720v1](http://arxiv.org/abs/2405.20720v1), Code: **[https://github.com/jh-research/multipleteachers](https://github.com/jh-research/multipleteachers)**
+- 2024-05-31, **Robust Stable Spiking Neural Networks**, Jianhao Ding et.al., Paper: [http://arxiv.org/abs/2405.20694v1](http://arxiv.org/abs/2405.20694v1)
+- 2024-05-30, **Aquatic Navigation: A Challenging Benchmark for Deep Reinforcement Learning**, Davide Corsi et.al., Paper: [http://arxiv.org/abs/2405.20534v1](http://arxiv.org/abs/2405.20534v1)
 - 2024-05-30, **OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving**, Lening Wang et.al., Paper: [http://arxiv.org/abs/2405.20337v1](http://arxiv.org/abs/2405.20337v1), Code: **[https://github.com/wzzheng/occsora](https://github.com/wzzheng/occsora)**
 - 2024-05-30, **$\textit{S}^3$Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**, Nan Huang et.al., Paper: [http://arxiv.org/abs/2405.20323v1](http://arxiv.org/abs/2405.20323v1), Code: **[https://github.com/nnanhuang/s3gaussian](https://github.com/nnanhuang/s3gaussian)**
 - 2024-05-30, **MCDS-VSS: Moving Camera Dynamic Scene Video Semantic Segmentation by Filtering with Self-Supervised Geometry and Motion**, Angel Villar-Corrales et.al., Paper: [http://arxiv.org/abs/2405.19921v1](http://arxiv.org/abs/2405.19921v1), Code: **[https://github.com/angelvillar96/MCDS-VSS](https://github.com/angelvillar96/MCDS-VSS)**
