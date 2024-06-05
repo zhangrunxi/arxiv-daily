@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-06-04, **Out-of-Distribution Runtime Adaptation with Conformalized Neural Network Ensembles**, Polo Contreras et.al., Paper: [http://arxiv.org/abs/2406.02436v1](http://arxiv.org/abs/2406.02436v1)
+- 2024-06-04, **Decoupling of neural network calibration measures**, Dominik Werner Wolf et.al., Paper: [http://arxiv.org/abs/2406.02411v1](http://arxiv.org/abs/2406.02411v1)
+- 2024-06-04, **Radar Spectra-Language Model for Automotive Scene Parsing**, Mariia Pushkareva et.al., Paper: [http://arxiv.org/abs/2406.02158v1](http://arxiv.org/abs/2406.02158v1)
+- 2024-06-04, **UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**, Lijun Zhou et.al., Paper: [http://arxiv.org/abs/2406.02147v1](http://arxiv.org/abs/2406.02147v1)
+- 2024-06-04, **Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**, Samuel M. Bateman et.al., Paper: [http://arxiv.org/abs/2406.01961v1](http://arxiv.org/abs/2406.01961v1)
+- 2024-06-04, **SDS++: Online Situation-Aware Drivable Space Estimation for Automated Driving**, Manuel Muñoz Sánchez et.al., Paper: [http://arxiv.org/abs/2406.01941v1](http://arxiv.org/abs/2406.01941v1)
+- 2024-06-04, **ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**, Chen Mao et.al., Paper: [http://arxiv.org/abs/2406.01906v1](http://arxiv.org/abs/2406.01906v1), Code: **[https://github.com/chain-mao/progeo](https://github.com/chain-mao/progeo)**
+- 2024-06-04, **PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2406.01587v2](http://arxiv.org/abs/2406.01587v2)
+- 2024-06-03, **Learning from Mistakes: a Weakly-supervised Method for Mitigating the Distribution Shift in Autonomous Vehicle Planning**, Fazel Arasteh et.al., Paper: [http://arxiv.org/abs/2406.01544v1](http://arxiv.org/abs/2406.01544v1)
+- 2024-06-04, **Sensitivity-Informed Augmentation for Robust Segmentation**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2406.01425v2](http://arxiv.org/abs/2406.01425v2)
 - 2024-05-31, **Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**, Yi Yang et.al., Paper: [http://arxiv.org/abs/2405.20991v1](http://arxiv.org/abs/2405.20991v1), Code: **[https://github.com/kth-rpl/detect_vlm](https://github.com/kth-rpl/detect_vlm)**
 - 2024-05-31, **Uncertainty Quantification for Bird's Eye View Semantic Segmentation: Methods and Benchmarks**, Linlin Yu et.al., Paper: [http://arxiv.org/abs/2405.20986v1](http://arxiv.org/abs/2405.20986v1)
 - 2024-05-31, **Power of Cooperative Supervision: Multiple Teachers Framework for Enhanced 3D Semi-Supervised Object Detection**, Jin-Hee Lee et.al., Paper: [http://arxiv.org/abs/2405.20720v1](http://arxiv.org/abs/2405.20720v1), Code: **[https://github.com/jh-research/multipleteachers](https://github.com/jh-research/multipleteachers)**
