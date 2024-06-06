@@ -1,4 +1,4 @@
-> Updated on 2024.06.05
+> Updated on 2024.06.06
 
 ## Autonomous_Driving
 
@@ -6,7 +6,7 @@
 - 2024-06-04, **Decoupling of neural network calibration measures**, Dominik Werner Wolf et.al., Paper: [http://arxiv.org/abs/2406.02411v1](http://arxiv.org/abs/2406.02411v1)
 - 2024-06-04, **Radar Spectra-Language Model for Automotive Scene Parsing**, Mariia Pushkareva et.al., Paper: [http://arxiv.org/abs/2406.02158v1](http://arxiv.org/abs/2406.02158v1)
 - 2024-06-04, **UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**, Lijun Zhou et.al., Paper: [http://arxiv.org/abs/2406.02147v1](http://arxiv.org/abs/2406.02147v1)
-- 2024-06-04, **Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**, Samuel M. Bateman et.al., Paper: [http://arxiv.org/abs/2406.01961v1](http://arxiv.org/abs/2406.01961v1)
+- 2024-06-05, **Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**, Samuel M. Bateman et.al., Paper: [http://arxiv.org/abs/2406.01961v2](http://arxiv.org/abs/2406.01961v2)
 - 2024-06-04, **SDS++: Online Situation-Aware Drivable Space Estimation for Automated Driving**, Manuel Muñoz Sánchez et.al., Paper: [http://arxiv.org/abs/2406.01941v1](http://arxiv.org/abs/2406.01941v1)
 - 2024-06-04, **ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**, Chen Mao et.al., Paper: [http://arxiv.org/abs/2406.01906v1](http://arxiv.org/abs/2406.01906v1), Code: **[https://github.com/chain-mao/progeo](https://github.com/chain-mao/progeo)**
 - 2024-06-04, **PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2406.01587v2](http://arxiv.org/abs/2406.01587v2)

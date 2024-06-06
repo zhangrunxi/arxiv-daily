@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## Autonomous_Driving
 
@@ -12,7 +12,7 @@ layout: default
 |**2024-06-04**|**Decoupling of neural network calibration measures**|Dominik Werner Wolf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.02411v1-b31b1b.svg)](http://arxiv.org/abs/2406.02411v1)|null|
 |**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.02158v1-b31b1b.svg)](http://arxiv.org/abs/2406.02158v1)|null|
 |**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.02147v1-b31b1b.svg)](http://arxiv.org/abs/2406.02147v1)|null|
-|**2024-06-04**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.01961v1-b31b1b.svg)](http://arxiv.org/abs/2406.01961v1)|null|
+|**2024-06-05**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.01961v2-b31b1b.svg)](http://arxiv.org/abs/2406.01961v2)|null|
 |**2024-06-04**|**SDS++: Online Situation-Aware Drivable Space Estimation for Automated Driving**|Manuel Muñoz Sánchez et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.01941v1-b31b1b.svg)](http://arxiv.org/abs/2406.01941v1)|null|
 |**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.01906v1-b31b1b.svg)](http://arxiv.org/abs/2406.01906v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chain-mao/progeo)**|
 |**2024-06-04**|**PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning**|Yupeng Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.01587v2-b31b1b.svg)](http://arxiv.org/abs/2406.01587v2)|null|
