@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-06-05, **AD-H: Autonomous Driving with Hierarchical Agents**, Zaibin Zhang et.al., Paper: [http://arxiv.org/abs/2406.03474v1](http://arxiv.org/abs/2406.03474v1)
+- 2024-06-05, **Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**, Dominik Scheuble et.al., Paper: [http://arxiv.org/abs/2406.03461v1](http://arxiv.org/abs/2406.03461v1)
+- 2024-06-05, **Prompt-based Visual Alignment for Zero-shot Policy Transfer**, Haihan Gao et.al., Paper: [http://arxiv.org/abs/2406.03250v1](http://arxiv.org/abs/2406.03250v1)
+- 2024-06-05, **Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**, Qutub Syed et.al., Paper: [http://arxiv.org/abs/2406.03188v1](http://arxiv.org/abs/2406.03188v1)
+- 2024-06-05, **Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**, Eliraz Orfaig et.al., Paper: [http://arxiv.org/abs/2406.03129v1](http://arxiv.org/abs/2406.03129v1)
+- 2024-06-05, **Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**, Han Li et.al., Paper: [http://arxiv.org/abs/2406.03105v1](http://arxiv.org/abs/2406.03105v1)
+- 2024-06-05, **Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**, Sheng Zhou et.al., Paper: [http://arxiv.org/abs/2406.03086v1](http://arxiv.org/abs/2406.03086v1)
+- 2024-06-05, **DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences**, Yidong Huang et.al., Paper: [http://arxiv.org/abs/2406.03008v1](http://arxiv.org/abs/2406.03008v1)
+- 2024-06-05, **Real-time Motion Planning for autonomous vehicles in dynamic environments**, Mohammad Dehghani Tezerjani et.al., Paper: [http://arxiv.org/abs/2406.02916v1](http://arxiv.org/abs/2406.02916v1)
+- 2024-06-05, **Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework**, Ziyuan Yang et.al., Paper: [http://arxiv.org/abs/2406.02865v1](http://arxiv.org/abs/2406.02865v1)
 - 2024-06-04, **Out-of-Distribution Runtime Adaptation with Conformalized Neural Network Ensembles**, Polo Contreras et.al., Paper: [http://arxiv.org/abs/2406.02436v1](http://arxiv.org/abs/2406.02436v1)
 - 2024-06-04, **Decoupling of neural network calibration measures**, Dominik Werner Wolf et.al., Paper: [http://arxiv.org/abs/2406.02411v1](http://arxiv.org/abs/2406.02411v1)
 - 2024-06-04, **Radar Spectra-Language Model for Automotive Scene Parsing**, Mariia Pushkareva et.al., Paper: [http://arxiv.org/abs/2406.02158v1](http://arxiv.org/abs/2406.02158v1)
