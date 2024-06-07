@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.04300v1-b31b1b.svg)](http://arxiv.org/abs/2406.04300v1)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03917v1-b31b1b.svg)](http://arxiv.org/abs/2406.03917v1)|null|
+|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03877v1-b31b1b.svg)](http://arxiv.org/abs/2406.03877v1)|null|
+|**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03835v1-b31b1b.svg)](http://arxiv.org/abs/2406.03835v1)|null|
+|**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03611v1-b31b1b.svg)](http://arxiv.org/abs/2406.03611v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03474v1-b31b1b.svg)](http://arxiv.org/abs/2406.03474v1)|null|
 |**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03461v1-b31b1b.svg)](http://arxiv.org/abs/2406.03461v1)|null|
 |**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.03250v1-b31b1b.svg)](http://arxiv.org/abs/2406.03250v1)|null|
