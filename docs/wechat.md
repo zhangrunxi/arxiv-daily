@@ -2,6 +2,13 @@
 
 ## Autonomous_Driving
 
+- 2024-06-07, **CityCraft: A Real Crafter for 3D City Generation**, Jie Deng et.al., Paper: [http://arxiv.org/abs/2406.04983v1](http://arxiv.org/abs/2406.04983v1)
+- 2024-06-07, **Fragile Model Watermarking: A Comprehensive Survey of Evolution, Characteristics, and Classification**, Zhenzhe Gao et.al., Paper: [http://arxiv.org/abs/2406.04809v1](http://arxiv.org/abs/2406.04809v1)
+- 2024-06-07, **EAIA: An Efficient and Anonymous Identity Authentication Scheme in 5G-V2V**, Qianmin Du et.al., Paper: [http://arxiv.org/abs/2406.04705v1](http://arxiv.org/abs/2406.04705v1)
+- 2024-06-06, **Step Out and Seek Around: On Warm-Start Training with Incremental Data**, Maying Shen et.al., Paper: [http://arxiv.org/abs/2406.04484v1](http://arxiv.org/abs/2406.04484v1)
+- 2024-06-06, **Optimizing Autonomous Driving for Safety: A Human-Centric Approach with LLM-Enhanced RLHF**, Yuan Sun et.al., Paper: [http://arxiv.org/abs/2406.04481v1](http://arxiv.org/abs/2406.04481v1)
+- 2024-06-06, **Everywhere & Nowhere: Envisioning a Computing Continuum for Science**, Manish Parashar et.al., Paper: [http://arxiv.org/abs/2406.04480v1](http://arxiv.org/abs/2406.04480v1)
+- 2024-06-06, **DeTra: A Unified Model for Object Detection and Trajectory Forecasting**, Sergio Casas et.al., Paper: [http://arxiv.org/abs/2406.04426v1](http://arxiv.org/abs/2406.04426v1)
 - 2024-06-06, **Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**, Phat Nguyen et.al., Paper: [http://arxiv.org/abs/2406.04300v1](http://arxiv.org/abs/2406.04300v1)
 - 2024-06-06, **Frequency-based Matcher for Long-tailed Semantic Segmentation**, Shan Li et.al., Paper: [http://arxiv.org/abs/2406.03917v1](http://arxiv.org/abs/2406.03917v1), Code: **[https://github.com/caopulan/Mask2Former-LT](https://github.com/caopulan/Mask2Former-LT)**
 - 2024-06-06, **Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**, Xiaosong Jia et.al., Paper: [http://arxiv.org/abs/2406.03877v1](http://arxiv.org/abs/2406.03877v1), Code: **[https://github.com/Thinklab-SJTU/Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive)**
