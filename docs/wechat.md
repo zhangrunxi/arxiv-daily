@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-06-10, **Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2406.06423v1](http://arxiv.org/abs/2406.06423v1)
+- 2024-06-10, **FinVerse: An Autonomous Agent System for Versatile Financial Analysis**, Siyu An et.al., Paper: [http://arxiv.org/abs/2406.06379v1](http://arxiv.org/abs/2406.06379v1)
+- 2024-06-10, **UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2406.06370v1](http://arxiv.org/abs/2406.06370v1)
+- 2024-06-10, **Should my Blockchain Learn to Drive? A Study of Hyperledger Fabric**, Jeeta Ann Chacko et.al., Paper: [http://arxiv.org/abs/2406.06318v1](http://arxiv.org/abs/2406.06318v1)
+- 2024-06-10, **DualAD: Disentangling the Dynamic and Static World for End-to-End Driving**, Simon Doll et.al., Paper: [http://arxiv.org/abs/2406.06264v1](http://arxiv.org/abs/2406.06264v1)
+- 2024-06-10, **iMotion-LLM: Motion Prediction Instruction Tuning**, Abdulwahab Felemban et.al., Paper: [http://arxiv.org/abs/2406.06211v1](http://arxiv.org/abs/2406.06211v1)
+- 2024-06-09, **Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**, Zhiyuan Cheng et.al., Paper: [http://arxiv.org/abs/2406.05857v1](http://arxiv.org/abs/2406.05857v1)
+- 2024-06-09, **ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**, Chen Ma et.al., Paper: [http://arxiv.org/abs/2406.05810v1](http://arxiv.org/abs/2406.05810v1)
+- 2024-06-09, **SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**, Chen Ma et.al., Paper: [http://arxiv.org/abs/2406.05800v1](http://arxiv.org/abs/2406.05800v1)
+- 2024-06-09, **Towards A General-Purpose Motion Planning for Autonomous Vehicles Using Fluid Dynamics**, MReza Alipour Sormoli et.al., Paper: [http://arxiv.org/abs/2406.05708v1](http://arxiv.org/abs/2406.05708v1)
 - 2024-06-07, **CityCraft: A Real Crafter for 3D City Generation**, Jie Deng et.al., Paper: [http://arxiv.org/abs/2406.04983v1](http://arxiv.org/abs/2406.04983v1)
 - 2024-06-07, **Fragile Model Watermarking: A Comprehensive Survey of Evolution, Characteristics, and Classification**, Zhenzhe Gao et.al., Paper: [http://arxiv.org/abs/2406.04809v1](http://arxiv.org/abs/2406.04809v1)
 - 2024-06-07, **EAIA: An Efficient and Anonymous Identity Authentication Scheme in 5G-V2V**, Qianmin Du et.al., Paper: [http://arxiv.org/abs/2406.04705v1](http://arxiv.org/abs/2406.04705v1)
