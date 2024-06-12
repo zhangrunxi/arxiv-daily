@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-06-11, **Instruct Large Language Models to Drive like Humans**, Ruijun Zhang et.al., Paper: [http://arxiv.org/abs/2406.07296v1](http://arxiv.org/abs/2406.07296v1), Code: **[https://github.com/bonbon-rj/instructdriver](https://github.com/bonbon-rj/instructdriver)**
+- 2024-06-11, **EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2406.07042v1](http://arxiv.org/abs/2406.07042v1), Code: **[https://github.com/synsin0/effocc](https://github.com/synsin0/effocc)**
+- 2024-06-11, **PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2406.07037v1](http://arxiv.org/abs/2406.07037v1)
+- 2024-06-11, **LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**, Jiahua Xu et.al., Paper: [http://arxiv.org/abs/2406.07023v1](http://arxiv.org/abs/2406.07023v1)
+- 2024-06-10, **PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation**, Zhenyu Li et.al., Paper: [http://arxiv.org/abs/2406.06679v1](http://arxiv.org/abs/2406.06679v1)
 - 2024-06-10, **Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2406.06423v1](http://arxiv.org/abs/2406.06423v1)
 - 2024-06-10, **FinVerse: An Autonomous Agent System for Versatile Financial Analysis**, Siyu An et.al., Paper: [http://arxiv.org/abs/2406.06379v1](http://arxiv.org/abs/2406.06379v1)
 - 2024-06-10, **UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2406.06370v1](http://arxiv.org/abs/2406.06370v1)
