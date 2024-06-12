@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 
 ## Autonomous_Driving
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-06-10**|**Should my Blockchain Learn to Drive? A Study of Hyperledger Fabric**|Jeeta Ann Chacko et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06318v1-b31b1b.svg)](http://arxiv.org/abs/2406.06318v1)|null|
 |**2024-06-10**|**DualAD: Disentangling the Dynamic and Static World for End-to-End Driving**|Simon Doll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06264v1-b31b1b.svg)](http://arxiv.org/abs/2406.06264v1)|null|
 |**2024-06-10**|**iMotion-LLM: Motion Prediction Instruction Tuning**|Abdulwahab Felemban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06211v1-b31b1b.svg)](http://arxiv.org/abs/2406.06211v1)|null|
-|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.05857v1-b31b1b.svg)](http://arxiv.org/abs/2406.05857v1)|null|
+|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.05857v1-b31b1b.svg)](http://arxiv.org/abs/2406.05857v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.05810v1-b31b1b.svg)](http://arxiv.org/abs/2406.05810v1)|null|
 |**2024-06-09**|**SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.05800v1-b31b1b.svg)](http://arxiv.org/abs/2406.05800v1)|null|
 |**2024-06-09**|**Towards A General-Purpose Motion Planning for Autonomous Vehicles Using Fluid Dynamics**|MReza Alipour Sormoli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.05708v1-b31b1b.svg)](http://arxiv.org/abs/2406.05708v1)|null|
