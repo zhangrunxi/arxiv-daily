@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 
 ## Autonomous_Driving
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-06-11**|**Instruct Large Language Models to Drive like Humans**|Ruijun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07296v1-b31b1b.svg)](http://arxiv.org/abs/2406.07296v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonbon-rj/instructdriver)**|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07042v1-b31b1b.svg)](http://arxiv.org/abs/2406.07042v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07037v1-b31b1b.svg)](http://arxiv.org/abs/2406.07037v1)|null|
-|**2024-06-11**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07023v1-b31b1b.svg)](http://arxiv.org/abs/2406.07023v1)|null|
+|**2024-06-12**|**LiSD: An Efficient Multi-Task Learning Framework for LiDAR Segmentation and Detection**|Jiahua Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07023v2-b31b1b.svg)](http://arxiv.org/abs/2406.07023v2)|null|
 |**2024-06-10**|**PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06679v1-b31b1b.svg)](http://arxiv.org/abs/2406.06679v1)|null|
 |**2024-06-10**|**Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**|Daniel Bogdoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06423v1-b31b1b.svg)](http://arxiv.org/abs/2406.06423v1)|null|
 |**2024-06-10**|**FinVerse: An Autonomous Agent System for Versatile Financial Analysis**|Siyu An et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06379v1-b31b1b.svg)](http://arxiv.org/abs/2406.06379v1)|null|
