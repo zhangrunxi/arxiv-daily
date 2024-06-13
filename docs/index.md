@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08481v1-b31b1b.svg)](http://arxiv.org/abs/2406.08481v1)|null|
+|**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08421v1-b31b1b.svg)](http://arxiv.org/abs/2406.08421v1)|null|
+|**2024-06-12**|**LaneCPP: Continuous 3D Lane Detection using Physical Priors**|Maximilian Pittner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08381v1-b31b1b.svg)](http://arxiv.org/abs/2406.08381v1)|null|
+|**2024-06-12**|**Utilizing Navigation Path to Generate Target Point for Enhanced End-to-End Autonomous Driving Planning**|Yuanhua Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08349v1-b31b1b.svg)](http://arxiv.org/abs/2406.08349v1)|null|
+|**2024-06-12**|**Learning-based Traversability Costmap for Autonomous Off-road Navigation**|Qiumin Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08187v1-b31b1b.svg)](http://arxiv.org/abs/2406.08187v1)|null|
+|**2024-06-12**|**Valeo4Cast: A Modular Approach to End-to-End Forecasting**|Yihong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.08113v1-b31b1b.svg)](http://arxiv.org/abs/2406.08113v1)|null|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07667v1-b31b1b.svg)](http://arxiv.org/abs/2406.07667v1)|null|
 |**2024-06-11**|**Instruct Large Language Models to Drive like Humans**|Ruijun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07296v1-b31b1b.svg)](http://arxiv.org/abs/2406.07296v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonbon-rj/instructdriver)**|
 |**2024-06-11**|**EFFOcc: A Minimal Baseline for EFficient Fusion-based 3D Occupancy Network**|Yining Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07042v1-b31b1b.svg)](http://arxiv.org/abs/2406.07042v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/synsin0/effocc)**|
 |**2024-06-11**|**PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving**|Yining Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07037v1-b31b1b.svg)](http://arxiv.org/abs/2406.07037v1)|null|
