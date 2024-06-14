@@ -1,8 +1,8 @@
-> Updated on 2024.06.13
+> Updated on 2024.06.14
 
 ## Autonomous_Driving
 
-- 2024-06-12, **Enhancing End-to-End Autonomous Driving with Latent World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2406.08481v1](http://arxiv.org/abs/2406.08481v1)
+- 2024-06-12, **Enhancing End-to-End Autonomous Driving with Latent World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2406.08481v1](http://arxiv.org/abs/2406.08481v1), Code: **[https://github.com/bravegroup/law](https://github.com/bravegroup/law)**
 - 2024-06-12, **PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2406.08421v1](http://arxiv.org/abs/2406.08421v1)
 - 2024-06-12, **LaneCPP: Continuous 3D Lane Detection using Physical Priors**, Maximilian Pittner et.al., Paper: [http://arxiv.org/abs/2406.08381v1](http://arxiv.org/abs/2406.08381v1)
 - 2024-06-12, **Utilizing Navigation Path to Generate Target Point for Enhanced End-to-End Autonomous Driving Planning**, Yuanhua Shen et.al., Paper: [http://arxiv.org/abs/2406.08349v1](http://arxiv.org/abs/2406.08349v1)
