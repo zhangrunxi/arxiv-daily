@@ -2,6 +2,12 @@
 
 ## Autonomous_Driving
 
+- 2024-06-13, **SimGen: Simulator-conditioned Driving Scene Generation**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2406.09386v1](http://arxiv.org/abs/2406.09386v1)
+- 2024-06-13, **Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset**, Yiming Li et.al., Paper: [http://arxiv.org/abs/2406.09383v1](http://arxiv.org/abs/2406.09383v1)
+- 2024-06-13, **Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**, Kaavya Rekanar et.al., Paper: [http://arxiv.org/abs/2406.09203v1](http://arxiv.org/abs/2406.09203v1)
+- 2024-06-13, **Auto-Vocabulary Segmentation for LiDAR Points**, Weijie Wei et.al., Paper: [http://arxiv.org/abs/2406.09126v1](http://arxiv.org/abs/2406.09126v1)
+- 2024-06-13, **CIMRL: Combining IMitiation and Reinforcement Learning for Safe Autonomous Driving**, Jonathan Booher et.al., Paper: [http://arxiv.org/abs/2406.08878v1](http://arxiv.org/abs/2406.08878v1)
+- 2024-06-13, **BEVSpread: Spread Voxel Pooling for Bird's-Eye-View Representation in Vision-based Roadside 3D Object Detection**, Wenjie Wang et.al., Paper: [http://arxiv.org/abs/2406.08785v1](http://arxiv.org/abs/2406.08785v1)
 - 2024-06-12, **Enhancing End-to-End Autonomous Driving with Latent World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2406.08481v1](http://arxiv.org/abs/2406.08481v1), Code: **[https://github.com/bravegroup/law](https://github.com/bravegroup/law)**
 - 2024-06-12, **PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**, Daniel Coelho et.al., Paper: [http://arxiv.org/abs/2406.08421v1](http://arxiv.org/abs/2406.08421v1)
 - 2024-06-12, **LaneCPP: Continuous 3D Lane Detection using Physical Priors**, Maximilian Pittner et.al., Paper: [http://arxiv.org/abs/2406.08381v1](http://arxiv.org/abs/2406.08381v1)
