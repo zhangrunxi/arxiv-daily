@@ -2,6 +2,14 @@
 
 ## Autonomous_Driving
 
+- 2024-06-14, **CarLLaVA: Vision language models for camera-only closed-loop driving**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2406.10165v1](http://arxiv.org/abs/2406.10165v1)
+- 2024-06-14, **MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**, Zhongyu Yang et.al., Paper: [http://arxiv.org/abs/2406.10125v1](http://arxiv.org/abs/2406.10125v1)
+- 2024-06-14, **DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**, Li Li et.al., Paper: [http://arxiv.org/abs/2406.10068v1](http://arxiv.org/abs/2406.10068v1), Code: **[https://github.com/l1997i/DurLAR](https://github.com/l1997i/DurLAR)**
+- 2024-06-14, **Globally Optimal GNSS Multi-Antenna Lever Arm Calibration**, Thomas Wodtko et.al., Paper: [http://arxiv.org/abs/2406.09866v1](http://arxiv.org/abs/2406.09866v1)
+- 2024-06-14, **A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion**, Kailai Sun et.al., Paper: [http://arxiv.org/abs/2406.09792v1](http://arxiv.org/abs/2406.09792v1), Code: **[https://github.com/kailaisun/indoor-depth-completion](https://github.com/kailaisun/indoor-depth-completion)**
+- 2024-06-14, **Research on Edge Detection of LiDAR Images Based on Artificial Intelligence Technology**, Haowei Yang et.al., Paper: [http://arxiv.org/abs/2406.09773v1](http://arxiv.org/abs/2406.09773v1)
+- 2024-06-14, **Mix Q-learning for Lane Changing: A Collaborative Decision-Making Method in Multi-Agent Deep Reinforcement Learning**, Xiaojun Bi et.al., Paper: [http://arxiv.org/abs/2406.09755v1](http://arxiv.org/abs/2406.09755v1)
+- 2024-06-13, **Cross-Modality Program Representation Learning for Electronic Design Automation with High-Level Synthesis**, Zongyue Qin et.al., Paper: [http://arxiv.org/abs/2406.09606v1](http://arxiv.org/abs/2406.09606v1)
 - 2024-06-13, **SimGen: Simulator-conditioned Driving Scene Generation**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2406.09386v1](http://arxiv.org/abs/2406.09386v1)
 - 2024-06-13, **Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset**, Yiming Li et.al., Paper: [http://arxiv.org/abs/2406.09383v1](http://arxiv.org/abs/2406.09383v1)
 - 2024-06-13, **Optimizing Visual Question Answering Models for Driving: Bridging the Gap Between Human and Machine Attention Patterns**, Kaavya Rekanar et.al., Paper: [http://arxiv.org/abs/2406.09203v1](http://arxiv.org/abs/2406.09203v1)
