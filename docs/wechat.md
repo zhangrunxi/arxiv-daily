@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-06-17, **A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**, Yang Lou et.al., Paper: [http://arxiv.org/abs/2406.11707v1](http://arxiv.org/abs/2406.11707v1)
+- 2024-06-17, **Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**, Min Hua et.al., Paper: [http://arxiv.org/abs/2406.11653v1](http://arxiv.org/abs/2406.11653v1)
+- 2024-06-17, **Unleashing OpenTitan's Potential: a Silicon-Ready Embedded Secure Element for Root of Trust and Cryptographic Offloading**, Maicol Ciani et.al., Paper: [http://arxiv.org/abs/2406.11558v1](http://arxiv.org/abs/2406.11558v1)
+- 2024-06-17, **Constrained Reinforcement Learning with Average Reward Objective: Model-Based and Model-Free Algorithms**, Vaneet Aggarwal et.al., Paper: [http://arxiv.org/abs/2406.11481v1](http://arxiv.org/abs/2406.11481v1)
+- 2024-06-17, **Semi-Supervised Domain Adaptation Using Target-Oriented Domain Augmentation for 3D Object Detection**, Yecheol Kim et.al., Paper: [http://arxiv.org/abs/2406.11313v1](http://arxiv.org/abs/2406.11313v1), Code: **[https://github.com/rasd3/toda](https://github.com/rasd3/toda)**
+- 2024-06-17, **Model Adaptation for Time Constrained Embodied Control**, Jaehyun Song et.al., Paper: [http://arxiv.org/abs/2406.11128v1](http://arxiv.org/abs/2406.11128v1)
+- 2024-06-16, **SparseDet: A Simple and Effective Framework for Fully Sparse LiDAR-based 3D Object Detection**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2406.10907v1](http://arxiv.org/abs/2406.10907v1)
+- 2024-06-16, **An LLM-enhanced Multi-objective Evolutionary Search for Autonomous Driving Test Scenario Generation**, Haoxiang Tian et.al., Paper: [http://arxiv.org/abs/2406.10857v1](http://arxiv.org/abs/2406.10857v1)
+- 2024-06-15, **GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**, Bharat Singh et.al., Paper: [http://arxiv.org/abs/2406.10722v1](http://arxiv.org/abs/2406.10722v1)
+- 2024-06-15, **Object Detection using Oriented Window Learning Vi-sion Transformer: Roadway Assets Recognition**, Taqwa Alhadidi et.al., Paper: [http://arxiv.org/abs/2406.10712v1](http://arxiv.org/abs/2406.10712v1)
 - 2024-06-14, **CarLLaVA: Vision language models for camera-only closed-loop driving**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2406.10165v1](http://arxiv.org/abs/2406.10165v1)
 - 2024-06-14, **MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**, Zhongyu Yang et.al., Paper: [http://arxiv.org/abs/2406.10125v1](http://arxiv.org/abs/2406.10125v1)
 - 2024-06-14, **DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**, Li Li et.al., Paper: [http://arxiv.org/abs/2406.10068v1](http://arxiv.org/abs/2406.10068v1), Code: **[https://github.com/l1997i/DurLAR](https://github.com/l1997i/DurLAR)**
