@@ -8,6 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12698v1-b31b1b.svg)](http://arxiv.org/abs/2406.12698v1)|null|
+|**2024-06-18**|**How to Drive -- An Ability-based Description of Autonomous, Remote and Human Driving**|Florian Pfab et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12669v1-b31b1b.svg)](http://arxiv.org/abs/2406.12669v1)|null|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12496v1-b31b1b.svg)](http://arxiv.org/abs/2406.12496v1)|null|
+|**2024-06-18**|**UAV-based Intelligent Information Systems on Winter Road Safety for Autonomous Vehicles**|Siva Ariram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12370v1-b31b1b.svg)](http://arxiv.org/abs/2406.12370v1)|null|
+|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12214v1-b31b1b.svg)](http://arxiv.org/abs/2406.12214v1)|null|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.12095v1-b31b1b.svg)](http://arxiv.org/abs/2406.12095v1)|null|
+|**2024-06-17**|**Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.11941v1-b31b1b.svg)](http://arxiv.org/abs/2406.11941v1)|null|
 |**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.11707v1-b31b1b.svg)](http://arxiv.org/abs/2406.11707v1)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.11653v1-b31b1b.svg)](http://arxiv.org/abs/2406.11653v1)|null|
 |**2024-06-17**|**Unleashing OpenTitan's Potential: a Silicon-Ready Embedded Secure Element for Root of Trust and Cryptographic Offloading**|Maicol Ciani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.11558v1-b31b1b.svg)](http://arxiv.org/abs/2406.11558v1)|null|
