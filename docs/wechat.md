@@ -1,4 +1,4 @@
-> Updated on 2024.06.20
+> Updated on 2024.06.21
 
 ## Autonomous_Driving
 
@@ -6,7 +6,7 @@
 - 2024-06-18, **How to Drive -- An Ability-based Description of Autonomous, Remote and Human Driving**, Florian Pfab et.al., Paper: [http://arxiv.org/abs/2406.12669v1](http://arxiv.org/abs/2406.12669v1)
 - 2024-06-18, **Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**, Guoyu Yang et.al., Paper: [http://arxiv.org/abs/2406.12496v1](http://arxiv.org/abs/2406.12496v1)
 - 2024-06-18, **UAV-based Intelligent Information Systems on Winter Road Safety for Autonomous Vehicles**, Siva Ariram et.al., Paper: [http://arxiv.org/abs/2406.12370v1](http://arxiv.org/abs/2406.12370v1)
-- 2024-06-18, **Is Your HD Map Constructor Reliable under Sensor Corruptions?**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2406.12214v1](http://arxiv.org/abs/2406.12214v1)
+- 2024-06-19, **Is Your HD Map Constructor Reliable under Sensor Corruptions?**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2406.12214v2](http://arxiv.org/abs/2406.12214v2)
 - 2024-06-17, **DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2406.12095v1](http://arxiv.org/abs/2406.12095v1)
 - 2024-06-17, **Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**, Junwei You et.al., Paper: [http://arxiv.org/abs/2406.11941v1](http://arxiv.org/abs/2406.11941v1)
 - 2024-06-17, **A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**, Yang Lou et.al., Paper: [http://arxiv.org/abs/2406.11707v1](http://arxiv.org/abs/2406.11707v1)
