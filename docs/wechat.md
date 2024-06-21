@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-06-20, **Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**, Yuan Chen et.al., Paper: [http://arxiv.org/abs/2406.14556v1](http://arxiv.org/abs/2406.14556v1)
+- 2024-06-20, **FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**, Mingkun Wang et.al., Paper: [http://arxiv.org/abs/2406.14422v1](http://arxiv.org/abs/2406.14422v1)
+- 2024-06-20, **PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**, Sihan Ma et.al., Paper: [http://arxiv.org/abs/2406.14367v1](http://arxiv.org/abs/2406.14367v1)
+- 2024-06-20, **Uncertainty and Self-Supervision in Single-View Depth**, Javier Rodriguez-Puigvert et.al., Paper: [http://arxiv.org/abs/2406.14226v1](http://arxiv.org/abs/2406.14226v1)
+- 2024-06-20, **Urban-Focused Multi-Task Offline Reinforcement Learning with Contrastive Data Sharing**, Xinbo Zhao et.al., Paper: [http://arxiv.org/abs/2406.14054v1](http://arxiv.org/abs/2406.14054v1)
+- 2024-06-20, **LGmap: Local-to-Global Mapping Network for Online Long-Range Vectorized HD Map Construction**, Kuang Wu et.al., Paper: [http://arxiv.org/abs/2406.13988v1](http://arxiv.org/abs/2406.13988v1)
+- 2024-06-20, **The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**, Huthaifa I. Ashqar et.al., Paper: [http://arxiv.org/abs/2406.13898v1](http://arxiv.org/abs/2406.13898v1)
+- 2024-06-19, **Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events**, Mohammad Abu Tami et.al., Paper: [http://arxiv.org/abs/2406.13894v1](http://arxiv.org/abs/2406.13894v1)
+- 2024-06-19, **Solving k-SAT problems with generalized quantum measurement**, Yipei Zhang et.al., Paper: [http://arxiv.org/abs/2406.13611v1](http://arxiv.org/abs/2406.13611v1)
+- 2024-06-19, **Safe and Non-Conservative Trajectory Planning for Autonomous Driving Handling Unanticipated Behaviors of Traffic Participants**, Tommaso Benciolini et.al., Paper: [http://arxiv.org/abs/2406.13396v1](http://arxiv.org/abs/2406.13396v1)
 - 2024-06-18, **Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**, Siddhant Shete et.al., Paper: [http://arxiv.org/abs/2406.12698v1](http://arxiv.org/abs/2406.12698v1)
 - 2024-06-18, **How to Drive -- An Ability-based Description of Autonomous, Remote and Human Driving**, Florian Pfab et.al., Paper: [http://arxiv.org/abs/2406.12669v1](http://arxiv.org/abs/2406.12669v1)
 - 2024-06-18, **Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**, Guoyu Yang et.al., Paper: [http://arxiv.org/abs/2406.12496v1](http://arxiv.org/abs/2406.12496v1)
