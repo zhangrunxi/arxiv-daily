@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.06.23
+## Updated on 2024.06.24
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14556v1-b31b1b.svg)](http://arxiv.org/abs/2406.14556v1)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14556v2-b31b1b.svg)](http://arxiv.org/abs/2406.14556v2)|null|
 |**2024-06-20**|**FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**|Mingkun Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14422v1-b31b1b.svg)](http://arxiv.org/abs/2406.14422v1)|null|
 |**2024-06-20**|**PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**|Sihan Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14367v1-b31b1b.svg)](http://arxiv.org/abs/2406.14367v1)|null|
 |**2024-06-20**|**Uncertainty and Self-Supervision in Single-View Depth**|Javier Rodriguez-Puigvert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14226v1-b31b1b.svg)](http://arxiv.org/abs/2406.14226v1)|null|

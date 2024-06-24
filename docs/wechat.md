@@ -1,8 +1,8 @@
-> Updated on 2024.06.23
+> Updated on 2024.06.24
 
 ## Autonomous_Driving
 
-- 2024-06-20, **Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**, Yuan Chen et.al., Paper: [http://arxiv.org/abs/2406.14556v1](http://arxiv.org/abs/2406.14556v1)
+- 2024-06-21, **Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**, Yuan Chen et.al., Paper: [http://arxiv.org/abs/2406.14556v2](http://arxiv.org/abs/2406.14556v2)
 - 2024-06-20, **FutureNet-LOF: Joint Trajectory Prediction and Lane Occupancy Field Prediction with Future Context Encoding**, Mingkun Wang et.al., Paper: [http://arxiv.org/abs/2406.14422v1](http://arxiv.org/abs/2406.14422v1)
 - 2024-06-20, **PoseBench: Benchmarking the Robustness of Pose Estimation Models under Corruptions**, Sihan Ma et.al., Paper: [http://arxiv.org/abs/2406.14367v1](http://arxiv.org/abs/2406.14367v1)
 - 2024-06-20, **Uncertainty and Self-Supervision in Single-View Depth**, Javier Rodriguez-Puigvert et.al., Paper: [http://arxiv.org/abs/2406.14226v1](http://arxiv.org/abs/2406.14226v1)
