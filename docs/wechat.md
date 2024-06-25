@@ -2,6 +2,10 @@
 
 ## Autonomous_Driving
 
+- 2024-06-24, **GPT-4V Explorations: Mining Autonomous Driving**, Zixuan Li et.al., Paper: [http://arxiv.org/abs/2406.16817v1](http://arxiv.org/abs/2406.16817v1)
+- 2024-06-24, **ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**, Bowen Xu et.al., Paper: [http://arxiv.org/abs/2406.16713v1](http://arxiv.org/abs/2406.16713v1)
+- 2024-06-23, **DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**, Yueru Luo et.al., Paper: [http://arxiv.org/abs/2406.16072v1](http://arxiv.org/abs/2406.16072v1), Code: **[https://github.com/jmoonr/dv-3dlane](https://github.com/jmoonr/dv-3dlane)**
+- 2024-06-22, **ISS-Scenario: Scenario-based Testing in CARLA**, Renjue Li et.al., Paper: [http://arxiv.org/abs/2406.15777v1](http://arxiv.org/abs/2406.15777v1)
 - 2024-06-21, **NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**, Daniel Dauner et.al., Paper: [http://arxiv.org/abs/2406.15349v1](http://arxiv.org/abs/2406.15349v1), Code: **[https://github.com/autonomousvision/navsim](https://github.com/autonomousvision/navsim)**
 - 2024-06-21, **Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**, Lynn Vonderhaar et.al., Paper: [http://arxiv.org/abs/2406.15268v1](http://arxiv.org/abs/2406.15268v1)
 - 2024-06-21, **Learning Autonomous Race Driving with Action Mapping Reinforcement Learning**, Yuanda Wang et.al., Paper: [http://arxiv.org/abs/2406.14934v1](http://arxiv.org/abs/2406.14934v1)

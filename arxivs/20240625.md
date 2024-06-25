@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16817v1-b31b1b.svg)](http://arxiv.org/abs/2406.16817v1)|null|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16713v1-b31b1b.svg)](http://arxiv.org/abs/2406.16713v1)|null|
+|**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16072v1-b31b1b.svg)](http://arxiv.org/abs/2406.16072v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmoonr/dv-3dlane)**|
+|**2024-06-22**|**ISS-Scenario: Scenario-based Testing in CARLA**|Renjue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.15777v1-b31b1b.svg)](http://arxiv.org/abs/2406.15777v1)|null|
 |**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.15349v1-b31b1b.svg)](http://arxiv.org/abs/2406.15349v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/navsim)**|
 |**2024-06-21**|**Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**|Lynn Vonderhaar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.15268v1-b31b1b.svg)](http://arxiv.org/abs/2406.15268v1)|null|
 |**2024-06-21**|**Learning Autonomous Race Driving with Action Mapping Reinforcement Learning**|Yuanda Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14934v1-b31b1b.svg)](http://arxiv.org/abs/2406.14934v1)|null|
