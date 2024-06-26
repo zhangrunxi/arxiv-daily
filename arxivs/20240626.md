@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17680v1-b31b1b.svg)](http://arxiv.org/abs/2406.17680v1)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17654v1-b31b1b.svg)](http://arxiv.org/abs/2406.17654v1)|null|
+|**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17627v1-b31b1b.svg)](http://arxiv.org/abs/2406.17627v1)|null|
+|**2024-06-25**|**Continuous-time optimal control for trajectory planning under uncertainty**|Ange Valli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17317v1-b31b1b.svg)](http://arxiv.org/abs/2406.17317v1)|null|
+|**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17265v1-b31b1b.svg)](http://arxiv.org/abs/2406.17265v1)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16817v1-b31b1b.svg)](http://arxiv.org/abs/2406.16817v1)|null|
 |**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16713v1-b31b1b.svg)](http://arxiv.org/abs/2406.16713v1)|null|
 |**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16072v1-b31b1b.svg)](http://arxiv.org/abs/2406.16072v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmoonr/dv-3dlane)**|

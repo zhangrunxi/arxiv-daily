@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-06-25, **End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**, Mingzhe Guo et.al., Paper: [http://arxiv.org/abs/2406.17680v1](http://arxiv.org/abs/2406.17680v1)
+- 2024-06-25, **MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**, Michelle Adeline et.al., Paper: [http://arxiv.org/abs/2406.17654v1](http://arxiv.org/abs/2406.17654v1)
+- 2024-06-25, **Querying Labeled Time Series Data with Scenario Programs**, Devan Shanker et.al., Paper: [http://arxiv.org/abs/2406.17627v1](http://arxiv.org/abs/2406.17627v1)
+- 2024-06-25, **Continuous-time optimal control for trajectory planning under uncertainty**, Ange Valli et.al., Paper: [http://arxiv.org/abs/2406.17317v1](http://arxiv.org/abs/2406.17317v1)
+- 2024-06-25, **Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2406.17265v1](http://arxiv.org/abs/2406.17265v1)
 - 2024-06-24, **GPT-4V Explorations: Mining Autonomous Driving**, Zixuan Li et.al., Paper: [http://arxiv.org/abs/2406.16817v1](http://arxiv.org/abs/2406.16817v1)
 - 2024-06-24, **ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**, Bowen Xu et.al., Paper: [http://arxiv.org/abs/2406.16713v1](http://arxiv.org/abs/2406.16713v1)
 - 2024-06-23, **DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**, Yueru Luo et.al., Paper: [http://arxiv.org/abs/2406.16072v1](http://arxiv.org/abs/2406.16072v1), Code: **[https://github.com/jmoonr/dv-3dlane](https://github.com/jmoonr/dv-3dlane)**
