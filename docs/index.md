@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18360v1-b31b1b.svg)](http://arxiv.org/abs/2406.18360v1)|null|
+|**2024-06-26**|**Real-time Structure Flow**|Juan David Adarve et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18031v1-b31b1b.svg)](http://arxiv.org/abs/2406.18031v1)|null|
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17680v1-b31b1b.svg)](http://arxiv.org/abs/2406.17680v1)|null|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17654v1-b31b1b.svg)](http://arxiv.org/abs/2406.17654v1)|null|
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17627v1-b31b1b.svg)](http://arxiv.org/abs/2406.17627v1)|null|

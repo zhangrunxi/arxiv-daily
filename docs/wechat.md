@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-06-26, **XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**, Hao Li et.al., Paper: [http://arxiv.org/abs/2406.18360v1](http://arxiv.org/abs/2406.18360v1)
+- 2024-06-26, **Real-time Structure Flow**, Juan David Adarve et.al., Paper: [http://arxiv.org/abs/2406.18031v1](http://arxiv.org/abs/2406.18031v1)
 - 2024-06-25, **End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**, Mingzhe Guo et.al., Paper: [http://arxiv.org/abs/2406.17680v1](http://arxiv.org/abs/2406.17680v1)
 - 2024-06-25, **MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**, Michelle Adeline et.al., Paper: [http://arxiv.org/abs/2406.17654v1](http://arxiv.org/abs/2406.17654v1)
 - 2024-06-25, **Querying Labeled Time Series Data with Scenario Programs**, Devan Shanker et.al., Paper: [http://arxiv.org/abs/2406.17627v1](http://arxiv.org/abs/2406.17627v1)
