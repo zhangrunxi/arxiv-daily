@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 
 ## Autonomous_Driving
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18360v1-b31b1b.svg)](http://arxiv.org/abs/2406.18360v1)|null|
+|**2024-06-27**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18360v2-b31b1b.svg)](http://arxiv.org/abs/2406.18360v2)|null|
 |**2024-06-26**|**Real-time Structure Flow**|Juan David Adarve et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18031v1-b31b1b.svg)](http://arxiv.org/abs/2406.18031v1)|null|
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17680v1-b31b1b.svg)](http://arxiv.org/abs/2406.17680v1)|null|
-|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17654v1-b31b1b.svg)](http://arxiv.org/abs/2406.17654v1)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17654v1-b31b1b.svg)](http://arxiv.org/abs/2406.17654v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naomiex/mdha)**|
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17627v1-b31b1b.svg)](http://arxiv.org/abs/2406.17627v1)|null|
 |**2024-06-25**|**Continuous-time optimal control for trajectory planning under uncertainty**|Ange Valli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17317v1-b31b1b.svg)](http://arxiv.org/abs/2406.17317v1)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17265v1-b31b1b.svg)](http://arxiv.org/abs/2406.17265v1)|null|

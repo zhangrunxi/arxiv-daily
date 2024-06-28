@@ -1,11 +1,11 @@
-> Updated on 2024.06.27
+> Updated on 2024.06.28
 
 ## Autonomous_Driving
 
-- 2024-06-26, **XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**, Hao Li et.al., Paper: [http://arxiv.org/abs/2406.18360v1](http://arxiv.org/abs/2406.18360v1)
+- 2024-06-27, **XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**, Hao Li et.al., Paper: [http://arxiv.org/abs/2406.18360v2](http://arxiv.org/abs/2406.18360v2)
 - 2024-06-26, **Real-time Structure Flow**, Juan David Adarve et.al., Paper: [http://arxiv.org/abs/2406.18031v1](http://arxiv.org/abs/2406.18031v1)
 - 2024-06-25, **End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**, Mingzhe Guo et.al., Paper: [http://arxiv.org/abs/2406.17680v1](http://arxiv.org/abs/2406.17680v1)
-- 2024-06-25, **MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**, Michelle Adeline et.al., Paper: [http://arxiv.org/abs/2406.17654v1](http://arxiv.org/abs/2406.17654v1)
+- 2024-06-25, **MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**, Michelle Adeline et.al., Paper: [http://arxiv.org/abs/2406.17654v1](http://arxiv.org/abs/2406.17654v1), Code: **[https://github.com/naomiex/mdha](https://github.com/naomiex/mdha)**
 - 2024-06-25, **Querying Labeled Time Series Data with Scenario Programs**, Devan Shanker et.al., Paper: [http://arxiv.org/abs/2406.17627v1](http://arxiv.org/abs/2406.17627v1)
 - 2024-06-25, **Continuous-time optimal control for trajectory planning under uncertainty**, Ange Valli et.al., Paper: [http://arxiv.org/abs/2406.17317v1](http://arxiv.org/abs/2406.17317v1)
 - 2024-06-25, **Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**, Ce Zhang et.al., Paper: [http://arxiv.org/abs/2406.17265v1](http://arxiv.org/abs/2406.17265v1)
