@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving
 
+- 2024-06-27, **BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**, Yang Song et.al., Paper: [http://arxiv.org/abs/2406.19048v1](http://arxiv.org/abs/2406.19048v1)
+- 2024-06-26, **Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**, Emanuel Figetakis et.al., Paper: [http://arxiv.org/abs/2406.18741v1](http://arxiv.org/abs/2406.18741v1)
 - 2024-06-27, **XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**, Hao Li et.al., Paper: [http://arxiv.org/abs/2406.18360v2](http://arxiv.org/abs/2406.18360v2)
 - 2024-06-26, **Real-time Structure Flow**, Juan David Adarve et.al., Paper: [http://arxiv.org/abs/2406.18031v1](http://arxiv.org/abs/2406.18031v1)
 - 2024-06-25, **End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**, Mingzhe Guo et.al., Paper: [http://arxiv.org/abs/2406.17680v1](http://arxiv.org/abs/2406.17680v1)
