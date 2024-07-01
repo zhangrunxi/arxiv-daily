@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.19913v1-b31b1b.svg)](http://arxiv.org/abs/2406.19913v1)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.19844v1-b31b1b.svg)](http://arxiv.org/abs/2406.19844v1)|null|
+|**2024-06-28**|**LCSim: A Large-Scale Controllable Traffic Simulator**|Yuheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.19781v1-b31b1b.svg)](http://arxiv.org/abs/2406.19781v1)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.19675v1-b31b1b.svg)](http://arxiv.org/abs/2406.19675v1)|null|
 |**2024-06-27**|**BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection**|Yang Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.19048v1-b31b1b.svg)](http://arxiv.org/abs/2406.19048v1)|null|
 |**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18741v1-b31b1b.svg)](http://arxiv.org/abs/2406.18741v1)|null|
 |**2024-06-27**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18360v2-b31b1b.svg)](http://arxiv.org/abs/2406.18360v2)|null|
