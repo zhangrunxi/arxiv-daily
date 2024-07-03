@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-02, **Safe CoR: A Dual-Expert Approach to Integrating Imitation Learning and Safe Reinforcement Learning Using Constraint Rewards**, Hyeokjin Kwon et.al., Paper: [http://arxiv.org/abs/2407.02245v1](http://arxiv.org/abs/2407.02245v1)
+- 2024-07-02, **Research on Reliable and Safe Occupancy Grid Prediction in Underground Parking Lots**, JiaQi Luo et.al., Paper: [http://arxiv.org/abs/2407.02197v1](http://arxiv.org/abs/2407.02197v1)
+- 2024-07-02, **I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**, Wenlu Yu et.al., Paper: [http://arxiv.org/abs/2407.02190v1](http://arxiv.org/abs/2407.02190v1)
+- 2024-07-02, **DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**, Kaixin Xu et.al., Paper: [http://arxiv.org/abs/2407.02098v1](http://arxiv.org/abs/2407.02098v1)
+- 2024-07-02, **LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**, Yansong Gong et.al., Paper: [http://arxiv.org/abs/2407.02061v1](http://arxiv.org/abs/2407.02061v1)
+- 2024-07-02, **FlowTrack: Point-level Flow Network for 3D Single Object Tracking**, Shuo Li et.al., Paper: [http://arxiv.org/abs/2407.01959v1](http://arxiv.org/abs/2407.01959v1)
+- 2024-07-02, **Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**, Jianan Zhang et.al., Paper: [http://arxiv.org/abs/2407.01956v1](http://arxiv.org/abs/2407.01956v1)
+- 2024-07-01, **Optimising robotic operation speed with edge computing over 5G networks: Insights from selective harvesting robots**, Usman A. Zahidi et.al., Paper: [http://arxiv.org/abs/2407.01792v1](http://arxiv.org/abs/2407.01792v1)
+- 2024-07-01, **Predicting Trust Dynamics with Dynamic SEM in Human-AI Cooperation**, Sota Kaneko et.al., Paper: [http://arxiv.org/abs/2407.01752v1](http://arxiv.org/abs/2407.01752v1)
+- 2024-07-01, **Deep Reinforcement Learning for Adverse Garage Scenario Generation**, Kai Li et.al., Paper: [http://arxiv.org/abs/2407.01333v1](http://arxiv.org/abs/2407.01333v1)
 - 2024-06-28, **Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**, Fabian Kreß et.al., Paper: [http://arxiv.org/abs/2406.19913v1](http://arxiv.org/abs/2406.19913v1)
 - 2024-06-28, **StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**, Jiaheng Zhuang et.al., Paper: [http://arxiv.org/abs/2406.19844v1](http://arxiv.org/abs/2406.19844v1)
 - 2024-06-28, **LCSim: A Large-Scale Controllable Traffic Simulator**, Yuheng Zhang et.al., Paper: [http://arxiv.org/abs/2406.19781v1](http://arxiv.org/abs/2406.19781v1)
