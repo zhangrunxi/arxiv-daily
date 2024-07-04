@@ -2,6 +2,11 @@
 
 ## Autonomous_Driving
 
+- 2024-07-03, **Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**, Yipin Guo et.al., Paper: [http://arxiv.org/abs/2407.02878v1](http://arxiv.org/abs/2407.02878v1)
+- 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1)
+- 2024-07-03, **Solving Motion Planning Tasks with a Scalable Generative Model**, Yihan Hu et.al., Paper: [http://arxiv.org/abs/2407.02797v1](http://arxiv.org/abs/2407.02797v1)
+- 2024-07-02, **AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**, Mustafa Khan et.al., Paper: [http://arxiv.org/abs/2407.02598v1](http://arxiv.org/abs/2407.02598v1)
+- 2024-07-02, **Adaptive Autopilot: Constrained DRL for Diverse Driving Behaviors**, Dinesh Cyril Selvaraj et.al., Paper: [http://arxiv.org/abs/2407.02546v1](http://arxiv.org/abs/2407.02546v1)
 - 2024-07-02, **Safe CoR: A Dual-Expert Approach to Integrating Imitation Learning and Safe Reinforcement Learning Using Constraint Rewards**, Hyeokjin Kwon et.al., Paper: [http://arxiv.org/abs/2407.02245v1](http://arxiv.org/abs/2407.02245v1)
 - 2024-07-02, **Research on Reliable and Safe Occupancy Grid Prediction in Underground Parking Lots**, JiaQi Luo et.al., Paper: [http://arxiv.org/abs/2407.02197v1](http://arxiv.org/abs/2407.02197v1)
 - 2024-07-02, **I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**, Wenlu Yu et.al., Paper: [http://arxiv.org/abs/2407.02190v1](http://arxiv.org/abs/2407.02190v1)
