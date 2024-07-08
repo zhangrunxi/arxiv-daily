@@ -2,6 +2,16 @@
 
 ## Autonomous_Driving
 
+- 2024-07-05, **Optimizing the image correction pipeline for pedestrian detection in the thermal-infrared domain**, Christophe Karam et.al., Paper: [http://arxiv.org/abs/2407.04484v1](http://arxiv.org/abs/2407.04484v1)
+- 2024-07-05, **Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**, Tong Wang et.al., Paper: [http://arxiv.org/abs/2407.04359v1](http://arxiv.org/abs/2407.04359v1)
+- 2024-07-05, **Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**, Pierre Haritz et.al., Paper: [http://arxiv.org/abs/2407.04343v1](http://arxiv.org/abs/2407.04343v1)
+- 2024-07-05, **Towards Stable 3D Object Detection**, Jiabao Wang et.al., Paper: [http://arxiv.org/abs/2407.04305v1](http://arxiv.org/abs/2407.04305v1)
+- 2024-07-05, **WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2407.04281v1](http://arxiv.org/abs/2407.04281v1)
+- 2024-07-05, **Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**, Han Wang et.al., Paper: [http://arxiv.org/abs/2407.04277v1](http://arxiv.org/abs/2407.04277v1)
+- 2024-07-04, **Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving**, Sergio. Martín Serrano et.al., Paper: [http://arxiv.org/abs/2407.04070v1](http://arxiv.org/abs/2407.04070v1)
+- 2024-07-04, **Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**, Ruixiao Zhang et.al., Paper: [http://arxiv.org/abs/2407.04061v1](http://arxiv.org/abs/2407.04061v1)
+- 2024-07-04, **Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**, Laiyan Ding et.al., Paper: [http://arxiv.org/abs/2407.04041v1](http://arxiv.org/abs/2407.04041v1)
+- 2024-07-04, **StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**, Yunshuang Yuan et.al., Paper: [http://arxiv.org/abs/2407.03825v1](http://arxiv.org/abs/2407.03825v1)
 - 2024-07-03, **Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**, Yipin Guo et.al., Paper: [http://arxiv.org/abs/2407.02878v1](http://arxiv.org/abs/2407.02878v1)
 - 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1)
 - 2024-07-03, **Solving Motion Planning Tasks with a Scalable Generative Model**, Yihan Hu et.al., Paper: [http://arxiv.org/abs/2407.02797v1](http://arxiv.org/abs/2407.02797v1)
