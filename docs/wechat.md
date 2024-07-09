@@ -9,7 +9,7 @@
 - 2024-07-05, **WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2407.04281v1](http://arxiv.org/abs/2407.04281v1)
 - 2024-07-05, **Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**, Han Wang et.al., Paper: [http://arxiv.org/abs/2407.04277v1](http://arxiv.org/abs/2407.04277v1)
 - 2024-07-04, **Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving**, Sergio. Martín Serrano et.al., Paper: [http://arxiv.org/abs/2407.04070v1](http://arxiv.org/abs/2407.04070v1)
-- 2024-07-04, **Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**, Ruixiao Zhang et.al., Paper: [http://arxiv.org/abs/2407.04061v1](http://arxiv.org/abs/2407.04061v1)
+- 2024-07-08, **Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**, Ruixiao Zhang et.al., Paper: [http://arxiv.org/abs/2407.04061v2](http://arxiv.org/abs/2407.04061v2)
 - 2024-07-04, **Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**, Laiyan Ding et.al., Paper: [http://arxiv.org/abs/2407.04041v1](http://arxiv.org/abs/2407.04041v1)
 - 2024-07-04, **StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**, Yunshuang Yuan et.al., Paper: [http://arxiv.org/abs/2407.03825v1](http://arxiv.org/abs/2407.03825v1)
 - 2024-07-03, **Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**, Yipin Guo et.al., Paper: [http://arxiv.org/abs/2407.02878v1](http://arxiv.org/abs/2407.02878v1)
