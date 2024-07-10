@@ -4,7 +4,9 @@ import json
 import arxiv
 import os
 
+
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+#base_url = "http://export.arxiv.org/api/query?search_query=all:"
 
 def get_authors(authors, first_author = False):
     output = str()
@@ -117,7 +119,7 @@ def update_json_file(filename,data_all):
         else:
             m = json.loads(content)
             
-    json_data = m.copy() 
+    json_data = {} #m.copy() 
     
     # update papers in each keywords         
     for data in data_all:
