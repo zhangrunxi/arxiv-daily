@@ -60,8 +60,10 @@ def get_daily_papers(topic,query="slam", max_results=20):
         update_time         = result.updated.date()
         comments            = result.comment
        
-        print(type(result.published)) 
-        submitted_date = result.published.strftime("%Y-%m-%dT%H:%M:%SZ")
+        print(result.published) 
+        submitted_date_str = result.published.strftime("%Y-%m-%dT%H:%M:%SZ")
+        submitted_date = datetime.strptime(submitted_date_str, "%Y-%m-%dT%H:%M:%SZ")
+
         if start_date > submitted_date:
             continue
 
