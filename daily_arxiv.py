@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime, timedelta, date
 import requests
 import json
 import arxiv
@@ -42,7 +42,10 @@ def get_daily_papers(topic,query="slam", max_results=20):
     )
 
     cnt = 0
-
+    # 计算时间范围
+    end_date = datetime.now()  # 当前时间
+    start_date = end_date - timedelta(days=7)  # 最近 7 天的开始时间
+    print(start_date)
     for result in search_engine.results():
 
         paper_id            = result.get_short_id()
@@ -56,6 +59,11 @@ def get_daily_papers(topic,query="slam", max_results=20):
         publish_time        = result.published.date()
         update_time         = result.updated.date()
         comments            = result.comment
+       
+        print(type(result.published)) 
+        submitted_date = result.published.strftime("%Y-%m-%dT%H:%M:%SZ")
+        if start_date > submitted_date:
+            continue
 
         print(paper_id, paper_title, publish_time)
 
@@ -129,7 +137,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
     @return None
     """
     
-    DateNow = datetime.date.today()
+    DateNow = date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
@@ -209,7 +217,7 @@ if __name__ == "__main__":
     # 1. update README.md file
     json_file = "adas-arxiv-daily.json"
     md_file   = "README.md"
-    daily_md_file = f"arxivs/{datetime.datetime.now().strftime('%Y%m%d')}.md"
+    daily_md_file = f"arxivs/{datetime.now().strftime('%Y%m%d')}.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
