@@ -188,8 +188,12 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["Autonomous_Driving"]  = "abs:autonomous AND abs:driving AND abs:planning"
-   
+    keywords["Autonomous_Driving_Planning"]  = "abs:autonomous AND abs:driving AND abs:planning"
+    keywords["Autonomous_Driving_Prediction"]  = "abs:autonomous AND abs:driving AND abs:prediction OR abs:predict"
+    keywords["Autonomous_Driving_Decision"]  = "abs:autonomous AND abs:driving AND abs:decision OR abs:decider"
+    keywords["Autonomous_Driving_E2E"]  = "abs:autonomous AND abs:driving AND abs:end AND abs:to AND abs:end"
+    keywords["Autonomous_Driving_LLM"]  = "abs:autonomous AND abs:driving AND abs:llm"
+    keywords["Autonomous_Driving_RL"]  = "abs:autonomous AND abs:driving AND abs:reinforcement AND abs:learning"
 
     for topic,keyword in keywords.items():
  
