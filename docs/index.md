@@ -973,3 +973,93 @@ layout: default
 |**2023-11-30**|**Robust-to-Noise Algorithms for Distributed Resource Allocation and Scheduling**|Mohammadreza Doostmohammadian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2311.18646v1-b31b1b.svg)](http://arxiv.org/abs/2311.18646v1)|null|
 |**2023-11-30**|**Internal noise interference in anticipation of tipping points of generic multi-dimensional dynamical systems**|Andreas Morr et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2311.18597v1-b31b1b.svg)](http://arxiv.org/abs/2311.18597v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreasmorr/linearobservablescsd)**|
 
+## Autonomous_Driving_Planning
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06605v1-b31b1b.svg)](http://arxiv.org/abs/2407.06605v1)|null|
+|**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v1-b31b1b.svg)](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-08**|**MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05671v1-b31b1b.svg)](http://arxiv.org/abs/2407.05671v1)|null|
+|**2024-07-05**|**WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**|Yiheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04281v1-b31b1b.svg)](http://arxiv.org/abs/2407.04281v1)|null|
+|**2024-07-04**|**Spatio-temporal cooperative control Method of Highway Ramp Merge Based on Vehicle-road Coordination**|Xiaoxue Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.03671v1-b31b1b.svg)](http://arxiv.org/abs/2407.03671v1)|null|
+|**2024-07-03**|**Solving Motion Planning Tasks with a Scalable Generative Model**|Yihan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.02797v1-b31b1b.svg)](http://arxiv.org/abs/2407.02797v1)|null|
+|**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01956v1-b31b1b.svg)](http://arxiv.org/abs/2407.01956v1)|null|
+|**2024-07-01**|**Optimising robotic operation speed with edge computing over 5G networks: Insights from selective harvesting robots**|Usman A. Zahidi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01792v1-b31b1b.svg)](http://arxiv.org/abs/2407.01792v1)|null|
+|**2024-07-01**|**Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**|Xibo Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01216v1-b31b1b.svg)](http://arxiv.org/abs/2407.01216v1)|null|
+
+## Autonomous_Driving_Prediction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07020v1-b31b1b.svg)](http://arxiv.org/abs/2407.07020v1)|null|
+|**2024-07-09**|**Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06605v1-b31b1b.svg)](http://arxiv.org/abs/2407.06605v1)|null|
+|**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
+|**2024-07-09**|**VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving**|Yibo Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06516v1-b31b1b.svg)](http://arxiv.org/abs/2407.06516v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v1-b31b1b.svg)](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-08**|**Physics-Informed Machine Learning Towards A Real-Time Spacecraft Thermal Simulator**|Manaswin Oddiraju et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06099v1-b31b1b.svg)](http://arxiv.org/abs/2407.06099v1)|null|
+|**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05769v1-b31b1b.svg)](http://arxiv.org/abs/2407.05769v1)|null|
+|**2024-07-08**|**BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space**|Yumeng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05679v1-b31b1b.svg)](http://arxiv.org/abs/2407.05679v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zympsyche/bevworld)**|
+|**2024-07-08**|**MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05671v1-b31b1b.svg)](http://arxiv.org/abs/2407.05671v1)|null|
+|**2024-07-08**|**GenFollower: Enhancing Car-Following Prediction with Large Language Models**|Xianda Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05611v1-b31b1b.svg)](http://arxiv.org/abs/2407.05611v1)|null|
+
+## Autonomous_Driving_Decision
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07020v1-b31b1b.svg)](http://arxiv.org/abs/2407.07020v1)|null|
+|**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07009v1-b31b1b.svg)](http://arxiv.org/abs/2407.07009v1)|null|
+|**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v1-b31b1b.svg)](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-04**|**Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving**|Sergio. Martín Serrano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04070v1-b31b1b.svg)](http://arxiv.org/abs/2407.04070v1)|null|
+|**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01956v1-b31b1b.svg)](http://arxiv.org/abs/2407.01956v1)|null|
+|**2024-07-01**|**Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**|Xibo Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01216v1-b31b1b.svg)](http://arxiv.org/abs/2407.01216v1)|null|
+|**2024-07-01**|**Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense**|Yi Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00995v1-b31b1b.svg)](http://arxiv.org/abs/2407.00995v1)|null|
+|**2024-06-29**|**A Rule-Based Behaviour Planner for Autonomous Driving**|Bouchard Frederic et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00460v1-b31b1b.svg)](http://arxiv.org/abs/2407.00460v1)|null|
+|**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18741v1-b31b1b.svg)](http://arxiv.org/abs/2406.18741v1)|null|
+
+## Autonomous_Driving_E2E
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
+|**2024-07-08**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v1-b31b1b.svg)](http://arxiv.org/abs/2407.06317v1)|null|
+|**2024-07-08**|**MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05671v1-b31b1b.svg)](http://arxiv.org/abs/2407.05671v1)|null|
+|**2024-07-04**|**Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving**|Sergio. Martín Serrano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04070v1-b31b1b.svg)](http://arxiv.org/abs/2407.04070v1)|null|
+|**2024-07-01**|**Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving**|Ran Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00959v1-b31b1b.svg)](http://arxiv.org/abs/2407.00959v1)|null|
+|**2024-07-07**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00697v2-b31b1b.svg)](http://arxiv.org/abs/2407.00697v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harborsarah/cafnet)**|
+|**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.17680v1-b31b1b.svg)](http://arxiv.org/abs/2406.17680v1)|null|
+|**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.16072v1-b31b1b.svg)](http://arxiv.org/abs/2406.16072v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmoonr/dv-3dlane)**|
+|**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.15349v1-b31b1b.svg)](http://arxiv.org/abs/2406.15349v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/autonomousvision/navsim)**|
+|**2024-06-21**|**Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**|Lynn Vonderhaar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.15268v1-b31b1b.svg)](http://arxiv.org/abs/2406.15268v1)|null|
+
+## Autonomous_Driving_LLM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**GenFollower: Enhancing Car-Following Prediction with Large Language Models**|Xianda Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05611v1-b31b1b.svg)](http://arxiv.org/abs/2407.05611v1)|null|
+|**2024-07-05**|**WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**|Yiheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04281v1-b31b1b.svg)](http://arxiv.org/abs/2407.04281v1)|null|
+|**2024-07-01**|**Data on the Move: Traffic-Oriented Data Trading Platform Powered by AI Agent with Common Sense**|Yi Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00995v1-b31b1b.svg)](http://arxiv.org/abs/2407.00995v1)|null|
+|**2024-07-01**|**Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving**|Ran Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00959v1-b31b1b.svg)](http://arxiv.org/abs/2407.00959v1)|null|
+|**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14556v2-b31b1b.svg)](http://arxiv.org/abs/2406.14556v2)|null|
+|**2024-06-19**|**LLMatDesign: Autonomous Materials Discovery with Large Language Models**|Shuyi Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.13163v1-b31b1b.svg)](http://arxiv.org/abs/2406.13163v1)|null|
+|**2024-06-16**|**An LLM-enhanced Multi-objective Evolutionary Search for Autonomous Driving Test Scenario Generation**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.10857v1-b31b1b.svg)](http://arxiv.org/abs/2406.10857v1)|null|
+|**2024-06-15**|**Generating and Evolving Reward Functions for Highway Driving with Large Language Models**|Xu Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.10540v1-b31b1b.svg)](http://arxiv.org/abs/2406.10540v1)|null|
+|**2024-06-11**|**Instruct Large Language Models to Drive like Humans**|Ruijun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.07296v1-b31b1b.svg)](http://arxiv.org/abs/2406.07296v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bonbon-rj/instructdriver)**|
+|**2024-06-10**|**FinVerse: An Autonomous Agent System for Versatile Financial Analysis**|Siyu An et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.06379v1-b31b1b.svg)](http://arxiv.org/abs/2406.06379v1)|null|
+
+## Autonomous_Driving_RL
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**|Pierre Haritz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04343v1-b31b1b.svg)](http://arxiv.org/abs/2407.04343v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidWanke/PyAutoDriveRL)**|
+|**2024-07-03**|**Solving Motion Planning Tasks with a Scalable Generative Model**|Yihan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.02797v1-b31b1b.svg)](http://arxiv.org/abs/2407.02797v1)|null|
+|**2024-07-02**|**Adaptive Autopilot: Constrained DRL for Diverse Driving Behaviors**|Dinesh Cyril Selvaraj et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.02546v1-b31b1b.svg)](http://arxiv.org/abs/2407.02546v1)|null|
+|**2024-07-02**|**Safe CoR: A Dual-Expert Approach to Integrating Imitation Learning and Safe Reinforcement Learning Using Constraint Rewards**|Hyeokjin Kwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.02245v1-b31b1b.svg)](http://arxiv.org/abs/2407.02245v1)|null|
+|**2024-07-01**|**Deep Reinforcement Learning for Adverse Garage Scenario Generation**|Kai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01333v1-b31b1b.svg)](http://arxiv.org/abs/2407.01333v1)|null|
+|**2024-07-01**|**Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**|Xibo Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.01216v1-b31b1b.svg)](http://arxiv.org/abs/2407.01216v1)|null|
+|**2024-06-30**|**Benchmarks for Reinforcement Learning with Biased Offline Data and Imperfect Simulators**|Ori Linial et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.00806v1-b31b1b.svg)](http://arxiv.org/abs/2407.00806v1)|null|
+|**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.18741v1-b31b1b.svg)](http://arxiv.org/abs/2406.18741v1)|null|
+|**2024-06-21**|**Learning Autonomous Race Driving with Action Mapping Reinforcement Learning**|Yuanda Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14934v1-b31b1b.svg)](http://arxiv.org/abs/2406.14934v1)|null|
+|**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2406.14766v1-b31b1b.svg)](http://arxiv.org/abs/2406.14766v1)|null|
+
