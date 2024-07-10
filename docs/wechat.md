@@ -1,7 +1,8 @@
-> Updated on 2024.07.09
+> Updated on 2024.07.10
 
 ## Autonomous_Driving
 
+- 2024-07-08, **MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2407.05671v1](http://arxiv.org/abs/2407.05671v1)
 - 2024-07-05, **Optimizing the image correction pipeline for pedestrian detection in the thermal-infrared domain**, Christophe Karam et.al., Paper: [http://arxiv.org/abs/2407.04484v1](http://arxiv.org/abs/2407.04484v1)
 - 2024-07-05, **Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**, Tong Wang et.al., Paper: [http://arxiv.org/abs/2407.04359v1](http://arxiv.org/abs/2407.04359v1)
 - 2024-07-05, **Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**, Pierre Haritz et.al., Paper: [http://arxiv.org/abs/2407.04343v1](http://arxiv.org/abs/2407.04343v1)
@@ -12,6 +13,7 @@
 - 2024-07-08, **Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**, Ruixiao Zhang et.al., Paper: [http://arxiv.org/abs/2407.04061v2](http://arxiv.org/abs/2407.04061v2)
 - 2024-07-04, **Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**, Laiyan Ding et.al., Paper: [http://arxiv.org/abs/2407.04041v1](http://arxiv.org/abs/2407.04041v1)
 - 2024-07-04, **StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**, Yunshuang Yuan et.al., Paper: [http://arxiv.org/abs/2407.03825v1](http://arxiv.org/abs/2407.03825v1)
+- 2024-07-04, **Spatio-temporal cooperative control Method of Highway Ramp Merge Based on Vehicle-road Coordination**, Xiaoxue Xu et.al., Paper: [http://arxiv.org/abs/2407.03671v1](http://arxiv.org/abs/2407.03671v1)
 - 2024-07-03, **Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**, Yipin Guo et.al., Paper: [http://arxiv.org/abs/2407.02878v1](http://arxiv.org/abs/2407.02878v1)
 - 2024-07-03, **A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**, Li Fang et.al., Paper: [http://arxiv.org/abs/2407.02830v1](http://arxiv.org/abs/2407.02830v1)
 - 2024-07-03, **Solving Motion Planning Tasks with a Scalable Generative Model**, Yihan Hu et.al., Paper: [http://arxiv.org/abs/2407.02797v1](http://arxiv.org/abs/2407.02797v1)
@@ -27,6 +29,8 @@
 - 2024-07-01, **Optimising robotic operation speed with edge computing over 5G networks: Insights from selective harvesting robots**, Usman A. Zahidi et.al., Paper: [http://arxiv.org/abs/2407.01792v1](http://arxiv.org/abs/2407.01792v1)
 - 2024-07-01, **Predicting Trust Dynamics with Dynamic SEM in Human-AI Cooperation**, Sota Kaneko et.al., Paper: [http://arxiv.org/abs/2407.01752v1](http://arxiv.org/abs/2407.01752v1)
 - 2024-07-01, **Deep Reinforcement Learning for Adverse Garage Scenario Generation**, Kai Li et.al., Paper: [http://arxiv.org/abs/2407.01333v1](http://arxiv.org/abs/2407.01333v1)
+- 2024-07-01, **Let Hybrid A* Path Planner Obey Traffic Rules: A Deep Reinforcement Learning-Based Planning Framework**, Xibo Li et.al., Paper: [http://arxiv.org/abs/2407.01216v1](http://arxiv.org/abs/2407.01216v1)
+- 2024-07-01, **Tokenize the World into Object-level Knowledge to Address Long-tail Events in Autonomous Driving**, Ran Tian et.al., Paper: [http://arxiv.org/abs/2407.00959v1](http://arxiv.org/abs/2407.00959v1)
 - 2024-06-28, **Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**, Fabian Kreß et.al., Paper: [http://arxiv.org/abs/2406.19913v1](http://arxiv.org/abs/2406.19913v1)
 - 2024-06-28, **StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**, Jiaheng Zhuang et.al., Paper: [http://arxiv.org/abs/2406.19844v1](http://arxiv.org/abs/2406.19844v1)
 - 2024-06-28, **LCSim: A Large-Scale Controllable Traffic Simulator**, Yuheng Zhang et.al., Paper: [http://arxiv.org/abs/2406.19781v1](http://arxiv.org/abs/2406.19781v1)
