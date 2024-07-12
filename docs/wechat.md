@@ -6,7 +6,6 @@
 - 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
 - 2024-07-10, **Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**, Jianuo Huang et.al., Paper: [http://arxiv.org/abs/2407.06317v2](http://arxiv.org/abs/2407.06317v2)
 - 2024-07-08, **MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2407.05671v1](http://arxiv.org/abs/2407.05671v1)
-- 2024-07-05, **WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2407.04281v1](http://arxiv.org/abs/2407.04281v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -38,10 +37,8 @@
 ## Autonomous_Driving_LLM
 
 - 2024-07-08, **GenFollower: Enhancing Car-Following Prediction with Large Language Models**, Xianda Chen et.al., Paper: [http://arxiv.org/abs/2407.05611v1](http://arxiv.org/abs/2407.05611v1)
-- 2024-07-05, **WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**, Yiheng Li et.al., Paper: [http://arxiv.org/abs/2407.04281v1](http://arxiv.org/abs/2407.04281v1)
 
 ## Autonomous_Driving_RL
 
 - 2024-07-10, **Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2407.07684v1](http://arxiv.org/abs/2407.07684v1)
-- 2024-07-05, **Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**, Pierre Haritz et.al., Paper: [http://arxiv.org/abs/2407.04343v1](http://arxiv.org/abs/2407.04343v1), Code: **[https://github.com/DavidWanke/PyAutoDriveRL](https://github.com/DavidWanke/PyAutoDriveRL)**
 

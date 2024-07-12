@@ -8,7 +8,6 @@
 |**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
 |**2024-07-10**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v2-b31b1b.svg)](http://arxiv.org/abs/2407.06317v2)|null|
 |**2024-07-08**|**MSTF: Multiscale Transformer for Incomplete Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05671v1-b31b1b.svg)](http://arxiv.org/abs/2407.05671v1)|null|
-|**2024-07-05**|**WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**|Yiheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04281v1-b31b1b.svg)](http://arxiv.org/abs/2407.04281v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -48,12 +47,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-08**|**GenFollower: Enhancing Car-Following Prediction with Large Language Models**|Xianda Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05611v1-b31b1b.svg)](http://arxiv.org/abs/2407.05611v1)|null|
-|**2024-07-05**|**WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**|Yiheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04281v1-b31b1b.svg)](http://arxiv.org/abs/2407.04281v1)|null|
 
 ## Autonomous_Driving_RL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07684v1-b31b1b.svg)](http://arxiv.org/abs/2407.07684v1)|null|
-|**2024-07-05**|**Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**|Pierre Haritz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.04343v1-b31b1b.svg)](http://arxiv.org/abs/2407.04343v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidWanke/PyAutoDriveRL)**|
 
