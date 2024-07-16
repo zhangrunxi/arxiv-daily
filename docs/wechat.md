@@ -2,13 +2,13 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
 - 2024-07-12, **GNN with Model-based RL for Multi-agent Systems**, Hanxiao Chen et.al., Paper: [http://arxiv.org/abs/2407.09249v1](http://arxiv.org/abs/2407.09249v1)
 - 2024-07-11, **BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**, Hang Wu et.al., Paper: [http://arxiv.org/abs/2407.08526v1](http://arxiv.org/abs/2407.08526v1)
-- 2024-07-09, **Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2407.06605v1](http://arxiv.org/abs/2407.06605v1)
-- 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-07-14, **FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**, Zheng Jiang et.al., Paper: [http://arxiv.org/abs/2407.10135v1](http://arxiv.org/abs/2407.10135v1)
 - 2024-07-12, **Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**, Jinning Li et.al., Paper: [http://arxiv.org/abs/2407.09475v1](http://arxiv.org/abs/2407.09475v1)
 - 2024-07-12, **GNN with Model-based RL for Multi-agent Systems**, Hanxiao Chen et.al., Paper: [http://arxiv.org/abs/2407.09249v1](http://arxiv.org/abs/2407.09249v1)
 - 2024-07-10, **Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**, Lei Cheng et.al., Paper: [http://arxiv.org/abs/2407.08049v1](http://arxiv.org/abs/2407.08049v1)
@@ -17,21 +17,23 @@
 - 2024-07-10, **Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**, Yili Liu et.al., Paper: [http://arxiv.org/abs/2407.07587v1](http://arxiv.org/abs/2407.07587v1)
 - 2024-07-10, **Event-Aided Time-to-Collision Estimation for Autonomous Driving**, Jinghang Li et.al., Paper: [http://arxiv.org/abs/2407.07324v1](http://arxiv.org/abs/2407.07324v1)
 - 2024-07-09, **Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07020v1](http://arxiv.org/abs/2407.07020v1)
-- 2024-07-09, **Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**, Lars Ullrich et.al., Paper: [http://arxiv.org/abs/2407.06605v1](http://arxiv.org/abs/2407.06605v1)
-- 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
 
 ## Autonomous_Driving_Decision
 
+- 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
 - 2024-07-12, **Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**, Shun Kotoku et.al., Paper: [http://arxiv.org/abs/2407.09124v1](http://arxiv.org/abs/2407.09124v1)
 - 2024-07-10, **The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**, Daniel Sikar et.al., Paper: [http://arxiv.org/abs/2407.07818v1](http://arxiv.org/abs/2407.07818v1)
 - 2024-07-09, **Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07020v1](http://arxiv.org/abs/2407.07020v1)
 - 2024-07-09, **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**, Abdul Karim Gizzini et.al., Paper: [http://arxiv.org/abs/2407.07009v1](http://arxiv.org/abs/2407.07009v1)
-- 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-07-11, **Accurate Cooperative Localization Utilizing LiDAR-equipped Roadside Infrastructure for Autonomous Driving**, Yuze Jiang et.al., Paper: [http://arxiv.org/abs/2407.08384v1](http://arxiv.org/abs/2407.08384v1)
-- 2024-07-09, **Exploring the Causality of End-to-End Autonomous Driving**, Jiankun Li et.al., Paper: [http://arxiv.org/abs/2407.06546v1](http://arxiv.org/abs/2407.06546v1)
+
+## Autonomous_Driving_LLM
+
+- 2024-07-14, **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10299v1](http://arxiv.org/abs/2407.10299v1)
+- 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
 
 ## Autonomous_Driving_RL
 
