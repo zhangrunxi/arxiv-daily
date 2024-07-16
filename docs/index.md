@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2024-07-11**|**BLOS-BEV: Navigation Map Enhanced Lane Segmentation Network, Beyond Line of Sight**|Hang Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08526v1-b31b1b.svg)](http://arxiv.org/abs/2407.08526v1)|null|
 |**2024-07-09**|**Robust Meta-Learning of Vehicle Yaw Rate Dynamics via Conditional Neural Processes**|Lars Ullrich et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06605v1-b31b1b.svg)](http://arxiv.org/abs/2407.06605v1)|null|
 |**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
-|**2024-07-10**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v2-b31b1b.svg)](http://arxiv.org/abs/2407.06317v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -38,7 +37,6 @@ layout: default
 |**2024-07-09**|**Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07020v1-b31b1b.svg)](http://arxiv.org/abs/2407.07020v1)|null|
 |**2024-07-09**|**Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**|Abdul Karim Gizzini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07009v1-b31b1b.svg)](http://arxiv.org/abs/2407.07009v1)|null|
 |**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
-|**2024-07-10**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v2-b31b1b.svg)](http://arxiv.org/abs/2407.06317v2)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -46,7 +44,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**Accurate Cooperative Localization Utilizing LiDAR-equipped Roadside Infrastructure for Autonomous Driving**|Yuze Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08384v1-b31b1b.svg)](http://arxiv.org/abs/2407.08384v1)|null|
 |**2024-07-09**|**Exploring the Causality of End-to-End Autonomous Driving**|Jiankun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06546v1-b31b1b.svg)](http://arxiv.org/abs/2407.06546v1)|null|
-|**2024-07-10**|**Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation**|Jianuo Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06317v2-b31b1b.svg)](http://arxiv.org/abs/2407.06317v2)|null|
 
 ## Autonomous_Driving_RL
 
