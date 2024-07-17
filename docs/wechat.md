@@ -1,4 +1,4 @@
-> Updated on 2024.07.16
+> Updated on 2024.07.17
 
 ## Autonomous_Driving_Planning
 
@@ -15,16 +15,13 @@
 - 2024-07-10, **The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**, Daniel Sikar et.al., Paper: [http://arxiv.org/abs/2407.07818v1](http://arxiv.org/abs/2407.07818v1)
 - 2024-07-10, **Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2407.07684v1](http://arxiv.org/abs/2407.07684v1)
 - 2024-07-10, **Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**, Yili Liu et.al., Paper: [http://arxiv.org/abs/2407.07587v1](http://arxiv.org/abs/2407.07587v1)
-- 2024-07-10, **Event-Aided Time-to-Collision Estimation for Autonomous Driving**, Jinghang Li et.al., Paper: [http://arxiv.org/abs/2407.07324v1](http://arxiv.org/abs/2407.07324v1)
-- 2024-07-09, **Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07020v1](http://arxiv.org/abs/2407.07020v1)
+- 2024-07-16, **Event-Aided Time-to-Collision Estimation for Autonomous Driving**, Jinghang Li et.al., Paper: [http://arxiv.org/abs/2407.07324v2](http://arxiv.org/abs/2407.07324v2)
 
 ## Autonomous_Driving_Decision
 
 - 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
 - 2024-07-12, **Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**, Shun Kotoku et.al., Paper: [http://arxiv.org/abs/2407.09124v1](http://arxiv.org/abs/2407.09124v1)
 - 2024-07-10, **The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**, Daniel Sikar et.al., Paper: [http://arxiv.org/abs/2407.07818v1](http://arxiv.org/abs/2407.07818v1)
-- 2024-07-09, **Less is More: Efficient Brain-Inspired Learning for Autonomous Driving Trajectory Prediction**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.07020v1](http://arxiv.org/abs/2407.07020v1)
-- 2024-07-09, **Explainable AI for Enhancing Efficiency of DL-based Channel Estimation**, Abdul Karim Gizzini et.al., Paper: [http://arxiv.org/abs/2407.07009v1](http://arxiv.org/abs/2407.07009v1)
 
 ## Autonomous_Driving_E2E
 
