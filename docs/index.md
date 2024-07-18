@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 
 ## Autonomous_Driving_Planning
 
@@ -20,14 +20,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11954v1-b31b1b.svg)](http://arxiv.org/abs/2407.11954v1)|null|
 |**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11644v1-b31b1b.svg)](http://arxiv.org/abs/2407.11644v1)|null|
-|**2024-07-16**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11382v1-b31b1b.svg)](http://arxiv.org/abs/2407.11382v1)|null|
+|**2024-07-17**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11382v2-b31b1b.svg)](http://arxiv.org/abs/2407.11382v2)|null|
 |**2024-07-16**|**Continuity Preserving Online CenterLine Graph Learning**|Yunhui Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11337v1-b31b1b.svg)](http://arxiv.org/abs/2407.11337v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi/cgnet)**|
 |**2024-07-14**|**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**|Zheng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.10135v1-b31b1b.svg)](http://arxiv.org/abs/2407.10135v1)|null|
 |**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09475v1-b31b1b.svg)](http://arxiv.org/abs/2407.09475v1)|null|
 |**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09249v1-b31b1b.svg)](http://arxiv.org/abs/2407.09249v1)|null|
-|**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08049v1-b31b1b.svg)](http://arxiv.org/abs/2407.08049v1)|null|
-|**2024-07-10**|**The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**|Daniel Sikar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07818v1-b31b1b.svg)](http://arxiv.org/abs/2407.07818v1)|null|
-|**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07684v1-b31b1b.svg)](http://arxiv.org/abs/2407.07684v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -35,7 +32,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-13**|**CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**|Yihang Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09811v1-b31b1b.svg)](http://arxiv.org/abs/2407.09811v1)|null|
 |**2024-07-12**|**Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**|Shun Kotoku et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09124v1-b31b1b.svg)](http://arxiv.org/abs/2407.09124v1)|null|
-|**2024-07-10**|**The Misclassification Likelihood Matrix: Some Classes Are More Likely To Be Misclassified Than Others**|Daniel Sikar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07818v1-b31b1b.svg)](http://arxiv.org/abs/2407.07818v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -59,5 +55,4 @@ layout: default
 |**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09249v1-b31b1b.svg)](http://arxiv.org/abs/2407.09249v1)|null|
 |**2024-07-12**|**Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**|Shun Kotoku et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.09124v1-b31b1b.svg)](http://arxiv.org/abs/2407.09124v1)|null|
 |**2024-07-11**|**Joint Optimization of Age of Information and Energy Consumption in NR-V2X System based on Deep Reinforcement Learning**|Shulin Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.08458v1-b31b1b.svg)](http://arxiv.org/abs/2407.08458v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)**|
-|**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.07684v1-b31b1b.svg)](http://arxiv.org/abs/2407.07684v1)|null|
 
