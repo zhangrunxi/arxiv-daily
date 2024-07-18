@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
 - 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
@@ -27,10 +28,10 @@
 
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
-- 2024-07-11, **Accurate Cooperative Localization Utilizing LiDAR-equipped Roadside Infrastructure for Autonomous Driving**, Yuze Jiang et.al., Paper: [http://arxiv.org/abs/2407.08384v1](http://arxiv.org/abs/2407.08384v1)
 
 ## Autonomous_Driving_LLM
 
+- 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1)
 - 2024-07-14, **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10299v1](http://arxiv.org/abs/2407.10299v1)
 - 2024-07-13, **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**, Yihang Xiao et.al., Paper: [http://arxiv.org/abs/2407.09811v1](http://arxiv.org/abs/2407.09811v1)
 
