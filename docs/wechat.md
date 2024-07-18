@@ -39,5 +39,4 @@
 
 - 2024-07-12, **GNN with Model-based RL for Multi-agent Systems**, Hanxiao Chen et.al., Paper: [http://arxiv.org/abs/2407.09249v1](http://arxiv.org/abs/2407.09249v1)
 - 2024-07-12, **Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**, Shun Kotoku et.al., Paper: [http://arxiv.org/abs/2407.09124v1](http://arxiv.org/abs/2407.09124v1)
-- 2024-07-11, **Joint Optimization of Age of Information and Energy Consumption in NR-V2X System based on Deep Reinforcement Learning**, Shulin Song et.al., Paper: [http://arxiv.org/abs/2407.08458v1](http://arxiv.org/abs/2407.08458v1), Code: **[https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)**
 
