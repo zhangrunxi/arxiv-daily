@@ -25,7 +25,6 @@ layout: default
 |**2024-07-16**|**Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**|Guoliang You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11644v1-b31b1b.svg)](http://arxiv.org/abs/2407.11644v1)|null|
 |**2024-07-17**|**Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**|Jianhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11382v2-b31b1b.svg)](http://arxiv.org/abs/2407.11382v2)|null|
 |**2024-07-16**|**Continuity Preserving Online CenterLine Graph Learning**|Yunhui Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11337v1-b31b1b.svg)](http://arxiv.org/abs/2407.11337v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi/cgnet)**|
-|**2024-07-14**|**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**|Zheng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.10135v1-b31b1b.svg)](http://arxiv.org/abs/2407.10135v1)|null|
 
 ## Autonomous_Driving_Decision
 

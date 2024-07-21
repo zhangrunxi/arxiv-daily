@@ -17,7 +17,6 @@
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-17, **Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**, Jianhao Li et.al., Paper: [http://arxiv.org/abs/2407.11382v2](http://arxiv.org/abs/2407.11382v2)
 - 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
-- 2024-07-14, **FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**, Zheng Jiang et.al., Paper: [http://arxiv.org/abs/2407.10135v1](http://arxiv.org/abs/2407.10135v1)
 
 ## Autonomous_Driving_Decision
 
