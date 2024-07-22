@@ -1,4 +1,4 @@
-> Updated on 2024.07.21
+> Updated on 2024.07.22
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,7 @@
 ## Autonomous_Driving_Prediction
 
 - 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
-- 2024-07-18, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v1](http://arxiv.org/abs/2407.13517v1)
+- 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
 - 2024-07-18, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v1](http://arxiv.org/abs/2407.13155v1)
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
@@ -25,7 +25,7 @@
 
 ## Autonomous_Driving_E2E
 
-- 2024-07-18, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v1](http://arxiv.org/abs/2407.13517v1)
+- 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Ultra-Low-Latency Edge Inference for Distributed Sensing**, Zhanwei Wang et.al., Paper: [http://arxiv.org/abs/2407.13360v1](http://arxiv.org/abs/2407.13360v1)
 - 2024-07-18, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v1](http://arxiv.org/abs/2407.13155v1)
 - 2024-07-18, **OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**, Jian Sun et.al., Paper: [http://arxiv.org/abs/2407.13137v1](http://arxiv.org/abs/2407.13137v1)
@@ -35,7 +35,6 @@
 ## Autonomous_Driving_LLM
 
 - 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1), Code: **[https://github.com/BillChan226/AgentPoison](https://github.com/BillChan226/AgentPoison)**
-- 2024-07-14, **Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**, Yuchen Yang et.al., Paper: [http://arxiv.org/abs/2407.10299v1](http://arxiv.org/abs/2407.10299v1), Code: **[https://github.com/Yuchen413/AnomalyRuler](https://github.com/Yuchen413/AnomalyRuler)**
 
 ## Autonomous_Driving_RL
 
