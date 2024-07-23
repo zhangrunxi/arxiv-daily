@@ -1,4 +1,4 @@
-> Updated on 2024.07.22
+> Updated on 2024.07.23
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,7 @@
 - 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
 - 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
-- 2024-07-18, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v1](http://arxiv.org/abs/2407.13155v1)
+- 2024-07-21, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v2](http://arxiv.org/abs/2407.13155v2)
 - 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-17, **Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts**, Jianhao Li et.al., Paper: [http://arxiv.org/abs/2407.11382v2](http://arxiv.org/abs/2407.11382v2)
@@ -32,7 +32,7 @@
 - 2024-07-18, **Assurance of AI Systems From a Dependability Perspective**, Robin Bloomfield et.al., Paper: [http://arxiv.org/abs/2407.13948v1](http://arxiv.org/abs/2407.13948v1)
 - 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Ultra-Low-Latency Edge Inference for Distributed Sensing**, Zhanwei Wang et.al., Paper: [http://arxiv.org/abs/2407.13360v1](http://arxiv.org/abs/2407.13360v1)
-- 2024-07-18, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v1](http://arxiv.org/abs/2407.13155v1)
+- 2024-07-21, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v2](http://arxiv.org/abs/2407.13155v2)
 - 2024-07-18, **OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**, Jian Sun et.al., Paper: [http://arxiv.org/abs/2407.13137v1](http://arxiv.org/abs/2407.13137v1)
 - 2024-07-16, **Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2407.11644v1](http://arxiv.org/abs/2407.11644v1)
 - 2024-07-16, **Continuity Preserving Online CenterLine Graph Learning**, Yunhui Han et.al., Paper: [http://arxiv.org/abs/2407.11337v1](http://arxiv.org/abs/2407.11337v1), Code: **[https://github.com/xiaomi/cgnet](https://github.com/xiaomi/cgnet)**
