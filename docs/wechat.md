@@ -8,6 +8,10 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2024-07-23, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v1](http://arxiv.org/abs/2407.16680v1), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
+- 2024-07-23, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v1](http://arxiv.org/abs/2407.16636v1)
+- 2024-07-23, **When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.16277v1](http://arxiv.org/abs/2407.16277v1)
+- 2024-07-22, **Self-driving lab discovers principles for steering spontaneous emission**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2407.16083v1](http://arxiv.org/abs/2407.16083v1)
 - 2024-07-22, **Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**, Rabbia Asghar et.al., Paper: [http://arxiv.org/abs/2407.15675v1](http://arxiv.org/abs/2407.15675v1)
 - 2024-07-19, **Complementary Learning for Real-World Model Failure Detection**, Daniel Bogdoll et.al., Paper: [http://arxiv.org/abs/2407.14306v1](http://arxiv.org/abs/2407.14306v1), Code: **[https://github.com/daniel-bogdoll/model_contradictions](https://github.com/daniel-bogdoll/model_contradictions)**
 - 2024-07-18, **Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**, Hardik Parwana et.al., Paper: [http://arxiv.org/abs/2407.13693v1](http://arxiv.org/abs/2407.13693v1)
@@ -33,12 +37,14 @@
 
 ## Autonomous_Driving_LLM
 
+- 2024-07-23, **When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.16277v1](http://arxiv.org/abs/2407.16277v1)
 - 2024-07-22, **WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**, Quan Kong et.al., Paper: [http://arxiv.org/abs/2407.15350v1](http://arxiv.org/abs/2407.15350v1)
 - 2024-07-19, **KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**, Kemou Jiang et.al., Paper: [http://arxiv.org/abs/2407.14239v1](http://arxiv.org/abs/2407.14239v1)
 - 2024-07-17, **AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases**, Zhaorun Chen et.al., Paper: [http://arxiv.org/abs/2407.12784v1](http://arxiv.org/abs/2407.12784v1), Code: **[https://github.com/BillChan226/AgentPoison](https://github.com/BillChan226/AgentPoison)**
 
 ## Autonomous_Driving_RL
 
+- 2024-07-23, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v1](http://arxiv.org/abs/2407.16680v1), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
 - 2024-07-22, **Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**, Mansur Arief et.al., Paper: [http://arxiv.org/abs/2407.15839v1](http://arxiv.org/abs/2407.15839v1)
 - 2024-07-19, **Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2407.14262v1](http://arxiv.org/abs/2407.14262v1)
 - 2024-07-17, **Sparsity-based Safety Conservatism for Constrained Offline Reinforcement Learning**, Minjae Cho et.al., Paper: [http://arxiv.org/abs/2407.13006v1](http://arxiv.org/abs/2407.13006v1)
