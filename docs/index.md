@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 
 ## Autonomous_Driving_Planning
 
@@ -22,7 +22,6 @@ layout: default
 |**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13517v2-b31b1b.svg)](http://arxiv.org/abs/2407.13517v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SehwanChoi0307/Mask2Map)**|
 |**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13480v1-b31b1b.svg)](http://arxiv.org/abs/2407.13480v1)|null|
 |**2024-07-21**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13155v2-b31b1b.svg)](http://arxiv.org/abs/2407.13155v2)|null|
-|**2024-07-16**|**Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.11954v1-b31b1b.svg)](http://arxiv.org/abs/2407.11954v1)|null|
 
 ## Autonomous_Driving_Decision
 

@@ -1,4 +1,4 @@
-> Updated on 2024.07.23
+> Updated on 2024.07.24
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,6 @@
 - 2024-07-19, **Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**, Sehwan Choi et.al., Paper: [http://arxiv.org/abs/2407.13517v2](http://arxiv.org/abs/2407.13517v2), Code: **[https://github.com/SehwanChoi0307/Mask2Map](https://github.com/SehwanChoi0307/Mask2Map)**
 - 2024-07-18, **Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**, Qingfan Wang et.al., Paper: [http://arxiv.org/abs/2407.13480v1](http://arxiv.org/abs/2407.13480v1)
 - 2024-07-21, **Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**, Yulin He et.al., Paper: [http://arxiv.org/abs/2407.13155v2](http://arxiv.org/abs/2407.13155v2)
-- 2024-07-16, **Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation**, Olga Zatsarynna et.al., Paper: [http://arxiv.org/abs/2407.11954v1](http://arxiv.org/abs/2407.11954v1)
 
 ## Autonomous_Driving_Decision
 
