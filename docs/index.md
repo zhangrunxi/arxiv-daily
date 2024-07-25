@@ -9,12 +9,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14239v1-b31b1b.svg)](http://arxiv.org/abs/2407.14239v1)|null|
-|**2024-07-18**|**$μ$Drive: User-Controlled Autonomous Driving**|Kun Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13201v1-b31b1b.svg)](http://arxiv.org/abs/2407.13201v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles**|Aws Khalil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16740v1-b31b1b.svg)](http://arxiv.org/abs/2407.16740v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awskhalil/oscar)**|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16636v2-b31b1b.svg)](http://arxiv.org/abs/2407.16636v2)|null|
 |**2024-07-23**|**When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16277v1-b31b1b.svg)](http://arxiv.org/abs/2407.16277v1)|null|
@@ -24,16 +24,16 @@ layout: default
 |**2024-07-18**|**Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**|Hardik Parwana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13693v1-b31b1b.svg)](http://arxiv.org/abs/2407.13693v1)|null|
 |**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13517v2-b31b1b.svg)](http://arxiv.org/abs/2407.13517v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SehwanChoi0307/Mask2Map)**|
 |**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13480v1-b31b1b.svg)](http://arxiv.org/abs/2407.13480v1)|null|
-|**2024-07-21**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13155v2-b31b1b.svg)](http://arxiv.org/abs/2407.13155v2)|null|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17211v1-b31b1b.svg)](http://arxiv.org/abs/2407.17211v1)|null|
+|**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17030v1-b31b1b.svg)](http://arxiv.org/abs/2407.17030v1)|null|
 |**2024-07-20**|**Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**|Dylan J. Foster et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15007v1-b31b1b.svg)](http://arxiv.org/abs/2407.15007v1)|null|
 |**2024-07-19**|**Why to DAO: a narrative analysis of the drivers of tokenized Exit to Community**|Tara Merk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14327v1-b31b1b.svg)](http://arxiv.org/abs/2407.14327v1)|null|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14239v1-b31b1b.svg)](http://arxiv.org/abs/2407.14239v1)|null|
-|**2024-07-18**|**PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**|Jiyuan Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13111v1-b31b1b.svg)](http://arxiv.org/abs/2407.13111v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fuhaha824/pg-attack)**|
 
 ## Autonomous_Driving_E2E
 
@@ -41,14 +41,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**Assurance of AI Systems From a Dependability Perspective**|Robin Bloomfield et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13948v1-b31b1b.svg)](http://arxiv.org/abs/2407.13948v1)|null|
 |**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13517v2-b31b1b.svg)](http://arxiv.org/abs/2407.13517v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SehwanChoi0307/Mask2Map)**|
-|**2024-07-18**|**Ultra-Low-Latency Edge Inference for Distributed Sensing**|Zhanwei Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13360v1-b31b1b.svg)](http://arxiv.org/abs/2407.13360v1)|null|
-|**2024-07-21**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13155v2-b31b1b.svg)](http://arxiv.org/abs/2407.13155v2)|null|
-|**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13137v1-b31b1b.svg)](http://arxiv.org/abs/2407.13137v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17398v1-b31b1b.svg)](http://arxiv.org/abs/2407.17398v1)|null|
+|**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17211v1-b31b1b.svg)](http://arxiv.org/abs/2407.17211v1)|null|
 |**2024-07-23**|**When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16277v1-b31b1b.svg)](http://arxiv.org/abs/2407.16277v1)|null|
 |**2024-07-22**|**WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-grained Spatial-Temporal Understanding**|Quan Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15350v1-b31b1b.svg)](http://arxiv.org/abs/2407.15350v1)|null|
 |**2024-07-19**|**KoMA: Knowledge-driven Multi-agent Framework for Autonomous Driving with Large Language Models**|Kemou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14239v1-b31b1b.svg)](http://arxiv.org/abs/2407.14239v1)|null|
@@ -57,6 +56,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17030v1-b31b1b.svg)](http://arxiv.org/abs/2407.17030v1)|null|
+|**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16857v1-b31b1b.svg)](http://arxiv.org/abs/2407.16857v1)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15839v1-b31b1b.svg)](http://arxiv.org/abs/2407.15839v1)|null|
 |**2024-07-19**|**Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**|Nihal Acharya Adde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14262v1-b31b1b.svg)](http://arxiv.org/abs/2407.14262v1)|null|
