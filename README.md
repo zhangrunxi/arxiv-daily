@@ -19,7 +19,6 @@
 |**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14306v1-b31b1b.svg)](http://arxiv.org/abs/2407.14306v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-bogdoll/model_contradictions)**|
 |**2024-07-18**|**Model Predictive Path Integral Methods with Reach-Avoid Tasks and Control Barrier Functions**|Hardik Parwana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13693v1-b31b1b.svg)](http://arxiv.org/abs/2407.13693v1)|null|
 |**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13517v2-b31b1b.svg)](http://arxiv.org/abs/2407.13517v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SehwanChoi0307/Mask2Map)**|
-|**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.13480v1-b31b1b.svg)](http://arxiv.org/abs/2407.13480v1)|null|
 
 ## Autonomous_Driving_Decision
 
