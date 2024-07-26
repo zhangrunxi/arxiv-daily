@@ -40,5 +40,4 @@
 - 2024-07-23, **SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**, Tianyu Shi et.al., Paper: [http://arxiv.org/abs/2407.16857v1](http://arxiv.org/abs/2407.16857v1)
 - 2024-07-24, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v2](http://arxiv.org/abs/2407.16680v2), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
 - 2024-07-22, **Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**, Mansur Arief et.al., Paper: [http://arxiv.org/abs/2407.15839v1](http://arxiv.org/abs/2407.15839v1)
-- 2024-07-19, **Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2407.14262v1](http://arxiv.org/abs/2407.14262v1)
 
