@@ -8,7 +8,6 @@
 
 - 2024-07-25, **StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory**, Zhiheng Li et.al., Paper: [http://arxiv.org/abs/2407.17905v1](http://arxiv.org/abs/2407.17905v1), Code: **[https://github.com/neu-real/streammos](https://github.com/neu-real/streammos)**
 - 2024-07-25, **CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2407.17757v1](http://arxiv.org/abs/2407.17757v1)
-- 2024-07-20, **CORT: Class-Oriented Real-time Tracking for Embedded Systems**, Edoardo Cittadini et.al., Paper: [http://arxiv.org/abs/2407.17521v1](http://arxiv.org/abs/2407.17521v1)
 - 2024-07-23, **PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles**, Aws Khalil et.al., Paper: [http://arxiv.org/abs/2407.16740v1](http://arxiv.org/abs/2407.16740v1), Code: **[https://github.com/awskhalil/oscar](https://github.com/awskhalil/oscar)**
 - 2024-07-24, **A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**, Adrian Remonda et.al., Paper: [http://arxiv.org/abs/2407.16680v2](http://arxiv.org/abs/2407.16680v2), Code: **[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)**
 - 2024-07-24, **Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**, Seamie Hayes et.al., Paper: [http://arxiv.org/abs/2407.16636v2](http://arxiv.org/abs/2407.16636v2)
