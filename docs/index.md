@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.26
+## Updated on 2024.07.27
 
 ## Autonomous_Driving_Planning
 
@@ -23,7 +23,6 @@ layout: default
 |**2024-07-23**|**When, Where, and What? An Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16277v1-b31b1b.svg)](http://arxiv.org/abs/2407.16277v1)|null|
 |**2024-07-24**|**Self-driving lab discovers principles for steering spontaneous emission**|Saaketh Desai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16083v2-b31b1b.svg)](http://arxiv.org/abs/2407.16083v2)|null|
 |**2024-07-22**|**Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15675v1-b31b1b.svg)](http://arxiv.org/abs/2407.15675v1)|null|
-|**2024-07-19**|**Complementary Learning for Real-World Model Failure Detection**|Daniel Bogdoll et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14306v1-b31b1b.svg)](http://arxiv.org/abs/2407.14306v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniel-bogdoll/model_contradictions)**|
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +33,6 @@ layout: default
 |**2024-07-24**|**Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**|Zuoyin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17211v1-b31b1b.svg)](http://arxiv.org/abs/2407.17211v1)|null|
 |**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17030v1-b31b1b.svg)](http://arxiv.org/abs/2407.17030v1)|null|
 |**2024-07-20**|**Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**|Dylan J. Foster et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15007v1-b31b1b.svg)](http://arxiv.org/abs/2407.15007v1)|null|
-|**2024-07-19**|**Why to DAO: a narrative analysis of the drivers of tokenized Exit to Community**|Tara Merk et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.14327v1-b31b1b.svg)](http://arxiv.org/abs/2407.14327v1)|null|
 
 ## Autonomous_Driving_LLM
 
