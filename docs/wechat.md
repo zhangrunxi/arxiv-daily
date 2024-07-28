@@ -1,4 +1,4 @@
-> Updated on 2024.07.27
+> Updated on 2024.07.28
 
 ## Autonomous_Driving_Planning
 
@@ -21,7 +21,6 @@
 - 2024-07-25, **Control Informed Design of the IAC Autonomous Racecar for Operation at the Dynamic Envelope**, Qilun Zhu et.al., Paper: [http://arxiv.org/abs/2407.17737v1](http://arxiv.org/abs/2407.17737v1)
 - 2024-07-24, **Testing Large Language Models on Driving Theory Knowledge and Skills for Connected Autonomous Vehicles**, Zuoyin Tang et.al., Paper: [http://arxiv.org/abs/2407.17211v1](http://arxiv.org/abs/2407.17211v1)
 - 2024-07-24, **Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**, Yue Pi et.al., Paper: [http://arxiv.org/abs/2407.17030v1](http://arxiv.org/abs/2407.17030v1)
-- 2024-07-20, **Is Behavior Cloning All You Need? Understanding Horizon in Imitation Learning**, Dylan J. Foster et.al., Paper: [http://arxiv.org/abs/2407.15007v1](http://arxiv.org/abs/2407.15007v1)
 
 ## Autonomous_Driving_LLM
 
