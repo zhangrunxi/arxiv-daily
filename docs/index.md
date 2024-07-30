@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-26**|**Evaluating Human Trajectory Prediction with Metamorphic Testing**|Helge Spieker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18756v1-b31b1b.svg)](http://arxiv.org/abs/2407.18756v1)|null|
-|**2024-07-26**|**Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network**|Guipeng Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18551v1-b31b1b.svg)](http://arxiv.org/abs/2407.18551v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xingp/dgfnet)**|
+|**2024-07-29**|**Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network**|Guipeng Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18551v2-b31b1b.svg)](http://arxiv.org/abs/2407.18551v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xingp/dgfnet)**|
 |**2024-07-26**|**Gaussian Lane Keeping: A Robust Prediction Baseline**|David Isele et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18451v1-b31b1b.svg)](http://arxiv.org/abs/2407.18451v1)|null|
 |**2024-07-25**|**StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory**|Zhiheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17905v1-b31b1b.svg)](http://arxiv.org/abs/2407.17905v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neu-real/streammos)**|
 |**2024-07-25**|**CRASH: Crash Recognition and Anticipation System Harnessing with Context-Aware and Temporal Focus Attentions**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17757v1-b31b1b.svg)](http://arxiv.org/abs/2407.17757v1)|null|
@@ -25,7 +25,6 @@ layout: default
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16636v2-b31b1b.svg)](http://arxiv.org/abs/2407.16636v2)|null|
 |**2024-07-26**|**When, Where, and What? A Novel Benchmark for Accident Anticipation and Localization with Large Language Models**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16277v2-b31b1b.svg)](http://arxiv.org/abs/2407.16277v2)|null|
-|**2024-07-24**|**Self-driving lab discovers principles for steering spontaneous emission**|Saaketh Desai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16083v2-b31b1b.svg)](http://arxiv.org/abs/2407.16083v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -60,5 +59,4 @@ layout: default
 |**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17030v1-b31b1b.svg)](http://arxiv.org/abs/2407.17030v1)|null|
 |**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16857v1-b31b1b.svg)](http://arxiv.org/abs/2407.16857v1)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
-|**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.15839v1-b31b1b.svg)](http://arxiv.org/abs/2407.15839v1)|null|
 
