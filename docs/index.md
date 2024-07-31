@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 
 ## Autonomous_Driving_Planning
 
@@ -64,6 +64,4 @@ layout: default
 |**2024-07-26**|**SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces**|Seunghyeop Nam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18892v1-b31b1b.svg)](http://arxiv.org/abs/2407.18892v1)|null|
 |**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17980v1-b31b1b.svg)](http://arxiv.org/abs/2407.17980v1)|null|
 |**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.17030v1-b31b1b.svg)](http://arxiv.org/abs/2407.17030v1)|null|
-|**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16857v1-b31b1b.svg)](http://arxiv.org/abs/2407.16857v1)|null|
-|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.16680v2-b31b1b.svg)](http://arxiv.org/abs/2407.16680v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasgringuen/assetto_corsa_gym)**|
 
