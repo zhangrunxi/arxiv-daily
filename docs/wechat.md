@@ -1,4 +1,4 @@
-> Updated on 2024.07.31
+> Updated on 2024.08.01
 
 ## Autonomous_Driving_Planning
 
@@ -35,7 +35,6 @@
 
 - 2024-07-27, **Large Language Models for Human-like Autonomous Driving: A Survey**, Yun Li et.al., Paper: [http://arxiv.org/abs/2407.19280v1](http://arxiv.org/abs/2407.19280v1)
 - 2024-07-26, **Wolf: Captioning Everything with a World Summarization Framework**, Boyi Li et.al., Paper: [http://arxiv.org/abs/2407.18908v1](http://arxiv.org/abs/2407.18908v1)
-- 2024-07-24, **3D Question Answering for City Scene Understanding**, Penglei Sun et.al., Paper: [http://arxiv.org/abs/2407.17398v1](http://arxiv.org/abs/2407.17398v1)
 
 ## Autonomous_Driving_RL
 
