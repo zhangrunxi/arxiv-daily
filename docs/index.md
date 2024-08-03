@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.02
+## Updated on 2024.08.03
 
 ## Autonomous_Driving_Planning
 
@@ -10,8 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21569v2-b31b1b.svg)](http://arxiv.org/abs/2407.21569v2)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
-|**2024-07-26**|**SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces**|Seunghyeop Nam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18892v1-b31b1b.svg)](http://arxiv.org/abs/2407.18892v1)|null|
-|**2024-07-26**|**Evaluating Human Trajectory Prediction with Metamorphic Testing**|Helge Spieker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18756v1-b31b1b.svg)](http://arxiv.org/abs/2407.18756v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -26,7 +24,6 @@ layout: default
 |**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19955v1-b31b1b.svg)](http://arxiv.org/abs/2407.19955v1)|null|
 |**2024-07-29**|**"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence**|Brett Israelsen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19631v1-b31b1b.svg)](http://arxiv.org/abs/2407.19631v1)|null|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19428v1-b31b1b.svg)](http://arxiv.org/abs/2407.19428v1)|null|
-|**2024-07-26**|**Addressing Behavior Model Inaccuracies for Safe Motion Control in Uncertain Dynamic Environments**|Minjun Sung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19071v1-b31b1b.svg)](http://arxiv.org/abs/2407.19071v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -41,7 +38,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
 |**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
-|**2024-07-26**|**Foundation Models for the Digital Twin Creation of Cyber-Physical Systems**|Shaukat Ali et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18779v1-b31b1b.svg)](http://arxiv.org/abs/2407.18779v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -49,7 +45,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
 |**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
-|**2024-07-26**|**Wolf: Captioning Everything with a World Summarization Framework**|Boyi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18908v1-b31b1b.svg)](http://arxiv.org/abs/2407.18908v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -59,5 +54,4 @@ layout: default
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20000v1-b31b1b.svg)](http://arxiv.org/abs/2407.20000v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unibwtas/collisionpro)**|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19428v1-b31b1b.svg)](http://arxiv.org/abs/2407.19428v1)|null|
 |**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
-|**2024-07-26**|**SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces**|Seunghyeop Nam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.18892v1-b31b1b.svg)](http://arxiv.org/abs/2407.18892v1)|null|
 
