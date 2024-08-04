@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.03
+## Updated on 2024.08.04
 
 ## Autonomous_Driving_Planning
 
@@ -37,14 +37,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
-|**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
-|**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -53,5 +51,4 @@ layout: default
 |**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20739v1-b31b1b.svg)](http://arxiv.org/abs/2407.20739v1)|null|
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20000v1-b31b1b.svg)](http://arxiv.org/abs/2407.20000v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unibwtas/collisionpro)**|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19428v1-b31b1b.svg)](http://arxiv.org/abs/2407.19428v1)|null|
-|**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19280v1-b31b1b.svg)](http://arxiv.org/abs/2407.19280v1)|null|
 

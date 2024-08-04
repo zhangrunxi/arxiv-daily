@@ -1,4 +1,4 @@
-> Updated on 2024.08.03
+> Updated on 2024.08.04
 
 ## Autonomous_Driving_Planning
 
@@ -25,17 +25,14 @@
 ## Autonomous_Driving_E2E
 
 - 2024-07-31, **SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**, Peiru Zheng et.al., Paper: [http://arxiv.org/abs/2407.21293v1](http://arxiv.org/abs/2407.21293v1)
-- 2024-07-27, **Large Language Models for Human-like Autonomous Driving: A Survey**, Yun Li et.al., Paper: [http://arxiv.org/abs/2407.19280v1](http://arxiv.org/abs/2407.19280v1)
 
 ## Autonomous_Driving_LLM
 
 - 2024-07-31, **SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**, Peiru Zheng et.al., Paper: [http://arxiv.org/abs/2407.21293v1](http://arxiv.org/abs/2407.21293v1)
-- 2024-07-27, **Large Language Models for Human-like Autonomous Driving: A Survey**, Yun Li et.al., Paper: [http://arxiv.org/abs/2407.19280v1](http://arxiv.org/abs/2407.19280v1)
 
 ## Autonomous_Driving_RL
 
 - 2024-07-30, **Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**, Michael Kölle et.al., Paper: [http://arxiv.org/abs/2407.20739v1](http://arxiv.org/abs/2407.20739v1)
 - 2024-07-29, **Collision Probability Distribution Estimation via Temporal Difference Learning**, Thomas Steinecker et.al., Paper: [http://arxiv.org/abs/2407.20000v1](http://arxiv.org/abs/2407.20000v1), Code: **[https://github.com/unibwtas/collisionpro](https://github.com/unibwtas/collisionpro)**
 - 2024-07-28, **Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**, Weiliang Chen et.al., Paper: [http://arxiv.org/abs/2407.19428v1](http://arxiv.org/abs/2407.19428v1)
-- 2024-07-27, **Large Language Models for Human-like Autonomous Driving: A Survey**, Yun Li et.al., Paper: [http://arxiv.org/abs/2407.19280v1](http://arxiv.org/abs/2407.19280v1)
 
