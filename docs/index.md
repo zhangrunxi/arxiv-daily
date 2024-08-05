@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 
 ## Autonomous_Driving_Planning
 
@@ -23,13 +23,6 @@ layout: default
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20710v1-b31b1b.svg)](http://arxiv.org/abs/2407.20710v1)|null|
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20000v1-b31b1b.svg)](http://arxiv.org/abs/2407.20000v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unibwtas/collisionpro)**|
 |**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19955v1-b31b1b.svg)](http://arxiv.org/abs/2407.19955v1)|null|
-|**2024-07-29**|**"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence**|Brett Israelsen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19631v1-b31b1b.svg)](http://arxiv.org/abs/2407.19631v1)|null|
-
-## Autonomous_Driving_Decision
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-29**|**"A Good Bot Always Knows Its Limitations": Assessing Autonomous System Decision-making Competencies through Factorized Machine Self-confidence**|Brett Israelsen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19631v1-b31b1b.svg)](http://arxiv.org/abs/2407.19631v1)|null|
 
 ## Autonomous_Driving_E2E
 
