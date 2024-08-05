@@ -15,7 +15,6 @@
 - 2024-07-30, **Learning Ordinality in Semantic Segmentation**, Rafael Cristino et.al., Paper: [http://arxiv.org/abs/2407.20959v1](http://arxiv.org/abs/2407.20959v1)
 - 2024-07-30, **On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**, Xu Chen et.al., Paper: [http://arxiv.org/abs/2407.20710v1](http://arxiv.org/abs/2407.20710v1)
 - 2024-07-29, **Collision Probability Distribution Estimation via Temporal Difference Learning**, Thomas Steinecker et.al., Paper: [http://arxiv.org/abs/2407.20000v1](http://arxiv.org/abs/2407.20000v1), Code: **[https://github.com/unibwtas/collisionpro](https://github.com/unibwtas/collisionpro)**
-- 2024-07-29, **Hydrodynamics of pulsating active liquids**, Tirthankar Banerjee et.al., Paper: [http://arxiv.org/abs/2407.19955v1](http://arxiv.org/abs/2407.19955v1)
 
 ## Autonomous_Driving_E2E
 

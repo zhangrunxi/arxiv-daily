@@ -19,7 +19,6 @@
 |**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20959v1-b31b1b.svg)](http://arxiv.org/abs/2407.20959v1)|null|
 |**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20710v1-b31b1b.svg)](http://arxiv.org/abs/2407.20710v1)|null|
 |**2024-07-29**|**Collision Probability Distribution Estimation via Temporal Difference Learning**|Thomas Steinecker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.20000v1-b31b1b.svg)](http://arxiv.org/abs/2407.20000v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unibwtas/collisionpro)**|
-|**2024-07-29**|**Hydrodynamics of pulsating active liquids**|Tirthankar Banerjee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.19955v1-b31b1b.svg)](http://arxiv.org/abs/2407.19955v1)|null|
 
 ## Autonomous_Driving_E2E
 
