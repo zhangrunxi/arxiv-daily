@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01093v1-b31b1b.svg)](http://arxiv.org/abs/2408.01093v1)|null|
 |**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21569v2-b31b1b.svg)](http://arxiv.org/abs/2407.21569v2)|null|
 |**2024-07-31**|**SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**|Peiru Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21293v1-b31b1b.svg)](http://arxiv.org/abs/2407.21293v1)|null|
 

@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-08-02, **CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2408.01093v1](http://arxiv.org/abs/2408.01093v1)
 - 2024-08-01, **Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**, Mirko Conrad et.al., Paper: [http://arxiv.org/abs/2407.21569v2](http://arxiv.org/abs/2407.21569v2)
 - 2024-07-31, **SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving**, Peiru Zheng et.al., Paper: [http://arxiv.org/abs/2407.21293v1](http://arxiv.org/abs/2407.21293v1)
 
