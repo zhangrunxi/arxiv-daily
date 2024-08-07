@@ -12,7 +12,6 @@ layout: default
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
 |**2024-08-01**|**Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps**|Hengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01471v1-b31b1b.svg)](http://arxiv.org/abs/2408.01471v1)|null|
 |**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01093v1-b31b1b.svg)](http://arxiv.org/abs/2408.01093v1)|null|
-|**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21569v2-b31b1b.svg)](http://arxiv.org/abs/2407.21569v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +24,6 @@ layout: default
 |**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01548v1-b31b1b.svg)](http://arxiv.org/abs/2408.01548v1)|null|
 |**2024-08-01**|**Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**|Yixiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.00766v1-b31b1b.svg)](http://arxiv.org/abs/2408.00766v1)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21635v1-b31b1b.svg)](http://arxiv.org/abs/2407.21635v1)|null|
-|**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.21569v2-b31b1b.svg)](http://arxiv.org/abs/2407.21569v2)|null|
 
 ## Autonomous_Driving_Decision
 
