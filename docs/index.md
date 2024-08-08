@@ -17,6 +17,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03892v1-b31b1b.svg)](http://arxiv.org/abs/2408.03892v1)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02131v1-b31b1b.svg)](http://arxiv.org/abs/2408.02131v1)|null|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
@@ -44,12 +45,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Large Language Models for Base Station Siting: Intelligent Deployment based on Prompt or Agent**|Yanhu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03631v1-b31b1b.svg)](http://arxiv.org/abs/2408.03631v1)|null|
+|**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03516v1-b31b1b.svg)](http://arxiv.org/abs/2408.03516v1)|null|
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02882v1-b31b1b.svg)](http://arxiv.org/abs/2408.02882v1)|null|
 
 ## Autonomous_Driving_RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**|Nazish Tahir et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03435v1-b31b1b.svg)](http://arxiv.org/abs/2408.03435v1)|null|
 |**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v2-b31b1b.svg)](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03084v1-b31b1b.svg)](http://arxiv.org/abs/2408.03084v1)|null|
