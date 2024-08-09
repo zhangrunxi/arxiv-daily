@@ -1,10 +1,9 @@
-> Updated on 2024.08.08
+> Updated on 2024.08.09
 
 ## Autonomous_Driving_Planning
 
 - 2024-08-06, **Compromising Embodied Agents with Contextual Backdoor Attacks**, Aishan Liu et.al., Paper: [http://arxiv.org/abs/2408.02882v1](http://arxiv.org/abs/2408.02882v1)
 - 2024-08-04, **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**, Changze Li et.al., Paper: [http://arxiv.org/abs/2408.02061v1](http://arxiv.org/abs/2408.02061v1)
-- 2024-08-01, **Enhancing Online Road Network Perception and Reasoning with Standard Definition Maps**, Hengyuan Zhang et.al., Paper: [http://arxiv.org/abs/2408.01471v1](http://arxiv.org/abs/2408.01471v1)
 - 2024-08-02, **CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2408.01093v1](http://arxiv.org/abs/2408.01093v1)
 
 ## Autonomous_Driving_Prediction
@@ -15,7 +14,6 @@
 - 2024-08-04, **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**, Changze Li et.al., Paper: [http://arxiv.org/abs/2408.02061v1](http://arxiv.org/abs/2408.02061v1)
 - 2024-08-03, **STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2408.01774v1](http://arxiv.org/abs/2408.01774v1)
 - 2024-08-02, **Trainable Pointwise Decoder Module for Point Cloud Segmentation**, Bike Chen et.al., Paper: [http://arxiv.org/abs/2408.01548v1](http://arxiv.org/abs/2408.01548v1)
-- 2024-08-01, **Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation**, Yixiao Wang et.al., Paper: [http://arxiv.org/abs/2408.00766v1](http://arxiv.org/abs/2408.00766v1)
 
 ## Autonomous_Driving_Decision
 
