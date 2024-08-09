@@ -10,12 +10,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02882v1-b31b1b.svg)](http://arxiv.org/abs/2408.02882v1)|null|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
-|**2024-08-02**|**CommonUppRoad: A Framework of Formal Modelling, Verifying, Learning, and Visualisation of Autonomous Vehicles**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01093v1-b31b1b.svg)](http://arxiv.org/abs/2408.01093v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04447v1-b31b1b.svg)](http://arxiv.org/abs/2408.04447v1)|null|
 |**2024-08-07**|**MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03892v1-b31b1b.svg)](http://arxiv.org/abs/2408.03892v1)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02131v1-b31b1b.svg)](http://arxiv.org/abs/2408.02131v1)|null|
@@ -27,6 +27,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04447v1-b31b1b.svg)](http://arxiv.org/abs/2408.04447v1)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04198v1-b31b1b.svg)](http://arxiv.org/abs/2408.04198v1)|null|
 |**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v2-b31b1b.svg)](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03084v1-b31b1b.svg)](http://arxiv.org/abs/2408.03084v1)|null|
@@ -51,6 +53,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04447v1-b31b1b.svg)](http://arxiv.org/abs/2408.04447v1)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04198v1-b31b1b.svg)](http://arxiv.org/abs/2408.04198v1)|null|
 |**2024-08-06**|**Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**|Nazish Tahir et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03435v1-b31b1b.svg)](http://arxiv.org/abs/2408.03435v1)|null|
 |**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03200v2-b31b1b.svg)](http://arxiv.org/abs/2408.03200v2)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
