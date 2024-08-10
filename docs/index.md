@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.09
+## Updated on 2024.08.10
 
 ## Autonomous_Driving_Planning
 
@@ -21,7 +21,6 @@ layout: default
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02131v1-b31b1b.svg)](http://arxiv.org/abs/2408.02131v1)|null|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
 |**2024-08-03**|**STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**|Dongyang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01774v1-b31b1b.svg)](http://arxiv.org/abs/2408.01774v1)|null|
-|**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01548v1-b31b1b.svg)](http://arxiv.org/abs/2408.01548v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -39,7 +38,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
-|**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01548v1-b31b1b.svg)](http://arxiv.org/abs/2408.01548v1)|null|
 
 ## Autonomous_Driving_LLM
 

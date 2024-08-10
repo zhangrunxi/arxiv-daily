@@ -1,4 +1,4 @@
-> Updated on 2024.08.09
+> Updated on 2024.08.10
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,6 @@
 - 2024-08-04, **Model Hijacking Attack in Federated Learning**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2408.02131v1](http://arxiv.org/abs/2408.02131v1)
 - 2024-08-04, **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**, Changze Li et.al., Paper: [http://arxiv.org/abs/2408.02061v1](http://arxiv.org/abs/2408.02061v1)
 - 2024-08-03, **STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**, Dongyang Xu et.al., Paper: [http://arxiv.org/abs/2408.01774v1](http://arxiv.org/abs/2408.01774v1)
-- 2024-08-02, **Trainable Pointwise Decoder Module for Point Cloud Segmentation**, Bike Chen et.al., Paper: [http://arxiv.org/abs/2408.01548v1](http://arxiv.org/abs/2408.01548v1)
 
 ## Autonomous_Driving_Decision
 
@@ -27,7 +26,6 @@
 ## Autonomous_Driving_E2E
 
 - 2024-08-04, **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**, Changze Li et.al., Paper: [http://arxiv.org/abs/2408.02061v1](http://arxiv.org/abs/2408.02061v1)
-- 2024-08-02, **Trainable Pointwise Decoder Module for Point Cloud Segmentation**, Bike Chen et.al., Paper: [http://arxiv.org/abs/2408.01548v1](http://arxiv.org/abs/2408.01548v1)
 
 ## Autonomous_Driving_LLM
 
