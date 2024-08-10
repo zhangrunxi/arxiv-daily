@@ -20,7 +20,6 @@ layout: default
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03191v1-b31b1b.svg)](http://arxiv.org/abs/2408.03191v1)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02131v1-b31b1b.svg)](http://arxiv.org/abs/2408.02131v1)|null|
 |**2024-08-04**|**ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**|Changze Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02061v1-b31b1b.svg)](http://arxiv.org/abs/2408.02061v1)|null|
-|**2024-08-03**|**STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**|Dongyang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.01774v1-b31b1b.svg)](http://arxiv.org/abs/2408.01774v1)|null|
 
 ## Autonomous_Driving_Decision
 
