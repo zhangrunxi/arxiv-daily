@@ -2,14 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 
 ## Autonomous_Driving_Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.05075v1-b31b1b.svg)](http://arxiv.org/abs/2408.05075v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/deepinteraction)**|
-|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02882v1-b31b1b.svg)](http://arxiv.org/abs/2408.02882v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -45,7 +44,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-07**|**Large Language Models for Base Station Siting: Intelligent Deployment based on Prompt or Agent**|Yanhu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03631v1-b31b1b.svg)](http://arxiv.org/abs/2408.03631v1)|null|
 |**2024-08-07**|**Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**|Amirhosein Chahe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.03516v1-b31b1b.svg)](http://arxiv.org/abs/2408.03516v1)|null|
-|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.02882v1-b31b1b.svg)](http://arxiv.org/abs/2408.02882v1)|null|
 
 ## Autonomous_Driving_RL
 

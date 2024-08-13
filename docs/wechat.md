@@ -1,9 +1,8 @@
-> Updated on 2024.08.12
+> Updated on 2024.08.13
 
 ## Autonomous_Driving_Planning
 
 - 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
-- 2024-08-06, **Compromising Embodied Agents with Contextual Backdoor Attacks**, Aishan Liu et.al., Paper: [http://arxiv.org/abs/2408.02882v1](http://arxiv.org/abs/2408.02882v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -31,7 +30,6 @@
 
 - 2024-08-07, **Large Language Models for Base Station Siting: Intelligent Deployment based on Prompt or Agent**, Yanhu Wang et.al., Paper: [http://arxiv.org/abs/2408.03631v1](http://arxiv.org/abs/2408.03631v1)
 - 2024-08-07, **Leveraging LLMs for Enhanced Open-Vocabulary 3D Scene Understanding in Autonomous Driving**, Amirhosein Chahe et.al., Paper: [http://arxiv.org/abs/2408.03516v1](http://arxiv.org/abs/2408.03516v1)
-- 2024-08-06, **Compromising Embodied Agents with Contextual Backdoor Attacks**, Aishan Liu et.al., Paper: [http://arxiv.org/abs/2408.02882v1](http://arxiv.org/abs/2408.02882v1)
 
 ## Autonomous_Driving_RL
 
