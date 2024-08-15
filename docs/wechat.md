@@ -1,4 +1,4 @@
-> Updated on 2024.08.14
+> Updated on 2024.08.15
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@
 - 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
 - 2024-08-09, **VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**, Keke Long et.al., Paper: [http://arxiv.org/abs/2408.04821v1](http://arxiv.org/abs/2408.04821v1)
 - 2024-08-08, **Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2408.04447v1](http://arxiv.org/abs/2408.04447v1)
-- 2024-08-07, **MORTAR: A Model-based Runtime Action Repair Framework for AI-enabled Cyber-Physical Systems**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2408.03892v1](http://arxiv.org/abs/2408.03892v1)
 
 ## Autonomous_Driving_Decision
 
