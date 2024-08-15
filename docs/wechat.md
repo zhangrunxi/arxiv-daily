@@ -2,11 +2,13 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-08-14, **Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**, Jiaxing Chen et.al., Paper: [http://arxiv.org/abs/2408.07367v1](http://arxiv.org/abs/2408.07367v1)
 - 2024-08-10, **Mitigating Metropolitan Carbon Emissions with Dynamic Eco-driving at Scale**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2408.05609v1](http://arxiv.org/abs/2408.05609v1)
 - 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
 
 ## Autonomous_Driving_Prediction
 
+- 2024-08-14, **Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**, Jiaxing Chen et.al., Paper: [http://arxiv.org/abs/2408.07367v1](http://arxiv.org/abs/2408.07367v1)
 - 2024-08-09, **DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**, Zeyu Yang et.al., Paper: [http://arxiv.org/abs/2408.05075v1](http://arxiv.org/abs/2408.05075v1), Code: **[https://github.com/fudan-zvg/deepinteraction](https://github.com/fudan-zvg/deepinteraction)**
 - 2024-08-09, **VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**, Keke Long et.al., Paper: [http://arxiv.org/abs/2408.04821v1](http://arxiv.org/abs/2408.04821v1)
 - 2024-08-08, **Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2408.04447v1](http://arxiv.org/abs/2408.04447v1)
@@ -15,7 +17,6 @@
 
 - 2024-08-09, **VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**, Keke Long et.al., Paper: [http://arxiv.org/abs/2408.04821v1](http://arxiv.org/abs/2408.04821v1)
 - 2024-08-08, **Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2408.04447v1](http://arxiv.org/abs/2408.04447v1)
-- 2024-08-08, **F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**, Prajwal Koirala et.al., Paper: [http://arxiv.org/abs/2408.04198v1](http://arxiv.org/abs/2408.04198v1)
 
 ## Autonomous_Driving_E2E
 
@@ -27,5 +28,4 @@
 
 - 2024-08-10, **Mitigating Metropolitan Carbon Emissions with Dynamic Eco-driving at Scale**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2408.05609v1](http://arxiv.org/abs/2408.05609v1)
 - 2024-08-08, **Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**, Yuting Wang et.al., Paper: [http://arxiv.org/abs/2408.04447v1](http://arxiv.org/abs/2408.04447v1)
-- 2024-08-08, **F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**, Prajwal Koirala et.al., Paper: [http://arxiv.org/abs/2408.04198v1](http://arxiv.org/abs/2408.04198v1)
 
