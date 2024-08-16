@@ -12,15 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08242v1-b31b1b.svg)](http://arxiv.org/abs/2408.08242v1)|null|
 |**2024-08-14**|**Risk Occupancy: A New and Efficient Paradigm through Vehicle-Road-Cloud Collaboration**|Jiaxing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.07367v1-b31b1b.svg)](http://arxiv.org/abs/2408.07367v1)|null|
 |**2024-08-15**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.05075v2-b31b1b.svg)](http://arxiv.org/abs/2408.05075v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/deepinteraction)**|
-|**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04821v1-b31b1b.svg)](http://arxiv.org/abs/2408.04821v1)|null|
-
-## Autonomous_Driving_Decision
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-|**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.04821v1-b31b1b.svg)](http://arxiv.org/abs/2408.04821v1)|null|
 
 ## Autonomous_Driving_E2E
 
