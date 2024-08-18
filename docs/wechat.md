@@ -12,5 +12,4 @@
 ## Autonomous_Driving_E2E
 
 - 2024-08-12, **Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**, Kailai Sun et.al., Paper: [http://arxiv.org/abs/2408.05877v1](http://arxiv.org/abs/2408.05877v1)
-- 2024-08-11, **ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**, Weiwei Fu et.al., Paper: [http://arxiv.org/abs/2408.05694v1](http://arxiv.org/abs/2408.05694v1)
 
