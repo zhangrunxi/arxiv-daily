@@ -7,7 +7,6 @@
 |**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.11464v1-b31b1b.svg)](http://arxiv.org/abs/2408.11464v1)|null|
 |**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10845v1-b31b1b.svg)](http://arxiv.org/abs/2408.10845v1)|null|
 |**2024-08-20**|**Safety Metric Aware Trajectory Repairing for Automated Driving**|Kailin Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10622v1-b31b1b.svg)](http://arxiv.org/abs/2408.10622v1)|null|
-|**2024-08-16**|**Diffusion Model for Planning: A Systematic Literature Review**|Toshihide Ubukata et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10266v1-b31b1b.svg)](http://arxiv.org/abs/2408.10266v1)|null|
 |**2024-08-17**|**V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09251v1-b31b1b.svg)](http://arxiv.org/abs/2408.09251v1)|null|
 |**2024-08-17**|**LOID: Lane Occlusion Inpainting and Detection for Enhanced Autonomous Driving Systems**|Aayush Agrawal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09117v1-b31b1b.svg)](http://arxiv.org/abs/2408.09117v1)|null|
 |**2024-08-20**|**PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**|Rongxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08802v2-b31b1b.svg)](http://arxiv.org/abs/2408.08802v2)|null|
@@ -30,6 +29,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12187v1-b31b1b.svg)](http://arxiv.org/abs/2408.12187v1)|null|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12110v1-b31b1b.svg)](http://arxiv.org/abs/2408.12110v1)|null|
 |**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10908v1-b31b1b.svg)](http://arxiv.org/abs/2408.10908v1)|null|
 |**2024-08-20**|**Safety Metric Aware Trajectory Repairing for Automated Driving**|Kailin Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10622v1-b31b1b.svg)](http://arxiv.org/abs/2408.10622v1)|null|
 |**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09675v1-b31b1b.svg)](http://arxiv.org/abs/2408.09675v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
@@ -55,6 +56,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12190v1-b31b1b.svg)](http://arxiv.org/abs/2408.12190v1)|null|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12187v1-b31b1b.svg)](http://arxiv.org/abs/2408.12187v1)|null|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12110v1-b31b1b.svg)](http://arxiv.org/abs/2408.12110v1)|null|
 |**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09675v1-b31b1b.svg)](http://arxiv.org/abs/2408.09675v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
 |**2024-08-17**|**Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain**|Prakhar Gupta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09253v1-b31b1b.svg)](http://arxiv.org/abs/2408.09253v1)|null|
 
