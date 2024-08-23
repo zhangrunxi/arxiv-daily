@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 
 ## Autonomous_Driving_Planning
 
@@ -29,7 +29,6 @@ layout: default
 |**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09104v1-b31b1b.svg)](http://arxiv.org/abs/2408.09104v1)|null|
 |**2024-08-20**|**PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**|Rongxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08802v2-b31b1b.svg)](http://arxiv.org/abs/2408.08802v2)|null|
 |**2024-08-16**|**A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**|Daniel Omeiza et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08785v1-b31b1b.svg)](http://arxiv.org/abs/2408.08785v1)|null|
-|**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.08242v1-b31b1b.svg)](http://arxiv.org/abs/2408.08242v1)|null|
 
 ## Autonomous_Driving_Decision
 
