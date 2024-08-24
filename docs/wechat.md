@@ -1,4 +1,4 @@
-> Updated on 2024.08.23
+> Updated on 2024.08.24
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,6 @@
 - 2024-08-20, **Safety Metric Aware Trajectory Repairing for Automated Driving**, Kailin Tong et.al., Paper: [http://arxiv.org/abs/2408.10622v1](http://arxiv.org/abs/2408.10622v1)
 - 2024-08-17, **V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**, Junwei You et.al., Paper: [http://arxiv.org/abs/2408.09251v1](http://arxiv.org/abs/2408.09251v1)
 - 2024-08-17, **LOID: Lane Occlusion Inpainting and Detection for Enhanced Autonomous Driving Systems**, Aayush Agrawal et.al., Paper: [http://arxiv.org/abs/2408.09117v1](http://arxiv.org/abs/2408.09117v1)
-- 2024-08-20, **PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**, Rongxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.08802v2](http://arxiv.org/abs/2408.08802v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -18,8 +17,6 @@
 - 2024-08-19, **Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**, Mohamed Sabry et.al., Paper: [http://arxiv.org/abs/2408.09833v1](http://arxiv.org/abs/2408.09833v1)
 - 2024-08-17, **Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain**, Prakhar Gupta et.al., Paper: [http://arxiv.org/abs/2408.09253v1](http://arxiv.org/abs/2408.09253v1)
 - 2024-08-17, **HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**, Xiao Zhao et.al., Paper: [http://arxiv.org/abs/2408.09104v1](http://arxiv.org/abs/2408.09104v1)
-- 2024-08-20, **PriorMapNet: Enhancing Online Vectorized HD Map Construction with Priors**, Rongxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.08802v2](http://arxiv.org/abs/2408.08802v2)
-- 2024-08-16, **A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**, Daniel Omeiza et.al., Paper: [http://arxiv.org/abs/2408.08785v1](http://arxiv.org/abs/2408.08785v1)
 
 ## Autonomous_Driving_Decision
 
