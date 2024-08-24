@@ -8,7 +8,6 @@
 |**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10845v1-b31b1b.svg)](http://arxiv.org/abs/2408.10845v1)|null|
 |**2024-08-20**|**Safety Metric Aware Trajectory Repairing for Automated Driving**|Kailin Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10622v1-b31b1b.svg)](http://arxiv.org/abs/2408.10622v1)|null|
 |**2024-08-17**|**V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09251v1-b31b1b.svg)](http://arxiv.org/abs/2408.09251v1)|null|
-|**2024-08-17**|**LOID: Lane Occlusion Inpainting and Detection for Enhanced Autonomous Driving Systems**|Aayush Agrawal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09117v1-b31b1b.svg)](http://arxiv.org/abs/2408.09117v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -20,7 +19,6 @@
 |**2024-08-20**|**Constrained Behavior Cloning for Robotic Learning**|Wensheng Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10568v1-b31b1b.svg)](http://arxiv.org/abs/2408.10568v1)|null|
 |**2024-08-19**|**Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**|Mohamed Sabry et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09833v1-b31b1b.svg)](http://arxiv.org/abs/2408.09833v1)|null|
 |**2024-08-17**|**Reinforcement Learning Compensated Model Predictive Control for Off-road Driving on Unknown Deformable Terrain**|Prakhar Gupta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09253v1-b31b1b.svg)](http://arxiv.org/abs/2408.09253v1)|null|
-|**2024-08-17**|**HybridOcc: NeRF Enhanced Transformer-based Multi-Camera 3D Occupancy Prediction**|Xiao Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09104v1-b31b1b.svg)](http://arxiv.org/abs/2408.09104v1)|null|
 
 ## Autonomous_Driving_Decision
 
