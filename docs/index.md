@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 
 ## Autonomous_Driving_Planning
 
@@ -39,14 +39,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**|Wuxin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.11438v1-b31b1b.svg)](http://arxiv.org/abs/2408.11438v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wuxinwang1997/dabench)**|
 |**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10908v1-b31b1b.svg)](http://arxiv.org/abs/2408.10908v1)|null|
-|**2024-08-19**|**System-Level Design Space Exploration for High-Level Synthesis under End-to-End Latency Constraints**|Yuchao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.10431v1-b31b1b.svg)](http://arxiv.org/abs/2408.10431v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-22**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.12680v1-b31b1b.svg)](http://arxiv.org/abs/2408.12680v1)|null|
-|**2024-08-19**|**Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**|Jiao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.09972v1-b31b1b.svg)](http://arxiv.org/abs/2408.09972v1)|null|
 
 ## Autonomous_Driving_RL
 
