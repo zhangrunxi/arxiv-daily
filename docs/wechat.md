@@ -1,4 +1,4 @@
-> Updated on 2024.08.27
+> Updated on 2024.08.28
 
 ## Autonomous_Driving_Planning
 
@@ -30,7 +30,6 @@
 - 2024-08-22, **Can LLMs Understand Social Norms in Autonomous Driving Games?**, Boxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.12680v1](http://arxiv.org/abs/2408.12680v1)
 - 2024-08-22, **A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12187v1](http://arxiv.org/abs/2408.12187v1)
 - 2024-08-22, **Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**, Woo Kyung Kim et.al., Paper: [http://arxiv.org/abs/2408.12110v1](http://arxiv.org/abs/2408.12110v1)
-- 2024-08-20, **Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2408.10908v1](http://arxiv.org/abs/2408.10908v1)
 
 ## Autonomous_Driving_E2E
 
@@ -38,7 +37,6 @@
 - 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 - 2024-08-25, **Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**, Yuwen Pan et.al., Paper: [http://arxiv.org/abs/2408.13838v1](http://arxiv.org/abs/2408.13838v1)
 - 2024-08-21, **DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**, Wuxin Wang et.al., Paper: [http://arxiv.org/abs/2408.11438v1](http://arxiv.org/abs/2408.11438v1), Code: **[https://github.com/wuxinwang1997/dabench](https://github.com/wuxinwang1997/dabench)**
-- 2024-08-20, **Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**, Yiqun Duan et.al., Paper: [http://arxiv.org/abs/2408.10908v1](http://arxiv.org/abs/2408.10908v1)
 
 ## Autonomous_Driving_LLM
 
