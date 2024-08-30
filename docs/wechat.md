@@ -1,4 +1,4 @@
-> Updated on 2024.08.29
+> Updated on 2024.08.30
 
 ## Autonomous_Driving_Planning
 
@@ -28,7 +28,6 @@
 - 2024-08-24, **Perception-Guided Fuzzing for Simulated Scenario-Based Testing of Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13686v1](http://arxiv.org/abs/2408.13686v1)
 - 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
 - 2024-08-23, **A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12805v1](http://arxiv.org/abs/2408.12805v1)
-- 2024-08-22, **Can LLMs Understand Social Norms in Autonomous Driving Games?**, Boxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.12680v1](http://arxiv.org/abs/2408.12680v1)
 
 ## Autonomous_Driving_E2E
 
@@ -40,7 +39,6 @@
 
 - 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 - 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
-- 2024-08-22, **Can LLMs Understand Social Norms in Autonomous Driving Games?**, Boxuan Wang et.al., Paper: [http://arxiv.org/abs/2408.12680v1](http://arxiv.org/abs/2408.12680v1)
 
 ## Autonomous_Driving_RL
 
