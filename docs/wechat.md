@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
 - 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 - 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
 - 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
@@ -9,6 +10,8 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
+- 2024-08-29, **PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2408.16200v1](http://arxiv.org/abs/2408.16200v1)
 - 2024-08-28, **TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**, Guanren Qiao et.al., Paper: [http://arxiv.org/abs/2408.15538v1](http://arxiv.org/abs/2408.15538v1), Code: **[https://github.com/qiaoguanren/TrafficGamer](https://github.com/qiaoguanren/TrafficGamer)**
 - 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
 - 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
@@ -17,7 +20,6 @@
 - 2024-08-24, **AdaOcc: Adaptive-Resolution Occupancy Prediction**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2408.13454v1](http://arxiv.org/abs/2408.13454v1)
 - 2024-08-23, **N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**, Hyo Jong Chung et.al., Paper: [http://arxiv.org/abs/2408.13379v1](http://arxiv.org/abs/2408.13379v1)
 - 2024-08-23, **General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**, Weiru Fan et.al., Paper: [http://arxiv.org/abs/2408.13061v1](http://arxiv.org/abs/2408.13061v1)
-- 2024-08-23, **Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**, Yanze Zhang et.al., Paper: [http://arxiv.org/abs/2408.12822v1](http://arxiv.org/abs/2408.12822v1)
 
 ## Autonomous_Driving_Decision
 
@@ -27,10 +29,10 @@
 - 2024-08-28, **Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**, Tong Li et.al., Paper: [http://arxiv.org/abs/2408.13742v2](http://arxiv.org/abs/2408.13742v2)
 - 2024-08-24, **Perception-Guided Fuzzing for Simulated Scenario-Based Testing of Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13686v1](http://arxiv.org/abs/2408.13686v1)
 - 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
-- 2024-08-23, **A Safe Self-evolution Algorithm for Autonomous Driving Based on Data-Driven Risk Quantification Model**, Shuo Yang et.al., Paper: [http://arxiv.org/abs/2408.12805v1](http://arxiv.org/abs/2408.12805v1)
 
 ## Autonomous_Driving_E2E
 
+- 2024-08-28, **A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2408.16530v1](http://arxiv.org/abs/2408.16530v1), Code: **[https://github.com/fishsoup0/autonomous-driving-perception](https://github.com/fishsoup0/autonomous-driving-perception)**
 - 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
 - 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 - 2024-08-25, **Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**, Yuwen Pan et.al., Paper: [http://arxiv.org/abs/2408.13838v1](http://arxiv.org/abs/2408.13838v1)
