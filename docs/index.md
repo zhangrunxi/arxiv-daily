@@ -25,7 +25,6 @@ layout: default
 |**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15127v1-b31b1b.svg)](http://arxiv.org/abs/2408.15127v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phflot/tfake)**|
 |**2024-08-28**|**Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**|Tong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13742v2-b31b1b.svg)](http://arxiv.org/abs/2408.13742v2)|null|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13653v1-b31b1b.svg)](http://arxiv.org/abs/2408.13653v1)|null|
-|**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13454v1-b31b1b.svg)](http://arxiv.org/abs/2408.13454v1)|null|
 
 ## Autonomous_Driving_Decision
 

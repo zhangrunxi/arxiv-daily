@@ -17,7 +17,6 @@
 - 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
 - 2024-08-28, **Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**, Tong Li et.al., Paper: [http://arxiv.org/abs/2408.13742v2](http://arxiv.org/abs/2408.13742v2)
 - 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
-- 2024-08-24, **AdaOcc: Adaptive-Resolution Occupancy Prediction**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2408.13454v1](http://arxiv.org/abs/2408.13454v1)
 
 ## Autonomous_Driving_Decision
 
