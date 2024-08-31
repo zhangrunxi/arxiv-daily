@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.30
+## Updated on 2024.08.31
 
 ## Autonomous_Driving_Planning
 
@@ -26,8 +26,6 @@ layout: default
 |**2024-08-28**|**Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**|Tong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13742v2-b31b1b.svg)](http://arxiv.org/abs/2408.13742v2)|null|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13653v1-b31b1b.svg)](http://arxiv.org/abs/2408.13653v1)|null|
 |**2024-08-24**|**AdaOcc: Adaptive-Resolution Occupancy Prediction**|Chao Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13454v1-b31b1b.svg)](http://arxiv.org/abs/2408.13454v1)|null|
-|**2024-08-23**|**N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**|Hyo Jong Chung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13379v1-b31b1b.svg)](http://arxiv.org/abs/2408.13379v1)|null|
-|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13061v1-b31b1b.svg)](http://arxiv.org/abs/2408.13061v1)|null|
 
 ## Autonomous_Driving_Decision
 

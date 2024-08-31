@@ -1,4 +1,4 @@
-> Updated on 2024.08.30
+> Updated on 2024.08.31
 
 ## Autonomous_Driving_Planning
 
@@ -18,8 +18,6 @@
 - 2024-08-28, **Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**, Tong Li et.al., Paper: [http://arxiv.org/abs/2408.13742v2](http://arxiv.org/abs/2408.13742v2)
 - 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
 - 2024-08-24, **AdaOcc: Adaptive-Resolution Occupancy Prediction**, Chao Chen et.al., Paper: [http://arxiv.org/abs/2408.13454v1](http://arxiv.org/abs/2408.13454v1)
-- 2024-08-23, **N-DriverMotion: Driver motion learning and prediction using an event-based camera and directly trained spiking neural networks**, Hyo Jong Chung et.al., Paper: [http://arxiv.org/abs/2408.13379v1](http://arxiv.org/abs/2408.13379v1)
-- 2024-08-23, **General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**, Weiru Fan et.al., Paper: [http://arxiv.org/abs/2408.13061v1](http://arxiv.org/abs/2408.13061v1)
 
 ## Autonomous_Driving_Decision
 
