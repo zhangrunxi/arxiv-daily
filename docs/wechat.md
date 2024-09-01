@@ -1,4 +1,4 @@
-> Updated on 2024.08.31
+> Updated on 2024.09.01
 
 ## Autonomous_Driving_Planning
 
@@ -16,7 +16,6 @@
 - 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
 - 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
 - 2024-08-28, **Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**, Tong Li et.al., Paper: [http://arxiv.org/abs/2408.13742v2](http://arxiv.org/abs/2408.13742v2)
-- 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
 
 ## Autonomous_Driving_Decision
 
@@ -24,8 +23,6 @@
 - 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 - 2024-08-25, **TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**, Xiongwei Zhao et.al., Paper: [http://arxiv.org/abs/2408.13802v1](http://arxiv.org/abs/2408.13802v1), Code: **[https://github.com/grandzxw/triplemixer](https://github.com/grandzxw/triplemixer)**
 - 2024-08-28, **Multi-modal Integrated Prediction and Decision-making with Adaptive Interaction Modality Explorations**, Tong Li et.al., Paper: [http://arxiv.org/abs/2408.13742v2](http://arxiv.org/abs/2408.13742v2)
-- 2024-08-24, **Perception-Guided Fuzzing for Simulated Scenario-Based Testing of Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13686v1](http://arxiv.org/abs/2408.13686v1)
-- 2024-08-24, **Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**, Tri Minh Triet Pham et.al., Paper: [http://arxiv.org/abs/2408.13653v1](http://arxiv.org/abs/2408.13653v1)
 
 ## Autonomous_Driving_E2E
 
