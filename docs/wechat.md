@@ -1,11 +1,10 @@
-> Updated on 2024.09.01
+> Updated on 2024.09.02
 
 ## Autonomous_Driving_Planning
 
 - 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
 - 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 - 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
-- 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -18,19 +17,15 @@
 ## Autonomous_Driving_Decision
 
 - 2024-08-27, **Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**, Kaj Munhoz Arfvidsson et.al., Paper: [http://arxiv.org/abs/2408.14870v1](http://arxiv.org/abs/2408.14870v1)
-- 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-08-28, **A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2408.16530v1](http://arxiv.org/abs/2408.16530v1), Code: **[https://github.com/fishsoup0/autonomous-driving-perception](https://github.com/fishsoup0/autonomous-driving-perception)**
 - 2024-08-26, **Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**, Yu Yang et.al., Paper: [http://arxiv.org/abs/2408.14197v1](http://arxiv.org/abs/2408.14197v1)
-- 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
-- 2024-08-25, **Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**, Yuwen Pan et.al., Paper: [http://arxiv.org/abs/2408.13838v1](http://arxiv.org/abs/2408.13838v1)
 
 ## Autonomous_Driving_LLM
 
 - 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
-- 2024-08-25, **Making Large Language Models Better Planners with Reasoning-Decision Alignment**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2408.13890v1](http://arxiv.org/abs/2408.13890v1)
 
 ## Autonomous_Driving_RL
 

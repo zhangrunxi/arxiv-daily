@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@ layout: default
 |**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.16647v1-b31b1b.svg)](http://arxiv.org/abs/2408.16647v1)|null|
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14307v1-b31b1b.svg)](http://arxiv.org/abs/2408.14307v1)|null|
 |**2024-08-26**|**Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14197v1-b31b1b.svg)](http://arxiv.org/abs/2408.14197v1)|null|
-|**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13890v1-b31b1b.svg)](http://arxiv.org/abs/2408.13890v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -28,7 +27,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14870v1-b31b1b.svg)](http://arxiv.org/abs/2408.14870v1)|null|
-|**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13890v1-b31b1b.svg)](http://arxiv.org/abs/2408.13890v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -36,15 +34,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.16530v1-b31b1b.svg)](http://arxiv.org/abs/2408.16530v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fishsoup0/autonomous-driving-perception)**|
 |**2024-08-26**|**Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14197v1-b31b1b.svg)](http://arxiv.org/abs/2408.14197v1)|null|
-|**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13890v1-b31b1b.svg)](http://arxiv.org/abs/2408.13890v1)|null|
-|**2024-08-25**|**Exploring Reliable Matching with Phase Enhancement for Night-time Semantic Segmentation**|Yuwen Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13838v1-b31b1b.svg)](http://arxiv.org/abs/2408.13838v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**|Yayati Jadhav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14307v1-b31b1b.svg)](http://arxiv.org/abs/2408.14307v1)|null|
-|**2024-08-25**|**Making Large Language Models Better Planners with Reasoning-Decision Alignment**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.13890v1-b31b1b.svg)](http://arxiv.org/abs/2408.13890v1)|null|
 
 ## Autonomous_Driving_RL
 
