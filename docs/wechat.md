@@ -1,9 +1,8 @@
-> Updated on 2024.09.02
+> Updated on 2024.09.03
 
 ## Autonomous_Driving_Planning
 
 - 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
-- 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -23,10 +22,6 @@
 
 - 2024-08-30, **NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2408.17207v1](http://arxiv.org/abs/2408.17207v1)
 - 2024-08-28, **A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2408.16530v1](http://arxiv.org/abs/2408.16530v1), Code: **[https://github.com/fishsoup0/autonomous-driving-perception](https://github.com/fishsoup0/autonomous-driving-perception)**
-
-## Autonomous_Driving_LLM
-
-- 2024-08-26, **LLM-3D Print: Large Language Models To Monitor and Control 3D Printing**, Yayati Jadhav et.al., Paper: [http://arxiv.org/abs/2408.14307v1](http://arxiv.org/abs/2408.14307v1)
 
 ## Autonomous_Driving_RL
 
