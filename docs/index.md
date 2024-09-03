@@ -22,12 +22,6 @@ layout: default
 |**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15503v1-b31b1b.svg)](http://arxiv.org/abs/2408.15503v1)|null|
 |**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15127v1-b31b1b.svg)](http://arxiv.org/abs/2408.15127v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phflot/tfake)**|
 
-## Autonomous_Driving_Decision
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.14870v1-b31b1b.svg)](http://arxiv.org/abs/2408.14870v1)|null|
-
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |

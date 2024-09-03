@@ -14,10 +14,6 @@
 - 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
 - 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
 
-## Autonomous_Driving_Decision
-
-- 2024-08-27, **Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**, Kaj Munhoz Arfvidsson et.al., Paper: [http://arxiv.org/abs/2408.14870v1](http://arxiv.org/abs/2408.14870v1)
-
 ## Autonomous_Driving_E2E
 
 - 2024-08-30, **NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2408.17207v1](http://arxiv.org/abs/2408.17207v1)
