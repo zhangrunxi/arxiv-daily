@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 
 ## Autonomous_Driving_Planning
 
@@ -20,18 +20,10 @@ layout: default
 |**2024-08-29**|**PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**|Zichen Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.16200v1-b31b1b.svg)](http://arxiv.org/abs/2408.16200v1)|null|
 |**2024-08-28**|**TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**|Guanren Qiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15538v1-b31b1b.svg)](http://arxiv.org/abs/2408.15538v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qiaoguanren/TrafficGamer)**|
 |**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15503v1-b31b1b.svg)](http://arxiv.org/abs/2408.15503v1)|null|
-|**2024-08-27**|**T-FAKE: Synthesizing Thermal Images for Facial Landmarking**|Philipp Flotho et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15127v1-b31b1b.svg)](http://arxiv.org/abs/2408.15127v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phflot/tfake)**|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-30**|**NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**|Runwei Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.17207v1-b31b1b.svg)](http://arxiv.org/abs/2408.17207v1)|null|
-|**2024-08-28**|**A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**|Yu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.16530v1-b31b1b.svg)](http://arxiv.org/abs/2408.16530v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fishsoup0/autonomous-driving-perception)**|
-
-## Autonomous_Driving_RL
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**|Deepak-George Thomas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2408.15150v1-b31b1b.svg)](http://arxiv.org/abs/2408.15150v1)|null|
 

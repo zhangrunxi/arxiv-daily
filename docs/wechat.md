@@ -1,4 +1,4 @@
-> Updated on 2024.09.03
+> Updated on 2024.09.04
 
 ## Autonomous_Driving_Planning
 
@@ -12,14 +12,8 @@
 - 2024-08-29, **PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2408.16200v1](http://arxiv.org/abs/2408.16200v1)
 - 2024-08-28, **TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**, Guanren Qiao et.al., Paper: [http://arxiv.org/abs/2408.15538v1](http://arxiv.org/abs/2408.15538v1), Code: **[https://github.com/qiaoguanren/TrafficGamer](https://github.com/qiaoguanren/TrafficGamer)**
 - 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
-- 2024-08-27, **T-FAKE: Synthesizing Thermal Images for Facial Landmarking**, Philipp Flotho et.al., Paper: [http://arxiv.org/abs/2408.15127v1](http://arxiv.org/abs/2408.15127v1), Code: **[https://github.com/phflot/tfake](https://github.com/phflot/tfake)**
 
 ## Autonomous_Driving_E2E
 
 - 2024-08-30, **NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2408.17207v1](http://arxiv.org/abs/2408.17207v1)
-- 2024-08-28, **A Comprehensive Review of 3D Object Detection in Autonomous Driving: Technological Advances and Future Directions**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2408.16530v1](http://arxiv.org/abs/2408.16530v1), Code: **[https://github.com/fishsoup0/autonomous-driving-perception](https://github.com/fishsoup0/autonomous-driving-perception)**
-
-## Autonomous_Driving_RL
-
-- 2024-08-27, **muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**, Deepak-George Thomas et.al., Paper: [http://arxiv.org/abs/2408.15150v1](http://arxiv.org/abs/2408.15150v1)
 
