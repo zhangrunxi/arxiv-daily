@@ -10,8 +10,6 @@
 - 2024-08-30, **Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**, Leonardo Iurada et.al., Paper: [http://arxiv.org/abs/2408.16952v1](http://arxiv.org/abs/2408.16952v1), Code: **[https://github.com/iurada/neutron-segmentation](https://github.com/iurada/neutron-segmentation)**
 - 2024-08-29, **DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2408.16647v1](http://arxiv.org/abs/2408.16647v1)
 - 2024-08-29, **PolarBEVDet: Exploring Polar Representation for Multi-View 3D Object Detection in Bird's-Eye-View**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2408.16200v1](http://arxiv.org/abs/2408.16200v1)
-- 2024-08-28, **TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles**, Guanren Qiao et.al., Paper: [http://arxiv.org/abs/2408.15538v1](http://arxiv.org/abs/2408.15538v1), Code: **[https://github.com/qiaoguanren/TrafficGamer](https://github.com/qiaoguanren/TrafficGamer)**
-- 2024-08-28, **RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**, Haisheng Su et.al., Paper: [http://arxiv.org/abs/2408.15503v1](http://arxiv.org/abs/2408.15503v1)
 
 ## Autonomous_Driving_E2E
 
