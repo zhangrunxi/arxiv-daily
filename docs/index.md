@@ -27,7 +27,6 @@ layout: default
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00904v1-b31b1b.svg)](http://arxiv.org/abs/2409.00904v1)|null|
 |**2024-09-01**|**Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**|Michael Evans et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00866v1-b31b1b.svg)](http://arxiv.org/abs/2409.00866v1)|null|
 |**2024-09-01**|**Enhancing Vectorized Map Perception with Historical Rasterized Maps**|Xiaoyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00620v1-b31b1b.svg)](http://arxiv.org/abs/2409.00620v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxmap/hrmapnet)**|
-|**2024-08-31**|**Online Learning of Interaction Dynamics with Dual Model Predictive Control for Multi-Agent Systems Using Gaussian Processes**|T. M. J. T. Baltussen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00432v1-b31b1b.svg)](http://arxiv.org/abs/2409.00432v1)|null|
 
 ## Autonomous_Driving_Decision
 

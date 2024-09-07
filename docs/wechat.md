@@ -19,7 +19,6 @@
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
 - 2024-09-01, **Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**, Michael Evans et.al., Paper: [http://arxiv.org/abs/2409.00866v1](http://arxiv.org/abs/2409.00866v1)
 - 2024-09-01, **Enhancing Vectorized Map Perception with Historical Rasterized Maps**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2409.00620v1](http://arxiv.org/abs/2409.00620v1), Code: **[https://github.com/hxmap/hrmapnet](https://github.com/hxmap/hrmapnet)**
-- 2024-08-31, **Online Learning of Interaction Dynamics with Dual Model Predictive Control for Multi-Agent Systems Using Gaussian Processes**, T. M. J. T. Baltussen et.al., Paper: [http://arxiv.org/abs/2409.00432v1](http://arxiv.org/abs/2409.00432v1)
 
 ## Autonomous_Driving_Decision
 
