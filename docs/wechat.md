@@ -1,4 +1,4 @@
-> Updated on 2024.09.06
+> Updated on 2024.09.07
 
 ## Autonomous_Driving_Planning
 
@@ -37,7 +37,6 @@
 - 2024-09-02, **Integrating End-to-End and Modular Driving Approaches for Online Corner Case Detection in Autonomous Driving**, Gemb Kaljavesi et.al., Paper: [http://arxiv.org/abs/2409.01178v1](http://arxiv.org/abs/2409.01178v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
 - 2024-09-01, **Enhancing Vectorized Map Perception with Historical Rasterized Maps**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2409.00620v1](http://arxiv.org/abs/2409.00620v1), Code: **[https://github.com/hxmap/hrmapnet](https://github.com/hxmap/hrmapnet)**
-- 2024-08-30, **RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning**, Sha Lu et.al., Paper: [http://arxiv.org/abs/2409.00206v1](http://arxiv.org/abs/2409.00206v1)
 
 ## Autonomous_Driving_LLM
 
