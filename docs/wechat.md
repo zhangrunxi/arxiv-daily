@@ -1,4 +1,4 @@
-> Updated on 2024.09.07
+> Updated on 2024.09.08
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,6 @@
 - 2024-09-04, **Local map Construction Methods with SD map: A Novel Survey**, Jiaqi Li et.al., Paper: [http://arxiv.org/abs/2409.02415v1](http://arxiv.org/abs/2409.02415v1)
 - 2024-09-03, **Situation-aware Autonomous Driving Decision Making with Cooperative Perception on Demand**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2409.01504v1](http://arxiv.org/abs/2409.01504v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
-- 2024-09-04, **GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems**, Haowen Xu et.al., Paper: [http://arxiv.org/abs/2409.00494v2](http://arxiv.org/abs/2409.00494v2)
 
 ## Autonomous_Driving_E2E
 
@@ -40,7 +39,6 @@
 ## Autonomous_Driving_LLM
 
 - 2024-09-05, **OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**, Julong Wei et.al., Paper: [http://arxiv.org/abs/2409.03272v1](http://arxiv.org/abs/2409.03272v1)
-- 2024-09-04, **GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems**, Haowen Xu et.al., Paper: [http://arxiv.org/abs/2409.00494v2](http://arxiv.org/abs/2409.00494v2)
 
 ## Autonomous_Driving_RL
 
