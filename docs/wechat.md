@@ -6,7 +6,6 @@
 - 2024-09-04, **eRSS-RAMP: A Rule-Adherence Motion Planner Based on Extended Responsibility-Sensitive Safety for Autonomous Driving**, Pengfei Lin et.al., Paper: [http://arxiv.org/abs/2409.02503v1](http://arxiv.org/abs/2409.02503v1)
 - 2024-09-02, **CyberCortex.AI: An AI-based Operating System for Autonomous Robotics and Complex Automation**, Sorin Grigorescu et.al., Paper: [http://arxiv.org/abs/2409.01241v1](http://arxiv.org/abs/2409.01241v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
-- 2024-09-01, **Online Temporal Fusion for Vectorized Map Construction in Mapless Autonomous Driving**, Jiagang Chen et.al., Paper: [http://arxiv.org/abs/2409.00593v1](http://arxiv.org/abs/2409.00593v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -18,7 +17,6 @@
 - 2024-09-02, **Development of Occupancy Prediction Algorithm for Underground Parking Lots**, Shijie Wang et.al., Paper: [http://arxiv.org/abs/2409.00923v1](http://arxiv.org/abs/2409.00923v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
 - 2024-09-01, **Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**, Michael Evans et.al., Paper: [http://arxiv.org/abs/2409.00866v1](http://arxiv.org/abs/2409.00866v1)
-- 2024-09-01, **Enhancing Vectorized Map Perception with Historical Rasterized Maps**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2409.00620v1](http://arxiv.org/abs/2409.00620v1), Code: **[https://github.com/hxmap/hrmapnet](https://github.com/hxmap/hrmapnet)**
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +32,6 @@
 - 2024-09-04, **TASAR: Transferable Attack on Skeletal Action Recognition**, Yunfeng Diao et.al., Paper: [http://arxiv.org/abs/2409.02483v1](http://arxiv.org/abs/2409.02483v1)
 - 2024-09-02, **Integrating End-to-End and Modular Driving Approaches for Online Corner Case Detection in Autonomous Driving**, Gemb Kaljavesi et.al., Paper: [http://arxiv.org/abs/2409.01178v1](http://arxiv.org/abs/2409.01178v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
-- 2024-09-01, **Enhancing Vectorized Map Perception with Historical Rasterized Maps**, Xiaoyu Zhang et.al., Paper: [http://arxiv.org/abs/2409.00620v1](http://arxiv.org/abs/2409.00620v1), Code: **[https://github.com/hxmap/hrmapnet](https://github.com/hxmap/hrmapnet)**
 
 ## Autonomous_Driving_LLM
 

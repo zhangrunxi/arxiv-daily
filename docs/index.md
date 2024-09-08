@@ -12,7 +12,6 @@ layout: default
 |**2024-09-04**|**eRSS-RAMP: A Rule-Adherence Motion Planner Based on Extended Responsibility-Sensitive Safety for Autonomous Driving**|Pengfei Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02503v1-b31b1b.svg)](http://arxiv.org/abs/2409.02503v1)|null|
 |**2024-09-02**|**CyberCortex.AI: An AI-based Operating System for Autonomous Robotics and Complex Automation**|Sorin Grigorescu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.01241v1-b31b1b.svg)](http://arxiv.org/abs/2409.01241v1)|null|
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00904v1-b31b1b.svg)](http://arxiv.org/abs/2409.00904v1)|null|
-|**2024-09-01**|**Online Temporal Fusion for Vectorized Map Construction in Mapless Autonomous Driving**|Jiagang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00593v1-b31b1b.svg)](http://arxiv.org/abs/2409.00593v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -26,7 +25,6 @@ layout: default
 |**2024-09-02**|**Development of Occupancy Prediction Algorithm for Underground Parking Lots**|Shijie Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00923v1-b31b1b.svg)](http://arxiv.org/abs/2409.00923v1)|null|
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00904v1-b31b1b.svg)](http://arxiv.org/abs/2409.00904v1)|null|
 |**2024-09-01**|**Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**|Michael Evans et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00866v1-b31b1b.svg)](http://arxiv.org/abs/2409.00866v1)|null|
-|**2024-09-01**|**Enhancing Vectorized Map Perception with Historical Rasterized Maps**|Xiaoyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00620v1-b31b1b.svg)](http://arxiv.org/abs/2409.00620v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxmap/hrmapnet)**|
 
 ## Autonomous_Driving_Decision
 
@@ -46,7 +44,6 @@ layout: default
 |**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02483v1-b31b1b.svg)](http://arxiv.org/abs/2409.02483v1)|null|
 |**2024-09-02**|**Integrating End-to-End and Modular Driving Approaches for Online Corner Case Detection in Autonomous Driving**|Gemb Kaljavesi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.01178v1-b31b1b.svg)](http://arxiv.org/abs/2409.01178v1)|null|
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00904v1-b31b1b.svg)](http://arxiv.org/abs/2409.00904v1)|null|
-|**2024-09-01**|**Enhancing Vectorized Map Perception with Historical Rasterized Maps**|Xiaoyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00620v1-b31b1b.svg)](http://arxiv.org/abs/2409.00620v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxmap/hrmapnet)**|
 
 ## Autonomous_Driving_LLM
 
