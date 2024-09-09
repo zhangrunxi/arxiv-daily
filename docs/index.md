@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2024-09-02**|**Real-time Accident Anticipation for Autonomous Driving Through Monocular Depth-Enhanced 3D Modeling**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.01256v1-b31b1b.svg)](http://arxiv.org/abs/2409.01256v1)|null|
 |**2024-09-02**|**Development of Occupancy Prediction Algorithm for Underground Parking Lots**|Shijie Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00923v1-b31b1b.svg)](http://arxiv.org/abs/2409.00923v1)|null|
 |**2024-09-02**|**Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**|Zhanwen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00904v1-b31b1b.svg)](http://arxiv.org/abs/2409.00904v1)|null|
-|**2024-09-01**|**Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**|Michael Evans et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00866v1-b31b1b.svg)](http://arxiv.org/abs/2409.00866v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -56,5 +55,4 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-05**|**Autonomous Drifting Based on Maximal Safety Probability Learning**|Hikaru Hoshino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03160v1-b31b1b.svg)](http://arxiv.org/abs/2409.03160v1)|null|
-|**2024-09-05**|**Trustworthy Human-AI Collaboration: Reinforcement Learning with Human Feedback and Physics Knowledge for Safe Autonomous Driving**|Zilin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.00858v2-b31b1b.svg)](http://arxiv.org/abs/2409.00858v2)|null|
 

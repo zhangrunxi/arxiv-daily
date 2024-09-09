@@ -1,4 +1,4 @@
-> Updated on 2024.09.08
+> Updated on 2024.09.09
 
 ## Autonomous_Driving_Planning
 
@@ -16,7 +16,6 @@
 - 2024-09-02, **Real-time Accident Anticipation for Autonomous Driving Through Monocular Depth-Enhanced 3D Modeling**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2409.01256v1](http://arxiv.org/abs/2409.01256v1)
 - 2024-09-02, **Development of Occupancy Prediction Algorithm for Underground Parking Lots**, Shijie Wang et.al., Paper: [http://arxiv.org/abs/2409.00923v1](http://arxiv.org/abs/2409.00923v1)
 - 2024-09-02, **Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction**, Zhanwen Liu et.al., Paper: [http://arxiv.org/abs/2409.00904v1](http://arxiv.org/abs/2409.00904v1)
-- 2024-09-01, **Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles**, Michael Evans et.al., Paper: [http://arxiv.org/abs/2409.00866v1](http://arxiv.org/abs/2409.00866v1)
 
 ## Autonomous_Driving_Decision
 
@@ -40,5 +39,4 @@
 ## Autonomous_Driving_RL
 
 - 2024-09-05, **Autonomous Drifting Based on Maximal Safety Probability Learning**, Hikaru Hoshino et.al., Paper: [http://arxiv.org/abs/2409.03160v1](http://arxiv.org/abs/2409.03160v1)
-- 2024-09-05, **Trustworthy Human-AI Collaboration: Reinforcement Learning with Human Feedback and Physics Knowledge for Safe Autonomous Driving**, Zilin Huang et.al., Paper: [http://arxiv.org/abs/2409.00858v2](http://arxiv.org/abs/2409.00858v2)
 
