@@ -21,7 +21,6 @@
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.04390v1-b31b1b.svg)](http://arxiv.org/abs/2409.04390v1)|null|
 |**2024-09-05**|**Multi-agent Path Finding for Mixed Autonomy Traffic Coordination**|Han Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03881v1-b31b1b.svg)](http://arxiv.org/abs/2409.03881v1)|null|
 |**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|Julong Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.03272v1-b31b1b.svg)](http://arxiv.org/abs/2409.03272v1)|null|
-|**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.02676v1-b31b1b.svg)](http://arxiv.org/abs/2409.02676v1)|null|
 
 ## Autonomous_Driving_Decision
 
