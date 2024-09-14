@@ -33,7 +33,6 @@
 - 2024-09-11, **MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**, Yining Yao et.al., Paper: [http://arxiv.org/abs/2409.06189v2](http://arxiv.org/abs/2409.06189v2)
 - 2024-09-12, **DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**, Wei Wu et.al., Paper: [http://arxiv.org/abs/2409.05463v4](http://arxiv.org/abs/2409.05463v4)
 - 2024-09-09, **Developing Trajectory Planning with Behavioral Cloning and Proximal Policy Optimization for Path-Tracking and Static Obstacle Nudging**, Mingyan Zhou et.al., Paper: [http://arxiv.org/abs/2409.05289v1](http://arxiv.org/abs/2409.05289v1)
-- 2024-09-07, **A Comprehensive Survey on Evidential Deep Learning and Its Applications**, Junyu Gao et.al., Paper: [http://arxiv.org/abs/2409.04720v1](http://arxiv.org/abs/2409.04720v1), Code: **[https://github.com/mengyuanchen21/awesome-evidential-deep-learning](https://github.com/mengyuanchen21/awesome-evidential-deep-learning)**
 
 ## Autonomous_Driving_LLM
 
