@@ -66,7 +66,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10484v1-b31b1b.svg)](http://arxiv.org/abs/2409.10484v1)|null|
 |**2024-09-16**|**LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**|Shuncheng Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10066v1-b31b1b.svg)](http://arxiv.org/abs/2409.10066v1)|null|
-|**2024-09-11**|**Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU**|Zhenyu Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.09086v1-b31b1b.svg)](http://arxiv.org/abs/2409.09086v1)|null|
 |**2024-09-14**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.07267v2-b31b1b.svg)](http://arxiv.org/abs/2409.07267v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emzucas/minidrive)**|
 
 ## Autonomous_Driving_RL

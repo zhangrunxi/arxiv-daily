@@ -52,7 +52,6 @@
 
 - 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
 - 2024-09-16, **LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**, Shuncheng Tang et.al., Paper: [http://arxiv.org/abs/2409.10066v1](http://arxiv.org/abs/2409.10066v1)
-- 2024-09-11, **Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU**, Zhenyu Ning et.al., Paper: [http://arxiv.org/abs/2409.09086v1](http://arxiv.org/abs/2409.09086v1)
 - 2024-09-14, **MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2409.07267v2](http://arxiv.org/abs/2409.07267v2), Code: **[https://github.com/emzucas/minidrive](https://github.com/emzucas/minidrive)**
 
 ## Autonomous_Driving_RL
