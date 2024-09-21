@@ -52,7 +52,6 @@ layout: default
 |**2024-09-16**|**DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**|Songning Lai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10330v1-b31b1b.svg)](http://arxiv.org/abs/2409.10330v1)|null|
 |**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10178v1-b31b1b.svg)](http://arxiv.org/abs/2409.10178v1)|null|
 |**2024-09-15**|**DiFSD: Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Autonomous Driving**|Haisheng Su et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.09777v1-b31b1b.svg)](http://arxiv.org/abs/2409.09777v1)|null|
-|**2024-09-14**|**OPUS: Occupancy Prediction Using a Sparse Set**|Jiabao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.09350v1-b31b1b.svg)](http://arxiv.org/abs/2409.09350v1)|null|
 
 ## Autonomous_Driving_LLM
 
