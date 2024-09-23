@@ -5,7 +5,6 @@
 - 2024-09-18, **LMMCoDrive: Cooperative Driving with Large Multimodal Model**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2409.11981v1](http://arxiv.org/abs/2409.11981v1)
 - 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
 - 2024-09-17, **Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**, Matteo Penlington et.al., Paper: [http://arxiv.org/abs/2409.11199v1](http://arxiv.org/abs/2409.11199v1)
-- 2024-09-16, **Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**, Mais Jamal et.al., Paper: [http://arxiv.org/abs/2409.10165v1](http://arxiv.org/abs/2409.10165v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -15,8 +14,6 @@
 - 2024-09-17, **RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**, Manthan Patel et.al., Paper: [http://arxiv.org/abs/2409.10940v1](http://arxiv.org/abs/2409.10940v1)
 - 2024-09-17, **TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2409.10901v1](http://arxiv.org/abs/2409.10901v1)
 - 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
-- 2024-09-16, **Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**, Mais Jamal et.al., Paper: [http://arxiv.org/abs/2409.10165v1](http://arxiv.org/abs/2409.10165v1)
-- 2024-09-17, **GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**, Anqi Shi et.al., Paper: [http://arxiv.org/abs/2409.10063v2](http://arxiv.org/abs/2409.10063v2)
 
 ## Autonomous_Driving_Decision
 
@@ -24,7 +21,6 @@
 - 2024-09-17, **Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**, Matteo Penlington et.al., Paper: [http://arxiv.org/abs/2409.11199v1](http://arxiv.org/abs/2409.11199v1)
 - 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
 - 2024-09-16, **DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**, Songning Lai et.al., Paper: [http://arxiv.org/abs/2409.10330v1](http://arxiv.org/abs/2409.10330v1)
-- 2024-09-16, **Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**, Mais Jamal et.al., Paper: [http://arxiv.org/abs/2409.10165v1](http://arxiv.org/abs/2409.10165v1)
 
 ## Autonomous_Driving_E2E
 
@@ -32,12 +28,10 @@
 - 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
 - 2024-09-17, **RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**, Manthan Patel et.al., Paper: [http://arxiv.org/abs/2409.10940v1](http://arxiv.org/abs/2409.10940v1)
 - 2024-09-16, **DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**, Songning Lai et.al., Paper: [http://arxiv.org/abs/2409.10330v1](http://arxiv.org/abs/2409.10330v1)
-- 2024-09-16, **ExelMap: Explainable Element-based HD-Map Change Detection and Update**, Lena Wild et.al., Paper: [http://arxiv.org/abs/2409.10178v1](http://arxiv.org/abs/2409.10178v1)
 
 ## Autonomous_Driving_LLM
 
 - 2024-09-16, **XLM for Autonomous Driving Systems: A Comprehensive Review**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2409.10484v1](http://arxiv.org/abs/2409.10484v1)
-- 2024-09-16, **LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**, Shuncheng Tang et.al., Paper: [http://arxiv.org/abs/2409.10066v1](http://arxiv.org/abs/2409.10066v1), Code: **[https://github.com/maydgt/legend](https://github.com/maydgt/legend)**
 
 ## Autonomous_Driving_RL
 

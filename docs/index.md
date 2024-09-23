@@ -11,7 +11,6 @@ layout: default
 |**2024-09-18**|**LMMCoDrive: Cooperative Driving with Large Multimodal Model**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11981v1-b31b1b.svg)](http://arxiv.org/abs/2409.11981v1)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11356v1-b31b1b.svg)](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11199v1-b31b1b.svg)](http://arxiv.org/abs/2409.11199v1)|null|
-|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10165v1-b31b1b.svg)](http://arxiv.org/abs/2409.10165v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -23,8 +22,6 @@ layout: default
 |**2024-09-17**|**RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**|Manthan Patel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10940v1-b31b1b.svg)](http://arxiv.org/abs/2409.10940v1)|null|
 |**2024-09-17**|**TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**|Philip Jacobson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10901v1-b31b1b.svg)](http://arxiv.org/abs/2409.10901v1)|null|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10484v1-b31b1b.svg)](http://arxiv.org/abs/2409.10484v1)|null|
-|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10165v1-b31b1b.svg)](http://arxiv.org/abs/2409.10165v1)|null|
-|**2024-09-17**|**GlobalMapNet: An Online Framework for Vectorized Global HD Map Construction**|Anqi Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10063v2-b31b1b.svg)](http://arxiv.org/abs/2409.10063v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +31,6 @@ layout: default
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11199v1-b31b1b.svg)](http://arxiv.org/abs/2409.11199v1)|null|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10484v1-b31b1b.svg)](http://arxiv.org/abs/2409.10484v1)|null|
 |**2024-09-16**|**DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**|Songning Lai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10330v1-b31b1b.svg)](http://arxiv.org/abs/2409.10330v1)|null|
-|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10165v1-b31b1b.svg)](http://arxiv.org/abs/2409.10165v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -44,14 +40,12 @@ layout: default
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11356v1-b31b1b.svg)](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**|Manthan Patel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10940v1-b31b1b.svg)](http://arxiv.org/abs/2409.10940v1)|null|
 |**2024-09-16**|**DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**|Songning Lai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10330v1-b31b1b.svg)](http://arxiv.org/abs/2409.10330v1)|null|
-|**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10178v1-b31b1b.svg)](http://arxiv.org/abs/2409.10178v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10484v1-b31b1b.svg)](http://arxiv.org/abs/2409.10484v1)|null|
-|**2024-09-16**|**LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**|Shuncheng Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.10066v1-b31b1b.svg)](http://arxiv.org/abs/2409.10066v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maydgt/legend)**|
 
 ## Autonomous_Driving_RL
 
