@@ -18,7 +18,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**|Keshu Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11676v1-b31b1b.svg)](http://arxiv.org/abs/2409.11676v1)|null|
 |**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11172v2-b31b1b.svg)](http://arxiv.org/abs/2409.11172v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/mf_awta)**|
-|**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.11160v1-b31b1b.svg)](http://arxiv.org/abs/2409.11160v1)|null|
 
 ## Autonomous_Driving_Decision
 
