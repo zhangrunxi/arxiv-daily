@@ -11,8 +11,6 @@
 - 2024-09-18, **Hypergraph-based Motion Generation with Multi-modal Interaction Relational Reasoning**, Keshu Wu et.al., Paper: [http://arxiv.org/abs/2409.11676v1](http://arxiv.org/abs/2409.11676v1)
 - 2024-09-18, **Annealed Winner-Takes-All for Motion Forecasting**, Yihong Xu et.al., Paper: [http://arxiv.org/abs/2409.11172v2](http://arxiv.org/abs/2409.11172v2), Code: **[https://github.com/valeoai/mf_awta](https://github.com/valeoai/mf_awta)**
 - 2024-09-17, **UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**, Zichen Yu et.al., Paper: [http://arxiv.org/abs/2409.11160v1](http://arxiv.org/abs/2409.11160v1)
-- 2024-09-17, **RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**, Manthan Patel et.al., Paper: [http://arxiv.org/abs/2409.10940v1](http://arxiv.org/abs/2409.10940v1)
-- 2024-09-17, **TrajSSL: Trajectory-Enhanced Semi-Supervised 3D Object Detection**, Philip Jacobson et.al., Paper: [http://arxiv.org/abs/2409.10901v1](http://arxiv.org/abs/2409.10901v1)
 
 ## Autonomous_Driving_Decision
 
@@ -23,7 +21,6 @@
 
 - 2024-09-18, **Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**, Ludan Zhang et.al., Paper: [http://arxiv.org/abs/2409.11969v1](http://arxiv.org/abs/2409.11969v1)
 - 2024-09-17, **RenderWorld: World Model with Self-Supervised 3D Label**, Ziyang Yan et.al., Paper: [http://arxiv.org/abs/2409.11356v1](http://arxiv.org/abs/2409.11356v1)
-- 2024-09-17, **RoadRunner M&M -- Learning Multi-range Multi-resolution Traversability Maps for Autonomous Off-road Navigation**, Manthan Patel et.al., Paper: [http://arxiv.org/abs/2409.10940v1](http://arxiv.org/abs/2409.10940v1)
 
 ## Autonomous_Driving_RL
 
