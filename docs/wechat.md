@@ -11,7 +11,6 @@
 - 2024-09-21, **Adversarial and Reactive Traffic Agents for Realistic Driving Simulation**, Joshua Ransiek et.al., Paper: [http://arxiv.org/abs/2409.14196v1](http://arxiv.org/abs/2409.14196v1)
 - 2024-09-21, **LFP: Efficient and Accurate End-to-End Lane-Level Planning via Camera-LiDAR Fusion**, Guoliang You et.al., Paper: [http://arxiv.org/abs/2409.14170v1](http://arxiv.org/abs/2409.14170v1)
 - 2024-09-24, **Will Large Language Models be a Panacea to Autonomous Driving?**, Yuxuan Zhu et.al., Paper: [http://arxiv.org/abs/2409.14165v2](http://arxiv.org/abs/2409.14165v2)
-- 2024-09-21, **Integrated Decision Making and Trajectory Planning for Autonomous Driving Under Multimodal Uncertainties: A Bayesian Game Approach**, Zhenmin Huang et.al., Paper: [http://arxiv.org/abs/2409.13993v1](http://arxiv.org/abs/2409.13993v1)
 
 ## Autonomous_Driving_Prediction
 
