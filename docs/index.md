@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.28
+## Updated on 2024.09.29
 
 ## Autonomous_Driving_Planning
 
@@ -14,9 +14,6 @@ layout: default
 |**2024-09-25**|**Goal-based Neural Physics Vehicle Trajectory Prediction Model**|Rui Gan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15182v2-b31b1b.svg)](http://arxiv.org/abs/2409.15182v2)|null|
 |**2024-09-23**|**A Generalized Control Revision Method for Autonomous Driving Safety**|Zehang Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14688v1-b31b1b.svg)](http://arxiv.org/abs/2409.14688v1)|null|
 |**2024-09-23**|**S2O: An Integrated Driving Decision-making Performance Evaluation Method Bridging Subjective Feeling to Objective Evaluation**|Yuning Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14680v1-b31b1b.svg)](http://arxiv.org/abs/2409.14680v1)|null|
-|**2024-09-21**|**Adversarial and Reactive Traffic Agents for Realistic Driving Simulation**|Joshua Ransiek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14196v1-b31b1b.svg)](http://arxiv.org/abs/2409.14196v1)|null|
-|**2024-09-21**|**LFP: Efficient and Accurate End-to-End Lane-Level Planning via Camera-LiDAR Fusion**|Guoliang You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14170v1-b31b1b.svg)](http://arxiv.org/abs/2409.14170v1)|null|
-|**2024-09-24**|**Will Large Language Models be a Panacea to Autonomous Driving?**|Yuxuan Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14165v2-b31b1b.svg)](http://arxiv.org/abs/2409.14165v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -58,7 +55,6 @@ layout: default
 |**2024-09-25**|**Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**|Md Abdullah-Al Kaiser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17341v1-b31b1b.svg)](http://arxiv.org/abs/2409.17341v1)|null|
 |**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16663v2-b31b1b.svg)](http://arxiv.org/abs/2409.16663v2)|null|
 |**2024-09-23**|**SPformer: A Transformer Based DRL Decision Making Method for Connected Automated Vehicles**|Ye Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15105v1-b31b1b.svg)](http://arxiv.org/abs/2409.15105v1)|null|
-|**2024-09-24**|**Will Large Language Models be a Panacea to Autonomous Driving?**|Yuxuan Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14165v2-b31b1b.svg)](http://arxiv.org/abs/2409.14165v2)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -67,7 +63,6 @@ layout: default
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18053v1-b31b1b.svg)](http://arxiv.org/abs/2409.18053v1)|null|
 |**2024-09-23**|**Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning**|Zhiyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15135v1-b31b1b.svg)](http://arxiv.org/abs/2409.15135v1)|null|
 |**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14488v1-b31b1b.svg)](http://arxiv.org/abs/2409.14488v1)|null|
-|**2024-09-24**|**Will Large Language Models be a Panacea to Autonomous Driving?**|Yuxuan Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14165v2-b31b1b.svg)](http://arxiv.org/abs/2409.14165v2)|null|
 
 ## Autonomous_Driving_RL
 
