@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 
 ## Autonomous_Driving_Planning
 
@@ -25,7 +25,7 @@ layout: default
 |**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17937v1-b31b1b.svg)](http://arxiv.org/abs/2409.17937v1)|null|
 |**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17790v1-b31b1b.svg)](http://arxiv.org/abs/2409.17790v1)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17659v1-b31b1b.svg)](http://arxiv.org/abs/2409.17659v1)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v1-b31b1b.svg)](http://arxiv.org/abs/2409.17618v1)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v2-b31b1b.svg)](http://arxiv.org/abs/2409.17618v2)|null|
 |**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16663v2-b31b1b.svg)](http://arxiv.org/abs/2409.16663v2)|null|
 |**2024-09-25**|**Efficient Motion Prediction: A Lightweight & Accurate Trajectory Prediction Model With Fast Training and Inference Speed**|Alexander Prutsch et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16154v2-b31b1b.svg)](http://arxiv.org/abs/2409.16154v2)|null|
 |**2024-09-24**|**FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving**|Erxin Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15841v1-b31b1b.svg)](http://arxiv.org/abs/2409.15841v1)|null|
@@ -36,14 +36,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18053v1-b31b1b.svg)](http://arxiv.org/abs/2409.18053v1)|null|
 |**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17937v1-b31b1b.svg)](http://arxiv.org/abs/2409.17937v1)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v1-b31b1b.svg)](http://arxiv.org/abs/2409.17618v1)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v2-b31b1b.svg)](http://arxiv.org/abs/2409.17618v2)|null|
 |**2024-09-26**|**Good Data Is All Imitation Learning Needs**|Amir Samadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17605v1-b31b1b.svg)](http://arxiv.org/abs/2409.17605v1)|null|
 |**2024-09-25**|**Optical Lens Attack on Deep Learning Based Monocular Depth Estimation**|Ce Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17376v1-b31b1b.svg)](http://arxiv.org/abs/2409.17376v1)|null|
 |**2024-09-24**|**Intention-based and Risk-Aware Trajectory Prediction for Autonomous Driving in Complex Traffic Scenarios**|Wen Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15821v1-b31b1b.svg)](http://arxiv.org/abs/2409.15821v1)|null|
 |**2024-09-24**|**Dynamic Game-Theoretical Decision-Making Framework for Vehicle-Pedestrian Interaction with Human Bounded Rationality**|Meiting Dang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15629v1-b31b1b.svg)](http://arxiv.org/abs/2409.15629v1)|null|
 |**2024-09-23**|**SPformer: A Transformer Based DRL Decision Making Method for Connected Automated Vehicles**|Ye Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15105v1-b31b1b.svg)](http://arxiv.org/abs/2409.15105v1)|null|
 |**2024-09-23**|**S2O: An Integrated Driving Decision-making Performance Evaluation Method Bridging Subjective Feeling to Objective Evaluation**|Yuning Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14680v1-b31b1b.svg)](http://arxiv.org/abs/2409.14680v1)|null|
-|**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14488v1-b31b1b.svg)](http://arxiv.org/abs/2409.14488v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -62,13 +61,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.18053v1-b31b1b.svg)](http://arxiv.org/abs/2409.18053v1)|null|
 |**2024-09-23**|**Controllable Traffic Simulation through LLM-Guided Hierarchical Chain-of-Thought Reasoning**|Zhiyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15135v1-b31b1b.svg)](http://arxiv.org/abs/2409.15135v1)|null|
-|**2024-09-22**|**Enhancing LLM-based Autonomous Driving Agents to Mitigate Perception Attacks**|Ruoyu Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.14488v1-b31b1b.svg)](http://arxiv.org/abs/2409.14488v1)|null|
 
 ## Autonomous_Driving_RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17659v1-b31b1b.svg)](http://arxiv.org/abs/2409.17659v1)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v1-b31b1b.svg)](http://arxiv.org/abs/2409.17618v1)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17618v2-b31b1b.svg)](http://arxiv.org/abs/2409.17618v2)|null|
 |**2024-09-23**|**SPformer: A Transformer Based DRL Decision Making Method for Connected Automated Vehicles**|Ye Han et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.15105v1-b31b1b.svg)](http://arxiv.org/abs/2409.15105v1)|null|
 
