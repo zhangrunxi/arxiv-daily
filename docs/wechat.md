@@ -1,4 +1,4 @@
-> Updated on 2024.10.01
+> Updated on 2024.10.02
 
 ## Autonomous_Driving_Planning
 
@@ -18,7 +18,7 @@
 - 2024-09-30, **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**, Zhen Yang et.al., Paper: [http://arxiv.org/abs/2409.19972v1](http://arxiv.org/abs/2409.19972v1), Code: **[https://github.com/alphaplustt/daocc](https://github.com/alphaplustt/daocc)**
 - 2024-09-27, **Multimodal Trajectory Prediction for Autonomous Driving on Unstructured Roads using Deep Convolutional Network**, Lei Li et.al., Paper: [http://arxiv.org/abs/2409.18399v1](http://arxiv.org/abs/2409.18399v1)
 - 2024-09-26, **Does End-to-End Autonomous Driving Really Need Perception Tasks?**, Peidong Li et.al., Paper: [http://arxiv.org/abs/2409.18341v1](http://arxiv.org/abs/2409.18341v1)
-- 2024-09-26, **DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2409.18092v1](http://arxiv.org/abs/2409.18092v1)
+- 2024-09-30, **DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2409.18092v2](http://arxiv.org/abs/2409.18092v2)
 - 2024-09-26, **Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2409.18031v1](http://arxiv.org/abs/2409.18031v1)
 - 2024-09-26, **ReliOcc: Towards Reliable Semantic Occupancy Prediction via Uncertainty Learning**, Song Wang et.al., Paper: [http://arxiv.org/abs/2409.18026v1](http://arxiv.org/abs/2409.18026v1)
 - 2024-09-26, **Adaptive Stream Processing on Edge Devices through Active Inference**, Boris Sedlak et.al., Paper: [http://arxiv.org/abs/2409.17937v1](http://arxiv.org/abs/2409.17937v1)
