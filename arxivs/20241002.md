@@ -52,7 +52,6 @@
 |**2024-09-26**|**Good Data Is All Imitation Learning Needs**|Amir Samadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17605v1-b31b1b.svg)](http://arxiv.org/abs/2409.17605v1)|null|
 |**2024-09-26**|**Joint Source-Channel Coding: Fundamentals and Recent Progress in Practical Designs**|Deniz Gündüz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17557v1-b31b1b.svg)](http://arxiv.org/abs/2409.17557v1)|null|
 |**2024-09-25**|**Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**|Md Abdullah-Al Kaiser et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.17341v1-b31b1b.svg)](http://arxiv.org/abs/2409.17341v1)|null|
-|**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.16663v2-b31b1b.svg)](http://arxiv.org/abs/2409.16663v2)|null|
 
 ## Autonomous_Driving_LLM
 
