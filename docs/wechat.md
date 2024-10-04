@@ -1,4 +1,4 @@
-> Updated on 2024.10.03
+> Updated on 2024.10.04
 
 ## Autonomous_Driving_Planning
 
@@ -8,8 +8,6 @@
 - 2024-09-28, **The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**, Olivier Lamarre et.al., Paper: [http://arxiv.org/abs/2409.19455v1](http://arxiv.org/abs/2409.19455v1)
 - 2024-09-27, **Unscented Transform-based Pure Pursuit Path-Tracking Algorithm under Uncertainty**, Chinnawut Nantabut et.al., Paper: [http://arxiv.org/abs/2409.18585v1](http://arxiv.org/abs/2409.18585v1)
 - 2024-09-27, **BoT-Drive: Hierarchical Behavior and Trajectory Planning for Autonomous Driving using POMDPs**, Xuanjin Jin et.al., Paper: [http://arxiv.org/abs/2409.18411v1](http://arxiv.org/abs/2409.18411v1)
-- 2024-09-26, **Does End-to-End Autonomous Driving Really Need Perception Tasks?**, Peidong Li et.al., Paper: [http://arxiv.org/abs/2409.18341v1](http://arxiv.org/abs/2409.18341v1)
-- 2024-09-26, **Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2409.18031v1](http://arxiv.org/abs/2409.18031v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -21,8 +19,6 @@
 - 2024-10-01, **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**, Junming Wang et.al., Paper: [http://arxiv.org/abs/2409.19987v2](http://arxiv.org/abs/2409.19987v2)
 - 2024-09-30, **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**, Zhen Yang et.al., Paper: [http://arxiv.org/abs/2409.19972v1](http://arxiv.org/abs/2409.19972v1), Code: **[https://github.com/alphaplustt/daocc](https://github.com/alphaplustt/daocc)**
 - 2024-09-27, **Multimodal Trajectory Prediction for Autonomous Driving on Unstructured Roads using Deep Convolutional Network**, Lei Li et.al., Paper: [http://arxiv.org/abs/2409.18399v1](http://arxiv.org/abs/2409.18399v1)
-- 2024-09-26, **Does End-to-End Autonomous Driving Really Need Perception Tasks?**, Peidong Li et.al., Paper: [http://arxiv.org/abs/2409.18341v1](http://arxiv.org/abs/2409.18341v1)
-- 2024-09-30, **DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2409.18092v2](http://arxiv.org/abs/2409.18092v2)
 
 ## Autonomous_Driving_Decision
 
@@ -30,21 +26,17 @@
 - 2024-09-28, **The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**, Olivier Lamarre et.al., Paper: [http://arxiv.org/abs/2409.19455v1](http://arxiv.org/abs/2409.19455v1)
 - 2024-09-27, **Unscented Transform-based Pure Pursuit Path-Tracking Algorithm under Uncertainty**, Chinnawut Nantabut et.al., Paper: [http://arxiv.org/abs/2409.18585v1](http://arxiv.org/abs/2409.18585v1)
 - 2024-09-27, **BoT-Drive: Hierarchical Behavior and Trajectory Planning for Autonomous Driving using POMDPs**, Xuanjin Jin et.al., Paper: [http://arxiv.org/abs/2409.18411v1](http://arxiv.org/abs/2409.18411v1)
-- 2024-09-26, **DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**, Dingrui Wang et.al., Paper: [http://arxiv.org/abs/2409.18053v1](http://arxiv.org/abs/2409.18053v1)
-- 2024-09-26, **Adaptive Stream Processing on Edge Devices through Active Inference**, Boris Sedlak et.al., Paper: [http://arxiv.org/abs/2409.17937v1](http://arxiv.org/abs/2409.17937v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-10-02, **Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**, Yue Zhong et.al., Paper: [http://arxiv.org/abs/2410.01176v1](http://arxiv.org/abs/2410.01176v1)
 - 2024-09-30, **DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**, Zhen Yang et.al., Paper: [http://arxiv.org/abs/2409.19972v1](http://arxiv.org/abs/2409.19972v1), Code: **[https://github.com/alphaplustt/daocc](https://github.com/alphaplustt/daocc)**
 - 2024-09-30, **VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**, Zishen Wan et.al., Paper: [http://arxiv.org/abs/2409.19892v1](http://arxiv.org/abs/2409.19892v1)
-- 2024-09-26, **Does End-to-End Autonomous Driving Really Need Perception Tasks?**, Peidong Li et.al., Paper: [http://arxiv.org/abs/2409.18341v1](http://arxiv.org/abs/2409.18341v1)
 
 ## Autonomous_Driving_LLM
 
 - 2024-09-30, **Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2409.20364v1](http://arxiv.org/abs/2409.20364v1)
 - 2024-09-28, **Spatial Reasoning and Planning for Deep Embodied Agents**, Shu Ishida et.al., Paper: [http://arxiv.org/abs/2409.19479v1](http://arxiv.org/abs/2409.19479v1)
-- 2024-09-26, **DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**, Dingrui Wang et.al., Paper: [http://arxiv.org/abs/2409.18053v1](http://arxiv.org/abs/2409.18053v1)
 
 ## Autonomous_Driving_RL
 
