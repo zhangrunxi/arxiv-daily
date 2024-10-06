@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.05
+## Updated on 2024.10.06
 
 ## Autonomous_Driving_Planning
 
@@ -11,8 +11,6 @@ layout: default
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02644v1-b31b1b.svg)](http://arxiv.org/abs/2410.02644v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agiresearch/asb)**|
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01628v1-b31b1b.svg)](http://arxiv.org/abs/2410.01628v1)|null|
 |**2024-10-01**|**E-MPC: Edge-assisted Model Predictive Control**|Yuan-Yao Lou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.00695v1-b31b1b.svg)](http://arxiv.org/abs/2410.00695v1)|null|
-|**2024-09-28**|**Spatial Reasoning and Planning for Deep Embodied Agents**|Shu Ishida et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19479v1-b31b1b.svg)](http://arxiv.org/abs/2409.19479v1)|null|
-|**2024-09-28**|**The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**|Olivier Lamarre et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19455v1-b31b1b.svg)](http://arxiv.org/abs/2409.19455v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -35,7 +33,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
 |**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01176v1-b31b1b.svg)](http://arxiv.org/abs/2410.01176v1)|null|
-|**2024-09-28**|**The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**|Olivier Lamarre et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19455v1-b31b1b.svg)](http://arxiv.org/abs/2409.19455v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -52,7 +49,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02644v1-b31b1b.svg)](http://arxiv.org/abs/2410.02644v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agiresearch/asb)**|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.20364v1-b31b1b.svg)](http://arxiv.org/abs/2409.20364v1)|null|
-|**2024-09-28**|**Spatial Reasoning and Planning for Deep Embodied Agents**|Shu Ishida et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19479v1-b31b1b.svg)](http://arxiv.org/abs/2409.19479v1)|null|
 
 ## Autonomous_Driving_RL
 

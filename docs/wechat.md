@@ -1,12 +1,10 @@
-> Updated on 2024.10.05
+> Updated on 2024.10.06
 
 ## Autonomous_Driving_Planning
 
 - 2024-10-03, **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**, Hanrong Zhang et.al., Paper: [http://arxiv.org/abs/2410.02644v1](http://arxiv.org/abs/2410.02644v1), Code: **[https://github.com/agiresearch/asb](https://github.com/agiresearch/asb)**
 - 2024-10-02, **Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**, Aron Distelzweig et.al., Paper: [http://arxiv.org/abs/2410.01628v1](http://arxiv.org/abs/2410.01628v1)
 - 2024-10-01, **E-MPC: Edge-assisted Model Predictive Control**, Yuan-Yao Lou et.al., Paper: [http://arxiv.org/abs/2410.00695v1](http://arxiv.org/abs/2410.00695v1)
-- 2024-09-28, **Spatial Reasoning and Planning for Deep Embodied Agents**, Shu Ishida et.al., Paper: [http://arxiv.org/abs/2409.19479v1](http://arxiv.org/abs/2409.19479v1)
-- 2024-09-28, **The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**, Olivier Lamarre et.al., Paper: [http://arxiv.org/abs/2409.19455v1](http://arxiv.org/abs/2409.19455v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +23,6 @@
 
 - 2024-10-03, **End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**, Yueyuan Li et.al., Paper: [http://arxiv.org/abs/2410.02253v1](http://arxiv.org/abs/2410.02253v1)
 - 2024-10-02, **Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**, Yue Zhong et.al., Paper: [http://arxiv.org/abs/2410.01176v1](http://arxiv.org/abs/2410.01176v1)
-- 2024-09-28, **The Importance of Adaptive Decision-Making for Autonomous Long-Range Planetary Surface Mobility**, Olivier Lamarre et.al., Paper: [http://arxiv.org/abs/2409.19455v1](http://arxiv.org/abs/2409.19455v1)
 
 ## Autonomous_Driving_E2E
 
@@ -38,7 +35,6 @@
 
 - 2024-10-03, **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**, Hanrong Zhang et.al., Paper: [http://arxiv.org/abs/2410.02644v1](http://arxiv.org/abs/2410.02644v1), Code: **[https://github.com/agiresearch/asb](https://github.com/agiresearch/asb)**
 - 2024-09-30, **Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**, Yizhou Huang et.al., Paper: [http://arxiv.org/abs/2409.20364v1](http://arxiv.org/abs/2409.20364v1)
-- 2024-09-28, **Spatial Reasoning and Planning for Deep Embodied Agents**, Shu Ishida et.al., Paper: [http://arxiv.org/abs/2409.19479v1](http://arxiv.org/abs/2409.19479v1)
 
 ## Autonomous_Driving_RL
 
