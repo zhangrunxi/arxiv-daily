@@ -23,9 +23,6 @@ layout: default
 |**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01628v1-b31b1b.svg)](http://arxiv.org/abs/2410.01628v1)|null|
 |**2024-10-01**|**E-MPC: Edge-assisted Model Predictive Control**|Yuan-Yao Lou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.00695v1-b31b1b.svg)](http://arxiv.org/abs/2410.00695v1)|null|
 |**2024-10-01**|**SyntheOcc: Synthesize Geometric-Controlled Street View Images through 3D Semantic MPIs**|Leheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.00337v1-b31b1b.svg)](http://arxiv.org/abs/2410.00337v1)|null|
-|**2024-09-30**|**GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction**|Chen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.20223v1-b31b1b.svg)](http://arxiv.org/abs/2409.20223v1)|null|
-|**2024-10-01**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19987v2-b31b1b.svg)](http://arxiv.org/abs/2409.19987v2)|null|
-|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19972v1-b31b1b.svg)](http://arxiv.org/abs/2409.19972v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaplustt/daocc)**|
 
 ## Autonomous_Driving_Decision
 
@@ -38,10 +35,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Design and Evaluation of a Compliant Quasi Direct Drive End-effector for Safe Robotic Ultrasound Imaging**|Danyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.03086v1-b31b1b.svg)](http://arxiv.org/abs/2410.03086v1)|null|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
 |**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01176v1-b31b1b.svg)](http://arxiv.org/abs/2410.01176v1)|null|
-|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19972v1-b31b1b.svg)](http://arxiv.org/abs/2409.19972v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphaplustt/daocc)**|
-|**2024-09-30**|**VAP: The Vulnerability-Adaptive Protection Paradigm Toward Reliable Autonomous Machines**|Zishen Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2409.19892v1-b31b1b.svg)](http://arxiv.org/abs/2409.19892v1)|null|
 
 ## Autonomous_Driving_LLM
 
