@@ -28,7 +28,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.04809v1-b31b1b.svg)](http://arxiv.org/abs/2410.04809v1)|null|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
-|**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01176v1-b31b1b.svg)](http://arxiv.org/abs/2410.01176v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -37,7 +36,6 @@ layout: default
 |**2024-10-07**|**HE-Drive: Human-Like End-to-End Driving with Vision Language Models**|Junming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05051v1-b31b1b.svg)](http://arxiv.org/abs/2410.05051v1)|null|
 |**2024-10-04**|**Design and Evaluation of a Compliant Quasi Direct Drive End-effector for Safe Robotic Ultrasound Imaging**|Danyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.03086v1-b31b1b.svg)](http://arxiv.org/abs/2410.03086v1)|null|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
-|**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01176v1-b31b1b.svg)](http://arxiv.org/abs/2410.01176v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -51,6 +49,4 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
 |**2024-10-03**|**Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**|Shreyas Chaudhari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02172v1-b31b1b.svg)](http://arxiv.org/abs/2410.02172v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyasc-13/star)**|
-|**2024-10-02**|**Absolute State-wise Constrained Policy Optimization: High-Probability State-wise Constraints Satisfaction**|Weiye Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01212v1-b31b1b.svg)](http://arxiv.org/abs/2410.01212v1)|null|
-|**2024-10-02**|**Generative Diffusion-based Contract Design for Efficient AI Twins Migration in Vehicular Embodied AI Networks**|Yue Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01176v1-b31b1b.svg)](http://arxiv.org/abs/2410.01176v1)|null|
 
