@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.04354v1-b31b1b.svg)](http://arxiv.org/abs/2410.04354v1)|null|
 |**2024-10-03**|**Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**|Hanrong Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02644v1-b31b1b.svg)](http://arxiv.org/abs/2410.02644v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agiresearch/asb)**|
-|**2024-10-07**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01628v2-b31b1b.svg)](http://arxiv.org/abs/2410.01628v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -19,8 +18,6 @@ layout: default
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02253v1-b31b1b.svg)](http://arxiv.org/abs/2410.02253v1)|null|
 |**2024-10-03**|**Remember and Recall: Associative-Memory-based Trajectory Prediction**|Hang Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02201v1-b31b1b.svg)](http://arxiv.org/abs/2410.02201v1)|null|
 |**2024-10-03**|**Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**|Shreyas Chaudhari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.02172v1-b31b1b.svg)](http://arxiv.org/abs/2410.02172v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyasc-13/star)**|
-|**2024-10-02**|**Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01678v1-b31b1b.svg)](http://arxiv.org/abs/2410.01678v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-ishaq/open3dtrack)**|
-|**2024-10-07**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.01628v2-b31b1b.svg)](http://arxiv.org/abs/2410.01628v2)|null|
 
 ## Autonomous_Driving_Decision
 
