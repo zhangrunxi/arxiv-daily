@@ -1,10 +1,9 @@
-> Updated on 2024.10.10
+> Updated on 2024.10.11
 
 ## Autonomous_Driving_Planning
 
 - 2024-10-08, **Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**, Zhiyu Huang et.al., Paper: [http://arxiv.org/abs/2410.05582v1](http://arxiv.org/abs/2410.05582v1)
 - 2024-10-06, **StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**, Xiao Cui et.al., Paper: [http://arxiv.org/abs/2410.04354v1](http://arxiv.org/abs/2410.04354v1)
-- 2024-10-03, **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**, Hanrong Zhang et.al., Paper: [http://arxiv.org/abs/2410.02644v1](http://arxiv.org/abs/2410.02644v1), Code: **[https://github.com/agiresearch/asb](https://github.com/agiresearch/asb)**
 
 ## Autonomous_Driving_Prediction
 
@@ -27,7 +26,6 @@
 ## Autonomous_Driving_LLM
 
 - 2024-10-09, **I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**, Gian Maria Campedelli et.al., Paper: [http://arxiv.org/abs/2410.07109v1](http://arxiv.org/abs/2410.07109v1)
-- 2024-10-03, **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents**, Hanrong Zhang et.al., Paper: [http://arxiv.org/abs/2410.02644v1](http://arxiv.org/abs/2410.02644v1), Code: **[https://github.com/agiresearch/asb](https://github.com/agiresearch/asb)**
 
 ## Autonomous_Driving_RL
 
