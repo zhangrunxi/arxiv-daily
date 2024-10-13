@@ -11,7 +11,6 @@ layout: default
 |**2024-10-10**|**Autonomous Vehicles Path Planning under Temporal Logic Specifications**|Akshay Dhonthi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.07845v1-b31b1b.svg)](http://arxiv.org/abs/2410.07845v1)|null|
 |**2024-10-10**|**Autonomous Driving in Unstructured Environments: How Far Have We Come?**|Chen Min et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.07701v1-b31b1b.svg)](http://arxiv.org/abs/2410.07701v1)|null|
 |**2024-10-08**|**Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**|Zhiyu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05582v1-b31b1b.svg)](http://arxiv.org/abs/2410.05582v1)|null|
-|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.04354v1-b31b1b.svg)](http://arxiv.org/abs/2410.04354v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -21,7 +20,7 @@ layout: default
 |**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06516v1-b31b1b.svg)](http://arxiv.org/abs/2410.06516v1)|null|
 |**2024-10-08**|**Gaussian-Based and Outside-the-Box Runtime Monitoring Join Forces**|Vahid Hashemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06051v1-b31b1b.svg)](http://arxiv.org/abs/2410.06051v1)|null|
 |**2024-10-08**|**Motion Forecasting in Continuous Driving**|Nan Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.06007v1-b31b1b.svg)](http://arxiv.org/abs/2410.06007v1)|null|
-|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05982v1-b31b1b.svg)](http://arxiv.org/abs/2410.05982v1)|null|
+|**2024-10-08**|**DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05982v1-b31b1b.svg)](http://arxiv.org/abs/2410.05982v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/demo)**|
 |**2024-10-08**|**Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**|Zhiyu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.05582v1-b31b1b.svg)](http://arxiv.org/abs/2410.05582v1)|null|
 
 ## Autonomous_Driving_Decision
