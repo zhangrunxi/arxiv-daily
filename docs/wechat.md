@@ -2,29 +2,36 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
+- 2024-10-14, **A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**, Falk Dettinger et.al., Paper: [http://arxiv.org/abs/2410.10264v1](http://arxiv.org/abs/2410.10264v1)
+- 2024-10-13, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v1](http://arxiv.org/abs/2410.09681v1)
+- 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
 - 2024-10-10, **AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments**, Cheng Fang et.al., Paper: [http://arxiv.org/abs/2410.08256v1](http://arxiv.org/abs/2410.08256v1)
 - 2024-10-10, **Autonomous Vehicles Path Planning under Temporal Logic Specifications**, Akshay Dhonthi et.al., Paper: [http://arxiv.org/abs/2410.07845v1](http://arxiv.org/abs/2410.07845v1)
 - 2024-10-12, **Autonomous Driving in Unstructured Environments: How Far Have We Come?**, Chen Min et.al., Paper: [http://arxiv.org/abs/2410.07701v2](http://arxiv.org/abs/2410.07701v2)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-10-14, **Towards Calibrated Losses for Adversarial Robust Reject Option Classification**, Vrund Shah et.al., Paper: [http://arxiv.org/abs/2410.10736v1](http://arxiv.org/abs/2410.10736v1), Code: **[https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**
+- 2024-10-14, **Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**, Ran Wei et.al., Paper: [http://arxiv.org/abs/2410.10653v1](http://arxiv.org/abs/2410.10653v1)
+- 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
+- 2024-10-13, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v1](http://arxiv.org/abs/2410.09681v1)
+- 2024-10-12, **RailYolact -- A Yolact Focused on edge for Real-Time Rail Segmentation**, Qihao Qian et.al., Paper: [http://arxiv.org/abs/2410.09612v1](http://arxiv.org/abs/2410.09612v1)
+- 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
 - 2024-10-11, **The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**, Ariel Flint Ashery et.al., Paper: [http://arxiv.org/abs/2410.08948v1](http://arxiv.org/abs/2410.08948v1)
 - 2024-10-11, **MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**, Qihang Yang et.al., Paper: [http://arxiv.org/abs/2410.08739v1](http://arxiv.org/abs/2410.08739v1)
 - 2024-10-11, **SmartPretrain: Model-Agnostic and Dataset-Agnostic Representation Learning for Motion Prediction**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2410.08669v1](http://arxiv.org/abs/2410.08669v1), Code: **[https://github.com/youngzhou1999/smartpretrain](https://github.com/youngzhou1999/smartpretrain)**
 - 2024-10-10, **AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments**, Cheng Fang et.al., Paper: [http://arxiv.org/abs/2410.08256v1](http://arxiv.org/abs/2410.08256v1)
-- 2024-10-10, **Invisibility Cloak: Disappearance under Human Pose Estimation via Backdoor Attacks**, Minxing Zhang et.al., Paper: [http://arxiv.org/abs/2410.07670v1](http://arxiv.org/abs/2410.07670v1)
-- 2024-10-09, **QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**, Yuxin Li et.al., Paper: [http://arxiv.org/abs/2410.06516v1](http://arxiv.org/abs/2410.06516v1)
-- 2024-10-08, **Gaussian-Based and Outside-the-Box Runtime Monitoring Join Forces**, Vahid Hashemi et.al., Paper: [http://arxiv.org/abs/2410.06051v1](http://arxiv.org/abs/2410.06051v1)
-- 2024-10-08, **Motion Forecasting in Continuous Driving**, Nan Song et.al., Paper: [http://arxiv.org/abs/2410.06007v1](http://arxiv.org/abs/2410.06007v1)
-- 2024-10-08, **DeMo: Decoupling Motion Forecasting into Directional Intentions and Dynamic States**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2410.05982v1](http://arxiv.org/abs/2410.05982v1), Code: **[https://github.com/fudan-zvg/demo](https://github.com/fudan-zvg/demo)**
 
 ## Autonomous_Driving_Decision
 
+- 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
 - 2024-10-11, **Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**, Zijiang Yan et.al., Paper: [http://arxiv.org/abs/2410.08854v1](http://arxiv.org/abs/2410.08854v1)
 - 2024-10-11, **MMLF: Multi-modal Multi-class Late Fusion for Object Detection with Uncertainty Estimation**, Qihang Yang et.al., Paper: [http://arxiv.org/abs/2410.08739v1](http://arxiv.org/abs/2410.08739v1)
 
 ## Autonomous_Driving_E2E
 
+- 2024-10-13, **Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**, Sergio Fernandez-Testa et.al., Paper: [http://arxiv.org/abs/2410.09731v1](http://arxiv.org/abs/2410.09731v1)
 - 2024-10-11, **VideoSAM: Open-World Video Segmentation**, Pinxue Guo et.al., Paper: [http://arxiv.org/abs/2410.08781v1](http://arxiv.org/abs/2410.08781v1)
 - 2024-10-12, **Autonomous Driving in Unstructured Environments: How Far Have We Come?**, Chen Min et.al., Paper: [http://arxiv.org/abs/2410.07701v2](http://arxiv.org/abs/2410.07701v2)
 
@@ -37,5 +44,4 @@
 ## Autonomous_Driving_RL
 
 - 2024-10-11, **Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**, Zijiang Yan et.al., Paper: [http://arxiv.org/abs/2410.08854v1](http://arxiv.org/abs/2410.08854v1)
-- 2024-10-08, **Reinforcement Learning From Imperfect Corrective Actions And Proxy Rewards**, Zhaohui Jiang et.al., Paper: [http://arxiv.org/abs/2410.05782v1](http://arxiv.org/abs/2410.05782v1)
 
