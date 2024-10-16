@@ -1,10 +1,10 @@
-> Updated on 2024.10.15
+> Updated on 2024.10.16
 
 ## Autonomous_Driving_Planning
 
 - 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
 - 2024-10-14, **A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**, Falk Dettinger et.al., Paper: [http://arxiv.org/abs/2410.10264v1](http://arxiv.org/abs/2410.10264v1)
-- 2024-10-13, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v1](http://arxiv.org/abs/2410.09681v1)
+- 2024-10-15, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v2](http://arxiv.org/abs/2410.09681v2)
 - 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
 - 2024-10-10, **AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments**, Cheng Fang et.al., Paper: [http://arxiv.org/abs/2410.08256v1](http://arxiv.org/abs/2410.08256v1)
 - 2024-10-10, **Autonomous Vehicles Path Planning under Temporal Logic Specifications**, Akshay Dhonthi et.al., Paper: [http://arxiv.org/abs/2410.07845v1](http://arxiv.org/abs/2410.07845v1)
@@ -15,7 +15,7 @@
 - 2024-10-14, **Towards Calibrated Losses for Adversarial Robust Reject Option Classification**, Vrund Shah et.al., Paper: [http://arxiv.org/abs/2410.10736v1](http://arxiv.org/abs/2410.10736v1), Code: **[https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**
 - 2024-10-14, **Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**, Ran Wei et.al., Paper: [http://arxiv.org/abs/2410.10653v1](http://arxiv.org/abs/2410.10653v1)
 - 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
-- 2024-10-13, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v1](http://arxiv.org/abs/2410.09681v1)
+- 2024-10-15, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v2](http://arxiv.org/abs/2410.09681v2)
 - 2024-10-12, **RailYolact -- A Yolact Focused on edge for Real-Time Rail Segmentation**, Qihao Qian et.al., Paper: [http://arxiv.org/abs/2410.09612v1](http://arxiv.org/abs/2410.09612v1)
 - 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
 - 2024-10-11, **The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**, Ariel Flint Ashery et.al., Paper: [http://arxiv.org/abs/2410.08948v1](http://arxiv.org/abs/2410.08948v1)
@@ -31,7 +31,7 @@
 
 ## Autonomous_Driving_E2E
 
-- 2024-10-13, **Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**, Sergio Fernandez-Testa et.al., Paper: [http://arxiv.org/abs/2410.09731v1](http://arxiv.org/abs/2410.09731v1)
+- 2024-10-13, **Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**, Sergio Fernandez-Testa et.al., Paper: [http://arxiv.org/abs/2410.09731v1](http://arxiv.org/abs/2410.09731v1), Code: **[https://github.com/Coding-Rod/crime_detection](https://github.com/Coding-Rod/crime_detection)**
 - 2024-10-11, **VideoSAM: Open-World Video Segmentation**, Pinxue Guo et.al., Paper: [http://arxiv.org/abs/2410.08781v1](http://arxiv.org/abs/2410.08781v1)
 - 2024-10-12, **Autonomous Driving in Unstructured Environments: How Far Have We Come?**, Chen Min et.al., Paper: [http://arxiv.org/abs/2410.07701v2](http://arxiv.org/abs/2410.07701v2)
 
