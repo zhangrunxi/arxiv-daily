@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 
 ## Autonomous_Driving_Planning
 
@@ -55,7 +55,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08948v1-b31b1b.svg)](http://arxiv.org/abs/2410.08948v1)|null|
 |**2024-10-11**|**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**|Zijiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08854v1-b31b1b.svg)](http://arxiv.org/abs/2410.08854v1)|null|
-|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.07109v1-b31b1b.svg)](http://arxiv.org/abs/2410.07109v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mobs-fbk/llm_interaction_simulator)**|
 
 ## Autonomous_Driving_RL
 
