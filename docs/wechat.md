@@ -1,4 +1,4 @@
-> Updated on 2024.10.17
+> Updated on 2024.10.18
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,6 @@
 - 2024-10-14, **A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**, Falk Dettinger et.al., Paper: [http://arxiv.org/abs/2410.10264v1](http://arxiv.org/abs/2410.10264v1)
 - 2024-10-15, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v2](http://arxiv.org/abs/2410.09681v2)
 - 2024-10-11, **Ranking over Regression for Bayesian Optimization and Molecule Selection**, Gary Tom et.al., Paper: [http://arxiv.org/abs/2410.09290v1](http://arxiv.org/abs/2410.09290v1), Code: **[https://github.com/gkwt/rbo](https://github.com/gkwt/rbo)**
-- 2024-10-10, **AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments**, Cheng Fang et.al., Paper: [http://arxiv.org/abs/2410.08256v1](http://arxiv.org/abs/2410.08256v1)
 
 ## Autonomous_Driving_Prediction
 

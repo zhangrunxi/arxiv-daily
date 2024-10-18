@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,6 @@ layout: default
 |**2024-10-14**|**A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**|Falk Dettinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10264v1-b31b1b.svg)](http://arxiv.org/abs/2410.10264v1)|null|
 |**2024-10-15**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09681v2-b31b1b.svg)](http://arxiv.org/abs/2410.09681v2)|null|
 |**2024-10-11**|**Ranking over Regression for Bayesian Optimization and Molecule Selection**|Gary Tom et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09290v1-b31b1b.svg)](http://arxiv.org/abs/2410.09290v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkwt/rbo)**|
-|**2024-10-10**|**AdaShadow: Responsive Test-time Model Adaptation in Non-stationary Mobile Environments**|Cheng Fang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08256v1-b31b1b.svg)](http://arxiv.org/abs/2410.08256v1)|null|
 
 ## Autonomous_Driving_Prediction
 
