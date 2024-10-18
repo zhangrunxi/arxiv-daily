@@ -52,7 +52,6 @@ layout: default
 |**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12394v1-b31b1b.svg)](http://arxiv.org/abs/2410.12394v1)|null|
 |**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11896v1-b31b1b.svg)](http://arxiv.org/abs/2410.11896v1)|null|
 |**2024-10-13**|**Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**|Sergio Fernandez-Testa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09731v1-b31b1b.svg)](http://arxiv.org/abs/2410.09731v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coding-Rod/crime_detection)**|
-|**2024-10-11**|**VideoSAM: Open-World Video Segmentation**|Pinxue Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08781v1-b31b1b.svg)](http://arxiv.org/abs/2410.08781v1)|null|
 
 ## Autonomous_Driving_LLM
 
