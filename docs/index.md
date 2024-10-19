@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.18
+## Updated on 2024.10.19
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,6 @@ layout: default
 |**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10429v1-b31b1b.svg)](http://arxiv.org/abs/2410.10429v1)|null|
 |**2024-10-14**|**A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**|Falk Dettinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10264v1-b31b1b.svg)](http://arxiv.org/abs/2410.10264v1)|null|
 |**2024-10-15**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09681v2-b31b1b.svg)](http://arxiv.org/abs/2410.09681v2)|null|
-|**2024-10-11**|**Ranking over Regression for Bayesian Optimization and Molecule Selection**|Gary Tom et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09290v1-b31b1b.svg)](http://arxiv.org/abs/2410.09290v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkwt/rbo)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -40,8 +39,6 @@ layout: default
 |**2024-10-15**|**System-Level Analysis of Module Uncertainty Quantification in the Autonomy Pipeline**|Sampada Deglurkar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12019v1-b31b1b.svg)](http://arxiv.org/abs/2410.12019v1)|null|
 |**2024-10-14**|**Study on the Helpfulness of Explainable Artificial Intelligence**|Tobias Labarta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11896v1-b31b1b.svg)](http://arxiv.org/abs/2410.11896v1)|null|
 |**2024-10-15**|**Technical Report of 1:10 Scale Autonomous Vehicle Robot**|Amirhossein Kheiri Holighi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11746v1-b31b1b.svg)](http://arxiv.org/abs/2410.11746v1)|null|
-|**2024-10-11**|**Ranking over Regression for Bayesian Optimization and Molecule Selection**|Gary Tom et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09290v1-b31b1b.svg)](http://arxiv.org/abs/2410.09290v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gkwt/rbo)**|
-|**2024-10-11**|**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**|Zijiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08854v1-b31b1b.svg)](http://arxiv.org/abs/2410.08854v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -59,8 +56,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v1-b31b1b.svg)](http://arxiv.org/abs/2410.12568v1)|null|
 |**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12295v1-b31b1b.svg)](http://arxiv.org/abs/2410.12295v1)|null|
-|**2024-10-11**|**The Dynamics of Social Conventions in LLM populations: Spontaneous Emergence, Collective Biases and Tipping Points**|Ariel Flint Ashery et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08948v1-b31b1b.svg)](http://arxiv.org/abs/2410.08948v1)|null|
-|**2024-10-11**|**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**|Zijiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08854v1-b31b1b.svg)](http://arxiv.org/abs/2410.08854v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -69,5 +64,4 @@ layout: default
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v1-b31b1b.svg)](http://arxiv.org/abs/2410.12568v1)|null|
 |**2024-10-16**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v1-b31b1b.svg)](http://arxiv.org/abs/2410.12163v1)|null|
 |**2024-10-15**|**SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**|Jeffrey Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11571v1-b31b1b.svg)](http://arxiv.org/abs/2410.11571v1)|null|
-|**2024-10-11**|**Hybrid LLM-DDQN based Joint Optimization of V2I Communication and Autonomous Driving**|Zijiang Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.08854v1-b31b1b.svg)](http://arxiv.org/abs/2410.08854v1)|null|
 
