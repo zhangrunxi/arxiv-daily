@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.19
+## Updated on 2024.10.20
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2024-10-15**|**A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11570v1-b31b1b.svg)](http://arxiv.org/abs/2410.11570v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhouhengli/vpmpcc)**|
 |**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10429v1-b31b1b.svg)](http://arxiv.org/abs/2410.10429v1)|null|
 |**2024-10-14**|**A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**|Falk Dettinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10264v1-b31b1b.svg)](http://arxiv.org/abs/2410.10264v1)|null|
-|**2024-10-15**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09681v2-b31b1b.svg)](http://arxiv.org/abs/2410.09681v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -27,7 +26,6 @@ layout: default
 |**2024-10-14**|**Towards Calibrated Losses for Adversarial Robust Reject Option Classification**|Vrund Shah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10736v1-b31b1b.svg)](http://arxiv.org/abs/2410.10736v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**|
 |**2024-10-14**|**Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**|Ran Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10653v1-b31b1b.svg)](http://arxiv.org/abs/2410.10653v1)|null|
 |**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.10429v1-b31b1b.svg)](http://arxiv.org/abs/2410.10429v1)|null|
-|**2024-10-15**|**LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**|Christopher Diehl et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.09681v2-b31b1b.svg)](http://arxiv.org/abs/2410.09681v2)|null|
 
 ## Autonomous_Driving_Decision
 

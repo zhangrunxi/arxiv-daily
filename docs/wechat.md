@@ -1,4 +1,4 @@
-> Updated on 2024.10.19
+> Updated on 2024.10.20
 
 ## Autonomous_Driving_Planning
 
@@ -6,7 +6,6 @@
 - 2024-10-15, **A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**, Zhouheng Li et.al., Paper: [http://arxiv.org/abs/2410.11570v1](http://arxiv.org/abs/2410.11570v1), Code: **[https://github.com/zhouhengli/vpmpcc](https://github.com/zhouhengli/vpmpcc)**
 - 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
 - 2024-10-14, **A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**, Falk Dettinger et.al., Paper: [http://arxiv.org/abs/2410.10264v1](http://arxiv.org/abs/2410.10264v1)
-- 2024-10-15, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v2](http://arxiv.org/abs/2410.09681v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -19,7 +18,6 @@
 - 2024-10-14, **Towards Calibrated Losses for Adversarial Robust Reject Option Classification**, Vrund Shah et.al., Paper: [http://arxiv.org/abs/2410.10736v1](http://arxiv.org/abs/2410.10736v1), Code: **[https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**
 - 2024-10-14, **Navigation under uncertainty: Trajectory prediction and occlusion reasoning with switching dynamical systems**, Ran Wei et.al., Paper: [http://arxiv.org/abs/2410.10653v1](http://arxiv.org/abs/2410.10653v1)
 - 2024-10-14, **DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2410.10429v1](http://arxiv.org/abs/2410.10429v1)
-- 2024-10-15, **LoRD: Adapting Differentiable Driving Policies to Distribution Shifts**, Christopher Diehl et.al., Paper: [http://arxiv.org/abs/2410.09681v2](http://arxiv.org/abs/2410.09681v2)
 
 ## Autonomous_Driving_Decision
 
