@@ -34,7 +34,6 @@
 - 2024-10-16, **MambaBEV: An efficient 3D detection model with Mamba2**, Zihan You et.al., Paper: [http://arxiv.org/abs/2410.12673v1](http://arxiv.org/abs/2410.12673v1)
 - 2024-10-16, **Real-time Stereo-based 3D Object Detection for Streaming Perception**, Changcai Li et.al., Paper: [http://arxiv.org/abs/2410.12394v1](http://arxiv.org/abs/2410.12394v1), Code: **[https://github.com/weiyangdaren/streamdsgn-pytorch](https://github.com/weiyangdaren/streamdsgn-pytorch)**
 - 2024-10-14, **Study on the Helpfulness of Explainable Artificial Intelligence**, Tobias Labarta et.al., Paper: [http://arxiv.org/abs/2410.11896v1](http://arxiv.org/abs/2410.11896v1)
-- 2024-10-13, **Distributed Intelligent Video Surveillance for Early Armed Robbery Detection based on Deep Learning**, Sergio Fernandez-Testa et.al., Paper: [http://arxiv.org/abs/2410.09731v1](http://arxiv.org/abs/2410.09731v1), Code: **[https://github.com/Coding-Rod/crime_detection](https://github.com/Coding-Rod/crime_detection)**
 
 ## Autonomous_Driving_LLM
 
