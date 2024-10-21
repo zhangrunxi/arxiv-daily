@@ -1,4 +1,4 @@
-> Updated on 2024.10.20
+> Updated on 2024.10.21
 
 ## Autonomous_Driving_Planning
 
@@ -43,6 +43,6 @@
 ## Autonomous_Driving_RL
 
 - 2024-10-16, **Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2410.12568v1](http://arxiv.org/abs/2410.12568v1)
-- 2024-10-16, **Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**, Kui Wang et.al., Paper: [http://arxiv.org/abs/2410.12163v1](http://arxiv.org/abs/2410.12163v1)
+- 2024-10-18, **Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**, Kui Wang et.al., Paper: [http://arxiv.org/abs/2410.12163v2](http://arxiv.org/abs/2410.12163v2)
 - 2024-10-15, **SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**, Jeffrey Li et.al., Paper: [http://arxiv.org/abs/2410.11571v1](http://arxiv.org/abs/2410.11571v1)
 

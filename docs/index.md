@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 
 ## Autonomous_Driving_Planning
 
@@ -59,6 +59,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v1-b31b1b.svg)](http://arxiv.org/abs/2410.12568v1)|null|
-|**2024-10-16**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v1-b31b1b.svg)](http://arxiv.org/abs/2410.12163v1)|null|
+|**2024-10-18**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v2-b31b1b.svg)](http://arxiv.org/abs/2410.12163v2)|null|
 |**2024-10-15**|**SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**|Jeffrey Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11571v1-b31b1b.svg)](http://arxiv.org/abs/2410.11571v1)|null|
 
