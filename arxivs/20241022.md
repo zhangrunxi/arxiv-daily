@@ -8,7 +8,6 @@
 |**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|null|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
 |**2024-10-16**|**RTI-NMPC for Control of Autonomous Vehicles Using Implicit Discretization Methods**|Matheus Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12170v1-b31b1b.svg)](http://arxiv.org/abs/2410.12170v1)|null|
-|**2024-10-15**|**A Data-Driven Aggressive Autonomous Racing Framework Utilizing Local Trajectory Planning with Velocity Prediction**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11570v1-b31b1b.svg)](http://arxiv.org/abs/2410.11570v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhouhengli/vpmpcc)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -67,5 +66,4 @@
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|
 |**2024-10-20**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v2-b31b1b.svg)](http://arxiv.org/abs/2410.12568v2)|null|
 |**2024-10-18**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v2-b31b1b.svg)](http://arxiv.org/abs/2410.12163v2)|null|
-|**2024-10-15**|**SDS -- See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration**|Jeffrey Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.11571v1-b31b1b.svg)](http://arxiv.org/abs/2410.11571v1)|null|
 
