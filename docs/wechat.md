@@ -1,4 +1,4 @@
-> Updated on 2024.10.22
+> Updated on 2024.10.23
 
 ## Autonomous_Driving_Planning
 
@@ -30,8 +30,6 @@
 - 2024-10-17, **Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**, Minxing Zheng et.al., Paper: [http://arxiv.org/abs/2410.13735v1](http://arxiv.org/abs/2410.13735v1)
 - 2024-10-20, **Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2410.12568v2](http://arxiv.org/abs/2410.12568v2)
 - 2024-10-16, **Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**, Linwei Tao et.al., Paper: [http://arxiv.org/abs/2410.12295v1](http://arxiv.org/abs/2410.12295v1)
-- 2024-10-15, **System-Level Analysis of Module Uncertainty Quantification in the Autonomy Pipeline**, Sampada Deglurkar et.al., Paper: [http://arxiv.org/abs/2410.12019v1](http://arxiv.org/abs/2410.12019v1)
-- 2024-10-15, **Technical Report of 1:10 Scale Autonomous Vehicle Robot**, Amirhossein Kheiri Holighi et.al., Paper: [http://arxiv.org/abs/2410.11746v1](http://arxiv.org/abs/2410.11746v1)
 
 ## Autonomous_Driving_E2E
 
@@ -42,7 +40,7 @@
 
 ## Autonomous_Driving_LLM
 
-- 2024-10-21, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v1](http://arxiv.org/abs/2410.16197v1)
+- 2024-10-22, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v2](http://arxiv.org/abs/2410.16197v2)
 - 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
 - 2024-10-20, **Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.15281v1](http://arxiv.org/abs/2410.15281v1)
 - 2024-10-20, **Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2410.12568v2](http://arxiv.org/abs/2410.12568v2)
