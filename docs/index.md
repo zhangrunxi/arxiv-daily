@@ -11,12 +11,12 @@ layout: default
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15912v1-b31b1b.svg)](http://arxiv.org/abs/2410.15912v1)|null|
 |**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|null|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
-|**2024-10-16**|**RTI-NMPC for Control of Autonomous Vehicles Using Implicit Discretization Methods**|Matheus Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12170v1-b31b1b.svg)](http://arxiv.org/abs/2410.12170v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Pedestrian motion prediction evaluation for urban autonomous driving**|Dmytro Zabolotnii et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16864v1-b31b1b.svg)](http://arxiv.org/abs/2410.16864v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytrozabolotnii/autoware_mini)**|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16083v1-b31b1b.svg)](http://arxiv.org/abs/2410.16083v1)|null|
 |**2024-10-21**|**WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**|Heng Zhai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15792v1-b31b1b.svg)](http://arxiv.org/abs/2410.15792v1)|null|
 |**2024-10-21**|**SPARC: Prediction-Based Safe Control for Coupled Controllable and Uncontrollable Agents with Conformal Predictions**|Shuqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15660v1-b31b1b.svg)](http://arxiv.org/abs/2410.15660v1)|null|
@@ -24,9 +24,6 @@ layout: default
 |**2024-10-18**|**A Hybrid Defense Strategy for Boosting Adversarial Robustness in Vision-Language Models**|Yuhan Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14911v1-b31b1b.svg)](http://arxiv.org/abs/2410.14911v1)|null|
 |**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14612v1-b31b1b.svg)](http://arxiv.org/abs/2410.14612v1)|null|
 |**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
-|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12394v1-b31b1b.svg)](http://arxiv.org/abs/2410.12394v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weiyangdaren/streamdsgn-pytorch)**|
-|**2024-10-16**|**Sparse Prototype Network for Explainable Pedestrian Behavior Prediction**|Yan Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12195v1-b31b1b.svg)](http://arxiv.org/abs/2410.12195v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/equinoxxxxx/spn)**|
-|**2024-10-16**|**RTI-NMPC for Control of Autonomous Vehicles Using Implicit Discretization Methods**|Matheus Wagner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12170v1-b31b1b.svg)](http://arxiv.org/abs/2410.12170v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -39,7 +36,6 @@ layout: default
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|
 |**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
 |**2024-10-20**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v2-b31b1b.svg)](http://arxiv.org/abs/2410.12568v2)|null|
-|**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12295v1-b31b1b.svg)](http://arxiv.org/abs/2410.12295v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -48,7 +44,6 @@ layout: default
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-21**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13571v2-b31b1b.svg)](http://arxiv.org/abs/2410.13571v2)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12673v1-b31b1b.svg)](http://arxiv.org/abs/2410.12673v1)|null|
-|**2024-10-16**|**Real-time Stereo-based 3D Object Detection for Streaming Perception**|Changcai Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12394v1-b31b1b.svg)](http://arxiv.org/abs/2410.12394v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weiyangdaren/streamdsgn-pytorch)**|
 
 ## Autonomous_Driving_LLM
 
@@ -58,7 +53,6 @@ layout: default
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 |**2024-10-20**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v2-b31b1b.svg)](http://arxiv.org/abs/2410.12568v2)|null|
-|**2024-10-16**|**Consistency Calibration: Improving Uncertainty Calibration via Consistency among Perturbed Neighbors**|Linwei Tao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12295v1-b31b1b.svg)](http://arxiv.org/abs/2410.12295v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -67,5 +61,4 @@ layout: default
 |**2024-10-21**|**Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**|Matthias Bitzer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15987v1-b31b1b.svg)](http://arxiv.org/abs/2410.15987v1)|null|
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|
 |**2024-10-20**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12568v2-b31b1b.svg)](http://arxiv.org/abs/2410.12568v2)|null|
-|**2024-10-18**|**Augmented Intelligence in Smart Intersections: Local Digital Twins-Assisted Hybrid Autonomous Driving**|Kui Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.12163v2-b31b1b.svg)](http://arxiv.org/abs/2410.12163v2)|null|
 
