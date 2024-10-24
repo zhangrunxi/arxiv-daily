@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17576v1-b31b1b.svg)](http://arxiv.org/abs/2410.17576v1)|null|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15912v1-b31b1b.svg)](http://arxiv.org/abs/2410.15912v1)|null|
 |**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|null|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
@@ -16,6 +17,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18072v1-b31b1b.svg)](http://arxiv.org/abs/2410.18072v1)|null|
+|**2024-10-22**|**Real-time experiment-theory closed-loop interaction for autonomous materials science**|Haotong Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17430v1-b31b1b.svg)](http://arxiv.org/abs/2410.17430v1)|null|
+|**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-22**|**Pedestrian motion prediction evaluation for urban autonomous driving**|Dmytro Zabolotnii et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16864v1-b31b1b.svg)](http://arxiv.org/abs/2410.16864v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmytrozabolotnii/autoware_mini)**|
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16083v1-b31b1b.svg)](http://arxiv.org/abs/2410.16083v1)|null|
 |**2024-10-21**|**WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**|Heng Zhai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15792v1-b31b1b.svg)](http://arxiv.org/abs/2410.15792v1)|null|
@@ -23,12 +27,12 @@ layout: default
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
 |**2024-10-18**|**A Hybrid Defense Strategy for Boosting Adversarial Robustness in Vision-Language Models**|Yuhan Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14911v1-b31b1b.svg)](http://arxiv.org/abs/2410.14911v1)|null|
 |**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14612v1-b31b1b.svg)](http://arxiv.org/abs/2410.14612v1)|null|
-|**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-20**|**XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**|Sazid Nazat et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15405v1-b31b1b.svg)](http://arxiv.org/abs/2410.15405v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems)**|
 |**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15374v1-b31b1b.svg)](http://arxiv.org/abs/2410.15374v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
@@ -40,6 +44,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18072v1-b31b1b.svg)](http://arxiv.org/abs/2410.18072v1)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-21**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13571v2-b31b1b.svg)](http://arxiv.org/abs/2410.13571v2)|null|
 
@@ -55,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-21**|**Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**|Matthias Bitzer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15987v1-b31b1b.svg)](http://arxiv.org/abs/2410.15987v1)|null|
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|
 
