@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 
 ## Autonomous_Driving_Planning
 
@@ -38,7 +38,6 @@ layout: default
 |**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15374v1-b31b1b.svg)](http://arxiv.org/abs/2410.15374v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
 |**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|
-|**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13735v1-b31b1b.svg)](http://arxiv.org/abs/2410.13735v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -46,13 +45,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-23**|**WorldSimBench: Towards Video Generation Models as World Simulators**|Yiran Qin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18072v1-b31b1b.svg)](http://arxiv.org/abs/2410.18072v1)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
-|**2024-10-21**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.13571v2-b31b1b.svg)](http://arxiv.org/abs/2410.13571v2)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-22**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v2-b31b1b.svg)](http://arxiv.org/abs/2410.16197v2)|null|
+|**2024-10-24**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v3-b31b1b.svg)](http://arxiv.org/abs/2410.16197v3)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 

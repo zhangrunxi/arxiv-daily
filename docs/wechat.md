@@ -1,4 +1,4 @@
-> Updated on 2024.10.24
+> Updated on 2024.10.25
 
 ## Autonomous_Driving_Planning
 
@@ -28,17 +28,15 @@
 - 2024-10-20, **Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**, Seyed Mohammad Ahmadi et.al., Paper: [http://arxiv.org/abs/2410.15374v1](http://arxiv.org/abs/2410.15374v1), Code: **[https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**
 - 2024-10-20, **Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.15281v1](http://arxiv.org/abs/2410.15281v1)
 - 2024-10-21, **Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**, Rongliang Zhou et.al., Paper: [http://arxiv.org/abs/2410.14468v2](http://arxiv.org/abs/2410.14468v2)
-- 2024-10-17, **Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**, Minxing Zheng et.al., Paper: [http://arxiv.org/abs/2410.13735v1](http://arxiv.org/abs/2410.13735v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-10-23, **WorldSimBench: Towards Video Generation Models as World Simulators**, Yiran Qin et.al., Paper: [http://arxiv.org/abs/2410.18072v1](http://arxiv.org/abs/2410.18072v1)
 - 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
-- 2024-10-21, **DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**, Guosheng Zhao et.al., Paper: [http://arxiv.org/abs/2410.13571v2](http://arxiv.org/abs/2410.13571v2)
 
 ## Autonomous_Driving_LLM
 
-- 2024-10-22, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v2](http://arxiv.org/abs/2410.16197v2)
+- 2024-10-24, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v3](http://arxiv.org/abs/2410.16197v3)
 - 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
 - 2024-10-20, **Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.15281v1](http://arxiv.org/abs/2410.15281v1)
 
