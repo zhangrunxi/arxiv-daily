@@ -4,9 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17576v1-b31b1b.svg)](http://arxiv.org/abs/2410.17576v1)|null|
+|**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17576v1-b31b1b.svg)](http://arxiv.org/abs/2410.17576v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)**|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15912v1-b31b1b.svg)](http://arxiv.org/abs/2410.15912v1)|null|
-|**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|null|
+|**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsinghua-mars-lab/statetransformer)**|
 |**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
 
 ## Autonomous_Driving_Prediction
@@ -46,7 +46,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-24**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v3-b31b1b.svg)](http://arxiv.org/abs/2410.16197v3)|null|
+|**2024-10-24**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v3-b31b1b.svg)](http://arxiv.org/abs/2410.16197v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io)**|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 
@@ -54,6 +54,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Learning Transparent Reward Models via Unsupervised Feature Selection**|Daulet Baimukashev et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18608v1-b31b1b.svg)](http://arxiv.org/abs/2410.18608v1)|null|
+|**2024-10-24**|**Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**|Lachlan Mares et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.18462v1-b31b1b.svg)](http://arxiv.org/abs/2410.18462v1)|null|
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-21**|**Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**|Matthias Bitzer et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15987v1-b31b1b.svg)](http://arxiv.org/abs/2410.15987v1)|null|
 |**2024-10-21**|**Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**|Rongliang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14468v2-b31b1b.svg)](http://arxiv.org/abs/2410.14468v2)|null|

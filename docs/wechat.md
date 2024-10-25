@@ -2,9 +2,9 @@
 
 ## Autonomous_Driving_Planning
 
-- 2024-10-23, **Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**, Xinwen Zhu et.al., Paper: [http://arxiv.org/abs/2410.17576v1](http://arxiv.org/abs/2410.17576v1)
+- 2024-10-23, **Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**, Xinwen Zhu et.al., Paper: [http://arxiv.org/abs/2410.17576v1](http://arxiv.org/abs/2410.17576v1), Code: **[https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)**
 - 2024-10-21, **Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**, Zhengming Wang et.al., Paper: [http://arxiv.org/abs/2410.15912v1](http://arxiv.org/abs/2410.15912v1)
-- 2024-10-21, **Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**, Qiao Sun et.al., Paper: [http://arxiv.org/abs/2410.15774v1](http://arxiv.org/abs/2410.15774v1)
+- 2024-10-21, **Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**, Qiao Sun et.al., Paper: [http://arxiv.org/abs/2410.15774v1](http://arxiv.org/abs/2410.15774v1), Code: **[https://github.com/tsinghua-mars-lab/statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)**
 - 2024-10-19, **EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**, Junkai Jiang et.al., Paper: [http://arxiv.org/abs/2410.14996v1](http://arxiv.org/abs/2410.14996v1)
 
 ## Autonomous_Driving_Prediction
@@ -36,12 +36,14 @@
 
 ## Autonomous_Driving_LLM
 
-- 2024-10-24, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v3](http://arxiv.org/abs/2410.16197v3)
+- 2024-10-24, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v3](http://arxiv.org/abs/2410.16197v3), Code: **[https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io](https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io)**
 - 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
 - 2024-10-20, **Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**, Can Cui et.al., Paper: [http://arxiv.org/abs/2410.15281v1](http://arxiv.org/abs/2410.15281v1)
 
 ## Autonomous_Driving_RL
 
+- 2024-10-24, **Learning Transparent Reward Models via Unsupervised Feature Selection**, Daulet Baimukashev et.al., Paper: [http://arxiv.org/abs/2410.18608v1](http://arxiv.org/abs/2410.18608v1)
+- 2024-10-24, **Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**, Lachlan Mares et.al., Paper: [http://arxiv.org/abs/2410.18462v1](http://arxiv.org/abs/2410.18462v1)
 - 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 - 2024-10-21, **Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**, Matthias Bitzer et.al., Paper: [http://arxiv.org/abs/2410.15987v1](http://arxiv.org/abs/2410.15987v1)
 - 2024-10-21, **Knowledge Transfer from Simple to Complex: A Safe and Efficient Reinforcement Learning Framework for Autonomous Driving Decision-Making**, Rongliang Zhou et.al., Paper: [http://arxiv.org/abs/2410.14468v2](http://arxiv.org/abs/2410.14468v2)
