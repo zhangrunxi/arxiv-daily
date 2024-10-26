@@ -7,7 +7,6 @@
 |**2024-10-23**|**Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**|Xinwen Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17576v1-b31b1b.svg)](http://arxiv.org/abs/2410.17576v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)**|
 |**2024-10-21**|**Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**|Zhengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15912v1-b31b1b.svg)](http://arxiv.org/abs/2410.15912v1)|null|
 |**2024-10-21**|**Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**|Qiao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15774v1-b31b1b.svg)](http://arxiv.org/abs/2410.15774v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsinghua-mars-lab/statetransformer)**|
-|**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -20,7 +19,6 @@
 |**2024-10-21**|**Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**|Zhezhang Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16083v1-b31b1b.svg)](http://arxiv.org/abs/2410.16083v1)|null|
 |**2024-10-21**|**WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**|Heng Zhai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15792v1-b31b1b.svg)](http://arxiv.org/abs/2410.15792v1)|null|
 |**2024-10-23**|**SPARC: Prediction-Based Safe Control for Coupled Controllable and Uncontrollable Agents with Conformal Predictions**|Shuqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15660v2-b31b1b.svg)](http://arxiv.org/abs/2410.15660v2)|null|
-|**2024-10-19**|**EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**|Junkai Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.14996v1-b31b1b.svg)](http://arxiv.org/abs/2410.14996v1)|null|
 
 ## Autonomous_Driving_Decision
 

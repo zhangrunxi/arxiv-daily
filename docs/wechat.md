@@ -5,7 +5,6 @@
 - 2024-10-23, **Real-time Vehicle-to-Vehicle Communication Based Network Cooperative Control System through Distributed Database and Multimodal Perception: Demonstrated in Crossroads**, Xinwen Zhu et.al., Paper: [http://arxiv.org/abs/2410.17576v1](http://arxiv.org/abs/2410.17576v1), Code: **[https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease](https://github.com/essoz/distributed-intersection-traffic-coordination-with-lease)**
 - 2024-10-21, **Bench4Merge: A Comprehensive Benchmark for Merging in Realistic Dense Traffic with Micro-Interactive Vehicles**, Zhengming Wang et.al., Paper: [http://arxiv.org/abs/2410.15912v1](http://arxiv.org/abs/2410.15912v1)
 - 2024-10-21, **Generalizing Motion Planners with Mixture of Experts for Autonomous Driving**, Qiao Sun et.al., Paper: [http://arxiv.org/abs/2410.15774v1](http://arxiv.org/abs/2410.15774v1), Code: **[https://github.com/tsinghua-mars-lab/statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)**
-- 2024-10-19, **EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**, Junkai Jiang et.al., Paper: [http://arxiv.org/abs/2410.14996v1](http://arxiv.org/abs/2410.14996v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -16,7 +15,6 @@
 - 2024-10-21, **Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**, Zhezhang Ding et.al., Paper: [http://arxiv.org/abs/2410.16083v1](http://arxiv.org/abs/2410.16083v1)
 - 2024-10-21, **WildOcc: A Benchmark for Off-Road 3D Semantic Occupancy Prediction**, Heng Zhai et.al., Paper: [http://arxiv.org/abs/2410.15792v1](http://arxiv.org/abs/2410.15792v1)
 - 2024-10-23, **SPARC: Prediction-Based Safe Control for Coupled Controllable and Uncontrollable Agents with Conformal Predictions**, Shuqi Wang et.al., Paper: [http://arxiv.org/abs/2410.15660v2](http://arxiv.org/abs/2410.15660v2)
-- 2024-10-19, **EDRF: Enhanced Driving Risk Field Based on Multimodal Trajectory Prediction and Its Applications**, Junkai Jiang et.al., Paper: [http://arxiv.org/abs/2410.14996v1](http://arxiv.org/abs/2410.14996v1)
 
 ## Autonomous_Driving_Decision
 
