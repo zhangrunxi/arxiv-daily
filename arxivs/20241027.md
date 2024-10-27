@@ -27,8 +27,6 @@
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
 |**2024-10-20**|**XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**|Sazid Nazat et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15405v1-b31b1b.svg)](http://arxiv.org/abs/2410.15405v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems)**|
-|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15374v1-b31b1b.svg)](http://arxiv.org/abs/2410.15374v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
-|**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -43,7 +41,6 @@
 |---|---|---|---|---|
 |**2024-10-24**|**LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.16197v3-b31b1b.svg)](http://arxiv.org/abs/2410.16197v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io)**|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
-|**2024-10-20**|**Large Language Models for Autonomous Driving (LLM4AD): Concept, Benchmark, Simulation, and Real-Vehicle Experiment**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15281v1-b31b1b.svg)](http://arxiv.org/abs/2410.15281v1)|null|
 
 ## Autonomous_Driving_RL
 
