@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 
 ## Autonomous_Driving_Planning
 
@@ -30,7 +30,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.17373v1-b31b1b.svg)](http://arxiv.org/abs/2410.17373v1)|null|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15885v1-b31b1b.svg)](http://arxiv.org/abs/2410.15885v1)|null|
-|**2024-10-20**|**XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**|Sazid Nazat et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.15405v1-b31b1b.svg)](http://arxiv.org/abs/2410.15405v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems)**|
 
 ## Autonomous_Driving_E2E
 

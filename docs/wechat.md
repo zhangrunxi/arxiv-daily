@@ -1,4 +1,4 @@
-> Updated on 2024.10.27
+> Updated on 2024.10.28
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@
 
 - 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 - 2024-10-21, **How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**, Zuojin Tang et.al., Paper: [http://arxiv.org/abs/2410.15885v1](http://arxiv.org/abs/2410.15885v1)
-- 2024-10-20, **XAI-based Feature Ensemble for Enhanced Anomaly Detection in Autonomous Driving Systems**, Sazid Nazat et.al., Paper: [http://arxiv.org/abs/2410.15405v1](http://arxiv.org/abs/2410.15405v1), Code: **[https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems](https://github.com/nazat28/xai-based-feature-ensemble-for-enhanced-anomaly-detection-in-autonomous-driving-systems)**
 
 ## Autonomous_Driving_E2E
 
