@@ -33,5 +33,4 @@
 - 2024-10-24, **Learning Transparent Reward Models via Unsupervised Feature Selection**, Daulet Baimukashev et.al., Paper: [http://arxiv.org/abs/2410.18608v1](http://arxiv.org/abs/2410.18608v1)
 - 2024-10-24, **Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**, Lachlan Mares et.al., Paper: [http://arxiv.org/abs/2410.18462v1](http://arxiv.org/abs/2410.18462v1)
 - 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
-- 2024-10-21, **Analyzing Closed-loop Training Techniques for Realistic Traffic Agent Models in Autonomous Highway Driving Simulations**, Matthias Bitzer et.al., Paper: [http://arxiv.org/abs/2410.15987v1](http://arxiv.org/abs/2410.15987v1)
 
