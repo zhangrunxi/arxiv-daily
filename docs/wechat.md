@@ -1,4 +1,4 @@
-> Updated on 2024.10.28
+> Updated on 2024.10.29
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,6 @@
 - 2024-10-22, **Real-time experiment-theory closed-loop interaction for autonomous materials science**, Haotong Liang et.al., Paper: [http://arxiv.org/abs/2410.17430v1](http://arxiv.org/abs/2410.17430v1)
 - 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 - 2024-10-22, **Pedestrian motion prediction evaluation for urban autonomous driving**, Dmytro Zabolotnii et.al., Paper: [http://arxiv.org/abs/2410.16864v1](http://arxiv.org/abs/2410.16864v1), Code: **[https://github.com/dmytrozabolotnii/autoware_mini](https://github.com/dmytrozabolotnii/autoware_mini)**
-- 2024-10-21, **Critical Example Mining for Vehicle Trajectory Prediction using Flow-based Generative Models**, Zhezhang Ding et.al., Paper: [http://arxiv.org/abs/2410.16083v1](http://arxiv.org/abs/2410.16083v1)
 
 ## Autonomous_Driving_Decision
 
@@ -23,10 +22,6 @@
 ## Autonomous_Driving_E2E
 
 - 2024-10-23, **WorldSimBench: Towards Video Generation Models as World Simulators**, Yiran Qin et.al., Paper: [http://arxiv.org/abs/2410.18072v1](http://arxiv.org/abs/2410.18072v1)
-
-## Autonomous_Driving_LLM
-
-- 2024-10-24, **LASER: Script Execution by Autonomous Agents for On-demand Traffic Simulation**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2410.16197v3](http://arxiv.org/abs/2410.16197v3), Code: **[https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io](https://github.com/CXYyp5SkNg/CXYyp5SkNg.github.io)**
 
 ## Autonomous_Driving_RL
 
