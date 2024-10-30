@@ -1,4 +1,4 @@
-> Updated on 2024.10.29
+> Updated on 2024.10.30
 
 ## Autonomous_Driving_Planning
 
@@ -11,15 +11,12 @@
 - 2024-10-25, **Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**, Liu Yunhao et.al., Paper: [http://arxiv.org/abs/2410.19639v1](http://arxiv.org/abs/2410.19639v1)
 - 2024-10-25, **Multi-modal Motion Prediction using Temporal Ensembling with Learning-based Aggregation**, Kai-Yin Hong et.al., Paper: [http://arxiv.org/abs/2410.19606v1](http://arxiv.org/abs/2410.19606v1)
 - 2024-10-23, **WorldSimBench: Towards Video Generation Models as World Simulators**, Yiran Qin et.al., Paper: [http://arxiv.org/abs/2410.18072v1](http://arxiv.org/abs/2410.18072v1)
-- 2024-10-22, **Real-time experiment-theory closed-loop interaction for autonomous materials science**, Haotong Liang et.al., Paper: [http://arxiv.org/abs/2410.17430v1](http://arxiv.org/abs/2410.17430v1)
-- 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 
 ## Autonomous_Driving_Decision
 
 - 2024-10-28, **Active Legibility in Multiagent Reinforcement Learning**, Yanyu Liu et.al., Paper: [http://arxiv.org/abs/2410.20954v1](http://arxiv.org/abs/2410.20954v1)
 - 2024-10-26, **Neural Fields in Robotics: A Survey**, Muhammad Zubair Irshad et.al., Paper: [http://arxiv.org/abs/2410.20220v1](http://arxiv.org/abs/2410.20220v1)
 - 2024-10-25, **Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**, Liu Yunhao et.al., Paper: [http://arxiv.org/abs/2410.19639v1](http://arxiv.org/abs/2410.19639v1)
-- 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 
 ## Autonomous_Driving_E2E
 
@@ -32,5 +29,4 @@
 - 2024-10-28, **Active Legibility in Multiagent Reinforcement Learning**, Yanyu Liu et.al., Paper: [http://arxiv.org/abs/2410.20954v1](http://arxiv.org/abs/2410.20954v1)
 - 2024-10-24, **Learning Transparent Reward Models via Unsupervised Feature Selection**, Daulet Baimukashev et.al., Paper: [http://arxiv.org/abs/2410.18608v1](http://arxiv.org/abs/2410.18608v1)
 - 2024-10-24, **Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**, Lachlan Mares et.al., Paper: [http://arxiv.org/abs/2410.18462v1](http://arxiv.org/abs/2410.18462v1)
-- 2024-10-22, **Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**, Dongsu Lee et.al., Paper: [http://arxiv.org/abs/2410.17373v1](http://arxiv.org/abs/2410.17373v1)
 
