@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.02
+## Updated on 2024.11.03
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23262v1-b31b1b.svg)](http://arxiv.org/abs/2410.23262v1)|null|
 |**2024-10-29**|**Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes**|Yufeng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22527v1-b31b1b.svg)](http://arxiv.org/abs/2410.22527v1)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/senna)**|
-|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20220v1-b31b1b.svg)](http://arxiv.org/abs/2410.20220v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -33,7 +32,6 @@ layout: default
 |**2024-10-29**|**Building Altruistic and Moral AI Agent with Brain-inspired Affective Empathy Mechanisms**|Feifei Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21882v1-b31b1b.svg)](http://arxiv.org/abs/2410.21882v1)|null|
 |**2024-10-30**|**Enhancing Safety and Robustness of Vision-Based Controllers via Reachability Analysis**|Kaustav Chakraborty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21736v2-b31b1b.svg)](http://arxiv.org/abs/2410.21736v2)|null|
 |**2024-10-28**|**Active Legibility in Multiagent Reinforcement Learning**|Yanyu Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20954v1-b31b1b.svg)](http://arxiv.org/abs/2410.20954v1)|null|
-|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.20220v1-b31b1b.svg)](http://arxiv.org/abs/2410.20220v1)|null|
 
 ## Autonomous_Driving_E2E
 
