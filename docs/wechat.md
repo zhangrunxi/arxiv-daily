@@ -27,7 +27,6 @@
 - 2024-10-30, **EMMA: End-to-End Multimodal Model for Autonomous Driving**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2410.23262v1](http://arxiv.org/abs/2410.23262v1)
 - 2024-10-29, **Pre-Trained Vision Models as Perception Backbones for Safety Filters in Autonomous Driving**, Yuxuan Yang et.al., Paper: [http://arxiv.org/abs/2410.22585v1](http://arxiv.org/abs/2410.22585v1)
 - 2024-10-29, **Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2410.22313v1](http://arxiv.org/abs/2410.22313v1), Code: **[https://github.com/hustvl/senna](https://github.com/hustvl/senna)**
-- 2024-10-28, **Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**, Franck Djeumou et.al., Paper: [http://arxiv.org/abs/2410.20990v1](http://arxiv.org/abs/2410.20990v1)
 
 ## Autonomous_Driving_LLM
 
@@ -37,5 +36,4 @@
 
 - 2024-10-31, **Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**, Jiaqi Liu et.al., Paper: [http://arxiv.org/abs/2410.24152v1](http://arxiv.org/abs/2410.24152v1)
 - 2024-10-30, **Self-Driving Car Racing: Application of Deep Reinforcement Learning**, Florentiana Yuwono et.al., Paper: [http://arxiv.org/abs/2410.22766v1](http://arxiv.org/abs/2410.22766v1)
-- 2024-10-28, **Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**, Franck Djeumou et.al., Paper: [http://arxiv.org/abs/2410.20990v1](http://arxiv.org/abs/2410.20990v1)
 
