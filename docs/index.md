@@ -8,8 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
+|**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24116v1-b31b1b.svg)](http://arxiv.org/abs/2410.24116v1)|null|
-|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23262v1-b31b1b.svg)](http://arxiv.org/abs/2410.23262v1)|null|
+|**2024-11-04**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23262v2-b31b1b.svg)](http://arxiv.org/abs/2410.23262v2)|null|
 |**2024-10-29**|**Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes**|Yufeng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22527v1-b31b1b.svg)](http://arxiv.org/abs/2410.22527v1)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/senna)**|
 
@@ -17,26 +19,34 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|null|
+|**2024-11-04**|**Traffic and Safety Rule Compliance of Humans in Diverse Driving Situations**|Michael Kurenkov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01909v1-b31b1b.svg)](http://arxiv.org/abs/2411.01909v1)|null|
+|**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
+|**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
+|**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24116v1-b31b1b.svg)](http://arxiv.org/abs/2410.24116v1)|null|
 |**2024-10-31**|**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**|Alireza Abbaspour et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23207v2-b31b1b.svg)](http://arxiv.org/abs/2410.23207v2)|null|
 |**2024-10-29**|**Intelligent Mobility System with Integrated Motion Planning and Control Utilizing Infrastructure Sensor Nodes**|Yufeng Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22527v1-b31b1b.svg)](http://arxiv.org/abs/2410.22527v1)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/senna)**|
-|**2024-10-30**|**Enhancing Safety and Robustness of Vision-Based Controllers via Reachability Analysis**|Kaustav Chakraborty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21736v2-b31b1b.svg)](http://arxiv.org/abs/2410.21736v2)|null|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
+|**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
+|**2024-10-31**|**Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving**|Ce Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00192v1-b31b1b.svg)](http://arxiv.org/abs/2411.00192v1)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24152v1-b31b1b.svg)](http://arxiv.org/abs/2410.24152v1)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/senna)**|
-|**2024-10-29**|**Building Altruistic and Moral AI Agent with Brain-inspired Affective Empathy Mechanisms**|Feifei Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21882v1-b31b1b.svg)](http://arxiv.org/abs/2410.21882v1)|null|
-|**2024-10-30**|**Enhancing Safety and Robustness of Vision-Based Controllers via Reachability Analysis**|Kaustav Chakraborty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.21736v2-b31b1b.svg)](http://arxiv.org/abs/2410.21736v2)|null|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23262v1-b31b1b.svg)](http://arxiv.org/abs/2410.23262v1)|null|
+|**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
+|**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00608v1-b31b1b.svg)](http://arxiv.org/abs/2411.00608v1)|null|
+|**2024-10-31**|**Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving**|Ce Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00192v1-b31b1b.svg)](http://arxiv.org/abs/2411.00192v1)|null|
+|**2024-11-04**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.23262v2-b31b1b.svg)](http://arxiv.org/abs/2410.23262v2)|null|
 |**2024-10-29**|**Pre-Trained Vision Models as Perception Backbones for Safety Filters in Autonomous Driving**|Yuxuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22585v1-b31b1b.svg)](http://arxiv.org/abs/2410.22585v1)|null|
 |**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.22313v1-b31b1b.svg)](http://arxiv.org/abs/2410.22313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/senna)**|
 
@@ -44,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24152v1-b31b1b.svg)](http://arxiv.org/abs/2410.24152v1)|null|
 
 ## Autonomous_Driving_RL
