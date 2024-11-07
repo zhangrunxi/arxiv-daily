@@ -9,6 +9,7 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2024-11-06, **OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**, Ji Zhang et.al., Paper: [http://arxiv.org/abs/2411.03696v1](http://arxiv.org/abs/2411.03696v1)
 - 2024-11-05, **Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**, Bin Huang et.al., Paper: [http://arxiv.org/abs/2411.02999v1](http://arxiv.org/abs/2411.02999v1)
 - 2024-11-05, **Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**, Xavier Timoneda et.al., Paper: [http://arxiv.org/abs/2411.02969v1](http://arxiv.org/abs/2411.02969v1)
 - 2024-11-04, **Learning Multiple Initial Solutions to Optimization Problems**, Elad Sharony et.al., Paper: [http://arxiv.org/abs/2411.02158v1](http://arxiv.org/abs/2411.02158v1), Code: **[https://github.com/EladSharony/miso](https://github.com/EladSharony/miso)**
@@ -20,6 +21,7 @@
 
 ## Autonomous_Driving_Decision
 
+- 2024-11-06, **Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**, Depanshu Sani et.al., Paper: [http://arxiv.org/abs/2411.03702v1](http://arxiv.org/abs/2411.03702v1)
 - 2024-11-05, **Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**, Bin Huang et.al., Paper: [http://arxiv.org/abs/2411.02999v1](http://arxiv.org/abs/2411.02999v1)
 - 2024-11-05, **Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2411.02914v1](http://arxiv.org/abs/2411.02914v1)
 - 2024-11-01, **PlanScope: Learning to Plan Within Decision Scope Does Matter**, Ren Xin et.al., Paper: [http://arxiv.org/abs/2411.00476v1](http://arxiv.org/abs/2411.00476v1)

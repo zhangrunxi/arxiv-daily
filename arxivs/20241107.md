@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03696v1-b31b1b.svg)](http://arxiv.org/abs/2411.03696v1)|null|
 |**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02999v1-b31b1b.svg)](http://arxiv.org/abs/2411.02999v1)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02969v1-b31b1b.svg)](http://arxiv.org/abs/2411.02969v1)|null|
 |**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EladSharony/miso)**|
@@ -26,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03702v1-b31b1b.svg)](http://arxiv.org/abs/2411.03702v1)|null|
 |**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02999v1-b31b1b.svg)](http://arxiv.org/abs/2411.02999v1)|null|
 |**2024-11-05**|**Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**|Ao Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02914v1-b31b1b.svg)](http://arxiv.org/abs/2411.02914v1)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
