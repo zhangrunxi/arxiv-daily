@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@ layout: default
 |**2024-11-04**|**Nudge: Haptic Pre-Cueing to Communicate Automotive Intent**|Nikhil Gowda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02789v1-b31b1b.svg)](http://arxiv.org/abs/2411.02789v1)|null|
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
-|**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24116v1-b31b1b.svg)](http://arxiv.org/abs/2410.24116v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +24,6 @@ layout: default
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
 |**2024-11-03**|**Interaction-Aware Trajectory Prediction for Safe Motion Planning in Autonomous Driving: A Transformer-Transfer Learning Approach**|Jinhao Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01475v1-b31b1b.svg)](http://arxiv.org/abs/2411.01475v1)|null|
 |**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
-|**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24116v1-b31b1b.svg)](http://arxiv.org/abs/2410.24116v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -36,8 +34,6 @@ layout: default
 |**2024-11-05**|**Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**|Ao Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02914v1-b31b1b.svg)](http://arxiv.org/abs/2411.02914v1)|null|
 |**2024-11-01**|**PlanScope: Learning to Plan Within Decision Scope Does Matter**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00476v1-b31b1b.svg)](http://arxiv.org/abs/2411.00476v1)|null|
 |**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
-|**2024-10-31**|**Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving**|Ce Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00192v1-b31b1b.svg)](http://arxiv.org/abs/2411.00192v1)|null|
-|**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24152v1-b31b1b.svg)](http://arxiv.org/abs/2410.24152v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -45,18 +41,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|null|
 |**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00608v1-b31b1b.svg)](http://arxiv.org/abs/2411.00608v1)|null|
-|**2024-10-31**|**Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving**|Ce Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00192v1-b31b1b.svg)](http://arxiv.org/abs/2411.00192v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-01**|**Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations**|Yuchen Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00473v1-b31b1b.svg)](http://arxiv.org/abs/2411.00473v1)|null|
-|**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24152v1-b31b1b.svg)](http://arxiv.org/abs/2410.24152v1)|null|
-
-## Autonomous_Driving_RL
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2410.24152v1-b31b1b.svg)](http://arxiv.org/abs/2410.24152v1)|null|
 
