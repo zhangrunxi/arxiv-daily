@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.08
+## Updated on 2024.11.09
 
 ## Autonomous_Driving_Planning
 
@@ -39,7 +39,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-03**|**Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**|Shengqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.01499v1-b31b1b.svg)](http://arxiv.org/abs/2411.01499v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shqww/polarrcnn)**|
-|**2024-11-01**|**HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.00608v1-b31b1b.svg)](http://arxiv.org/abs/2411.00608v1)|null|
 
 ## Autonomous_Driving_RL
 

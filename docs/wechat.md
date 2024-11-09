@@ -1,4 +1,4 @@
-> Updated on 2024.11.08
+> Updated on 2024.11.09
 
 ## Autonomous_Driving_Planning
 
@@ -27,7 +27,6 @@
 ## Autonomous_Driving_E2E
 
 - 2024-11-03, **Polar R-CNN: End-to-End Lane Detection with Fewer Anchors**, Shengqi Wang et.al., Paper: [http://arxiv.org/abs/2411.01499v1](http://arxiv.org/abs/2411.01499v1), Code: **[https://github.com/shqww/polarrcnn](https://github.com/shqww/polarrcnn)**
-- 2024-11-01, **HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2411.00608v1](http://arxiv.org/abs/2411.00608v1)
 
 ## Autonomous_Driving_RL
 
