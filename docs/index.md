@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-07**|**Few-Shot Task Learning through Inverse Generative Modeling**|Aviv Netanyahu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04987v1-b31b1b.svg)](http://arxiv.org/abs/2411.04987v1)|null|
 |**2024-11-07**|**Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**|Chanyoung Chung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04735v1-b31b1b.svg)](http://arxiv.org/abs/2411.04735v1)|null|
-|**2024-11-04**|**Nudge: Haptic Pre-Cueing to Communicate Automotive Intent**|Nikhil Gowda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02789v1-b31b1b.svg)](http://arxiv.org/abs/2411.02789v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -21,7 +20,6 @@ layout: default
 |**2024-11-06**|**OccLoff: Learning Optimized Feature Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.03696v1-b31b1b.svg)](http://arxiv.org/abs/2411.03696v1)|null|
 |**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02999v1-b31b1b.svg)](http://arxiv.org/abs/2411.02999v1)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02969v1-b31b1b.svg)](http://arxiv.org/abs/2411.02969v1)|null|
-|**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.02158v1-b31b1b.svg)](http://arxiv.org/abs/2411.02158v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EladSharony/miso)**|
 
 ## Autonomous_Driving_Decision
 
