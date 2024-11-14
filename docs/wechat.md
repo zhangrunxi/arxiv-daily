@@ -10,6 +10,7 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2024-11-12, **Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**, Renzi Wang et.al., Paper: [http://arxiv.org/abs/2411.08232v1](http://arxiv.org/abs/2411.08232v1)
 - 2024-11-12, **ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2411.07725v1](http://arxiv.org/abs/2411.07725v1)
 - 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
 - 2024-11-12, **A Simple Multi-agent Joint Prediction Method for Autonomous Driving**, Mingyi Wang et.al., Paper: [http://arxiv.org/abs/2411.07612v1](http://arxiv.org/abs/2411.07612v1)
@@ -42,5 +43,4 @@
 ## Autonomous_Driving_RL
 
 - 2024-11-11, **Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**, Lu Yu et.al., Paper: [http://arxiv.org/abs/2411.06773v1](http://arxiv.org/abs/2411.06773v1)
-- 2024-11-07, **IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**, Clémence Grislain et.al., Paper: [http://arxiv.org/abs/2411.04653v1](http://arxiv.org/abs/2411.04653v1), Code: **[https://github.com/clemgris/igdrivsim](https://github.com/clemgris/igdrivsim)**
 

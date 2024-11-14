@@ -18,6 +18,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08232v1-b31b1b.svg)](http://arxiv.org/abs/2411.08232v1)|null|
 |**2024-11-12**|**ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**|Dubing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07725v1-b31b1b.svg)](http://arxiv.org/abs/2411.07725v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07711v1-b31b1b.svg)](http://arxiv.org/abs/2411.07711v1)|null|
 |**2024-11-12**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07612v1-b31b1b.svg)](http://arxiv.org/abs/2411.07612v1)|null|
@@ -58,5 +59,4 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Model Partition and Resource Allocation for Split Learning in Vehicular Edge Networks**|Lu Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06773v1-b31b1b.svg)](http://arxiv.org/abs/2411.06773v1)|null|
-|**2024-11-07**|**IGDrivSim: A Benchmark for the Imitation Gap in Autonomous Driving**|Clémence Grislain et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.04653v1-b31b1b.svg)](http://arxiv.org/abs/2411.04653v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clemgris/igdrivsim)**|
 
