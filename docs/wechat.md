@@ -25,7 +25,6 @@
 - 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
 - 2024-11-11, **Large-scale moral machine experiment on large language models**, Muhammad Shahrul Zaim bin Ahmad et.al., Paper: [http://arxiv.org/abs/2411.06790v1](http://arxiv.org/abs/2411.06790v1), Code: **[https://github.com/kztakemoto/mmllm](https://github.com/kztakemoto/mmllm)**
 - 2024-11-11, **DP and QP Based Decision-making and Planning for Autonomous Vehicle**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06751v1](http://arxiv.org/abs/2411.06751v1)
-- 2024-11-08, **MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**, Zhiwei Li et.al., Paper: [http://arxiv.org/abs/2411.05881v1](http://arxiv.org/abs/2411.05881v1)
 
 ## Autonomous_Driving_E2E
 

@@ -35,7 +35,6 @@ layout: default
 |**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06851v1-b31b1b.svg)](http://arxiv.org/abs/2411.06851v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelag99/efficient-instance-prediction)**|
 |**2024-11-11**|**Large-scale moral machine experiment on large language models**|Muhammad Shahrul Zaim bin Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06790v1-b31b1b.svg)](http://arxiv.org/abs/2411.06790v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kztakemoto/mmllm)**|
 |**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06751v1-b31b1b.svg)](http://arxiv.org/abs/2411.06751v1)|null|
-|**2024-11-08**|**MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**|Zhiwei Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05881v1-b31b1b.svg)](http://arxiv.org/abs/2411.05881v1)|null|
 
 ## Autonomous_Driving_E2E
 
