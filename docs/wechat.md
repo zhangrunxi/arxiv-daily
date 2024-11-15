@@ -1,12 +1,10 @@
-> Updated on 2024.11.14
+> Updated on 2024.11.15
 
 ## Autonomous_Driving_Planning
 
 - 2024-11-11, **DP and QP Based Decision-making and Planning for Autonomous Vehicle**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06751v1](http://arxiv.org/abs/2411.06751v1)
 - 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
 - 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
-- 2024-11-07, **Few-Shot Task Learning through Inverse Generative Modeling**, Aviv Netanyahu et.al., Paper: [http://arxiv.org/abs/2411.04987v1](http://arxiv.org/abs/2411.04987v1)
-- 2024-11-07, **Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**, Chanyoung Chung et.al., Paper: [http://arxiv.org/abs/2411.04735v1](http://arxiv.org/abs/2411.04735v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -19,7 +17,6 @@
 - 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
 - 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
 - 2024-11-08, **Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**, Ayobami Adewale et.al., Paper: [http://arxiv.org/abs/2411.05618v1](http://arxiv.org/abs/2411.05618v1)
-- 2024-11-07, **Learning from Demonstration with Hierarchical Policy Abstractions Toward High-Performance and Courteous Autonomous Racing**, Chanyoung Chung et.al., Paper: [http://arxiv.org/abs/2411.04735v1](http://arxiv.org/abs/2411.04735v1)
 
 ## Autonomous_Driving_Decision
 
