@@ -1,4 +1,4 @@
-> Updated on 2024.11.15
+> Updated on 2024.11.16
 
 ## Autonomous_Driving_Planning
 
@@ -16,7 +16,6 @@
 - 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
 - 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
 - 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
-- 2024-11-08, **Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**, Ayobami Adewale et.al., Paper: [http://arxiv.org/abs/2411.05618v1](http://arxiv.org/abs/2411.05618v1)
 
 ## Autonomous_Driving_Decision
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2024-11-09**|**Predictability Awareness for Efficient and Robust Multi-Agent Coordination**|Roman Chiva Gil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06223v1-b31b1b.svg)](http://arxiv.org/abs/2411.06223v1)|null|
 |**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06173v1-b31b1b.svg)](http://arxiv.org/abs/2411.06173v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weijiemax/lssinst)**|
 |**2024-11-09**|**Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**|Fan Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06111v1-b31b1b.svg)](http://arxiv.org/abs/2411.06111v1)|null|
-|**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.05618v1-b31b1b.svg)](http://arxiv.org/abs/2411.05618v1)|null|
 
 ## Autonomous_Driving_Decision
 
