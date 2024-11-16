@@ -4,7 +4,6 @@
 
 - 2024-11-11, **DP and QP Based Decision-making and Planning for Autonomous Vehicle**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06751v1](http://arxiv.org/abs/2411.06751v1)
 - 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
-- 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -15,7 +14,6 @@
 - 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
 - 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
 - 2024-11-09, **LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**, Weijie Ma et.al., Paper: [http://arxiv.org/abs/2411.06173v1](http://arxiv.org/abs/2411.06173v1), Code: **[https://github.com/weijiemax/lssinst](https://github.com/weijiemax/lssinst)**
-- 2024-11-09, **Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**, Fan Ding et.al., Paper: [http://arxiv.org/abs/2411.06111v1](http://arxiv.org/abs/2411.06111v1)
 
 ## Autonomous_Driving_Decision
 

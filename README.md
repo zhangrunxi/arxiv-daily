@@ -6,7 +6,6 @@
 |---|---|---|---|---|
 |**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06751v1-b31b1b.svg)](http://arxiv.org/abs/2411.06751v1)|null|
 |**2024-11-09**|**Predictability Awareness for Efficient and Robust Multi-Agent Coordination**|Roman Chiva Gil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06223v1-b31b1b.svg)](http://arxiv.org/abs/2411.06223v1)|null|
-|**2024-11-09**|**Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**|Fan Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06111v1-b31b1b.svg)](http://arxiv.org/abs/2411.06111v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -19,7 +18,6 @@
 |**2024-11-11**|**Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**|Miguel Antunes-García et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06851v1-b31b1b.svg)](http://arxiv.org/abs/2411.06851v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelag99/efficient-instance-prediction)**|
 |**2024-11-09**|**Predictability Awareness for Efficient and Robust Multi-Agent Coordination**|Roman Chiva Gil et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06223v1-b31b1b.svg)](http://arxiv.org/abs/2411.06223v1)|null|
 |**2024-11-09**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06173v1-b31b1b.svg)](http://arxiv.org/abs/2411.06173v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weijiemax/lssinst)**|
-|**2024-11-09**|**Energy-efficient Hybrid Model Predictive Trajectory Planning for Autonomous Electric Vehicles**|Fan Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06111v1-b31b1b.svg)](http://arxiv.org/abs/2411.06111v1)|null|
 
 ## Autonomous_Driving_Decision
 
