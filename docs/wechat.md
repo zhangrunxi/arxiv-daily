@@ -1,9 +1,8 @@
-> Updated on 2024.11.16
+> Updated on 2024.11.17
 
 ## Autonomous_Driving_Planning
 
 - 2024-11-11, **DP and QP Based Decision-making and Planning for Autonomous Vehicle**, Zhicheng Zhang et.al., Paper: [http://arxiv.org/abs/2411.06751v1](http://arxiv.org/abs/2411.06751v1)
-- 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -12,7 +11,6 @@
 - 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
 - 2024-11-12, **A Simple Multi-agent Joint Prediction Method for Autonomous Driving**, Mingyi Wang et.al., Paper: [http://arxiv.org/abs/2411.07612v1](http://arxiv.org/abs/2411.07612v1)
 - 2024-11-11, **Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction**, Miguel Antunes-García et.al., Paper: [http://arxiv.org/abs/2411.06851v1](http://arxiv.org/abs/2411.06851v1), Code: **[https://github.com/miguelag99/efficient-instance-prediction](https://github.com/miguelag99/efficient-instance-prediction)**
-- 2024-11-09, **Predictability Awareness for Efficient and Robust Multi-Agent Coordination**, Roman Chiva Gil et.al., Paper: [http://arxiv.org/abs/2411.06223v1](http://arxiv.org/abs/2411.06223v1)
 
 ## Autonomous_Driving_Decision
 
