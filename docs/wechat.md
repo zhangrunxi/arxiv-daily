@@ -1,4 +1,4 @@
-> Updated on 2024.11.17
+> Updated on 2024.11.18
 
 ## Autonomous_Driving_Planning
 
@@ -28,7 +28,6 @@
 
 - 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
 - 2024-11-11, **Large-scale moral machine experiment on large language models**, Muhammad Shahrul Zaim bin Ahmad et.al., Paper: [http://arxiv.org/abs/2411.06790v1](http://arxiv.org/abs/2411.06790v1), Code: **[https://github.com/kztakemoto/mmllm](https://github.com/kztakemoto/mmllm)**
-- 2024-11-10, **Hermes: A Large Language Model Framework on the Journey to Autonomous Networks**, Fadhel Ayed et.al., Paper: [http://arxiv.org/abs/2411.06490v1](http://arxiv.org/abs/2411.06490v1)
 
 ## Autonomous_Driving_RL
 

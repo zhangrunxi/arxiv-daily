@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.17
+## Updated on 2024.11.18
 
 ## Autonomous_Driving_Planning
 
@@ -42,7 +42,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07711v1-b31b1b.svg)](http://arxiv.org/abs/2411.07711v1)|null|
 |**2024-11-11**|**Large-scale moral machine experiment on large language models**|Muhammad Shahrul Zaim bin Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06790v1-b31b1b.svg)](http://arxiv.org/abs/2411.06790v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kztakemoto/mmllm)**|
-|**2024-11-10**|**Hermes: A Large Language Model Framework on the Journey to Autonomous Networks**|Fadhel Ayed et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06490v1-b31b1b.svg)](http://arxiv.org/abs/2411.06490v1)|null|
 
 ## Autonomous_Driving_RL
 
