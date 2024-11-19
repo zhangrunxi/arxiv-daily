@@ -1,4 +1,4 @@
-> Updated on 2024.11.18
+> Updated on 2024.11.19
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,7 @@
 - 2024-11-12, **Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**, Renzi Wang et.al., Paper: [http://arxiv.org/abs/2411.08232v1](http://arxiv.org/abs/2411.08232v1)
 - 2024-11-12, **ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**, Dubing Chen et.al., Paper: [http://arxiv.org/abs/2411.07725v1](http://arxiv.org/abs/2411.07725v1)
 - 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
-- 2024-11-12, **A Simple Multi-agent Joint Prediction Method for Autonomous Driving**, Mingyi Wang et.al., Paper: [http://arxiv.org/abs/2411.07612v1](http://arxiv.org/abs/2411.07612v1)
+- 2024-11-16, **A Simple Multi-agent Joint Prediction Method for Autonomous Driving**, Mingyi Wang et.al., Paper: [http://arxiv.org/abs/2411.07612v2](http://arxiv.org/abs/2411.07612v2)
 
 ## Autonomous_Driving_Decision
 
@@ -22,7 +22,6 @@
 - 2024-11-15, **Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**, Shota Yamazaki et.al., Paper: [http://arxiv.org/abs/2411.09971v1](http://arxiv.org/abs/2411.09971v1)
 - 2024-11-15, **Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**, Tian Niu et.al., Paper: [http://arxiv.org/abs/2411.09887v1](http://arxiv.org/abs/2411.09887v1)
 - 2024-11-12, **OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**, Jiaxi Li et.al., Paper: [http://arxiv.org/abs/2411.07711v1](http://arxiv.org/abs/2411.07711v1)
-- 2024-11-11, **SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**, Jiale Chen et.al., Paper: [http://arxiv.org/abs/2411.06991v1](http://arxiv.org/abs/2411.06991v1)
 
 ## Autonomous_Driving_E2E
 

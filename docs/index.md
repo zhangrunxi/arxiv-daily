@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 
 ## Autonomous_Driving_Planning
 
@@ -21,7 +21,7 @@ layout: default
 |**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08232v1-b31b1b.svg)](http://arxiv.org/abs/2411.08232v1)|null|
 |**2024-11-12**|**ALOcc: Adaptive Lifting-based 3D Semantic Occupancy and Cost Volume-based Flow Prediction**|Dubing Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07725v1-b31b1b.svg)](http://arxiv.org/abs/2411.07725v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07711v1-b31b1b.svg)](http://arxiv.org/abs/2411.07711v1)|null|
-|**2024-11-12**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07612v1-b31b1b.svg)](http://arxiv.org/abs/2411.07612v1)|null|
+|**2024-11-16**|**A Simple Multi-agent Joint Prediction Method for Autonomous Driving**|Mingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07612v2-b31b1b.svg)](http://arxiv.org/abs/2411.07612v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -32,7 +32,6 @@ layout: default
 |**2024-11-15**|**Explanation for Trajectory Planning using Multi-modal Large Language Model for Autonomous Driving**|Shota Yamazaki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09971v1-b31b1b.svg)](http://arxiv.org/abs/2411.09971v1)|null|
 |**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09887v1-b31b1b.svg)](http://arxiv.org/abs/2411.09887v1)|null|
 |**2024-11-12**|**OWLed: Outlier-weighed Layerwise Pruning for Efficient Autonomous Driving Framework**|Jiaxi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.07711v1-b31b1b.svg)](http://arxiv.org/abs/2411.07711v1)|null|
-|**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.06991v1-b31b1b.svg)](http://arxiv.org/abs/2411.06991v1)|null|
 
 ## Autonomous_Driving_E2E
 
