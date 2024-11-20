@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.19
+## Updated on 2024.11.20
 
 ## Autonomous_Driving_Planning
 
@@ -25,7 +25,6 @@ layout: default
 |**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10171v1-b31b1b.svg)](http://arxiv.org/abs/2411.10171v1)|null|
 |**2024-11-15**|**Deep learning robotics using self-supervised spatial differentiation drive autonomous contact-based semiconductor characterization**|Alexander E. Siemenn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09892v1-b31b1b.svg)](http://arxiv.org/abs/2411.09892v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PV-Lab/SDCNN)**|
 |**2024-11-15**|**Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**|Tian Niu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.09887v1-b31b1b.svg)](http://arxiv.org/abs/2411.09887v1)|null|
-|**2024-11-12**|**Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**|Renzi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.08232v1-b31b1b.svg)](http://arxiv.org/abs/2411.08232v1)|null|
 
 ## Autonomous_Driving_Decision
 

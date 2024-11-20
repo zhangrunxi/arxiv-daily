@@ -1,4 +1,4 @@
-> Updated on 2024.11.19
+> Updated on 2024.11.20
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,6 @@
 - 2024-11-15, **Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**, Anant Garg et.al., Paper: [http://arxiv.org/abs/2411.10171v1](http://arxiv.org/abs/2411.10171v1)
 - 2024-11-15, **Deep learning robotics using self-supervised spatial differentiation drive autonomous contact-based semiconductor characterization**, Alexander E. Siemenn et.al., Paper: [http://arxiv.org/abs/2411.09892v1](http://arxiv.org/abs/2411.09892v1), Code: **[https://github.com/PV-Lab/SDCNN](https://github.com/PV-Lab/SDCNN)**
 - 2024-11-15, **Planning by Simulation: Motion Planning with Learning-based Parallel Scenario Prediction for Autonomous Driving**, Tian Niu et.al., Paper: [http://arxiv.org/abs/2411.09887v1](http://arxiv.org/abs/2411.09887v1)
-- 2024-11-12, **Imitation Learning from Observations: An Autoregressive Mixture of Experts Approach**, Renzi Wang et.al., Paper: [http://arxiv.org/abs/2411.08232v1](http://arxiv.org/abs/2411.08232v1)
 
 ## Autonomous_Driving_Decision
 
