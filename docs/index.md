@@ -2,14 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.11.22
+## Updated on 2024.11.23
 
 ## Autonomous_Driving_Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v1-b31b1b.svg)](http://arxiv.org/abs/2411.13112v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
-|**2024-11-15**|**Advancing Autonomous Driving Perception: Analysis of Sensor Fusion and Computer Vision Techniques**|Urvishkumar Bharti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10535v1-b31b1b.svg)](http://arxiv.org/abs/2411.10535v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -32,10 +31,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-20**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12980v1-b31b1b.svg)](http://arxiv.org/abs/2411.12980v1)|null|
 |**2024-11-18**|**DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**|Tianyi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11252v1-b31b1b.svg)](http://arxiv.org/abs/2411.11252v1)|null|
-|**2024-11-15**|**A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions**|Sonda Fourati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10603v1-b31b1b.svg)](http://arxiv.org/abs/2411.10603v1)|null|
-|**2024-11-15**|**Advancing Autonomous Driving Perception: Analysis of Sensor Fusion and Computer Vision Techniques**|Urvishkumar Bharti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10535v1-b31b1b.svg)](http://arxiv.org/abs/2411.10535v1)|null|
-|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10171v1-b31b1b.svg)](http://arxiv.org/abs/2411.10171v1)|null|
-|**2024-11-15**|**Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**|Piotr Spieker et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10170v1-b31b1b.svg)](http://arxiv.org/abs/2411.10170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit-mrt/arbitration_graphs)**|
 
 ## Autonomous_Driving_E2E
 
@@ -59,5 +54,4 @@ layout: default
 |**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14375v1-b31b1b.svg)](http://arxiv.org/abs/2411.14375v1)|null|
 |**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13116v1-b31b1b.svg)](http://arxiv.org/abs/2411.13116v1)|null|
 |**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
-|**2024-11-15**|**Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**|Anant Garg et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.10171v1-b31b1b.svg)](http://arxiv.org/abs/2411.10171v1)|null|
 

@@ -1,9 +1,8 @@
-> Updated on 2024.11.22
+> Updated on 2024.11.23
 
 ## Autonomous_Driving_Planning
 
 - 2024-11-20, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v1](http://arxiv.org/abs/2411.13112v1), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
-- 2024-11-15, **Advancing Autonomous Driving Perception: Analysis of Sensor Fusion and Computer Vision Techniques**, Urvishkumar Bharti et.al., Paper: [http://arxiv.org/abs/2411.10535v1](http://arxiv.org/abs/2411.10535v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -22,10 +21,6 @@
 
 - 2024-11-20, **LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**, Siwen Jiao et.al., Paper: [http://arxiv.org/abs/2411.12980v1](http://arxiv.org/abs/2411.12980v1)
 - 2024-11-18, **DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**, Tianyi Yan et.al., Paper: [http://arxiv.org/abs/2411.11252v1](http://arxiv.org/abs/2411.11252v1)
-- 2024-11-15, **A Novel MLLM-based Approach for Autonomous Driving in Different Weather Conditions**, Sonda Fourati et.al., Paper: [http://arxiv.org/abs/2411.10603v1](http://arxiv.org/abs/2411.10603v1)
-- 2024-11-15, **Advancing Autonomous Driving Perception: Analysis of Sensor Fusion and Computer Vision Techniques**, Urvishkumar Bharti et.al., Paper: [http://arxiv.org/abs/2411.10535v1](http://arxiv.org/abs/2411.10535v1)
-- 2024-11-15, **Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**, Anant Garg et.al., Paper: [http://arxiv.org/abs/2411.10171v1](http://arxiv.org/abs/2411.10171v1)
-- 2024-11-15, **Better Safe Than Sorry: Enhancing Arbitration Graphs for Safe and Robust Autonomous Decision-Making**, Piotr Spieker et.al., Paper: [http://arxiv.org/abs/2411.10170v1](http://arxiv.org/abs/2411.10170v1), Code: **[https://github.com/kit-mrt/arbitration_graphs](https://github.com/kit-mrt/arbitration_graphs)**
 
 ## Autonomous_Driving_E2E
 
@@ -43,5 +38,4 @@
 - 2024-11-21, **Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**, Rong Gu et.al., Paper: [http://arxiv.org/abs/2411.14375v1](http://arxiv.org/abs/2411.14375v1)
 - 2024-11-20, **Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**, Zhi Luo et.al., Paper: [http://arxiv.org/abs/2411.13116v1](http://arxiv.org/abs/2411.13116v1)
 - 2024-11-18, **High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**, Shiyue Zhao et.al., Paper: [http://arxiv.org/abs/2411.11762v1](http://arxiv.org/abs/2411.11762v1)
-- 2024-11-15, **Imagine-2-Drive: High-Fidelity World Modeling in CARLA for Autonomous Vehicles**, Anant Garg et.al., Paper: [http://arxiv.org/abs/2411.10171v1](http://arxiv.org/abs/2411.10171v1)
 
