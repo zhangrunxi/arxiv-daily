@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@ layout: default
 |**2024-11-19**|**C$^{2}$INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12313v1-b31b1b.svg)](http://arxiv.org/abs/2411.12313v1)|null|
 |**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceory/reo)**|
 |**2024-11-18**|**Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei Miandashti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11935v1-b31b1b.svg)](http://arxiv.org/abs/2411.11935v1)|null|
-|**2024-11-17**|**ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling**|Zikang Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11911v1-b31b1b.svg)](http://arxiv.org/abs/2411.11911v1)|null|
 |**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11466v1-b31b1b.svg)](http://arxiv.org/abs/2411.11466v1)|null|
 |**2024-11-18**|**DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation**|Tianyi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11252v1-b31b1b.svg)](http://arxiv.org/abs/2411.11252v1)|null|
@@ -38,7 +37,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14256v1-b31b1b.svg)](http://arxiv.org/abs/2411.14256v1)|null|
 |**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceory/reo)**|
-|**2024-11-17**|**On-Board Vision-Language Models for Personalized Autonomous Vehicle Motion Control: System Design and Real-World Validation**|Can Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11913v1-b31b1b.svg)](http://arxiv.org/abs/2411.11913v1)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11466v1-b31b1b.svg)](http://arxiv.org/abs/2411.11466v1)|null|
 
 ## Autonomous_Driving_LLM
