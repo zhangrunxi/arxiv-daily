@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15139v1-b31b1b.svg)](http://arxiv.org/abs/2411.15139v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v1-b31b1b.svg)](http://arxiv.org/abs/2411.13112v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
 
@@ -15,39 +17,43 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v1-b31b1b.svg)](http://arxiv.org/abs/2411.15042v1)|null|
+|**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16457v1-b31b1b.svg)](http://arxiv.org/abs/2411.16457v1)|null|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
+|**2024-11-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15976v1-b31b1b.svg)](http://arxiv.org/abs/2411.15976v1)|null|
+|**2024-11-25**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v2-b31b1b.svg)](http://arxiv.org/abs/2411.15042v2)|null|
 |**2024-11-22**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14751v1-b31b1b.svg)](http://arxiv.org/abs/2411.14751v1)|null|
 |**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14716v1-b31b1b.svg)](http://arxiv.org/abs/2411.14716v1)|null|
 |**2024-11-21**|**Understanding World or Predicting Future? A Comprehensive Survey of World Models**|Jingtao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14499v1-b31b1b.svg)](http://arxiv.org/abs/2411.14499v1)|null|
 |**2024-11-20**|**DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing**|Jingyun Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13755v1-b31b1b.svg)](http://arxiv.org/abs/2411.13755v1)|null|
 |**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v1-b31b1b.svg)](http://arxiv.org/abs/2411.13112v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
-|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12452v1-b31b1b.svg)](http://arxiv.org/abs/2411.12452v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/public-bots/gaussianpretrain)**|
-|**2024-11-19**|**C$^{2}$INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12313v1-b31b1b.svg)](http://arxiv.org/abs/2411.12313v1)|null|
-|**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceory/reo)**|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v1-b31b1b.svg)](http://arxiv.org/abs/2411.15042v1)|null|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-25**|**Bot-Driven Development: From Simple Automation to Autonomous Software Development Bots**|Christoph Treude et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16100v1-b31b1b.svg)](http://arxiv.org/abs/2411.16100v1)|null|
+|**2024-11-25**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v2-b31b1b.svg)](http://arxiv.org/abs/2411.15042v2)|null|
 |**2024-11-21**|**Understanding World or Predicting Future? A Comprehensive Survey of World Models**|Jingtao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14499v1-b31b1b.svg)](http://arxiv.org/abs/2411.14499v1)|null|
-|**2024-11-20**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12980v1-b31b1b.svg)](http://arxiv.org/abs/2411.12980v1)|null|
+|**2024-11-25**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12980v2-b31b1b.svg)](http://arxiv.org/abs/2411.12980v2)|null|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15139v1-b31b1b.svg)](http://arxiv.org/abs/2411.15139v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/diffusiondrive)**|
-|**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v1-b31b1b.svg)](http://arxiv.org/abs/2411.15042v1)|null|
+|**2024-11-25**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15042v2-b31b1b.svg)](http://arxiv.org/abs/2411.15042v2)|null|
 |**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15016v1-b31b1b.svg)](http://arxiv.org/abs/2411.15016v1)|null|
 |**2024-11-22**|**LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation**|Zhenwei Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14927v1-b31b1b.svg)](http://arxiv.org/abs/2411.14927v1)|null|
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14256v1-b31b1b.svg)](http://arxiv.org/abs/2411.14256v1)|null|
-|**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceory/reo)**|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16554v1-b31b1b.svg)](http://arxiv.org/abs/2411.16554v1)|null|
 |**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15007v1-b31b1b.svg)](http://arxiv.org/abs/2411.15007v1)|null|
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14256v1-b31b1b.svg)](http://arxiv.org/abs/2411.14256v1)|null|
 
