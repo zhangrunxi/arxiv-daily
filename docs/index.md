@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12452v1-b31b1b.svg)](http://arxiv.org/abs/2411.12452v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/public-bots/gaussianpretrain)**|
 |**2024-11-19**|**C$^{2}$INet: Realizing Incremental Trajectory Prediction with Prior-Aware Continual Causal Intervention**|Xiaohe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12313v1-b31b1b.svg)](http://arxiv.org/abs/2411.12313v1)|null|
 |**2024-11-19**|**Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation**|Zhuangwei Zhuang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.12177v1-b31b1b.svg)](http://arxiv.org/abs/2411.12177v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceory/reo)**|
-|**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -59,5 +58,4 @@ layout: default
 |**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14593v1-b31b1b.svg)](http://arxiv.org/abs/2411.14593v1)|null|
 |**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14375v1-b31b1b.svg)](http://arxiv.org/abs/2411.14375v1)|null|
 |**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13116v1-b31b1b.svg)](http://arxiv.org/abs/2411.13116v1)|null|
-|**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.11762v1-b31b1b.svg)](http://arxiv.org/abs/2411.11762v1)|null|
 
