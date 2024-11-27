@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
 |**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15139v1-b31b1b.svg)](http://arxiv.org/abs/2411.15139v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/diffusiondrive)**|
-|**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v1-b31b1b.svg)](http://arxiv.org/abs/2411.13112v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
+|**2024-11-26**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v2-b31b1b.svg)](http://arxiv.org/abs/2411.13112v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +25,7 @@ layout: default
 |**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14716v1-b31b1b.svg)](http://arxiv.org/abs/2411.14716v1)|null|
 |**2024-11-21**|**Understanding World or Predicting Future? A Comprehensive Survey of World Models**|Jingtao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14499v1-b31b1b.svg)](http://arxiv.org/abs/2411.14499v1)|null|
 |**2024-11-20**|**DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing**|Jingyun Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13755v1-b31b1b.svg)](http://arxiv.org/abs/2411.13755v1)|null|
-|**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v1-b31b1b.svg)](http://arxiv.org/abs/2411.13112v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
+|**2024-11-26**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.13112v2-b31b1b.svg)](http://arxiv.org/abs/2411.13112v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiandaguo/drive-mllm)**|
 
 ## Autonomous_Driving_Decision
 

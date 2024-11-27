@@ -1,11 +1,11 @@
-> Updated on 2024.11.26
+> Updated on 2024.11.27
 
 ## Autonomous_Driving_Planning
 
 - 2024-11-25, **Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**, Klinsmann Agyei et.al., Paper: [http://arxiv.org/abs/2411.16587v1](http://arxiv.org/abs/2411.16587v1)
 - 2024-11-25, **End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**, Mahmoud M. Kishky et.al., Paper: [http://arxiv.org/abs/2411.16131v1](http://arxiv.org/abs/2411.16131v1)
 - 2024-11-22, **DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**, Bencheng Liao et.al., Paper: [http://arxiv.org/abs/2411.15139v1](http://arxiv.org/abs/2411.15139v1), Code: **[https://github.com/hustvl/diffusiondrive](https://github.com/hustvl/diffusiondrive)**
-- 2024-11-20, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v1](http://arxiv.org/abs/2411.13112v1), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
+- 2024-11-26, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v2](http://arxiv.org/abs/2411.13112v2), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
 
 ## Autonomous_Driving_Prediction
 
@@ -17,7 +17,7 @@
 - 2024-11-22, **VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2411.14716v1](http://arxiv.org/abs/2411.14716v1)
 - 2024-11-21, **Understanding World or Predicting Future? A Comprehensive Survey of World Models**, Jingtao Ding et.al., Paper: [http://arxiv.org/abs/2411.14499v1](http://arxiv.org/abs/2411.14499v1)
 - 2024-11-20, **DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing**, Jingyun Ning et.al., Paper: [http://arxiv.org/abs/2411.13755v1](http://arxiv.org/abs/2411.13755v1)
-- 2024-11-20, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v1](http://arxiv.org/abs/2411.13112v1), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
+- 2024-11-26, **DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**, Xianda Guo et.al., Paper: [http://arxiv.org/abs/2411.13112v2](http://arxiv.org/abs/2411.13112v2), Code: **[https://github.com/xiandaguo/drive-mllm](https://github.com/xiandaguo/drive-mllm)**
 
 ## Autonomous_Driving_Decision
 
