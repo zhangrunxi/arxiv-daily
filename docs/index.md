@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 
 ## Autonomous_Driving_Planning
 
@@ -63,13 +63,10 @@ layout: default
 |**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16554v1-b31b1b.svg)](http://arxiv.org/abs/2411.16554v1)|null|
 |**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15007v1-b31b1b.svg)](http://arxiv.org/abs/2411.15007v1)|null|
-|**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14256v1-b31b1b.svg)](http://arxiv.org/abs/2411.14256v1)|null|
 
 ## Autonomous_Driving_RL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18203v1-b31b1b.svg)](http://arxiv.org/abs/2411.18203v1)|null|
-|**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14593v1-b31b1b.svg)](http://arxiv.org/abs/2411.14593v1)|null|
-|**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.14375v1-b31b1b.svg)](http://arxiv.org/abs/2411.14375v1)|null|
 
