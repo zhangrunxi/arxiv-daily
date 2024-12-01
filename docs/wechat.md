@@ -1,4 +1,4 @@
-> Updated on 2024.11.30
+> Updated on 2024.12.01
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,6 @@
 - 2024-11-26, **Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**, Onur Dikici et.al., Paper: [http://arxiv.org/abs/2411.17508v1](http://arxiv.org/abs/2411.17508v1)
 - 2024-11-26, **CoA: Chain-of-Action for Generative Semantic Labels**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2411.17406v1](http://arxiv.org/abs/2411.17406v1), Code: **[https://github.com/WilsonMqz/CoA](https://github.com/WilsonMqz/CoA)**
 - 2024-11-26, **LHPF: Look back the History and Plan for the Future in Autonomous Driving**, Sheng Wang et.al., Paper: [http://arxiv.org/abs/2411.17253v1](http://arxiv.org/abs/2411.17253v1)
-- 2024-11-23, **FollowGen: A Scaled Noise Conditional Diffusion Model for Car-Following Trajectory Prediction**, Junwei You et.al., Paper: [http://arxiv.org/abs/2411.16747v1](http://arxiv.org/abs/2411.16747v1)
 - 2024-11-25, **Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**, Haoming Li et.al., Paper: [http://arxiv.org/abs/2411.16457v1](http://arxiv.org/abs/2411.16457v1)
 - 2024-11-25, **End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**, Mahmoud M. Kishky et.al., Paper: [http://arxiv.org/abs/2411.16131v1](http://arxiv.org/abs/2411.16131v1)
 - 2024-11-24, **DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**, Ruiqiang Xiao et.al., Paper: [http://arxiv.org/abs/2411.15976v1](http://arxiv.org/abs/2411.15976v1)
