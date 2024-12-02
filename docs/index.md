@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
-|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
 |**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
 
 ## Autonomous_Driving_Prediction
@@ -24,7 +24,6 @@ layout: default
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
 |**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16457v1-b31b1b.svg)](http://arxiv.org/abs/2411.16457v1)|null|
 |**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16131v1-b31b1b.svg)](http://arxiv.org/abs/2411.16131v1)|null|
-|**2024-11-24**|**DRIVE: Dual-Robustness via Information Variability and Entropic Consistency in Source-Free Unsupervised Domain Adaptation**|Ruiqiang Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.15976v1-b31b1b.svg)](http://arxiv.org/abs/2411.15976v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +32,7 @@ layout: default
 |**2024-11-27**|**Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**|Yuxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18129v1-b31b1b.svg)](http://arxiv.org/abs/2411.18129v1)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
-|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
 |**2024-11-25**|**Bot-Driven Development: From Simple Automation to Autonomous Software Development Bots**|Christoph Treude et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16100v1-b31b1b.svg)](http://arxiv.org/abs/2411.16100v1)|null|
 
 ## Autonomous_Driving_E2E
@@ -53,7 +52,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
-|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v1-b31b1b.svg)](http://arxiv.org/abs/2411.16587v1)|null|
+|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16554v1-b31b1b.svg)](http://arxiv.org/abs/2411.16554v1)|null|
 
 ## Autonomous_Driving_RL
