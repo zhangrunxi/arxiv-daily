@@ -11,7 +11,6 @@ layout: default
 |**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.19747v1-b31b1b.svg)](http://arxiv.org/abs/2411.19747v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vita-epfl/stay-on-track)**|
 |**2024-11-28**|**Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**|Wenru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18974v1-b31b1b.svg)](http://arxiv.org/abs/2411.18974v1)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
-|**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -21,9 +20,8 @@ layout: default
 |**2024-11-27**|**Explainable deep learning improves human mental models of self-driving cars**|Eoin M. Kenny et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18714v1-b31b1b.svg)](http://arxiv.org/abs/2411.18714v1)|null|
 |**2024-11-26**|**DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**|Boqi Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17917v1-b31b1b.svg)](http://arxiv.org/abs/2411.17917v1)|null|
 |**2024-11-26**|**Multimodal Crash Likelihood Prediction: A Complexity-Infused Approach Integrating Semantic, Contextual, and Driving Features**|Meng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17886v1-b31b1b.svg)](http://arxiv.org/abs/2411.17886v1)|null|
-|**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17508v1-b31b1b.svg)](http://arxiv.org/abs/2411.17508v1)|null|
+|**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17508v1-b31b1b.svg)](http://arxiv.org/abs/2411.17508v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/On-Track-SysID)**|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17406v1-b31b1b.svg)](http://arxiv.org/abs/2411.17406v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilsonMqz/CoA)**|
-|**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +32,6 @@ layout: default
 |**2024-11-27**|**Explainable deep learning improves human mental models of self-driving cars**|Eoin M. Kenny et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18714v1-b31b1b.svg)](http://arxiv.org/abs/2411.18714v1)|null|
 |**2024-11-27**|**Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**|Yuxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18129v1-b31b1b.svg)](http://arxiv.org/abs/2411.18129v1)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
-|**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -58,5 +55,5 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18203v1-b31b1b.svg)](http://arxiv.org/abs/2411.18203v1)|null|
+|**2024-12-02**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18203v2-b31b1b.svg)](http://arxiv.org/abs/2411.18203v2)|null|
 
