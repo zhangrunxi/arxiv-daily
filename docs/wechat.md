@@ -13,7 +13,6 @@
 - 2024-11-26, **DECODE: Domain-aware Continual Domain Expansion for Motion Prediction**, Boqi Li et.al., Paper: [http://arxiv.org/abs/2411.17917v1](http://arxiv.org/abs/2411.17917v1)
 - 2024-11-26, **Multimodal Crash Likelihood Prediction: A Complexity-Infused Approach Integrating Semantic, Contextual, and Driving Features**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2411.17886v1](http://arxiv.org/abs/2411.17886v1)
 - 2024-11-26, **Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**, Onur Dikici et.al., Paper: [http://arxiv.org/abs/2411.17508v1](http://arxiv.org/abs/2411.17508v1), Code: **[https://github.com/ForzaETH/On-Track-SysID](https://github.com/ForzaETH/On-Track-SysID)**
-- 2024-11-26, **CoA: Chain-of-Action for Generative Semantic Labels**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2411.17406v1](http://arxiv.org/abs/2411.17406v1), Code: **[https://github.com/WilsonMqz/CoA](https://github.com/WilsonMqz/CoA)**
 
 ## Autonomous_Driving_Decision
 
@@ -31,7 +30,6 @@
 - 2024-11-27, **Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2411.18129v1](http://arxiv.org/abs/2411.18129v1)
 - 2024-11-27, **FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2411.18013v1](http://arxiv.org/abs/2411.18013v1)
 - 2024-11-26, **Rapid Deployment of Domain-specific Hyperspectral Image Processors with Application to Autonomous Driving**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2411.17543v1](http://arxiv.org/abs/2411.17543v1)
-- 2024-11-26, **CoA: Chain-of-Action for Generative Semantic Labels**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2411.17406v1](http://arxiv.org/abs/2411.17406v1), Code: **[https://github.com/WilsonMqz/CoA](https://github.com/WilsonMqz/CoA)**
 
 ## Autonomous_Driving_LLM
 
