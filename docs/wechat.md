@@ -1,4 +1,4 @@
-> Updated on 2024.12.02
+> Updated on 2024.12.03
 
 ## Autonomous_Driving_Planning
 
@@ -6,7 +6,6 @@
 - 2024-11-28, **Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**, Wenru Liu et.al., Paper: [http://arxiv.org/abs/2411.18974v1](http://arxiv.org/abs/2411.18974v1)
 - 2024-11-27, **FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2411.18013v1](http://arxiv.org/abs/2411.18013v1)
 - 2024-11-26, **LHPF: Look back the History and Plan for the Future in Autonomous Driving**, Sheng Wang et.al., Paper: [http://arxiv.org/abs/2411.17253v1](http://arxiv.org/abs/2411.17253v1)
-- 2024-11-27, **Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**, Klinsmann Agyei et.al., Paper: [http://arxiv.org/abs/2411.16587v2](http://arxiv.org/abs/2411.16587v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -17,7 +16,6 @@
 - 2024-11-26, **Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**, Onur Dikici et.al., Paper: [http://arxiv.org/abs/2411.17508v1](http://arxiv.org/abs/2411.17508v1)
 - 2024-11-26, **CoA: Chain-of-Action for Generative Semantic Labels**, Meng Wei et.al., Paper: [http://arxiv.org/abs/2411.17406v1](http://arxiv.org/abs/2411.17406v1), Code: **[https://github.com/WilsonMqz/CoA](https://github.com/WilsonMqz/CoA)**
 - 2024-11-26, **LHPF: Look back the History and Plan for the Future in Autonomous Driving**, Sheng Wang et.al., Paper: [http://arxiv.org/abs/2411.17253v1](http://arxiv.org/abs/2411.17253v1)
-- 2024-11-25, **Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**, Haoming Li et.al., Paper: [http://arxiv.org/abs/2411.16457v1](http://arxiv.org/abs/2411.16457v1)
 
 ## Autonomous_Driving_Decision
 
@@ -27,7 +25,6 @@
 - 2024-11-27, **Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**, Yuxuan Wang et.al., Paper: [http://arxiv.org/abs/2411.18129v1](http://arxiv.org/abs/2411.18129v1)
 - 2024-11-27, **FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2411.18013v1](http://arxiv.org/abs/2411.18013v1)
 - 2024-11-26, **LHPF: Look back the History and Plan for the Future in Autonomous Driving**, Sheng Wang et.al., Paper: [http://arxiv.org/abs/2411.17253v1](http://arxiv.org/abs/2411.17253v1)
-- 2024-11-27, **Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**, Klinsmann Agyei et.al., Paper: [http://arxiv.org/abs/2411.16587v2](http://arxiv.org/abs/2411.16587v2)
 
 ## Autonomous_Driving_E2E
 
@@ -42,8 +39,6 @@
 ## Autonomous_Driving_LLM
 
 - 2024-11-27, **FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2411.18013v1](http://arxiv.org/abs/2411.18013v1)
-- 2024-11-27, **Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**, Klinsmann Agyei et.al., Paper: [http://arxiv.org/abs/2411.16587v2](http://arxiv.org/abs/2411.16587v2)
-- 2024-11-25, **Generating Out-Of-Distribution Scenarios Using Language Models**, Erfan Aasi et.al., Paper: [http://arxiv.org/abs/2411.16554v1](http://arxiv.org/abs/2411.16554v1)
 
 ## Autonomous_Driving_RL
 

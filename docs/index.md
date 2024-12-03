@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2024-11-28**|**Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**|Wenru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18974v1-b31b1b.svg)](http://arxiv.org/abs/2411.18974v1)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
-|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +24,6 @@ layout: default
 |**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17508v1-b31b1b.svg)](http://arxiv.org/abs/2411.17508v1)|null|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17406v1-b31b1b.svg)](http://arxiv.org/abs/2411.17406v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilsonMqz/CoA)**|
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
-|**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16457v1-b31b1b.svg)](http://arxiv.org/abs/2411.16457v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -37,7 +35,6 @@ layout: default
 |**2024-11-27**|**Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**|Yuxuan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18129v1-b31b1b.svg)](http://arxiv.org/abs/2411.18129v1)|null|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
 |**2024-11-26**|**LHPF: Look back the History and Plan for the Future in Autonomous Driving**|Sheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.17253v1-b31b1b.svg)](http://arxiv.org/abs/2411.17253v1)|null|
-|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -56,8 +53,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18013v1-b31b1b.svg)](http://arxiv.org/abs/2411.18013v1)|null|
-|**2024-11-27**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16587v2-b31b1b.svg)](http://arxiv.org/abs/2411.16587v2)|null|
-|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.16554v1-b31b1b.svg)](http://arxiv.org/abs/2411.16554v1)|null|
 
 ## Autonomous_Driving_RL
 
