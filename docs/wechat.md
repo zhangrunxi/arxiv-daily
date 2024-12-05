@@ -1,4 +1,4 @@
-> Updated on 2024.12.04
+> Updated on 2024.12.05
 
 ## Autonomous_Driving_Planning
 
@@ -18,7 +18,6 @@
 - 2024-11-30, **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**, Jason Gibson et.al., Paper: [http://arxiv.org/abs/2412.00581v1](http://arxiv.org/abs/2412.00581v1)
 - 2024-11-30, **Density-aware Global-Local Attention Network for Point Cloud Segmentation**, Chade Li et.al., Paper: [http://arxiv.org/abs/2412.00489v1](http://arxiv.org/abs/2412.00489v1)
 - 2024-11-29, **A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**, Ahmad Rahimi et.al., Paper: [http://arxiv.org/abs/2411.19747v1](http://arxiv.org/abs/2411.19747v1), Code: **[https://github.com/vita-epfl/stay-on-track](https://github.com/vita-epfl/stay-on-track)**
-- 2024-11-27, **Explainable deep learning improves human mental models of self-driving cars**, Eoin M. Kenny et.al., Paper: [http://arxiv.org/abs/2411.18714v1](http://arxiv.org/abs/2411.18714v1)
 
 ## Autonomous_Driving_Decision
 
@@ -27,7 +26,6 @@
 - 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
 - 2024-11-28, **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**, Philipp Brauner et.al., Paper: [http://arxiv.org/abs/2411.19356v1](http://arxiv.org/abs/2411.19356v1)
 - 2024-11-28, **Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**, Wenru Liu et.al., Paper: [http://arxiv.org/abs/2411.18974v1](http://arxiv.org/abs/2411.18974v1)
-- 2024-11-27, **Explainable deep learning improves human mental models of self-driving cars**, Eoin M. Kenny et.al., Paper: [http://arxiv.org/abs/2411.18714v1](http://arxiv.org/abs/2411.18714v1)
 
 ## Autonomous_Driving_E2E
 

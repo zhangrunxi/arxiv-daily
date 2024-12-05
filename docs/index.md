@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,6 @@ layout: default
 |**2024-11-30**|**Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**|Jason Gibson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.00581v1-b31b1b.svg)](http://arxiv.org/abs/2412.00581v1)|null|
 |**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.00489v1-b31b1b.svg)](http://arxiv.org/abs/2412.00489v1)|null|
 |**2024-11-29**|**A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**|Ahmad Rahimi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.19747v1-b31b1b.svg)](http://arxiv.org/abs/2411.19747v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vita-epfl/stay-on-track)**|
-|**2024-11-27**|**Explainable deep learning improves human mental models of self-driving cars**|Eoin M. Kenny et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18714v1-b31b1b.svg)](http://arxiv.org/abs/2411.18714v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -37,7 +36,6 @@ layout: default
 |**2024-12-02**|**Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01034v1-b31b1b.svg)](http://arxiv.org/abs/2412.01034v1)|null|
 |**2024-11-28**|**Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**|Philipp Brauner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.19356v1-b31b1b.svg)](http://arxiv.org/abs/2411.19356v1)|null|
 |**2024-11-28**|**Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**|Wenru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18974v1-b31b1b.svg)](http://arxiv.org/abs/2411.18974v1)|null|
-|**2024-11-27**|**Explainable deep learning improves human mental models of self-driving cars**|Eoin M. Kenny et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2411.18714v1-b31b1b.svg)](http://arxiv.org/abs/2411.18714v1)|null|
 
 ## Autonomous_Driving_E2E
 
