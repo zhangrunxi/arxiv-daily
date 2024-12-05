@@ -6,10 +6,11 @@
 - 2024-11-30, **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**, Jason Gibson et.al., Paper: [http://arxiv.org/abs/2412.00581v1](http://arxiv.org/abs/2412.00581v1)
 - 2024-11-29, **Dynamic High-Order Control Barrier Functions with Diffuser for Safety-Critical Trajectory Planning at Signal-Free Intersections**, Di Chen et.al., Paper: [http://arxiv.org/abs/2412.00162v1](http://arxiv.org/abs/2412.00162v1)
 - 2024-11-29, **A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**, Ahmad Rahimi et.al., Paper: [http://arxiv.org/abs/2411.19747v1](http://arxiv.org/abs/2411.19747v1), Code: **[https://github.com/vita-epfl/stay-on-track](https://github.com/vita-epfl/stay-on-track)**
-- 2024-11-28, **Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**, Wenru Liu et.al., Paper: [http://arxiv.org/abs/2411.18974v1](http://arxiv.org/abs/2411.18974v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-04, **Lightweight Stochastic Video Prediction via Hybrid Warping**, Kazuki Kotoyori et.al., Paper: [http://arxiv.org/abs/2412.03061v1](http://arxiv.org/abs/2412.03061v1)
+- 2024-12-03, **Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**, Nanyang Ye et.al., Paper: [http://arxiv.org/abs/2412.02779v1](http://arxiv.org/abs/2412.02779v1)
 - 2024-12-03, **Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**, Ziqian Zou et.al., Paper: [http://arxiv.org/abs/2412.02395v1](http://arxiv.org/abs/2412.02395v1)
 - 2024-12-02, **HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**, Jacky Kwok et.al., Paper: [http://arxiv.org/abs/2412.01799v1](http://arxiv.org/abs/2412.01799v1)
 - 2024-12-03, **HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving**, Zehuan Wu et.al., Paper: [http://arxiv.org/abs/2412.01407v2](http://arxiv.org/abs/2412.01407v2)
@@ -21,11 +22,11 @@
 
 ## Autonomous_Driving_Decision
 
+- 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
 - 2024-12-02, **Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**, Christian Witte et.al., Paper: [http://arxiv.org/abs/2412.01595v1](http://arxiv.org/abs/2412.01595v1)
 - 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
 - 2024-11-28, **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**, Philipp Brauner et.al., Paper: [http://arxiv.org/abs/2411.19356v1](http://arxiv.org/abs/2411.19356v1)
-- 2024-11-28, **Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**, Wenru Liu et.al., Paper: [http://arxiv.org/abs/2411.18974v1](http://arxiv.org/abs/2411.18974v1)
 
 ## Autonomous_Driving_E2E
 
@@ -44,6 +45,7 @@
 
 ## Autonomous_Driving_RL
 
+- 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 - 2024-12-03, **Generating Critical Scenarios for Testing Automated Driving Systems**, Trung-Hieu Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02574v1](http://arxiv.org/abs/2412.02574v1), Code: **[https://github.com/ise-uet-vnu/avastra](https://github.com/ise-uet-vnu/avastra)**
 - 2024-12-02, **HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**, Jacky Kwok et.al., Paper: [http://arxiv.org/abs/2412.01799v1](http://arxiv.org/abs/2412.01799v1)
 
