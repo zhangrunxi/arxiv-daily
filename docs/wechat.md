@@ -1,4 +1,4 @@
-> Updated on 2024.12.05
+> Updated on 2024.12.06
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,6 @@
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
 - 2024-12-02, **Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**, Christian Witte et.al., Paper: [http://arxiv.org/abs/2412.01595v1](http://arxiv.org/abs/2412.01595v1)
 - 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
-- 2024-11-28, **Mapping Public Perception of Artificial Intelligence: Expectations, Risk-Benefit Tradeoffs, and Value As Determinants for Societal Acceptance**, Philipp Brauner et.al., Paper: [http://arxiv.org/abs/2411.19356v1](http://arxiv.org/abs/2411.19356v1)
 
 ## Autonomous_Driving_E2E
 
@@ -37,7 +36,6 @@
 - 2024-11-30, **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**, Jason Gibson et.al., Paper: [http://arxiv.org/abs/2412.00581v1](http://arxiv.org/abs/2412.00581v1)
 - 2024-11-29, **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**, Jianping Jiang et.al., Paper: [http://arxiv.org/abs/2412.00174v1](http://arxiv.org/abs/2412.00174v1)
 - 2024-11-29, **ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**, Chaojun Ni et.al., Paper: [http://arxiv.org/abs/2411.19548v1](http://arxiv.org/abs/2411.19548v1)
-- 2024-11-28, **SADG: Segment Any Dynamic Gaussian Without Object Trackers**, Yun-Jin Li et.al., Paper: [http://arxiv.org/abs/2411.19290v1](http://arxiv.org/abs/2411.19290v1), Code: **[https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**
 
 ## Autonomous_Driving_LLM
 
