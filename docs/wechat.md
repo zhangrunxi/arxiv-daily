@@ -1,15 +1,14 @@
-> Updated on 2024.12.06
+> Updated on 2024.12.07
 
 ## Autonomous_Driving_Planning
 
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-02, **HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2412.01718v1](http://arxiv.org/abs/2412.01718v1)
 - 2024-11-30, **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**, Jason Gibson et.al., Paper: [http://arxiv.org/abs/2412.00581v1](http://arxiv.org/abs/2412.00581v1)
-- 2024-11-29, **A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses**, Ahmad Rahimi et.al., Paper: [http://arxiv.org/abs/2411.19747v1](http://arxiv.org/abs/2411.19747v1), Code: **[https://github.com/vita-epfl/stay-on-track](https://github.com/vita-epfl/stay-on-track)**
 
 ## Autonomous_Driving_Prediction
 
-- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1)
+- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-12-05, **UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**, Lars Schmarje et.al., Paper: [http://arxiv.org/abs/2412.03986v1](http://arxiv.org/abs/2412.03986v1)
 - 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
@@ -25,7 +24,7 @@
 - 2024-12-05, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v1](http://arxiv.org/abs/2412.04341v1)
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
-- 2024-12-04, **Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2412.03630v1](http://arxiv.org/abs/2412.03630v1)
+- 2024-12-04, **Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2412.03630v1](http://arxiv.org/abs/2412.03630v1), Code: **[https://github.com/jonguti13/tensorfi2](https://github.com/jonguti13/tensorfi2)**
 - 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
 - 2024-12-02, **Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**, Christian Witte et.al., Paper: [http://arxiv.org/abs/2412.01595v1](http://arxiv.org/abs/2412.01595v1)
@@ -38,7 +37,6 @@
 - 2024-12-03, **Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**, Hussein Hammoud et.al., Paper: [http://arxiv.org/abs/2412.01165v2](http://arxiv.org/abs/2412.01165v2)
 - 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
 - 2024-11-30, **Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**, Jason Gibson et.al., Paper: [http://arxiv.org/abs/2412.00581v1](http://arxiv.org/abs/2412.00581v1)
-- 2024-11-29, **SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters**, Jianping Jiang et.al., Paper: [http://arxiv.org/abs/2412.00174v1](http://arxiv.org/abs/2412.00174v1)
 
 ## Autonomous_Driving_LLM
 
