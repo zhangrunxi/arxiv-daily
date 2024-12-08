@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.07
+## Updated on 2024.12.08
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
 |**2024-12-02**|**HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**|Hongyu Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01718v1-b31b1b.svg)](http://arxiv.org/abs/2412.01718v1)|null|
-|**2024-11-30**|**Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**|Jason Gibson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.00581v1-b31b1b.svg)](http://arxiv.org/abs/2412.00581v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -34,7 +33,7 @@ layout: default
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v1-b31b1b.svg)](http://arxiv.org/abs/2412.04341v1)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
 |**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
-|**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03630v1-b31b1b.svg)](http://arxiv.org/abs/2412.03630v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonguti13/tensorfi2)**|
+|**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03630v1-b31b1b.svg)](http://arxiv.org/abs/2412.03630v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonguti13/parameterprotection)**|
 |**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03051v1-b31b1b.svg)](http://arxiv.org/abs/2412.03051v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02025v1-b31b1b.svg)](http://arxiv.org/abs/2412.02025v1)|null|
 |**2024-12-02**|**Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**|Christian Witte et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01595v1-b31b1b.svg)](http://arxiv.org/abs/2412.01595v1)|null|
@@ -48,7 +47,6 @@ layout: default
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02025v1-b31b1b.svg)](http://arxiv.org/abs/2412.02025v1)|null|
 |**2024-12-03**|**Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**|Hussein Hammoud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01165v2-b31b1b.svg)](http://arxiv.org/abs/2412.01165v2)|null|
 |**2024-12-02**|**Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01034v1-b31b1b.svg)](http://arxiv.org/abs/2412.01034v1)|null|
-|**2024-11-30**|**Dynamics Modeling using Visual Terrain Features for High-Speed Autonomous Off-Road Driving**|Jason Gibson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.00581v1-b31b1b.svg)](http://arxiv.org/abs/2412.00581v1)|null|
 
 ## Autonomous_Driving_LLM
 
