@@ -53,7 +53,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-04**|**Advancing Auto-Regressive Continuation for Video Frames**|Ruibo Ming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03758v1-b31b1b.svg)](http://arxiv.org/abs/2412.03758v1)|null|
-|**2024-12-01**|**BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks**|Yisong Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.00746v1-b31b1b.svg)](http://arxiv.org/abs/2412.00746v1)|null|
 
 ## Autonomous_Driving_RL
 

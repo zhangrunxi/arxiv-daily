@@ -39,7 +39,6 @@
 ## Autonomous_Driving_LLM
 
 - 2024-12-04, **Advancing Auto-Regressive Continuation for Video Frames**, Ruibo Ming et.al., Paper: [http://arxiv.org/abs/2412.03758v1](http://arxiv.org/abs/2412.03758v1)
-- 2024-12-01, **BDefects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks**, Yisong Xiao et.al., Paper: [http://arxiv.org/abs/2412.00746v1](http://arxiv.org/abs/2412.00746v1)
 
 ## Autonomous_Driving_RL
 
