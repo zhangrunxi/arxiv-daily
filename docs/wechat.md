@@ -2,11 +2,13 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-12-06, **UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.04842v1](http://arxiv.org/abs/2412.04842v1)
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-02, **HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2412.01718v1](http://arxiv.org/abs/2412.01718v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
 - 2024-12-06, **GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v2](http://arxiv.org/abs/2412.04384v2), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-12-05, **UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**, Lars Schmarje et.al., Paper: [http://arxiv.org/abs/2412.03986v1](http://arxiv.org/abs/2412.03986v1)
 - 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
@@ -16,10 +18,10 @@
 - 2024-12-03, **Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**, Nanyang Ye et.al., Paper: [http://arxiv.org/abs/2412.02779v1](http://arxiv.org/abs/2412.02779v1)
 - 2024-12-03, **Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**, Ziqian Zou et.al., Paper: [http://arxiv.org/abs/2412.02395v1](http://arxiv.org/abs/2412.02395v1)
 - 2024-12-02, **HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**, Jacky Kwok et.al., Paper: [http://arxiv.org/abs/2412.01799v1](http://arxiv.org/abs/2412.01799v1)
-- 2024-12-03, **HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving**, Zehuan Wu et.al., Paper: [http://arxiv.org/abs/2412.01407v2](http://arxiv.org/abs/2412.01407v2)
 
 ## Autonomous_Driving_Decision
 
+- 2024-12-06, **Backdooring Outlier Detection Methods: A Novel Attack Approach**, ZeinabSadat Taghavi et.al., Paper: [http://arxiv.org/abs/2412.05010v1](http://arxiv.org/abs/2412.05010v1)
 - 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
@@ -32,7 +34,6 @@
 
 - 2024-12-03, **Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2412.02689v1](http://arxiv.org/abs/2412.02689v1)
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
-- 2024-12-03, **Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**, Hussein Hammoud et.al., Paper: [http://arxiv.org/abs/2412.01165v2](http://arxiv.org/abs/2412.01165v2)
 
 ## Autonomous_Driving_LLM
 

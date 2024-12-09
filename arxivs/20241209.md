@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**|Rui Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04842v1-b31b1b.svg)](http://arxiv.org/abs/2412.04842v1)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
 |**2024-12-02**|**HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving**|Hongyu Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01718v1-b31b1b.svg)](http://arxiv.org/abs/2412.01718v1)|null|
 
@@ -11,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05154v1-b31b1b.svg)](http://arxiv.org/abs/2412.05154v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghostish/objectcentricocccompletion)**|
 |**2024-12-06**|**GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04384v2-b31b1b.svg)](http://arxiv.org/abs/2412.04384v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huang-yh/gaussianformer)**|
 |**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03986v1-b31b1b.svg)](http://arxiv.org/abs/2412.03986v1)|null|
 |**2024-12-05**|**Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**|Yaoyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03874v1-b31b1b.svg)](http://arxiv.org/abs/2412.03874v1)|null|
@@ -20,12 +22,12 @@
 |**2024-12-03**|**Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**|Nanyang Ye et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02779v1-b31b1b.svg)](http://arxiv.org/abs/2412.02779v1)|null|
 |**2024-12-03**|**Who Walks With You Matters: Perceiving Social Interactions with Groups for Pedestrian Trajectory Prediction**|Ziqian Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02395v1-b31b1b.svg)](http://arxiv.org/abs/2412.02395v1)|null|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01799v1-b31b1b.svg)](http://arxiv.org/abs/2412.01799v1)|null|
-|**2024-12-03**|**HoloDrive: Holistic 2D-3D Multi-Modal Street Scene Generation for Autonomous Driving**|Zehuan Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01407v2-b31b1b.svg)](http://arxiv.org/abs/2412.01407v2)|null|
 
 ## Autonomous_Driving_Decision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Backdooring Outlier Detection Methods: A Novel Attack Approach**|ZeinabSadat Taghavi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05010v1-b31b1b.svg)](http://arxiv.org/abs/2412.05010v1)|null|
 |**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v2-b31b1b.svg)](http://arxiv.org/abs/2412.04341v2)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
 |**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
@@ -40,7 +42,6 @@
 |---|---|---|---|---|
 |**2024-12-03**|**Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**|Yupeng Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02689v1-b31b1b.svg)](http://arxiv.org/abs/2412.02689v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02025v1-b31b1b.svg)](http://arxiv.org/abs/2412.02025v1)|null|
-|**2024-12-03**|**Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**|Hussein Hammoud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01165v2-b31b1b.svg)](http://arxiv.org/abs/2412.01165v2)|null|
 
 ## Autonomous_Driving_LLM
 
