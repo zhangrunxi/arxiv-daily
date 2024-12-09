@@ -1,4 +1,4 @@
-> Updated on 2024.12.08
+> Updated on 2024.12.09
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,7 @@
 
 ## Autonomous_Driving_Prediction
 
-- 2024-12-05, **Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v1](http://arxiv.org/abs/2412.04384v1), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
+- 2024-12-06, **GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v2](http://arxiv.org/abs/2412.04384v2), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 - 2024-12-05, **UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**, Lars Schmarje et.al., Paper: [http://arxiv.org/abs/2412.03986v1](http://arxiv.org/abs/2412.03986v1)
 - 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
@@ -20,21 +20,19 @@
 
 ## Autonomous_Driving_Decision
 
-- 2024-12-05, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v1](http://arxiv.org/abs/2412.04341v1)
+- 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
 - 2024-12-04, **Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2412.03630v1](http://arxiv.org/abs/2412.03630v1), Code: **[https://github.com/jonguti13/parameterprotection](https://github.com/jonguti13/parameterprotection)**
 - 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
 - 2024-12-02, **Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**, Christian Witte et.al., Paper: [http://arxiv.org/abs/2412.01595v1](http://arxiv.org/abs/2412.01595v1)
-- 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-12-03, **Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2412.02689v1](http://arxiv.org/abs/2412.02689v1)
 - 2024-12-02, **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2412.02025v1](http://arxiv.org/abs/2412.02025v1)
 - 2024-12-03, **Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**, Hussein Hammoud et.al., Paper: [http://arxiv.org/abs/2412.01165v2](http://arxiv.org/abs/2412.01165v2)
-- 2024-12-02, **Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**, Seongmin Park et.al., Paper: [http://arxiv.org/abs/2412.01034v1](http://arxiv.org/abs/2412.01034v1)
 
 ## Autonomous_Driving_LLM
 
@@ -42,7 +40,7 @@
 
 ## Autonomous_Driving_RL
 
-- 2024-12-05, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v1](http://arxiv.org/abs/2412.04341v1)
+- 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**, John Subosits et.al., Paper: [http://arxiv.org/abs/2412.03803v1](http://arxiv.org/abs/2412.03803v1)
 - 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 - 2024-12-03, **Generating Critical Scenarios for Testing Automated Driving Systems**, Trung-Hieu Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02574v1](http://arxiv.org/abs/2412.02574v1), Code: **[https://github.com/ise-uet-vnu/avastra](https://github.com/ise-uet-vnu/avastra)**

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04384v1-b31b1b.svg)](http://arxiv.org/abs/2412.04384v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huang-yh/gaussianformer)**|
+|**2024-12-06**|**GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04384v2-b31b1b.svg)](http://arxiv.org/abs/2412.04384v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huang-yh/gaussianformer)**|
 |**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03986v1-b31b1b.svg)](http://arxiv.org/abs/2412.03986v1)|null|
 |**2024-12-05**|**Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**|Yaoyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03874v1-b31b1b.svg)](http://arxiv.org/abs/2412.03874v1)|null|
 |**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
@@ -30,14 +30,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v1-b31b1b.svg)](http://arxiv.org/abs/2412.04341v1)|null|
+|**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v2-b31b1b.svg)](http://arxiv.org/abs/2412.04341v2)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
 |**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
 |**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03630v1-b31b1b.svg)](http://arxiv.org/abs/2412.03630v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonguti13/parameterprotection)**|
 |**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03051v1-b31b1b.svg)](http://arxiv.org/abs/2412.03051v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02025v1-b31b1b.svg)](http://arxiv.org/abs/2412.02025v1)|null|
 |**2024-12-02**|**Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation**|Christian Witte et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01595v1-b31b1b.svg)](http://arxiv.org/abs/2412.01595v1)|null|
-|**2024-12-02**|**Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01034v1-b31b1b.svg)](http://arxiv.org/abs/2412.01034v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -46,7 +45,6 @@ layout: default
 |**2024-12-03**|**Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**|Yupeng Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02689v1-b31b1b.svg)](http://arxiv.org/abs/2412.02689v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02025v1-b31b1b.svg)](http://arxiv.org/abs/2412.02025v1)|null|
 |**2024-12-03**|**Double-Directional V2V Channel Measurement using ReRoMA at 60 GHz**|Hussein Hammoud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01165v2-b31b1b.svg)](http://arxiv.org/abs/2412.01165v2)|null|
-|**2024-12-02**|**Quantization-Aware Imitation-Learning for Resource-Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.01034v1-b31b1b.svg)](http://arxiv.org/abs/2412.01034v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -58,7 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v1-b31b1b.svg)](http://arxiv.org/abs/2412.04341v1)|null|
+|**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v2-b31b1b.svg)](http://arxiv.org/abs/2412.04341v2)|null|
 |**2024-12-05**|**Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**|John Subosits et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03803v1-b31b1b.svg)](http://arxiv.org/abs/2412.03803v1)|null|
 |**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03051v1-b31b1b.svg)](http://arxiv.org/abs/2412.03051v1)|null|
 |**2024-12-03**|**Generating Critical Scenarios for Testing Automated Driving Systems**|Trung-Hieu Nguyen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.02574v1-b31b1b.svg)](http://arxiv.org/abs/2412.02574v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ise-uet-vnu/avastra)**|
