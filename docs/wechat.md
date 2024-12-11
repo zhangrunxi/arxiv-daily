@@ -1,4 +1,4 @@
-> Updated on 2024.12.10
+> Updated on 2024.12.11
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,6 @@
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
 - 2024-12-04, **Advancing Auto-Regressive Continuation for Video Frames**, Ruibo Ming et.al., Paper: [http://arxiv.org/abs/2412.03758v1](http://arxiv.org/abs/2412.03758v1)
 - 2024-12-04, **Lightweight Stochastic Video Prediction via Hybrid Warping**, Kazuki Kotoyori et.al., Paper: [http://arxiv.org/abs/2412.03061v1](http://arxiv.org/abs/2412.03061v1)
-- 2024-12-09, **Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**, Nanyang Ye et.al., Paper: [http://arxiv.org/abs/2412.02779v2](http://arxiv.org/abs/2412.02779v2)
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +33,6 @@
 ## Autonomous_Driving_E2E
 
 - 2024-12-06, **Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**, Junno Yun et.al., Paper: [http://arxiv.org/abs/2412.05341v1](http://arxiv.org/abs/2412.05341v1)
-- 2024-12-03, **Preliminary Investigation into Data Scaling Laws for Imitation Learning-Based End-to-End Autonomous Driving**, Yupeng Zheng et.al., Paper: [http://arxiv.org/abs/2412.02689v1](http://arxiv.org/abs/2412.02689v1)
 
 ## Autonomous_Driving_LLM
 
@@ -46,5 +44,4 @@
 - 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**, John Subosits et.al., Paper: [http://arxiv.org/abs/2412.03803v1](http://arxiv.org/abs/2412.03803v1)
 - 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
-- 2024-12-03, **Generating Critical Scenarios for Testing Automated Driving Systems**, Trung-Hieu Nguyen et.al., Paper: [http://arxiv.org/abs/2412.02574v1](http://arxiv.org/abs/2412.02574v1), Code: **[https://github.com/ise-uet-vnu/avastra](https://github.com/ise-uet-vnu/avastra)**
 
