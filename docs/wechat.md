@@ -2,12 +2,15 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-08, **doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**, Parthib Roy et.al., Paper: [http://arxiv.org/abs/2412.05893v1](http://arxiv.org/abs/2412.05893v1)
 - 2024-12-06, **UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.04842v1](http://arxiv.org/abs/2412.04842v1)
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163v1](http://arxiv.org/abs/2412.07163v1)
 - 2024-12-09, **Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**, Melo Castillo Angie Nataly et.al., Paper: [http://arxiv.org/abs/2412.06549v1](http://arxiv.org/abs/2412.06549v1)
 - 2024-12-08, **Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction**, Jinqing Zhang et.al., Paper: [http://arxiv.org/abs/2412.05976v1](http://arxiv.org/abs/2412.05976v1)
 - 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
@@ -16,10 +19,11 @@
 - 2024-12-05, **Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**, Yaoyu Li et.al., Paper: [http://arxiv.org/abs/2412.03874v1](http://arxiv.org/abs/2412.03874v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
 - 2024-12-04, **Advancing Auto-Regressive Continuation for Video Frames**, Ruibo Ming et.al., Paper: [http://arxiv.org/abs/2412.03758v1](http://arxiv.org/abs/2412.03758v1)
-- 2024-12-04, **Lightweight Stochastic Video Prediction via Hybrid Warping**, Kazuki Kotoyori et.al., Paper: [http://arxiv.org/abs/2412.03061v1](http://arxiv.org/abs/2412.03061v1)
 
 ## Autonomous_Driving_Decision
 
+- 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
+- 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
 - 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 - 2024-12-09, **A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**, Jaden Mu et.al., Paper: [http://arxiv.org/abs/2412.06215v1](http://arxiv.org/abs/2412.06215v1)
 - 2024-12-08, **Self-supervised cost of transport estimation for multimodal path planning**, Vincent Gherold et.al., Paper: [http://arxiv.org/abs/2412.06101v1](http://arxiv.org/abs/2412.06101v1)
@@ -28,10 +32,10 @@
 - 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 - 2024-12-05, **Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2412.03792v1](http://arxiv.org/abs/2412.03792v1)
 - 2024-12-04, **Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2412.03630v1](http://arxiv.org/abs/2412.03630v1), Code: **[https://github.com/jonguti13/parameterprotection](https://github.com/jonguti13/parameterprotection)**
-- 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 
 ## Autonomous_Driving_E2E
 
+- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-06, **Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**, Junno Yun et.al., Paper: [http://arxiv.org/abs/2412.05341v1](http://arxiv.org/abs/2412.05341v1)
 
 ## Autonomous_Driving_LLM
@@ -43,5 +47,4 @@
 
 - 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 - 2024-12-05, **Towards an Autonomous Test Driver: High-Performance Driver Modeling via Reinforcement Learning**, John Subosits et.al., Paper: [http://arxiv.org/abs/2412.03803v1](http://arxiv.org/abs/2412.03803v1)
-- 2024-12-04, **Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2412.03051v1](http://arxiv.org/abs/2412.03051v1)
 
