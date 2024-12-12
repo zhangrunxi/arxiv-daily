@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 
 ## Autonomous_Driving_Planning
 
@@ -25,8 +25,6 @@ layout: default
 |**2024-12-06**|**GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**|Yuanhui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04384v2-b31b1b.svg)](http://arxiv.org/abs/2412.04384v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huang-yh/gaussianformer)**|
 |**2024-12-05**|**UNCOVER: Unknown Class Object Detection for Autonomous Vehicles in Real-time**|Lars Schmarje et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03986v1-b31b1b.svg)](http://arxiv.org/abs/2412.03986v1)|null|
 |**2024-12-05**|**Learning Based MPC for Autonomous Driving Using a Low Dimensional Residual Model**|Yaoyu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03874v1-b31b1b.svg)](http://arxiv.org/abs/2412.03874v1)|null|
-|**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
-|**2024-12-04**|**Advancing Auto-Regressive Continuation for Video Frames**|Ruibo Ming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03758v1-b31b1b.svg)](http://arxiv.org/abs/2412.03758v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -40,8 +38,6 @@ layout: default
 |**2024-12-06**|**Backdooring Outlier Detection Methods: A Novel Attack Approach**|ZeinabSadat Taghavi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05010v1-b31b1b.svg)](http://arxiv.org/abs/2412.05010v1)|null|
 |**2024-12-06**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04341v2-b31b1b.svg)](http://arxiv.org/abs/2412.04341v2)|null|
 |**2024-12-05**|**CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**|Ruoyu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04209v1-b31b1b.svg)](http://arxiv.org/abs/2412.04209v1)|null|
-|**2024-12-05**|**Safe Adaptive Cruise Control Under Perception Uncertainty: A Deep Ensemble and Conformal Tube Model Predictive Control Approach**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03792v1-b31b1b.svg)](http://arxiv.org/abs/2412.03792v1)|null|
-|**2024-12-04**|**Evaluating Single Event Upsets in Deep Neural Networks for Semantic Segmentation: an embedded system perspective**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03630v1-b31b1b.svg)](http://arxiv.org/abs/2412.03630v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonguti13/parameterprotection)**|
 
 ## Autonomous_Driving_E2E
 
@@ -55,7 +51,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06684v1-b31b1b.svg)](http://arxiv.org/abs/2412.06684v1)|null|
-|**2024-12-04**|**Advancing Auto-Regressive Continuation for Video Frames**|Ruibo Ming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.03758v1-b31b1b.svg)](http://arxiv.org/abs/2412.03758v1)|null|
 
 ## Autonomous_Driving_RL
 
