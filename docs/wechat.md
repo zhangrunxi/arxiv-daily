@@ -1,25 +1,23 @@
-> Updated on 2024.12.12
+> Updated on 2024.12.13
 
 ## Autonomous_Driving_Planning
 
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)
-- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-08, **doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**, Parthib Roy et.al., Paper: [http://arxiv.org/abs/2412.05893v1](http://arxiv.org/abs/2412.05893v1)
 - 2024-12-06, **UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.04842v1](http://arxiv.org/abs/2412.04842v1)
-- 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 
 ## Autonomous_Driving_Prediction
 
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
 - 2024-12-11, **Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**, Vikas Vyas et.al., Paper: [http://arxiv.org/abs/2412.08133v1](http://arxiv.org/abs/2412.08133v1)
-- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163v1](http://arxiv.org/abs/2412.07163v1)
 - 2024-12-09, **Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**, Melo Castillo Angie Nataly et.al., Paper: [http://arxiv.org/abs/2412.06549v1](http://arxiv.org/abs/2412.06549v1)
 - 2024-12-08, **Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction**, Jinqing Zhang et.al., Paper: [http://arxiv.org/abs/2412.05976v1](http://arxiv.org/abs/2412.05976v1)
 - 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
-- 2024-12-06, **GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction**, Yuanhui Huang et.al., Paper: [http://arxiv.org/abs/2412.04384v2](http://arxiv.org/abs/2412.04384v2), Code: **[https://github.com/huang-yh/gaussianformer](https://github.com/huang-yh/gaussianformer)**
 
 ## Autonomous_Driving_Decision
 
@@ -30,12 +28,10 @@
 - 2024-12-09, **A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**, Jaden Mu et.al., Paper: [http://arxiv.org/abs/2412.06215v1](http://arxiv.org/abs/2412.06215v1)
 - 2024-12-08, **Self-supervised cost of transport estimation for multimodal path planning**, Vincent Gherold et.al., Paper: [http://arxiv.org/abs/2412.06101v1](http://arxiv.org/abs/2412.06101v1)
 - 2024-12-06, **Backdooring Outlier Detection Methods: A Novel Attack Approach**, ZeinabSadat Taghavi et.al., Paper: [http://arxiv.org/abs/2412.05010v1](http://arxiv.org/abs/2412.05010v1)
-- 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
-- 2024-12-05, **CALMM-Drive: Confidence-Aware Autonomous Driving with Large Multimodal Model**, Ruoyu Yao et.al., Paper: [http://arxiv.org/abs/2412.04209v1](http://arxiv.org/abs/2412.04209v1)
 
 ## Autonomous_Driving_E2E
 
-- 2024-12-10, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v1](http://arxiv.org/abs/2412.07689v1), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-06, **Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**, Junno Yun et.al., Paper: [http://arxiv.org/abs/2412.05341v1](http://arxiv.org/abs/2412.05341v1)
 
 ## Autonomous_Driving_LLM
@@ -45,5 +41,4 @@
 ## Autonomous_Driving_RL
 
 - 2024-12-11, **An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**, Leandro Parada et.al., Paper: [http://arxiv.org/abs/2412.08562v1](http://arxiv.org/abs/2412.08562v1)
-- 2024-12-06, **Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**, Ke Sun et.al., Paper: [http://arxiv.org/abs/2412.04341v2](http://arxiv.org/abs/2412.04341v2)
 
