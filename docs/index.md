@@ -8,29 +8,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09424v1-b31b1b.svg)](http://arxiv.org/abs/2412.09424v1)|null|
+|**2024-12-12**|**evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**|Minwoo Gwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09109v1-b31b1b.svg)](http://arxiv.org/abs/2412.09109v1)|null|
+|**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-10**|**Agents for self-driving laboratories applied to quantum computing**|Shuxiang Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07978v1-b31b1b.svg)](http://arxiv.org/abs/2412.07978v1)|null|
 |**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 |**2024-12-08**|**doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**|Parthib Roy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05893v1-b31b1b.svg)](http://arxiv.org/abs/2412.05893v1)|null|
-|**2024-12-06**|**UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**|Rui Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.04842v1-b31b1b.svg)](http://arxiv.org/abs/2412.04842v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09424v1-b31b1b.svg)](http://arxiv.org/abs/2412.09424v1)|null|
+|**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09209v1-b31b1b.svg)](http://arxiv.org/abs/2412.09209v1)|null|
+|**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
+|**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08410v1-b31b1b.svg)](http://arxiv.org/abs/2412.08410v1)|null|
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08133v1-b31b1b.svg)](http://arxiv.org/abs/2412.08133v1)|null|
 |**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 |**2024-12-10**|**Fast Occupancy Network**|Mingjie Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07163v1-b31b1b.svg)](http://arxiv.org/abs/2412.07163v1)|null|
-|**2024-12-09**|**Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**|Melo Castillo Angie Nataly et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06549v1-b31b1b.svg)](http://arxiv.org/abs/2412.06549v1)|null|
-|**2024-12-08**|**Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction**|Jinqing Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05976v1-b31b1b.svg)](http://arxiv.org/abs/2412.05976v1)|null|
-|**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05154v1-b31b1b.svg)](http://arxiv.org/abs/2412.05154v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghostish/objectcentricocccompletion)**|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07518v1-b31b1b.svg)](http://arxiv.org/abs/2412.07518v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07485v1-b31b1b.svg)](http://arxiv.org/abs/2412.07485v1)|null|
@@ -43,8 +49,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
+|**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
 |**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
-|**2024-12-06**|**Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**|Junno Yun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05341v1-b31b1b.svg)](http://arxiv.org/abs/2412.05341v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -56,5 +63,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Latent Safety-Constrained Policy Approach for Safe Offline Reinforcement Learning**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08794v1-b31b1b.svg)](http://arxiv.org/abs/2412.08794v1)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08562v1-b31b1b.svg)](http://arxiv.org/abs/2412.08562v1)|null|
 

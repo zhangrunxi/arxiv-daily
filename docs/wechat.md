@@ -2,25 +2,31 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
+- 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
+- 2024-12-12, **evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**, Minwoo Gwon et.al., Paper: [http://arxiv.org/abs/2412.09109v1](http://arxiv.org/abs/2412.09109v1)
+- 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)
 - 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-08, **doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**, Parthib Roy et.al., Paper: [http://arxiv.org/abs/2412.05893v1](http://arxiv.org/abs/2412.05893v1)
-- 2024-12-06, **UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving**, Rui Chen et.al., Paper: [http://arxiv.org/abs/2412.04842v1](http://arxiv.org/abs/2412.04842v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
+- 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
+- 2024-12-12, **eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**, Jad Mansour et.al., Paper: [http://arxiv.org/abs/2412.09209v1](http://arxiv.org/abs/2412.09209v1)
+- 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
+- 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
 - 2024-12-11, **Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**, Vikas Vyas et.al., Paper: [http://arxiv.org/abs/2412.08133v1](http://arxiv.org/abs/2412.08133v1)
 - 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163v1](http://arxiv.org/abs/2412.07163v1)
-- 2024-12-09, **Prediction of Occluded Pedestrians in Road Scenes using Human-like Reasoning: Insights from the OccluRoads Dataset**, Melo Castillo Angie Nataly et.al., Paper: [http://arxiv.org/abs/2412.06549v1](http://arxiv.org/abs/2412.06549v1)
-- 2024-12-08, **Lightweight Spatial Embedding for Vision-based 3D Occupancy Prediction**, Jinqing Zhang et.al., Paper: [http://arxiv.org/abs/2412.05976v1](http://arxiv.org/abs/2412.05976v1)
-- 2024-12-06, **Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**, Chaoda Zheng et.al., Paper: [http://arxiv.org/abs/2412.05154v1](http://arxiv.org/abs/2412.05154v1), Code: **[https://github.com/ghostish/objectcentricocccompletion](https://github.com/ghostish/objectcentricocccompletion)**
 
 ## Autonomous_Driving_Decision
 
+- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
 - 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
@@ -31,8 +37,9 @@
 
 ## Autonomous_Driving_E2E
 
+- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
+- 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
 - 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
-- 2024-12-06, **Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation of Infrared Images**, Junno Yun et.al., Paper: [http://arxiv.org/abs/2412.05341v1](http://arxiv.org/abs/2412.05341v1)
 
 ## Autonomous_Driving_LLM
 
@@ -40,5 +47,6 @@
 
 ## Autonomous_Driving_RL
 
+- 2024-12-11, **Latent Safety-Constrained Policy Approach for Safe Offline Reinforcement Learning**, Prajwal Koirala et.al., Paper: [http://arxiv.org/abs/2412.08794v1](http://arxiv.org/abs/2412.08794v1)
 - 2024-12-11, **An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**, Leandro Parada et.al., Paper: [http://arxiv.org/abs/2412.08562v1](http://arxiv.org/abs/2412.08562v1)
 
