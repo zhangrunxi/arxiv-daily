@@ -33,7 +33,6 @@
 - 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 - 2024-12-09, **A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**, Jaden Mu et.al., Paper: [http://arxiv.org/abs/2412.06215v1](http://arxiv.org/abs/2412.06215v1)
 - 2024-12-08, **Self-supervised cost of transport estimation for multimodal path planning**, Vincent Gherold et.al., Paper: [http://arxiv.org/abs/2412.06101v1](http://arxiv.org/abs/2412.06101v1)
-- 2024-12-06, **Backdooring Outlier Detection Methods: A Novel Attack Approach**, ZeinabSadat Taghavi et.al., Paper: [http://arxiv.org/abs/2412.05010v1](http://arxiv.org/abs/2412.05010v1)
 
 ## Autonomous_Driving_E2E
 
