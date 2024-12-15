@@ -9,7 +9,6 @@
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)
 - 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
-- 2024-12-08, **doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**, Parthib Roy et.al., Paper: [http://arxiv.org/abs/2412.05893v1](http://arxiv.org/abs/2412.05893v1)
 
 ## Autonomous_Driving_Prediction
 

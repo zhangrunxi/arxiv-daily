@@ -15,7 +15,6 @@ layout: default
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-10**|**Agents for self-driving laboratories applied to quantum computing**|Shuxiang Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07978v1-b31b1b.svg)](http://arxiv.org/abs/2412.07978v1)|null|
 |**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
-|**2024-12-08**|**doScenes: An Autonomous Driving Dataset with Natural Language Instruction for Human Interaction and Vision-Language Navigation**|Parthib Roy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.05893v1-b31b1b.svg)](http://arxiv.org/abs/2412.05893v1)|null|
 
 ## Autonomous_Driving_Prediction
 
