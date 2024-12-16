@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-10**|**Agents for self-driving laboratories applied to quantum computing**|Shuxiang Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07978v1-b31b1b.svg)](http://arxiv.org/abs/2412.07978v1)|null|
-|**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
+|**2024-12-13**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v3-b31b1b.svg)](http://arxiv.org/abs/2412.07689v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -26,9 +26,9 @@ layout: default
 |**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
 |**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
-|**2024-12-11**|**Pysical Informed Driving World Model**|Zhuoran Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08410v1-b31b1b.svg)](http://arxiv.org/abs/2412.08410v1)|null|
+|**2024-12-13**|**Physical Informed Driving World Model**|Zhuoran Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08410v2-b31b1b.svg)](http://arxiv.org/abs/2412.08410v2)|null|
 |**2024-12-11**|**Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**|Vikas Vyas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08133v1-b31b1b.svg)](http://arxiv.org/abs/2412.08133v1)|null|
-|**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
+|**2024-12-13**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v3-b31b1b.svg)](http://arxiv.org/abs/2412.07689v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 |**2024-12-10**|**Fast Occupancy Network**|Mingjie Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07163v1-b31b1b.svg)](http://arxiv.org/abs/2412.07163v1)|null|
 
 ## Autonomous_Driving_Decision
@@ -41,7 +41,6 @@ layout: default
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07485v1-b31b1b.svg)](http://arxiv.org/abs/2412.07485v1)|null|
 |**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06684v1-b31b1b.svg)](http://arxiv.org/abs/2412.06684v1)|null|
 |**2024-12-09**|**A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**|Jaden Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06215v1-b31b1b.svg)](http://arxiv.org/abs/2412.06215v1)|null|
-|**2024-12-08**|**Self-supervised cost of transport estimation for multimodal path planning**|Vincent Gherold et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06101v1-b31b1b.svg)](http://arxiv.org/abs/2412.06101v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -49,7 +48,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
-|**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v2-b31b1b.svg)](http://arxiv.org/abs/2412.07689v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
+|**2024-12-13**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v3-b31b1b.svg)](http://arxiv.org/abs/2412.07689v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
 
 ## Autonomous_Driving_LLM
 

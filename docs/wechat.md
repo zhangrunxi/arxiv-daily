@@ -1,4 +1,4 @@
-> Updated on 2024.12.15
+> Updated on 2024.12.16
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,7 @@
 - 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Agents for self-driving laboratories applied to quantum computing**, Shuxiang Cao et.al., Paper: [http://arxiv.org/abs/2412.07978v1](http://arxiv.org/abs/2412.07978v1)
-- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-13, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v3](http://arxiv.org/abs/2412.07689v3), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 
 ## Autonomous_Driving_Prediction
 
@@ -18,9 +18,9 @@
 - 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
 - 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
-- 2024-12-11, **Pysical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v1](http://arxiv.org/abs/2412.08410v1)
+- 2024-12-13, **Physical Informed Driving World Model**, Zhuoran Yang et.al., Paper: [http://arxiv.org/abs/2412.08410v2](http://arxiv.org/abs/2412.08410v2)
 - 2024-12-11, **Intelligent Electric Power Steering: Artificial Intelligence Integration Enhances Vehicle Safety and Performance**, Vikas Vyas et.al., Paper: [http://arxiv.org/abs/2412.08133v1](http://arxiv.org/abs/2412.08133v1)
-- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-13, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v3](http://arxiv.org/abs/2412.07689v3), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 - 2024-12-10, **Fast Occupancy Network**, Mingjie Lu et.al., Paper: [http://arxiv.org/abs/2412.07163v1](http://arxiv.org/abs/2412.07163v1)
 
 ## Autonomous_Driving_Decision
@@ -31,13 +31,12 @@
 - 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
 - 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 - 2024-12-09, **A Real-Time Defense Against Object Vanishing Adversarial Patch Attacks for Object Detection in Autonomous Vehicles**, Jaden Mu et.al., Paper: [http://arxiv.org/abs/2412.06215v1](http://arxiv.org/abs/2412.06215v1)
-- 2024-12-08, **Self-supervised cost of transport estimation for multimodal path planning**, Vincent Gherold et.al., Paper: [http://arxiv.org/abs/2412.06101v1](http://arxiv.org/abs/2412.06101v1)
 
 ## Autonomous_Driving_E2E
 
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
-- 2024-12-12, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v2](http://arxiv.org/abs/2412.07689v2), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
+- 2024-12-13, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v3](http://arxiv.org/abs/2412.07689v3), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
 
 ## Autonomous_Driving_LLM
 
