@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 
 ## Autonomous_Driving_Planning
 
@@ -44,7 +44,6 @@ layout: default
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07518v1-b31b1b.svg)](http://arxiv.org/abs/2412.07518v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**|Sumit Paul et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07485v1-b31b1b.svg)](http://arxiv.org/abs/2412.07485v1)|null|
-|**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06684v1-b31b1b.svg)](http://arxiv.org/abs/2412.06684v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -56,12 +55,6 @@ layout: default
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**|Hao Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09043v1-b31b1b.svg)](http://arxiv.org/abs/2412.09043v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/envision-research/driverecon)**|
 |**2024-12-13**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.07689v3-b31b1b.svg)](http://arxiv.org/abs/2412.07689v3)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhijian11/DriveMM)**|
-
-## Autonomous_Driving_LLM
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.06684v1-b31b1b.svg)](http://arxiv.org/abs/2412.06684v1)|null|
 
 ## Autonomous_Driving_RL
 

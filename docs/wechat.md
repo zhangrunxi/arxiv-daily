@@ -1,4 +1,4 @@
-> Updated on 2024.12.16
+> Updated on 2024.12.17
 
 ## Autonomous_Driving_Planning
 
@@ -34,7 +34,6 @@
 - 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 - 2024-12-10, **Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.07518v1](http://arxiv.org/abs/2412.07518v1), Code: **[https://github.com/fjq-tongji/hcoenet](https://github.com/fjq-tongji/hcoenet)**
 - 2024-12-10, **Performance Evaluation of ROS2-DDS middleware implementations facilitating Cooperative Driving in Autonomous Vehicle**, Sumit Paul et.al., Paper: [http://arxiv.org/abs/2412.07485v1](http://arxiv.org/abs/2412.07485v1)
-- 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 
 ## Autonomous_Driving_E2E
 
@@ -44,10 +43,6 @@
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
 - 2024-12-13, **DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**, Zhijian Huang et.al., Paper: [http://arxiv.org/abs/2412.07689v3](http://arxiv.org/abs/2412.07689v3), Code: **[https://github.com/zhijian11/DriveMM](https://github.com/zhijian11/DriveMM)**
-
-## Autonomous_Driving_LLM
-
-- 2024-12-09, **Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**, Weichao Xu et.al., Paper: [http://arxiv.org/abs/2412.06684v1](http://arxiv.org/abs/2412.06684v1)
 
 ## Autonomous_Driving_RL
 
