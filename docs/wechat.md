@@ -1,4 +1,4 @@
-> Updated on 2024.12.18
+> Updated on 2024.12.19
 
 ## Autonomous_Driving_Planning
 
@@ -8,8 +8,6 @@
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
 - 2024-12-12, **evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**, Minwoo Gwon et.al., Paper: [http://arxiv.org/abs/2412.09109v1](http://arxiv.org/abs/2412.09109v1)
-- 2024-12-12, **EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.08830v1](http://arxiv.org/abs/2412.08830v1)
-- 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 
 ## Autonomous_Driving_Prediction
 
@@ -32,7 +30,6 @@
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
-- 2024-12-11, **GPD-1: Generative Pre-training for Driving**, Zixun Xie et.al., Paper: [http://arxiv.org/abs/2412.08643v1](http://arxiv.org/abs/2412.08643v1), Code: **[https://github.com/wzzheng/gpd](https://github.com/wzzheng/gpd)**
 
 ## Autonomous_Driving_E2E
 
@@ -49,6 +46,4 @@
 ## Autonomous_Driving_RL
 
 - 2024-12-16, **Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**, Wonje Choi et.al., Paper: [http://arxiv.org/abs/2412.11484v1](http://arxiv.org/abs/2412.11484v1)
-- 2024-12-11, **Latent Safety-Constrained Policy Approach for Safe Offline Reinforcement Learning**, Prajwal Koirala et.al., Paper: [http://arxiv.org/abs/2412.08794v1](http://arxiv.org/abs/2412.08794v1)
-- 2024-12-11, **An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**, Leandro Parada et.al., Paper: [http://arxiv.org/abs/2412.08562v1](http://arxiv.org/abs/2412.08562v1)
 

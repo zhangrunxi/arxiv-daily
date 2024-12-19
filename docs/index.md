@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 
 ## Autonomous_Driving_Planning
 
@@ -14,8 +14,6 @@ layout: default
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
 |**2024-12-12**|**Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09424v1-b31b1b.svg)](http://arxiv.org/abs/2412.09424v1)|null|
 |**2024-12-12**|**evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**|Minwoo Gwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09109v1-b31b1b.svg)](http://arxiv.org/abs/2412.09109v1)|null|
-|**2024-12-12**|**EMATO: Energy-Model-Aware Trajectory Optimization for Autonomous Driving**|Zhaofeng Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08830v1-b31b1b.svg)](http://arxiv.org/abs/2412.08830v1)|null|
-|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -42,7 +40,6 @@ layout: default
 |**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.10371v1-b31b1b.svg)](http://arxiv.org/abs/2412.10371v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gaussianad)**|
 |**2024-12-17**|**WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**|Songyan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09951v2-b31b1b.svg)](http://arxiv.org/abs/2412.09951v2)|null|
 |**2024-12-12**|**Doe-1: Closed-Loop Autonomous Driving with Large World Model**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.09627v1-b31b1b.svg)](http://arxiv.org/abs/2412.09627v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/doe)**|
-|**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08643v1-b31b1b.svg)](http://arxiv.org/abs/2412.08643v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gpd)**|
 
 ## Autonomous_Driving_E2E
 
@@ -65,6 +62,4 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11484v1-b31b1b.svg)](http://arxiv.org/abs/2412.11484v1)|null|
-|**2024-12-11**|**Latent Safety-Constrained Policy Approach for Safe Offline Reinforcement Learning**|Prajwal Koirala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08794v1-b31b1b.svg)](http://arxiv.org/abs/2412.08794v1)|null|
-|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.08562v1-b31b1b.svg)](http://arxiv.org/abs/2412.08562v1)|null|
 
