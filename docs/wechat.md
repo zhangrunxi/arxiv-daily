@@ -2,28 +2,29 @@
 
 ## Autonomous_Driving_Planning
 
+- 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
 - 2024-12-13, **EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**, Hanchu Zhou et.al., Paper: [http://arxiv.org/abs/2412.09782v1](http://arxiv.org/abs/2412.09782v1)
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 - 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
-- 2024-12-12, **evS2CP: Real-time Simultaneous Speed and Charging Planner for Connected Electric Vehicles**, Minwoo Gwon et.al., Paper: [http://arxiv.org/abs/2412.09109v1](http://arxiv.org/abs/2412.09109v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-18, **Joint Perception and Prediction for Autonomous Driving: A Survey**, Lucas Dal'Col et.al., Paper: [http://arxiv.org/abs/2412.14088v1](http://arxiv.org/abs/2412.14088v1), Code: **[https://github.com/pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet)**
+- 2024-12-18, **SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**, Huiwen Yang et.al., Paper: [http://arxiv.org/abs/2412.13802v1](http://arxiv.org/abs/2412.13802v1)
+- 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
+- 2024-12-18, **Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2412.13419v1](http://arxiv.org/abs/2412.13419v1)
+- 2024-12-17, **Quantitative Predictive Monitoring and Control for Safe Human-Machine Interaction**, Shuyang Dong et.al., Paper: [http://arxiv.org/abs/2412.13365v1](http://arxiv.org/abs/2412.13365v1)
+- 2024-12-17, **C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction**, Zichen Wang et.al., Paper: [http://arxiv.org/abs/2412.13231v1](http://arxiv.org/abs/2412.13231v1), Code: **[https://github.com/wangzc0422/c2f-tp](https://github.com/wangzc0422/c2f-tp)**
 - 2024-12-17, **GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**, Haoyi Jiang et.al., Paper: [http://arxiv.org/abs/2412.13193v1](http://arxiv.org/abs/2412.13193v1), Code: **[https://github.com/hustvl/gausstr](https://github.com/hustvl/gausstr)**
 - 2024-12-16, **NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**, Chengyue Wang et.al., Paper: [http://arxiv.org/abs/2412.11682v1](http://arxiv.org/abs/2412.11682v1)
 - 2024-12-16, **DINO-Foresight Looking into the Future with DINO**, Efstathios Karypidis et.al., Paper: [http://arxiv.org/abs/2412.11673v1](http://arxiv.org/abs/2412.11673v1), Code: **[https://github.com/sta8is/dino-foresight](https://github.com/sta8is/dino-foresight)**
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
-- 2024-12-15, **ViPOcc: Leveraging Visual Priors from Vision Foundation Models for Single-View 3D Occupancy Prediction**, Yi Feng et.al., Paper: [http://arxiv.org/abs/2412.11210v1](http://arxiv.org/abs/2412.11210v1), Code: **[https://github.com/fengyi233/ViPOcc](https://github.com/fengyi233/ViPOcc)**
-- 2024-12-15, **GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control**, Mariam Hassan et.al., Paper: [http://arxiv.org/abs/2412.11198v1](http://arxiv.org/abs/2412.11198v1)
-- 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
-- 2024-12-14, **OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving**, Lianqing Zheng et.al., Paper: [http://arxiv.org/abs/2412.10734v1](http://arxiv.org/abs/2412.10734v1)
-- 2024-12-13, **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2412.10373v1](http://arxiv.org/abs/2412.10373v1), Code: **[https://github.com/zuosc19/gaussianworld](https://github.com/zuosc19/gaussianworld)**
-- 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 
 ## Autonomous_Driving_Decision
 
+- 2024-12-17, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v1](http://arxiv.org/abs/2412.13238v1)
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
 - 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
@@ -33,14 +34,15 @@
 
 ## Autonomous_Driving_E2E
 
+- 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
 - 2024-12-16, **AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2412.12347v1](http://arxiv.org/abs/2412.12347v1)
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
 - 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
-- 2024-12-12, **DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving**, Hao Lu et.al., Paper: [http://arxiv.org/abs/2412.09043v1](http://arxiv.org/abs/2412.09043v1), Code: **[https://github.com/envision-research/driverecon](https://github.com/envision-research/driverecon)**
 
 ## Autonomous_Driving_LLM
 
+- 2024-12-17, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v1](http://arxiv.org/abs/2412.13238v1)
 - 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
 
 ## Autonomous_Driving_RL
