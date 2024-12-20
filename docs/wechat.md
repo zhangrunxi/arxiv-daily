@@ -1,13 +1,10 @@
-> Updated on 2024.12.19
+> Updated on 2024.12.20
 
 ## Autonomous_Driving_Planning
 
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
-- 2024-12-13, **EI-Drive: A Platform for Cooperative Perception with Realistic Communication Models**, Hanchu Zhou et.al., Paper: [http://arxiv.org/abs/2412.09782v1](http://arxiv.org/abs/2412.09782v1)
-- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
-- 2024-12-12, **Slope Considered Online Nonlinear Trajectory Planning with Differential Energy Model for Autonomous Driving**, Zhaofeng Tian et.al., Paper: [http://arxiv.org/abs/2412.09424v1](http://arxiv.org/abs/2412.09424v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -24,13 +21,12 @@
 
 ## Autonomous_Driving_Decision
 
-- 2024-12-17, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v1](http://arxiv.org/abs/2412.13238v1)
+- 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
 - 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
-- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 
 ## Autonomous_Driving_E2E
 
@@ -38,11 +34,10 @@
 - 2024-12-16, **AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2412.12347v1](http://arxiv.org/abs/2412.12347v1)
 - 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 - 2024-12-17, **WiseAD: Knowledge Augmented End-to-End Autonomous Driving with Vision-Language Model**, Songyan Zhang et.al., Paper: [http://arxiv.org/abs/2412.09951v2](http://arxiv.org/abs/2412.09951v2)
-- 2024-12-12, **Doe-1: Closed-Loop Autonomous Driving with Large World Model**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.09627v1](http://arxiv.org/abs/2412.09627v1), Code: **[https://github.com/wzzheng/doe](https://github.com/wzzheng/doe)**
 
 ## Autonomous_Driving_LLM
 
-- 2024-12-17, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v1](http://arxiv.org/abs/2412.13238v1)
+- 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
 - 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
 
 ## Autonomous_Driving_RL
