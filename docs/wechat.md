@@ -1,4 +1,4 @@
-> Updated on 2024.12.20
+> Updated on 2024.12.21
 
 ## Autonomous_Driving_Planning
 
@@ -6,7 +6,6 @@
 - 2024-12-19, **EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**, Saiqian Peng et.al., Paper: [http://arxiv.org/abs/2412.14442v1](http://arxiv.org/abs/2412.14442v1)
 - 2024-12-19, **DriveGPT: Scaling Autoregressive Behavior Models for Driving**, Xin Huang et.al., Paper: [http://arxiv.org/abs/2412.14415v1](http://arxiv.org/abs/2412.14415v1)
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
-- 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 
 ## Autonomous_Driving_Prediction
 
@@ -29,7 +28,6 @@
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
 - 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
-- 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 
 ## Autonomous_Driving_E2E
 
@@ -39,7 +37,6 @@
 - 2024-12-19, **VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**, Yi Xu et.al., Paper: [http://arxiv.org/abs/2412.14446v1](http://arxiv.org/abs/2412.14446v1)
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
 - 2024-12-16, **AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**, Saaketh Desai et.al., Paper: [http://arxiv.org/abs/2412.12347v1](http://arxiv.org/abs/2412.12347v1)
-- 2024-12-13, **GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**, Wenzhao Zheng et.al., Paper: [http://arxiv.org/abs/2412.10371v1](http://arxiv.org/abs/2412.10371v1), Code: **[https://github.com/wzzheng/gaussianad](https://github.com/wzzheng/gaussianad)**
 
 ## Autonomous_Driving_LLM
 

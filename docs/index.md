@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.20
+## Updated on 2024.12.21
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|null|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|
-|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.10371v1-b31b1b.svg)](http://arxiv.org/abs/2412.10371v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gaussianad)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -39,7 +38,6 @@ layout: default
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13017v1-b31b1b.svg)](http://arxiv.org/abs/2412.13017v1)|null|
 |**2024-12-16**|**AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**|Bowen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11491v1-b31b1b.svg)](http://arxiv.org/abs/2412.11491v1)|null|
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11026v1-b31b1b.svg)](http://arxiv.org/abs/2412.11026v1)|null|
-|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.10371v1-b31b1b.svg)](http://arxiv.org/abs/2412.10371v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gaussianad)**|
 
 ## Autonomous_Driving_E2E
 
@@ -51,7 +49,6 @@ layout: default
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|
 |**2024-12-16**|**AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**|Saaketh Desai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.12347v1-b31b1b.svg)](http://arxiv.org/abs/2412.12347v1)|null|
-|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.10371v1-b31b1b.svg)](http://arxiv.org/abs/2412.10371v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wzzheng/gaussianad)**|
 
 ## Autonomous_Driving_LLM
 
