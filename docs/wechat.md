@@ -27,7 +27,6 @@
 - 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
 - 2024-12-16, **AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**, Bowen Xie et.al., Paper: [http://arxiv.org/abs/2412.11491v1](http://arxiv.org/abs/2412.11491v1)
-- 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
 
 ## Autonomous_Driving_E2E
 
@@ -42,7 +41,6 @@
 
 - 2024-12-19, **Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**, Zijun Chen et.al., Paper: [http://arxiv.org/abs/2412.14660v1](http://arxiv.org/abs/2412.14660v1), Code: **[https://github.com/hfutml/calibration-mllm](https://github.com/hfutml/calibration-mllm)**
 - 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
-- 2024-12-15, **SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**, Hang Zhang et.al., Paper: [http://arxiv.org/abs/2412.11026v1](http://arxiv.org/abs/2412.11026v1)
 
 ## Autonomous_Driving_RL
 
