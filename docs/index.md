@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 
 ## Autonomous_Driving_Planning
 
@@ -32,7 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-19**|**SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**|Zhiyuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13238v2-b31b1b.svg)](http://arxiv.org/abs/2412.13238v2)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13017v1-b31b1b.svg)](http://arxiv.org/abs/2412.13017v1)|null|
@@ -43,8 +43,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15208v1-b31b1b.svg)](http://arxiv.org/abs/2412.15208v1)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15208v1-b31b1b.svg)](http://arxiv.org/abs/2412.15208v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/openemma)**|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14494v1-b31b1b.svg)](http://arxiv.org/abs/2412.14494v1)|null|
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|

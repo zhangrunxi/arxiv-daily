@@ -1,4 +1,4 @@
-> Updated on 2024.12.21
+> Updated on 2024.12.22
 
 ## Autonomous_Driving_Planning
 
@@ -22,7 +22,7 @@
 
 ## Autonomous_Driving_Decision
 
-- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1)
+- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 - 2024-12-19, **DriveGPT: Scaling Autoregressive Behavior Models for Driving**, Xin Huang et.al., Paper: [http://arxiv.org/abs/2412.14415v1](http://arxiv.org/abs/2412.14415v1)
 - 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
 - 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
@@ -31,8 +31,8 @@
 
 ## Autonomous_Driving_E2E
 
-- 2024-12-19, **OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15208v1](http://arxiv.org/abs/2412.15208v1)
-- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1)
+- 2024-12-19, **OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15208v1](http://arxiv.org/abs/2412.15208v1), Code: **[https://github.com/taco-group/openemma](https://github.com/taco-group/openemma)**
+- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 - 2024-12-19, **Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**, Chuang Lin et.al., Paper: [http://arxiv.org/abs/2412.14494v1](http://arxiv.org/abs/2412.14494v1)
 - 2024-12-19, **VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**, Yi Xu et.al., Paper: [http://arxiv.org/abs/2412.14446v1](http://arxiv.org/abs/2412.14446v1)
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
