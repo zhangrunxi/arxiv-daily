@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
-|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|null|
+|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whutpsq/EPN)**|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|
 
@@ -17,7 +17,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|null|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15752v1-b31b1b.svg)](http://arxiv.org/abs/2412.15752v1)|null|
+|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whutpsq/EPN)**|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14088v1-b31b1b.svg)](http://arxiv.org/abs/2412.14088v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**|Huiwen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13802v1-b31b1b.svg)](http://arxiv.org/abs/2412.13802v1)|null|
@@ -26,7 +27,6 @@ layout: default
 |**2024-12-17**|**Quantitative Predictive Monitoring and Control for Safe Human-Machine Interaction**|Shuyang Dong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13365v1-b31b1b.svg)](http://arxiv.org/abs/2412.13365v1)|null|
 |**2024-12-17**|**C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-Aware Trajectory Prediction**|Zichen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13231v1-b31b1b.svg)](http://arxiv.org/abs/2412.13231v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wangzc0422/c2f-tp)**|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13193v1-b31b1b.svg)](http://arxiv.org/abs/2412.13193v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/gausstr)**|
-|**2024-12-16**|**NEST: A Neuromodulated Small-world Hypergraph Trajectory Prediction Model for Autonomous Driving**|Chengyue Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11682v1-b31b1b.svg)](http://arxiv.org/abs/2412.11682v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -36,7 +36,6 @@ layout: default
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-19**|**SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**|Zhiyuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13238v2-b31b1b.svg)](http://arxiv.org/abs/2412.13238v2)|null|
 |**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13017v1-b31b1b.svg)](http://arxiv.org/abs/2412.13017v1)|null|
-|**2024-12-16**|**AEPHORA: AI/ML-Based Energy-Efficient Proactive Handover and Resource Allocation**|Bowen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11491v1-b31b1b.svg)](http://arxiv.org/abs/2412.11491v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -60,5 +59,5 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.11484v1-b31b1b.svg)](http://arxiv.org/abs/2412.11484v1)|null|
+|**2024-12-20**|**VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**|Zilin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15544v1-b31b1b.svg)](http://arxiv.org/abs/2412.15544v1)|null|
 
