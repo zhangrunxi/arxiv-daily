@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 
 ## Autonomous_Driving_Planning
 
@@ -46,7 +46,6 @@ layout: default
 |**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14494v1-b31b1b.svg)](http://arxiv.org/abs/2412.14494v1)|null|
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|
-|**2024-12-16**|**AutoSciLab: A Self-Driving Laboratory For Interpretable Scientific Discovery**|Saaketh Desai et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.12347v1-b31b1b.svg)](http://arxiv.org/abs/2412.12347v1)|null|
 
 ## Autonomous_Driving_LLM
 
