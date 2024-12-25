@@ -1,4 +1,4 @@
-> Updated on 2024.12.24
+> Updated on 2024.12.25
 
 ## Autonomous_Driving_Planning
 
@@ -18,7 +18,6 @@
 - 2024-12-18, **Joint Perception and Prediction for Autonomous Driving: A Survey**, Lucas Dal'Col et.al., Paper: [http://arxiv.org/abs/2412.14088v1](http://arxiv.org/abs/2412.14088v1), Code: **[https://github.com/pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet)**
 - 2024-12-18, **SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**, Huiwen Yang et.al., Paper: [http://arxiv.org/abs/2412.13802v1](http://arxiv.org/abs/2412.13802v1)
 - 2024-12-18, **An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2412.13772v1](http://arxiv.org/abs/2412.13772v1)
-- 2024-12-18, **Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2412.13419v1](http://arxiv.org/abs/2412.13419v1)
 
 ## Autonomous_Driving_Decision
 
@@ -26,8 +25,6 @@
 - 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
 - 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 - 2024-12-19, **DriveGPT: Scaling Autoregressive Behavior Models for Driving**, Xin Huang et.al., Paper: [http://arxiv.org/abs/2412.14415v1](http://arxiv.org/abs/2412.14415v1)
-- 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
-- 2024-12-17, **A New Adversarial Perspective for LiDAR-based 3D Object Detection**, Shijun Zheng et.al., Paper: [http://arxiv.org/abs/2412.13017v1](http://arxiv.org/abs/2412.13017v1)
 
 ## Autonomous_Driving_E2E
 
@@ -43,7 +40,6 @@
 
 - 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
 - 2024-12-19, **Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**, Zijun Chen et.al., Paper: [http://arxiv.org/abs/2412.14660v1](http://arxiv.org/abs/2412.14660v1), Code: **[https://github.com/hfutml/calibration-mllm](https://github.com/hfutml/calibration-mllm)**
-- 2024-12-19, **SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**, Zhiyuan Zhou et.al., Paper: [http://arxiv.org/abs/2412.13238v2](http://arxiv.org/abs/2412.13238v2)
 
 ## Autonomous_Driving_RL
 

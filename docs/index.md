@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,6 @@ layout: default
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14088v1-b31b1b.svg)](http://arxiv.org/abs/2412.14088v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**|Huiwen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13802v1-b31b1b.svg)](http://arxiv.org/abs/2412.13802v1)|null|
 |**2024-12-18**|**An Efficient Occupancy World Model via Decoupled Dynamic Flow and Image-assisted Training**|Haiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13772v1-b31b1b.svg)](http://arxiv.org/abs/2412.13772v1)|null|
-|**2024-12-18**|**Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction**|Chandra Raskoti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13419v1-b31b1b.svg)](http://arxiv.org/abs/2412.13419v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -36,8 +35,6 @@ layout: default
 |**2024-12-20**|**Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**|Ziwei Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16265v1-b31b1b.svg)](http://arxiv.org/abs/2412.16265v1)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
-|**2024-12-19**|**SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**|Zhiyuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13238v2-b31b1b.svg)](http://arxiv.org/abs/2412.13238v2)|null|
-|**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13017v1-b31b1b.svg)](http://arxiv.org/abs/2412.13017v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -57,7 +54,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-20**|**Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**|Ziwei Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16265v1-b31b1b.svg)](http://arxiv.org/abs/2412.16265v1)|null|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14660v1-b31b1b.svg)](http://arxiv.org/abs/2412.14660v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hfutml/calibration-mllm)**|
-|**2024-12-19**|**SafeDrive: Knowledge- and Data-Driven Risk-Sensitive Decision-Making for Autonomous Vehicles with Large Language Models**|Zhiyuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13238v2-b31b1b.svg)](http://arxiv.org/abs/2412.13238v2)|null|
 
 ## Autonomous_Driving_RL
 
