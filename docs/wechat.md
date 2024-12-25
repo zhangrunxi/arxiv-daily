@@ -17,7 +17,6 @@
 - 2024-12-19, **EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**, Saiqian Peng et.al., Paper: [http://arxiv.org/abs/2412.14442v1](http://arxiv.org/abs/2412.14442v1), Code: **[https://github.com/whutpsq/EPN](https://github.com/whutpsq/EPN)**
 - 2024-12-19, **DriveGPT: Scaling Autoregressive Behavior Models for Driving**, Xin Huang et.al., Paper: [http://arxiv.org/abs/2412.14415v1](http://arxiv.org/abs/2412.14415v1)
 - 2024-12-18, **Joint Perception and Prediction for Autonomous Driving: A Survey**, Lucas Dal'Col et.al., Paper: [http://arxiv.org/abs/2412.14088v1](http://arxiv.org/abs/2412.14088v1), Code: **[https://github.com/pxiangwu/MotionNet](https://github.com/pxiangwu/MotionNet)**
-- 2024-12-18, **SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**, Huiwen Yang et.al., Paper: [http://arxiv.org/abs/2412.13802v1](http://arxiv.org/abs/2412.13802v1)
 
 ## Autonomous_Driving_Decision
 

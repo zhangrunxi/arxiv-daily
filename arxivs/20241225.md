@@ -21,7 +21,6 @@
 |**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whutpsq/EPN)**|
 |**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14088v1-b31b1b.svg)](http://arxiv.org/abs/2412.14088v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxiangwu/MotionNet)**|
-|**2024-12-18**|**SimADFuzz: Simulation-Feedback Fuzz Testing for Autonomous Driving Systems**|Huiwen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.13802v1-b31b1b.svg)](http://arxiv.org/abs/2412.13802v1)|null|
 
 ## Autonomous_Driving_Decision
 
