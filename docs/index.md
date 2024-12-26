@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.25
+## Updated on 2024.12.26
 
 ## Autonomous_Driving_Planning
 
@@ -10,8 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-24**|**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**|Aizierjiang Aiersilan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18086v1-b31b1b.svg)](http://arxiv.org/abs/2412.18086v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ezharjan/AutoSceneGen)**|
 |**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14446v1-b31b1b.svg)](http://arxiv.org/abs/2412.14446v1)|null|
-|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whutpsq/EPN)**|
-|**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -22,9 +20,6 @@ layout: default
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16955v1-b31b1b.svg)](http://arxiv.org/abs/2412.16955v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cgcl-codes/numbod)**|
 |**2024-12-21**|**Application of Multimodal Large Language Models in Autonomous Driving**|Md Robiul Islam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16410v1-b31b1b.svg)](http://arxiv.org/abs/2412.16410v1)|null|
 |**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15752v1-b31b1b.svg)](http://arxiv.org/abs/2412.15752v1)|null|
-|**2024-12-19**|**EPN: An Ego Vehicle Planning-Informed Network for Target Trajectory Prediction**|Saiqian Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14442v1-b31b1b.svg)](http://arxiv.org/abs/2412.14442v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/whutpsq/EPN)**|
-|**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
-|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14088v1-b31b1b.svg)](http://arxiv.org/abs/2412.14088v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxiangwu/MotionNet)**|
 
 ## Autonomous_Driving_Decision
 
@@ -36,7 +31,6 @@ layout: default
 |**2024-12-21**|**Application of Multimodal Large Language Models in Autonomous Driving**|Md Robiul Islam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16410v1-b31b1b.svg)](http://arxiv.org/abs/2412.16410v1)|null|
 |**2024-12-20**|**Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**|Ziwei Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16265v1-b31b1b.svg)](http://arxiv.org/abs/2412.16265v1)|null|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.15206v1-b31b1b.svg)](http://arxiv.org/abs/2412.15206v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/autotrust)**|
-|**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.14415v1-b31b1b.svg)](http://arxiv.org/abs/2412.14415v1)|null|
 
 ## Autonomous_Driving_E2E
 
