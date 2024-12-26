@@ -3,7 +3,6 @@
 ## Autonomous_Driving_Planning
 
 - 2024-12-24, **Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**, Aizierjiang Aiersilan et.al., Paper: [http://arxiv.org/abs/2412.18086v1](http://arxiv.org/abs/2412.18086v1), Code: **[https://github.com/Ezharjan/AutoSceneGen](https://github.com/Ezharjan/AutoSceneGen)**
-- 2024-12-19, **VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**, Yi Xu et.al., Paper: [http://arxiv.org/abs/2412.14446v1](http://arxiv.org/abs/2412.14446v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -29,8 +28,6 @@
 - 2024-12-21, **Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**, Iqra Aslam et.al., Paper: [http://arxiv.org/abs/2412.16764v1](http://arxiv.org/abs/2412.16764v1)
 - 2024-12-19, **OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15208v1](http://arxiv.org/abs/2412.15208v1), Code: **[https://github.com/taco-group/openemma](https://github.com/taco-group/openemma)**
 - 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
-- 2024-12-19, **Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**, Chuang Lin et.al., Paper: [http://arxiv.org/abs/2412.14494v1](http://arxiv.org/abs/2412.14494v1)
-- 2024-12-19, **VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**, Yi Xu et.al., Paper: [http://arxiv.org/abs/2412.14446v1](http://arxiv.org/abs/2412.14446v1)
 
 ## Autonomous_Driving_LLM
 
@@ -38,7 +35,6 @@
 - 2024-12-24, **Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**, Aizierjiang Aiersilan et.al., Paper: [http://arxiv.org/abs/2412.18086v1](http://arxiv.org/abs/2412.18086v1), Code: **[https://github.com/Ezharjan/AutoSceneGen](https://github.com/Ezharjan/AutoSceneGen)**
 - 2024-12-23, **More than Chit-Chat: Developing Robots for Small-Talk Interactions**, Rebecca Ramnauth et.al., Paper: [http://arxiv.org/abs/2412.18023v1](http://arxiv.org/abs/2412.18023v1)
 - 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
-- 2024-12-19, **Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**, Zijun Chen et.al., Paper: [http://arxiv.org/abs/2412.14660v1](http://arxiv.org/abs/2412.14660v1), Code: **[https://github.com/hfutml/calibration-mllm](https://github.com/hfutml/calibration-mllm)**
 
 ## Autonomous_Driving_RL
 
