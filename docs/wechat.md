@@ -1,4 +1,4 @@
-> Updated on 2024.12.26
+> Updated on 2024.12.27
 
 ## Autonomous_Driving_Planning
 
@@ -19,15 +19,12 @@
 - 2024-12-23, **Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion**, Grigor Bezirganyan et.al., Paper: [http://arxiv.org/abs/2412.18024v1](http://arxiv.org/abs/2412.18024v1), Code: **[https://github.com/bezirganyan/DBF_uncertainty](https://github.com/bezirganyan/DBF_uncertainty)**
 - 2024-12-21, **Application of Multimodal Large Language Models in Autonomous Driving**, Md Robiul Islam et.al., Paper: [http://arxiv.org/abs/2412.16410v1](http://arxiv.org/abs/2412.16410v1)
 - 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
-- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 
 ## Autonomous_Driving_E2E
 
 - 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
 - 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
 - 2024-12-21, **Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**, Iqra Aslam et.al., Paper: [http://arxiv.org/abs/2412.16764v1](http://arxiv.org/abs/2412.16764v1)
-- 2024-12-19, **OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15208v1](http://arxiv.org/abs/2412.15208v1), Code: **[https://github.com/taco-group/openemma](https://github.com/taco-group/openemma)**
-- 2024-12-19, **AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**, Shuo Xing et.al., Paper: [http://arxiv.org/abs/2412.15206v1](http://arxiv.org/abs/2412.15206v1), Code: **[https://github.com/taco-group/autotrust](https://github.com/taco-group/autotrust)**
 
 ## Autonomous_Driving_LLM
 
@@ -39,6 +36,5 @@
 ## Autonomous_Driving_RL
 
 - 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
-- 2024-12-20, **Optimizing Low-Speed Autonomous Driving: A Reinforcement Learning Approach to Route Stability and Maximum Speed**, Benny Bao-Sheng Li et.al., Paper: [http://arxiv.org/abs/2412.16248v1](http://arxiv.org/abs/2412.16248v1)
 - 2024-12-20, **VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**, Zilin Huang et.al., Paper: [http://arxiv.org/abs/2412.15544v1](http://arxiv.org/abs/2412.15544v1)
 
