@@ -10,7 +10,6 @@
 - 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
 - 2024-12-22, **NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.16955v1](http://arxiv.org/abs/2412.16955v1), Code: **[https://github.com/cgcl-codes/numbod](https://github.com/cgcl-codes/numbod)**
 - 2024-12-21, **Application of Multimodal Large Language Models in Autonomous Driving**, Md Robiul Islam et.al., Paper: [http://arxiv.org/abs/2412.16410v1](http://arxiv.org/abs/2412.16410v1)
-- 2024-12-20, **Sparse Point Clouds Assisted Learned Image Compression**, Yiheng Jiang et.al., Paper: [http://arxiv.org/abs/2412.15752v1](http://arxiv.org/abs/2412.15752v1)
 
 ## Autonomous_Driving_Decision
 
@@ -18,7 +17,6 @@
 - 2024-12-24, **Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**, Suwesh Prasad Sah et.al., Paper: [http://arxiv.org/abs/2412.18165v1](http://arxiv.org/abs/2412.18165v1), Code: **[https://github.com/suwesh/parallel-perception-network](https://github.com/suwesh/parallel-perception-network)**
 - 2024-12-23, **Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion**, Grigor Bezirganyan et.al., Paper: [http://arxiv.org/abs/2412.18024v1](http://arxiv.org/abs/2412.18024v1), Code: **[https://github.com/bezirganyan/DBF_uncertainty](https://github.com/bezirganyan/DBF_uncertainty)**
 - 2024-12-21, **Application of Multimodal Large Language Models in Autonomous Driving**, Md Robiul Islam et.al., Paper: [http://arxiv.org/abs/2412.16410v1](http://arxiv.org/abs/2412.16410v1)
-- 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
 
 ## Autonomous_Driving_E2E
 
@@ -31,10 +29,8 @@
 - 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
 - 2024-12-24, **Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**, Aizierjiang Aiersilan et.al., Paper: [http://arxiv.org/abs/2412.18086v1](http://arxiv.org/abs/2412.18086v1), Code: **[https://github.com/Ezharjan/AutoSceneGen](https://github.com/Ezharjan/AutoSceneGen)**
 - 2024-12-23, **More than Chit-Chat: Developing Robots for Small-Talk Interactions**, Rebecca Ramnauth et.al., Paper: [http://arxiv.org/abs/2412.18023v1](http://arxiv.org/abs/2412.18023v1)
-- 2024-12-20, **Autoware.Flex: Human-Instructed Dynamically Reconfigurable Autonomous Driving Systems**, Ziwei Song et.al., Paper: [http://arxiv.org/abs/2412.16265v1](http://arxiv.org/abs/2412.16265v1)
 
 ## Autonomous_Driving_RL
 
 - 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
-- 2024-12-20, **VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**, Zilin Huang et.al., Paper: [http://arxiv.org/abs/2412.15544v1](http://arxiv.org/abs/2412.15544v1)
 
