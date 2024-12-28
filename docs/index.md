@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,6 @@ layout: default
 |**2024-12-23**|**AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**|Mirko Zaffaroni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18038v1-b31b1b.svg)](http://arxiv.org/abs/2412.18038v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkozaff/aa-sgan)**|
 |**2024-12-23**|**DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**|Yizhe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.17487v1-b31b1b.svg)](http://arxiv.org/abs/2412.17487v1)|null|
 |**2024-12-22**|**NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**|Ziqi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16955v1-b31b1b.svg)](http://arxiv.org/abs/2412.16955v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cgcl-codes/numbod)**|
-|**2024-12-21**|**Application of Multimodal Large Language Models in Autonomous Driving**|Md Robiul Islam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16410v1-b31b1b.svg)](http://arxiv.org/abs/2412.16410v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -26,7 +25,6 @@ layout: default
 |**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18511v1-b31b1b.svg)](http://arxiv.org/abs/2412.18511v1)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18165v1-b31b1b.svg)](http://arxiv.org/abs/2412.18165v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion**|Grigor Bezirganyan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18024v1-b31b1b.svg)](http://arxiv.org/abs/2412.18024v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bezirganyan/DBF_uncertainty)**|
-|**2024-12-21**|**Application of Multimodal Large Language Models in Autonomous Driving**|Md Robiul Islam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16410v1-b31b1b.svg)](http://arxiv.org/abs/2412.16410v1)|null|
 
 ## Autonomous_Driving_E2E
 
