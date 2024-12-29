@@ -1,4 +1,4 @@
-> Updated on 2024.12.28
+> Updated on 2024.12.29
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@
 
 - 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
 - 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
-- 2024-12-21, **Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**, Iqra Aslam et.al., Paper: [http://arxiv.org/abs/2412.16764v1](http://arxiv.org/abs/2412.16764v1)
 
 ## Autonomous_Driving_LLM
 

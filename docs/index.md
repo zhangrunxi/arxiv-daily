@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.28
+## Updated on 2024.12.29
 
 ## Autonomous_Driving_Planning
 
@@ -32,7 +32,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**|Mirko Zaffaroni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.18038v1-b31b1b.svg)](http://arxiv.org/abs/2412.18038v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkozaff/aa-sgan)**|
 |**2024-12-23**|**DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**|Yizhe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.17487v1-b31b1b.svg)](http://arxiv.org/abs/2412.17487v1)|null|
-|**2024-12-21**|**Towards Selection and Transition Between Behavior-Based Neural Networks for Automated Driving**|Iqra Aslam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.16764v1-b31b1b.svg)](http://arxiv.org/abs/2412.16764v1)|null|
 
 ## Autonomous_Driving_LLM
 
