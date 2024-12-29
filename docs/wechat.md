@@ -8,7 +8,6 @@
 
 - 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
 - 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
-- 2024-12-22, **NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.16955v1](http://arxiv.org/abs/2412.16955v1), Code: **[https://github.com/cgcl-codes/numbod](https://github.com/cgcl-codes/numbod)**
 
 ## Autonomous_Driving_Decision
 
