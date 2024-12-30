@@ -6,8 +6,12 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2024-12-27, **DrivingWorld: ConstructingWorld Model for Autonomous Driving via Video GPT**, Xiaotao Hu et.al., Paper: [http://arxiv.org/abs/2412.19505v1](http://arxiv.org/abs/2412.19505v1), Code: **[https://github.com/yvanyin/drivingworld](https://github.com/yvanyin/drivingworld)**
+- 2024-12-27, **MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**, Jiaqi Fan et.al., Paper: [http://arxiv.org/abs/2412.19406v1](http://arxiv.org/abs/2412.19406v1)
+- 2024-12-25, **TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding**, Muhammet Esat Kalfaoglu et.al., Paper: [http://arxiv.org/abs/2412.18951v1](http://arxiv.org/abs/2412.18951v1)
+- 2024-12-25, **HV-BEV: Decoupling Horizontal and Vertical Feature Sampling for Multi-View 3D Object Detection**, Di Wu et.al., Paper: [http://arxiv.org/abs/2412.18884v1](http://arxiv.org/abs/2412.18884v1)
+- 2024-12-25, **TSceneJAL: Joint Active Learning of Traffic Scenes for 3D Object Detection**, Chenyang Lei et.al., Paper: [http://arxiv.org/abs/2412.18870v1](http://arxiv.org/abs/2412.18870v1)
 - 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
-- 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
 
 ## Autonomous_Driving_Decision
 
@@ -18,7 +22,6 @@
 ## Autonomous_Driving_E2E
 
 - 2024-12-23, **AA-SGAN: Adversarially Augmented Social GAN with Synthetic Data**, Mirko Zaffaroni et.al., Paper: [http://arxiv.org/abs/2412.18038v1](http://arxiv.org/abs/2412.18038v1), Code: **[https://github.com/mirkozaff/aa-sgan](https://github.com/mirkozaff/aa-sgan)**
-- 2024-12-23, **DeepMF: Deep Motion Factorization for Closed-Loop Safety-Critical Driving Scenario Simulation**, Yizhe Li et.al., Paper: [http://arxiv.org/abs/2412.17487v1](http://arxiv.org/abs/2412.17487v1)
 
 ## Autonomous_Driving_LLM
 
