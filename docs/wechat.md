@@ -1,4 +1,4 @@
-> Updated on 2024.12.31
+> Updated on 2025.01.01
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@
 - 2024-12-30, **Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**, Venkata Sai Chandra Prasanth Narisetty et.al., Paper: [http://arxiv.org/abs/2412.20688v1](http://arxiv.org/abs/2412.20688v1)
 - 2024-12-28, **Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**, Athanasios Karagounis et.al., Paper: [http://arxiv.org/abs/2412.20230v1](http://arxiv.org/abs/2412.20230v1)
 - 2024-12-28, **Defending Against Network Attacks for Secure AI Agent Migration in Vehicular Metaverses**, Xinru Wen et.al., Paper: [http://arxiv.org/abs/2412.20154v1](http://arxiv.org/abs/2412.20154v1)
-- 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
 
 ## Autonomous_Driving_E2E
 
@@ -30,9 +29,4 @@
 
 - 2024-12-28, **FaGeL: Fabric LLMs Agent empowered Embodied Intelligence Evolution with Autonomous Human-Machine Collaboration**, Jia Liu et.al., Paper: [http://arxiv.org/abs/2412.20297v1](http://arxiv.org/abs/2412.20297v1)
 - 2024-12-28, **Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**, Athanasios Karagounis et.al., Paper: [http://arxiv.org/abs/2412.20230v1](http://arxiv.org/abs/2412.20230v1)
-- 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
-
-## Autonomous_Driving_RL
-
-- 2024-12-24, **Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**, Hao Pang et.al., Paper: [http://arxiv.org/abs/2412.18511v1](http://arxiv.org/abs/2412.18511v1)
 
