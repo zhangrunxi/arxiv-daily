@@ -17,8 +17,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20784v1-b31b1b.svg)](http://arxiv.org/abs/2412.20784v1)|null|
 |**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20480v1-b31b1b.svg)](http://arxiv.org/abs/2412.20480v1)|null|
-|**2024-12-30**|**DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.19505v2-b31b1b.svg)](http://arxiv.org/abs/2412.19505v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yvanyin/drivingworld)**|
-|**2024-12-27**|**MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**|Jiaqi Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.19406v1-b31b1b.svg)](http://arxiv.org/abs/2412.19406v1)|null|
 
 ## Autonomous_Driving_Decision
 
