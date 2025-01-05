@@ -1,9 +1,8 @@
-> Updated on 2025.01.04
+> Updated on 2025.01.05
 
 ## Autonomous_Driving_Planning
 
 - 2024-12-30, **Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**, Venkata Sai Chandra Prasanth Narisetty et.al., Paper: [http://arxiv.org/abs/2412.20688v1](http://arxiv.org/abs/2412.20688v1)
-- 2024-12-28, **FaGeL: Fabric LLMs Agent empowered Embodied Intelligence Evolution with Autonomous Human-Machine Collaboration**, Jia Liu et.al., Paper: [http://arxiv.org/abs/2412.20297v1](http://arxiv.org/abs/2412.20297v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -13,15 +12,4 @@
 ## Autonomous_Driving_Decision
 
 - 2024-12-30, **Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**, Venkata Sai Chandra Prasanth Narisetty et.al., Paper: [http://arxiv.org/abs/2412.20688v1](http://arxiv.org/abs/2412.20688v1)
-- 2024-12-28, **Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**, Athanasios Karagounis et.al., Paper: [http://arxiv.org/abs/2412.20230v1](http://arxiv.org/abs/2412.20230v1)
-- 2024-12-28, **Defending Against Network Attacks for Secure AI Agent Migration in Vehicular Metaverses**, Xinru Wen et.al., Paper: [http://arxiv.org/abs/2412.20154v1](http://arxiv.org/abs/2412.20154v1)
-
-## Autonomous_Driving_E2E
-
-- 2024-12-28, **Multi-Modality Driven LoRA for Adverse Condition Depth Estimation**, Guanglei Yang et.al., Paper: [http://arxiv.org/abs/2412.20162v1](http://arxiv.org/abs/2412.20162v1)
-
-## Autonomous_Driving_LLM
-
-- 2024-12-28, **FaGeL: Fabric LLMs Agent empowered Embodied Intelligence Evolution with Autonomous Human-Machine Collaboration**, Jia Liu et.al., Paper: [http://arxiv.org/abs/2412.20297v1](http://arxiv.org/abs/2412.20297v1)
-- 2024-12-28, **Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**, Athanasios Karagounis et.al., Paper: [http://arxiv.org/abs/2412.20230v1](http://arxiv.org/abs/2412.20230v1)
 
