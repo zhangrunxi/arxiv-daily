@@ -4,12 +4,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00601v1-b31b1b.svg)](http://arxiv.org/abs/2501.00601v1)|null|
 |**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20688v1-b31b1b.svg)](http://arxiv.org/abs/2412.20688v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|null|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00220v1-b31b1b.svg)](http://arxiv.org/abs/2501.00220v1)|null|
 |**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20784v1-b31b1b.svg)](http://arxiv.org/abs/2412.20784v1)|null|
 |**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20480v1-b31b1b.svg)](http://arxiv.org/abs/2412.20480v1)|null|
 
@@ -17,5 +20,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00381v1-b31b1b.svg)](http://arxiv.org/abs/2501.00381v1)|null|
+|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|null|
+|**2024-12-31**|**Distributed Traffic Control in Complex Dynamic Roadblocks: A Multi-Agent Deep RL Approach**|Noor Aboueleneen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00211v1-b31b1b.svg)](http://arxiv.org/abs/2501.00211v1)|null|
 |**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20688v1-b31b1b.svg)](http://arxiv.org/abs/2412.20688v1)|null|
+
+## Autonomous_Driving_E2E
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00584v1-b31b1b.svg)](http://arxiv.org/abs/2501.00584v1)|null|
+
+## Autonomous_Driving_RL
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00381v1-b31b1b.svg)](http://arxiv.org/abs/2501.00381v1)|null|
+|**2024-12-31**|**Distributed Traffic Control in Complex Dynamic Roadblocks: A Multi-Agent Deep RL Approach**|Noor Aboueleneen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00211v1-b31b1b.svg)](http://arxiv.org/abs/2501.00211v1)|null|
 
