@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 
 ## Autonomous_Driving_Planning
 
@@ -18,7 +18,6 @@ layout: default
 |**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00220v1-b31b1b.svg)](http://arxiv.org/abs/2501.00220v1)|null|
 |**2024-12-30**|**DEMO: A Dynamics-Enhanced Learning Model for Multi-Horizon Trajectory Prediction in Autonomous Vehicles**|Chengyue Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20784v1-b31b1b.svg)](http://arxiv.org/abs/2412.20784v1)|null|
-|**2024-12-29**|**MR-Occ: Efficient Camera-LiDAR 3D Semantic Occupancy Prediction Using Hierarchical Multi-Resolution Voxel Representation**|Minjae Seong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2412.20480v1-b31b1b.svg)](http://arxiv.org/abs/2412.20480v1)|null|
 
 ## Autonomous_Driving_Decision
 
