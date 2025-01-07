@@ -10,21 +10,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braincog-x/brain-cog)**|
-|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00220v1-b31b1b.svg)](http://arxiv.org/abs/2501.00220v1)|null|
+|**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02937v1-b31b1b.svg)](http://arxiv.org/abs/2501.02937v1)|null|
+|**2025-01-06**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02763v1-b31b1b.svg)](http://arxiv.org/abs/2501.02763v1)|null|
+|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|null|
 
 ## Autonomous_Driving_Decision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|null|
+|**2025-01-01**|**Communication Efficient Cooperative Edge AI via Event-Triggered Computation Offloading**|You Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02001v1-b31b1b.svg)](http://arxiv.org/abs/2501.02001v1)|null|
 |**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01886v1-b31b1b.svg)](http://arxiv.org/abs/2501.01886v1)|null|
-|**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00381v1-b31b1b.svg)](http://arxiv.org/abs/2501.00381v1)|null|
-|**2024-12-31**|**Autonomous Alignment with Human Value on Altruism through Considerate Self-imagination and Theory of Mind**|Haibo Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00320v1-b31b1b.svg)](http://arxiv.org/abs/2501.00320v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braincog-x/brain-cog)**|
 
 ## Autonomous_Driving_E2E
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02763v1-b31b1b.svg)](http://arxiv.org/abs/2501.02763v1)|null|
 |**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00584v1-b31b1b.svg)](http://arxiv.org/abs/2501.00584v1)|null|
 
 ## Autonomous_Driving_RL
@@ -32,5 +34,4 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.01886v1-b31b1b.svg)](http://arxiv.org/abs/2501.01886v1)|null|
-|**2024-12-31**|**Toward Information Theoretic Active Inverse Reinforcement Learning**|Ondrej Bajgar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00381v1-b31b1b.svg)](http://arxiv.org/abs/2501.00381v1)|null|
 
