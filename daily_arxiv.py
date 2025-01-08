@@ -206,7 +206,8 @@ if __name__ == "__main__":
     keywords["Autonomous_Driving_E2E"]  = "abs:autonomous AND abs:driving AND abs:end AND abs:to AND abs:end"
     keywords["Autonomous_Driving_LLM"]  = "abs:autonomous AND abs:driving AND abs:llm"
     keywords["Autonomous_Driving_RL"]  = "abs:autonomous AND abs:driving AND abs:reinforcement AND abs:learning"
-
+    keywords["World_Model"]  = "abs:autonomous AND abs:driving AND abs:world AND abs:model"
+    
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
