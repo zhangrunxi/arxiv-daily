@@ -2,13 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.07
-
-## Autonomous_Driving_Planning
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00601v2-b31b1b.svg)](http://arxiv.org/abs/2501.00601v2)|null|
+## Updated on 2025.01.08
 
 ## Autonomous_Driving_Prediction
 
@@ -31,7 +25,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-06**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02763v1-b31b1b.svg)](http://arxiv.org/abs/2501.02763v1)|null|
-|**2024-12-31**|**Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**|Zhenpeng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.00584v1-b31b1b.svg)](http://arxiv.org/abs/2501.00584v1)|null|
 
 ## Autonomous_Driving_RL
 

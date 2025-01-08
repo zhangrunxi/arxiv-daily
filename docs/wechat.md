@@ -1,8 +1,4 @@
-> Updated on 2025.01.07
-
-## Autonomous_Driving_Planning
-
-- 2025-01-03, **DreamDrive: Generative 4D Scene Modeling from Street View Images**, Jiageng Mao et.al., Paper: [http://arxiv.org/abs/2501.00601v2](http://arxiv.org/abs/2501.00601v2)
+> Updated on 2025.01.08
 
 ## Autonomous_Driving_Prediction
 
@@ -19,7 +15,6 @@
 ## Autonomous_Driving_E2E
 
 - 2025-01-06, **LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**, Deguo Xia et.al., Paper: [http://arxiv.org/abs/2501.02763v1](http://arxiv.org/abs/2501.02763v1)
-- 2024-12-31, **Online Video Understanding: A Comprehensive Benchmark and Memory-Augmented Method**, Zhenpeng Huang et.al., Paper: [http://arxiv.org/abs/2501.00584v1](http://arxiv.org/abs/2501.00584v1)
 
 ## Autonomous_Driving_RL
 
