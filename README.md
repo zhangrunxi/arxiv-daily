@@ -10,6 +10,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04437v1-b31b1b.svg)](http://arxiv.org/abs/2501.04437v1)|null|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03666v1-b31b1b.svg)](http://arxiv.org/abs/2501.03666v1)|null|
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02937v1-b31b1b.svg)](http://arxiv.org/abs/2501.02937v1)|null|
@@ -36,6 +37,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04437v1-b31b1b.svg)](http://arxiv.org/abs/2501.04437v1)|null|
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|
 
 ## Autonomous_Driving_RL

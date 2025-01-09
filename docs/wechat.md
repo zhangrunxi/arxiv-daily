@@ -6,6 +6,7 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
 - 2025-01-08, **SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.03535v2](http://arxiv.org/abs/2501.03535v2)
 - 2025-01-06, **4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**, Jiexi Zhong et.al., Paper: [http://arxiv.org/abs/2501.02937v1](http://arxiv.org/abs/2501.02937v1)
@@ -26,6 +27,7 @@
 
 ## Autonomous_Driving_LLM
 
+- 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-08, **SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.03535v2](http://arxiv.org/abs/2501.03535v2)
 
 ## Autonomous_Driving_RL
