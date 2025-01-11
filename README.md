@@ -18,7 +18,7 @@
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|
 |**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02937v1-b31b1b.svg)](http://arxiv.org/abs/2501.02937v1)|null|
 |**2025-01-06**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02763v1-b31b1b.svg)](http://arxiv.org/abs/2501.02763v1)|null|
-|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|null|
+|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryhcliu/udmc_carla)**|
 
 ## Autonomous_Driving_Decision
 
@@ -26,9 +26,9 @@
 |---|---|---|---|---|
 |**2025-01-09**|**Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**|Wenhao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05239v1-b31b1b.svg)](http://arxiv.org/abs/2501.05239v1)|null|
 |**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05132v1-b31b1b.svg)](http://arxiv.org/abs/2501.05132v1)|null|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|
-|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|null|
+|**2025-01-05**|**UDMC: Unified Decision-Making and Control Framework for Urban Autonomous Driving with Motion Prediction of Traffic Participants**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.02530v1-b31b1b.svg)](http://arxiv.org/abs/2501.02530v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henryhcliu/udmc_carla)**|
 
 ## Autonomous_Driving_E2E
 
@@ -64,7 +64,7 @@
 |**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04969v1-b31b1b.svg)](http://arxiv.org/abs/2501.04969v1)|null|
 |**2025-01-09**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**|Hojun Lim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04950v1-b31b1b.svg)](http://arxiv.org/abs/2501.04950v1)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04005v1-b31b1b.svg)](http://arxiv.org/abs/2501.04005v1)|null|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
 |**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03666v1-b31b1b.svg)](http://arxiv.org/abs/2501.03666v1)|null|
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|
 |**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03173v1-b31b1b.svg)](http://arxiv.org/abs/2501.03173v1)|null|
