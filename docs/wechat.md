@@ -2,21 +2,24 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-01-10, **Automating Care by Self-maintainability for Full Laboratory Automation**, Koji Ochiai et.al., Paper: [http://arxiv.org/abs/2501.05789v1](http://arxiv.org/abs/2501.05789v1)
+- 2025-01-10, **TB-Bench: Training and Testing Multi-Modal AI for Understanding Spatio-Temporal Traffic Behaviors from Dashcam Images/Videos**, Korawat Charoenpitaks et.al., Paper: [http://arxiv.org/abs/2501.05733v1](http://arxiv.org/abs/2501.05733v1), Code: **[https://github.com/tb-ad/tb-bench-110k-250k](https://github.com/tb-ad/tb-bench-110k-250k)**
 - 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-01-10, **TB-Bench: Training and Testing Multi-Modal AI for Understanding Spatio-Temporal Traffic Behaviors from Dashcam Images/Videos**, Korawat Charoenpitaks et.al., Paper: [http://arxiv.org/abs/2501.05733v1](http://arxiv.org/abs/2501.05733v1), Code: **[https://github.com/tb-ad/tb-bench-110k-250k](https://github.com/tb-ad/tb-bench-110k-250k)**
 - 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
 - 2025-01-09, **AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2501.04969v1](http://arxiv.org/abs/2501.04969v1), Code: **[https://github.com/haoranzhuexplorer/ad-l-jepa-release](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**
 - 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
 - 2025-01-08, **SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.03535v2](http://arxiv.org/abs/2501.03535v2)
-- 2025-01-06, **4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**, Jiexi Zhong et.al., Paper: [http://arxiv.org/abs/2501.02937v1](http://arxiv.org/abs/2501.02937v1)
-- 2025-01-06, **LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**, Deguo Xia et.al., Paper: [http://arxiv.org/abs/2501.02763v1](http://arxiv.org/abs/2501.02763v1)
 
 ## Autonomous_Driving_Decision
 
+- 2025-01-09, **Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**, Mohammed Elhenawy et.al., Paper: [http://arxiv.org/abs/2501.05566v1](http://arxiv.org/abs/2501.05566v1)
+- 2025-01-08, **The Future of AI: Exploring the Potential of Large Concept Models**, Hussain Ahmad et.al., Paper: [http://arxiv.org/abs/2501.05487v1](http://arxiv.org/abs/2501.05487v1)
 - 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
 - 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
 - 2025-01-07, **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**, Shaoyuan Xie et.al., Paper: [http://arxiv.org/abs/2501.04003v1](http://arxiv.org/abs/2501.04003v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**
@@ -25,10 +28,10 @@
 ## Autonomous_Driving_E2E
 
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
-- 2025-01-06, **LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**, Deguo Xia et.al., Paper: [http://arxiv.org/abs/2501.02763v1](http://arxiv.org/abs/2501.02763v1)
 
 ## Autonomous_Driving_LLM
 
+- 2025-01-08, **The Future of AI: Exploring the Potential of Large Concept Models**, Hussain Ahmad et.al., Paper: [http://arxiv.org/abs/2501.05487v1](http://arxiv.org/abs/2501.05487v1)
 - 2025-01-09, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v1](http://arxiv.org/abs/2501.05322v1)
 - 2025-01-09, **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**, Zengqi Peng et.al., Paper: [http://arxiv.org/abs/2501.05057v1](http://arxiv.org/abs/2501.05057v1)
 - 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
@@ -36,12 +39,15 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
 - 2025-01-09, **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**, Zengqi Peng et.al., Paper: [http://arxiv.org/abs/2501.05057v1](http://arxiv.org/abs/2501.05057v1)
 - 2025-01-09, **CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**, Bhargava Uppuluri et.al., Paper: [http://arxiv.org/abs/2501.04982v1](http://arxiv.org/abs/2501.04982v1)
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
 
 ## World_Model
 
+- 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
+- 2025-01-09, **Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**, Mohammed Elhenawy et.al., Paper: [http://arxiv.org/abs/2501.05566v1](http://arxiv.org/abs/2501.05566v1)
 - 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
 - 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
 - 2025-01-09, **DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**, Xuran Zheng et.al., Paper: [http://arxiv.org/abs/2501.05081v1](http://arxiv.org/abs/2501.05081v1)
@@ -50,6 +56,4 @@
 - 2025-01-07, **LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2501.04005v1](http://arxiv.org/abs/2501.04005v1)
 - 2025-01-07, **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**, Shaoyuan Xie et.al., Paper: [http://arxiv.org/abs/2501.04003v1](http://arxiv.org/abs/2501.04003v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**
 - 2025-01-07, **Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**, Alexander Fertig et.al., Paper: [http://arxiv.org/abs/2501.03666v1](http://arxiv.org/abs/2501.03666v1)
-- 2025-01-08, **SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.03535v2](http://arxiv.org/abs/2501.03535v2)
-- 2025-01-06, **MObI: Multimodal Object Inpainting Using Diffusion Models**, Alexandru Buburuzan et.al., Paper: [http://arxiv.org/abs/2501.03173v1](http://arxiv.org/abs/2501.03173v1)
 
