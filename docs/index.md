@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 
 ## Autonomous_Driving_Planning
 
@@ -46,7 +46,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-08**|**The Future of AI: Exploring the Potential of Large Concept Models**|Hussain Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05487v1-b31b1b.svg)](http://arxiv.org/abs/2501.05487v1)|null|
-|**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05322v1-b31b1b.svg)](http://arxiv.org/abs/2501.05322v1)|null|
+|**2025-01-12**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05322v2-b31b1b.svg)](http://arxiv.org/abs/2501.05322v2)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05057v1-b31b1b.svg)](http://arxiv.org/abs/2501.05057v1)|null|
 |**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04437v1-b31b1b.svg)](http://arxiv.org/abs/2501.04437v1)|null|
 |**2025-01-08**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.03535v2-b31b1b.svg)](http://arxiv.org/abs/2501.03535v2)|null|

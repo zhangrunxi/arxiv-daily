@@ -1,4 +1,4 @@
-> Updated on 2025.01.13
+> Updated on 2025.01.14
 
 ## Autonomous_Driving_Planning
 
@@ -32,7 +32,7 @@
 ## Autonomous_Driving_LLM
 
 - 2025-01-08, **The Future of AI: Exploring the Potential of Large Concept Models**, Hussain Ahmad et.al., Paper: [http://arxiv.org/abs/2501.05487v1](http://arxiv.org/abs/2501.05487v1)
-- 2025-01-09, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v1](http://arxiv.org/abs/2501.05322v1)
+- 2025-01-12, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v2](http://arxiv.org/abs/2501.05322v2)
 - 2025-01-09, **LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**, Zengqi Peng et.al., Paper: [http://arxiv.org/abs/2501.05057v1](http://arxiv.org/abs/2501.05057v1)
 - 2025-01-08, **Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**, Doaa Mahmud et.al., Paper: [http://arxiv.org/abs/2501.04437v1](http://arxiv.org/abs/2501.04437v1)
 - 2025-01-08, **SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.03535v2](http://arxiv.org/abs/2501.03535v2)
