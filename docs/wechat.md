@@ -1,4 +1,4 @@
-> Updated on 2025.01.14
+> Updated on 2025.01.15
 
 ## Autonomous_Driving_Planning
 
@@ -23,7 +23,6 @@
 - 2025-01-08, **The Future of AI: Exploring the Potential of Large Concept Models**, Hussain Ahmad et.al., Paper: [http://arxiv.org/abs/2501.05487v1](http://arxiv.org/abs/2501.05487v1)
 - 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
 - 2025-01-09, **CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**, Xiang Zhang et.al., Paper: [http://arxiv.org/abs/2501.05132v1](http://arxiv.org/abs/2501.05132v1)
-- 2025-01-07, **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**, Shaoyuan Xie et.al., Paper: [http://arxiv.org/abs/2501.04003v1](http://arxiv.org/abs/2501.04003v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**
 
 ## Autonomous_Driving_LLM
 
@@ -49,6 +48,4 @@
 - 2025-01-09, **DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**, Xuran Zheng et.al., Paper: [http://arxiv.org/abs/2501.05081v1](http://arxiv.org/abs/2501.05081v1)
 - 2025-01-09, **AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**, Haoran Zhu et.al., Paper: [http://arxiv.org/abs/2501.04969v1](http://arxiv.org/abs/2501.04969v1), Code: **[https://github.com/haoranzhuexplorer/ad-l-jepa-release](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**
 - 2025-01-09, **MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**, Hojun Lim et.al., Paper: [http://arxiv.org/abs/2501.04950v1](http://arxiv.org/abs/2501.04950v1)
-- 2025-01-07, **LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**, Lingdong Kong et.al., Paper: [http://arxiv.org/abs/2501.04005v1](http://arxiv.org/abs/2501.04005v1)
-- 2025-01-07, **Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**, Shaoyuan Xie et.al., Paper: [http://arxiv.org/abs/2501.04003v1](http://arxiv.org/abs/2501.04003v1), Code: **[https://github.com/opendrivelab/drivelm](https://github.com/opendrivelab/drivelm)**
 

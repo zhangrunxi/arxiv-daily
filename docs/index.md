@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 
 ## Autonomous_Driving_Planning
 
@@ -33,7 +33,6 @@ layout: default
 |**2025-01-08**|**The Future of AI: Exploring the Potential of Large Concept Models**|Hussain Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05487v1-b31b1b.svg)](http://arxiv.org/abs/2501.05487v1)|null|
 |**2025-01-09**|**Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**|Wenhao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05239v1-b31b1b.svg)](http://arxiv.org/abs/2501.05239v1)|null|
 |**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05132v1-b31b1b.svg)](http://arxiv.org/abs/2501.05132v1)|null|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
 
 ## Autonomous_Driving_LLM
 
@@ -65,6 +64,4 @@ layout: default
 |**2025-01-09**|**DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**|Xuran Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05081v1-b31b1b.svg)](http://arxiv.org/abs/2501.05081v1)|null|
 |**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04969v1-b31b1b.svg)](http://arxiv.org/abs/2501.04969v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haoranzhuexplorer/ad-l-jepa-release)**|
 |**2025-01-09**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**|Hojun Lim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04950v1-b31b1b.svg)](http://arxiv.org/abs/2501.04950v1)|null|
-|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04005v1-b31b1b.svg)](http://arxiv.org/abs/2501.04005v1)|null|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.04003v1-b31b1b.svg)](http://arxiv.org/abs/2501.04003v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/opendrivelab/drivelm)**|
 
