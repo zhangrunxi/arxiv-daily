@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 
 ## Autonomous_Driving_Planning
 
@@ -33,7 +33,6 @@ layout: default
 |**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07259v1-b31b1b.svg)](http://arxiv.org/abs/2501.07259v1)|null|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06680v1-b31b1b.svg)](http://arxiv.org/abs/2501.06680v1)|null|
 |**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05566v1-b31b1b.svg)](http://arxiv.org/abs/2501.05566v1)|null|
-|**2025-01-08**|**The Future of AI: Exploring the Potential of Large Concept Models**|Hussain Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05487v1-b31b1b.svg)](http://arxiv.org/abs/2501.05487v1)|null|
 |**2025-01-09**|**Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**|Wenhao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05239v1-b31b1b.svg)](http://arxiv.org/abs/2501.05239v1)|null|
 |**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05132v1-b31b1b.svg)](http://arxiv.org/abs/2501.05132v1)|null|
 
@@ -49,7 +48,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06680v1-b31b1b.svg)](http://arxiv.org/abs/2501.06680v1)|null|
-|**2025-01-08**|**The Future of AI: Exploring the Potential of Large Concept Models**|Hussain Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05487v1-b31b1b.svg)](http://arxiv.org/abs/2501.05487v1)|null|
 |**2025-01-12**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05322v2-b31b1b.svg)](http://arxiv.org/abs/2501.05322v2)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05057v1-b31b1b.svg)](http://arxiv.org/abs/2501.05057v1)|null|
 
