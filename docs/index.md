@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 
 ## Autonomous_Driving_Planning
 
@@ -30,17 +30,15 @@ layout: default
 |**2025-01-14**|**Decoding Interpretable Logic Rules from Neural Networks**|Chuqin Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08281v1-b31b1b.svg)](http://arxiv.org/abs/2501.08281v1)|null|
 |**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08168v1-b31b1b.svg)](http://arxiv.org/abs/2501.08168v1)|null|
 |**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
-|**2025-01-13**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07259v1-b31b1b.svg)](http://arxiv.org/abs/2501.07259v1)|null|
+|**2025-01-16**|**PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**|Zhuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07259v2-b31b1b.svg)](http://arxiv.org/abs/2501.07259v2)|null|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06680v1-b31b1b.svg)](http://arxiv.org/abs/2501.06680v1)|null|
-|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05566v1-b31b1b.svg)](http://arxiv.org/abs/2501.05566v1)|null|
-|**2025-01-09**|**Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**|Wenhao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05239v1-b31b1b.svg)](http://arxiv.org/abs/2501.05239v1)|null|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08861v1-b31b1b.svg)](http://arxiv.org/abs/2501.08861v1)|null|
-|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08659v1-b31b1b.svg)](http://arxiv.org/abs/2501.08659v1)|null|
+|**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08659v2-b31b1b.svg)](http://arxiv.org/abs/2501.08659v2)|null|
 |**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
 |**2025-01-14**|**HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**|Yiming Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07767v1-b31b1b.svg)](http://arxiv.org/abs/2501.07767v1)|null|
 
@@ -49,7 +47,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06680v1-b31b1b.svg)](http://arxiv.org/abs/2501.06680v1)|null|
-|**2025-01-12**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05322v2-b31b1b.svg)](http://arxiv.org/abs/2501.05322v2)|null|
 
 ## Autonomous_Driving_RL
 
@@ -64,6 +61,4 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-11**|**Common Sense Is All You Need**|Hugo Latapie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06642v1-b31b1b.svg)](http://arxiv.org/abs/2501.06642v1)|null|
 |**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06113v1-b31b1b.svg)](http://arxiv.org/abs/2501.06113v1)|null|
-|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05566v1-b31b1b.svg)](http://arxiv.org/abs/2501.05566v1)|null|
-|**2025-01-09**|**Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**|Wenhao Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.05239v1-b31b1b.svg)](http://arxiv.org/abs/2501.05239v1)|null|
 

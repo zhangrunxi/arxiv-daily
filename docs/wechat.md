@@ -1,4 +1,4 @@
-> Updated on 2025.01.16
+> Updated on 2025.01.17
 
 ## Autonomous_Driving_Planning
 
@@ -20,22 +20,19 @@
 - 2025-01-14, **Decoding Interpretable Logic Rules from Neural Networks**, Chuqin Geng et.al., Paper: [http://arxiv.org/abs/2501.08281v1](http://arxiv.org/abs/2501.08281v1)
 - 2025-01-14, **LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2501.08168v1](http://arxiv.org/abs/2501.08168v1)
 - 2025-01-14, **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2501.08096v1](http://arxiv.org/abs/2501.08096v1)
-- 2025-01-13, **PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**, Zhuo Xu et.al., Paper: [http://arxiv.org/abs/2501.07259v1](http://arxiv.org/abs/2501.07259v1)
+- 2025-01-16, **PO-GVINS: Tightly Coupled GNSS-Visual-Inertial Integration with Pose-Only Representation**, Zhuo Xu et.al., Paper: [http://arxiv.org/abs/2501.07259v2](http://arxiv.org/abs/2501.07259v2)
 - 2025-01-12, **Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**, Haoxiang Gao et.al., Paper: [http://arxiv.org/abs/2501.06680v1](http://arxiv.org/abs/2501.06680v1)
-- 2025-01-09, **Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**, Mohammed Elhenawy et.al., Paper: [http://arxiv.org/abs/2501.05566v1](http://arxiv.org/abs/2501.05566v1)
-- 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
-- 2025-01-15, **BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**, Dongzhihan Wang et.al., Paper: [http://arxiv.org/abs/2501.08659v1](http://arxiv.org/abs/2501.08659v1)
+- 2025-01-16, **BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**, Dongzhihan Wang et.al., Paper: [http://arxiv.org/abs/2501.08659v2](http://arxiv.org/abs/2501.08659v2)
 - 2025-01-14, **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2501.08096v1](http://arxiv.org/abs/2501.08096v1)
 - 2025-01-14, **HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**, Yiming Gao et.al., Paper: [http://arxiv.org/abs/2501.07767v1](http://arxiv.org/abs/2501.07767v1)
 
 ## Autonomous_Driving_LLM
 
 - 2025-01-12, **Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**, Haoxiang Gao et.al., Paper: [http://arxiv.org/abs/2501.06680v1](http://arxiv.org/abs/2501.06680v1)
-- 2025-01-12, **"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**, Xuewen Luo et.al., Paper: [http://arxiv.org/abs/2501.05322v2](http://arxiv.org/abs/2501.05322v2)
 
 ## Autonomous_Driving_RL
 
@@ -46,6 +43,4 @@
 
 - 2025-01-11, **Common Sense Is All You Need**, Hugo Latapie et.al., Paper: [http://arxiv.org/abs/2501.06642v1](http://arxiv.org/abs/2501.06642v1)
 - 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
-- 2025-01-09, **Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**, Mohammed Elhenawy et.al., Paper: [http://arxiv.org/abs/2501.05566v1](http://arxiv.org/abs/2501.05566v1)
-- 2025-01-09, **Is Your Autonomous Vehicle Safe? Understanding the Threat of Electromagnetic Signal Injection Attacks on Traffic Scene Perception**, Wenhao Liao et.al., Paper: [http://arxiv.org/abs/2501.05239v1](http://arxiv.org/abs/2501.05239v1)
 
