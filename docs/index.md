@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.17
+## Updated on 2025.01.18
 
 ## Autonomous_Driving_Planning
 
@@ -56,7 +56,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-16**|**RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**|Jianrui Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09465v1-b31b1b.svg)](http://arxiv.org/abs/2501.09465v1)|null|
 |**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
-|**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06113v1-b31b1b.svg)](http://arxiv.org/abs/2501.06113v1)|null|
 
 ## World_Model
 
@@ -65,5 +64,4 @@ layout: default
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09757v1-b31b1b.svg)](http://arxiv.org/abs/2501.09757v1)|null|
 |**2025-01-16**|**On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**|Zichang Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09327v1-b31b1b.svg)](http://arxiv.org/abs/2501.09327v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erasmo1015/vte)**|
 |**2025-01-11**|**Common Sense Is All You Need**|Hugo Latapie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06642v1-b31b1b.svg)](http://arxiv.org/abs/2501.06642v1)|null|
-|**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.06113v1-b31b1b.svg)](http://arxiv.org/abs/2501.06113v1)|null|
 

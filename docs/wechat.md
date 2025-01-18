@@ -1,4 +1,4 @@
-> Updated on 2025.01.17
+> Updated on 2025.01.18
 
 ## Autonomous_Driving_Planning
 
@@ -40,12 +40,10 @@
 
 - 2025-01-16, **RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**, Jianrui Shi et.al., Paper: [http://arxiv.org/abs/2501.09465v1](http://arxiv.org/abs/2501.09465v1)
 - 2025-01-14, **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2501.08096v1](http://arxiv.org/abs/2501.08096v1)
-- 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
 
 ## World_Model
 
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
 - 2025-01-16, **On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**, Zichang Ge et.al., Paper: [http://arxiv.org/abs/2501.09327v1](http://arxiv.org/abs/2501.09327v1), Code: **[https://github.com/erasmo1015/vte](https://github.com/erasmo1015/vte)**
 - 2025-01-11, **Common Sense Is All You Need**, Hugo Latapie et.al., Paper: [http://arxiv.org/abs/2501.06642v1](http://arxiv.org/abs/2501.06642v1)
-- 2025-01-10, **Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**, Haochong Chen et.al., Paper: [http://arxiv.org/abs/2501.06113v1](http://arxiv.org/abs/2501.06113v1)
 
