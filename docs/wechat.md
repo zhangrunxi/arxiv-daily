@@ -1,4 +1,4 @@
-> Updated on 2025.01.20
+> Updated on 2025.01.21
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,6 @@
 - 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
 - 2025-01-16, **BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**, Dongzhihan Wang et.al., Paper: [http://arxiv.org/abs/2501.08659v2](http://arxiv.org/abs/2501.08659v2)
 - 2025-01-14, **Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2501.08096v1](http://arxiv.org/abs/2501.08096v1)
-- 2025-01-14, **HgPCN: A Heterogeneous Architecture for E2E Embedded Point Cloud Inference**, Yiming Gao et.al., Paper: [http://arxiv.org/abs/2501.07767v1](http://arxiv.org/abs/2501.07767v1)
 
 ## Autonomous_Driving_LLM
 
