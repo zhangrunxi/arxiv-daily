@@ -23,7 +23,6 @@
 |**2025-01-14**|**Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**|Leyla A. Kabuli et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08495v1-b31b1b.svg)](http://arxiv.org/abs/2501.08495v1)|null|
 |**2025-01-14**|**Decoding Interpretable Logic Rules from Neural Networks**|Chuqin Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08281v1-b31b1b.svg)](http://arxiv.org/abs/2501.08281v1)|null|
 |**2025-01-14**|**LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**|Yukai Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08168v1-b31b1b.svg)](http://arxiv.org/abs/2501.08168v1)|null|
-|**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -32,7 +31,6 @@
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09757v1-b31b1b.svg)](http://arxiv.org/abs/2501.09757v1)|null|
 |**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08861v1-b31b1b.svg)](http://arxiv.org/abs/2501.08861v1)|null|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08659v2-b31b1b.svg)](http://arxiv.org/abs/2501.08659v2)|null|
-|**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -47,7 +45,6 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-16**|**RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**|Jianrui Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09465v1-b31b1b.svg)](http://arxiv.org/abs/2501.09465v1)|null|
-|**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08096v1-b31b1b.svg)](http://arxiv.org/abs/2501.08096v1)|null|
 
 ## World_Model
 
