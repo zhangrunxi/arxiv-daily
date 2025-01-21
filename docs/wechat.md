@@ -8,7 +8,6 @@
 ## Autonomous_Driving_Prediction
 
 - 2025-01-16, **Thermodynamics of coherent energy exchanges between lasers and two-level systems**, Ariane Soret et.al., Paper: [http://arxiv.org/abs/2501.09625v1](http://arxiv.org/abs/2501.09625v1)
-- 2025-01-14, **GAC-Net_Geometric and attention-based Network for Depth Completion**, Kuang Zhu et.al., Paper: [http://arxiv.org/abs/2501.07988v1](http://arxiv.org/abs/2501.07988v1)
 
 ## Autonomous_Driving_Decision
 

@@ -16,7 +16,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-16**|**Thermodynamics of coherent energy exchanges between lasers and two-level systems**|Ariane Soret et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09625v1-b31b1b.svg)](http://arxiv.org/abs/2501.09625v1)|null|
-|**2025-01-14**|**GAC-Net_Geometric and attention-based Network for Depth Completion**|Kuang Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.07988v1-b31b1b.svg)](http://arxiv.org/abs/2501.07988v1)|null|
 
 ## Autonomous_Driving_Decision
 
