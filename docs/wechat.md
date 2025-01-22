@@ -1,4 +1,4 @@
-> Updated on 2025.01.21
+> Updated on 2025.01.22
 
 ## Autonomous_Driving_Planning
 
@@ -14,9 +14,6 @@
 - 2025-01-17, **Explainable artificial intelligence (XAI): from inherent explainability to large language models**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2501.09967v1](http://arxiv.org/abs/2501.09967v1)
 - 2025-01-17, **On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**, Zichang Ge et.al., Paper: [http://arxiv.org/abs/2501.09327v2](http://arxiv.org/abs/2501.09327v2), Code: **[https://github.com/erasmo1015/vte](https://github.com/erasmo1015/vte)**
 - 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
-- 2025-01-14, **Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**, Leyla A. Kabuli et.al., Paper: [http://arxiv.org/abs/2501.08495v1](http://arxiv.org/abs/2501.08495v1)
-- 2025-01-14, **Decoding Interpretable Logic Rules from Neural Networks**, Chuqin Geng et.al., Paper: [http://arxiv.org/abs/2501.08281v1](http://arxiv.org/abs/2501.08281v1)
-- 2025-01-14, **LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking**, Yukai Ma et.al., Paper: [http://arxiv.org/abs/2501.08168v1](http://arxiv.org/abs/2501.08168v1)
 
 ## Autonomous_Driving_E2E
 
