@@ -2,12 +2,15 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-01-22, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v1](http://arxiv.org/abs/2501.13072v1)
+- 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
 - 2025-01-20, **A Survey of World Models for Autonomous Driving**, Tuo Feng et.al., Paper: [http://arxiv.org/abs/2501.11260v1](http://arxiv.org/abs/2501.11260v1)
 - 2025-01-18, **Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**, Peng Wei et.al., Paper: [http://arxiv.org/abs/2501.10636v1](http://arxiv.org/abs/2501.10636v1)
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
 - 2025-01-21, **Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**, Jiahao Huang et.al., Paper: [http://arxiv.org/abs/2501.12040v1](http://arxiv.org/abs/2501.12040v1)
 - 2025-01-21, **Survey on Monocular Metric Depth Estimation**, Jiuling Zhang et.al., Paper: [http://arxiv.org/abs/2501.11841v1](http://arxiv.org/abs/2501.11841v1)
 - 2025-01-20, **A Survey of World Models for Autonomous Driving**, Tuo Feng et.al., Paper: [http://arxiv.org/abs/2501.11260v1](http://arxiv.org/abs/2501.11260v1)
@@ -19,7 +22,6 @@
 - 2025-01-20, **A Survey of World Models for Autonomous Driving**, Tuo Feng et.al., Paper: [http://arxiv.org/abs/2501.11260v1](http://arxiv.org/abs/2501.11260v1)
 - 2025-01-18, **Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2501.10625v1](http://arxiv.org/abs/2501.10625v1)
 - 2025-01-17, **Explainable artificial intelligence (XAI): from inherent explainability to large language models**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2501.09967v1](http://arxiv.org/abs/2501.09967v1)
-- 2025-01-17, **On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**, Zichang Ge et.al., Paper: [http://arxiv.org/abs/2501.09327v2](http://arxiv.org/abs/2501.09327v2), Code: **[https://github.com/erasmo1015/vte](https://github.com/erasmo1015/vte)**
 
 ## Autonomous_Driving_E2E
 
@@ -35,13 +37,16 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-01-22, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v1](http://arxiv.org/abs/2501.13072v1)
+- 2025-01-22, **PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2501.12656v1](http://arxiv.org/abs/2501.12656v1), Code: **[https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**
 - 2025-01-21, **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**, Uri Gadot et.al., Paper: [http://arxiv.org/abs/2501.12216v1](http://arxiv.org/abs/2501.12216v1)
-- 2025-01-16, **RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**, Jianrui Shi et.al., Paper: [http://arxiv.org/abs/2501.09465v1](http://arxiv.org/abs/2501.09465v1)
 
 ## World_Model
 
+- 2025-01-22, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v1](http://arxiv.org/abs/2501.13072v1)
+- 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
+- 2025-01-22, **Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**, Sigma Jahan et.al., Paper: [http://arxiv.org/abs/2501.12560v1](http://arxiv.org/abs/2501.12560v1)
 - 2025-01-21, **RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**, Jiacheng Zuo et.al., Paper: [http://arxiv.org/abs/2501.12296v1](http://arxiv.org/abs/2501.12296v1), Code: **[https://github.com/jiachengzuo/ralad](https://github.com/jiachengzuo/ralad)**
 - 2025-01-20, **A Survey of World Models for Autonomous Driving**, Tuo Feng et.al., Paper: [http://arxiv.org/abs/2501.11260v1](http://arxiv.org/abs/2501.11260v1)
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
-- 2025-01-17, **On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**, Zichang Ge et.al., Paper: [http://arxiv.org/abs/2501.09327v2](http://arxiv.org/abs/2501.09327v2), Code: **[https://github.com/erasmo1015/vte](https://github.com/erasmo1015/vte)**
 
