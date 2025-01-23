@@ -1,11 +1,10 @@
-> Updated on 2025.01.22
+> Updated on 2025.01.23
 
 ## Autonomous_Driving_Planning
 
 - 2025-01-20, **A Survey of World Models for Autonomous Driving**, Tuo Feng et.al., Paper: [http://arxiv.org/abs/2501.11260v1](http://arxiv.org/abs/2501.11260v1)
 - 2025-01-18, **Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**, Peng Wei et.al., Paper: [http://arxiv.org/abs/2501.10636v1](http://arxiv.org/abs/2501.10636v1)
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
-- 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -21,14 +20,12 @@
 - 2025-01-18, **Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**, Zheng Li et.al., Paper: [http://arxiv.org/abs/2501.10625v1](http://arxiv.org/abs/2501.10625v1)
 - 2025-01-17, **Explainable artificial intelligence (XAI): from inherent explainability to large language models**, Fuseini Mumuni et.al., Paper: [http://arxiv.org/abs/2501.09967v1](http://arxiv.org/abs/2501.09967v1)
 - 2025-01-17, **On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**, Zichang Ge et.al., Paper: [http://arxiv.org/abs/2501.09327v2](http://arxiv.org/abs/2501.09327v2), Code: **[https://github.com/erasmo1015/vte](https://github.com/erasmo1015/vte)**
-- 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-01-21, **Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**, Jiahao Huang et.al., Paper: [http://arxiv.org/abs/2501.12040v1](http://arxiv.org/abs/2501.12040v1)
 - 2025-01-18, **Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**, Peng Wei et.al., Paper: [http://arxiv.org/abs/2501.10636v1](http://arxiv.org/abs/2501.10636v1)
 - 2025-01-16, **Distilling Multi-modal Large Language Models for Autonomous Driving**, Deepti Hegde et.al., Paper: [http://arxiv.org/abs/2501.09757v1](http://arxiv.org/abs/2501.09757v1)
-- 2025-01-15, **Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**, Tengpeng Li et.al., Paper: [http://arxiv.org/abs/2501.08861v1](http://arxiv.org/abs/2501.08861v1)
 
 ## Autonomous_Driving_LLM
 

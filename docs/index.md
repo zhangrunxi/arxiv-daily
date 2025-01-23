@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@ layout: default
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11260v1-b31b1b.svg)](http://arxiv.org/abs/2501.11260v1)|null|
 |**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10636v1-b31b1b.svg)](http://arxiv.org/abs/2501.10636v1)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09757v1-b31b1b.svg)](http://arxiv.org/abs/2501.09757v1)|null|
-|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08861v1-b31b1b.svg)](http://arxiv.org/abs/2501.08861v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -31,7 +30,6 @@ layout: default
 |**2025-01-18**|**Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10625v1-b31b1b.svg)](http://arxiv.org/abs/2501.10625v1)|null|
 |**2025-01-17**|**Explainable artificial intelligence (XAI): from inherent explainability to large language models**|Fuseini Mumuni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09967v1-b31b1b.svg)](http://arxiv.org/abs/2501.09967v1)|null|
 |**2025-01-17**|**On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression**|Zichang Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09327v2-b31b1b.svg)](http://arxiv.org/abs/2501.09327v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erasmo1015/vte)**|
-|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08861v1-b31b1b.svg)](http://arxiv.org/abs/2501.08861v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -40,7 +38,6 @@ layout: default
 |**2025-01-21**|**Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**|Jiahao Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12040v1-b31b1b.svg)](http://arxiv.org/abs/2501.12040v1)|null|
 |**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10636v1-b31b1b.svg)](http://arxiv.org/abs/2501.10636v1)|null|
 |**2025-01-16**|**Distilling Multi-modal Large Language Models for Autonomous Driving**|Deepti Hegde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.09757v1-b31b1b.svg)](http://arxiv.org/abs/2501.09757v1)|null|
-|**2025-01-15**|**Generative Planning with 3D-vision Language Pre-training for End-to-End Autonomous Driving**|Tengpeng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.08861v1-b31b1b.svg)](http://arxiv.org/abs/2501.08861v1)|null|
 
 ## Autonomous_Driving_LLM
 
