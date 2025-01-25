@@ -11,7 +11,6 @@ layout: default
 |**2025-01-23**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13072v2-b31b1b.svg)](http://arxiv.org/abs/2501.13072v2)|null|
 |**2025-01-22**|**Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**|Xiaolei Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12799v1-b31b1b.svg)](http://arxiv.org/abs/2501.12799v1)|null|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11260v1-b31b1b.svg)](http://arxiv.org/abs/2501.11260v1)|null|
-|**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10636v1-b31b1b.svg)](http://arxiv.org/abs/2501.10636v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -30,7 +29,6 @@ layout: default
 |**2025-01-23**|**Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**|Lu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13563v1-b31b1b.svg)](http://arxiv.org/abs/2501.13563v1)|null|
 |**2025-01-21**|**Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**|Jiahao Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12040v1-b31b1b.svg)](http://arxiv.org/abs/2501.12040v1)|null|
 |**2025-01-20**|**A Survey of World Models for Autonomous Driving**|Tuo Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.11260v1-b31b1b.svg)](http://arxiv.org/abs/2501.11260v1)|null|
-|**2025-01-18**|**Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests**|Zheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10625v1-b31b1b.svg)](http://arxiv.org/abs/2501.10625v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -38,7 +36,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.13417v1-b31b1b.svg)](http://arxiv.org/abs/2501.13417v1)|null|
 |**2025-01-21**|**Select2Drive: Pragmatic Communications for Real-Time Collaborative Autonomous Driving**|Jiahao Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.12040v1-b31b1b.svg)](http://arxiv.org/abs/2501.12040v1)|null|
-|**2025-01-18**|**Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments**|Peng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.10636v1-b31b1b.svg)](http://arxiv.org/abs/2501.10636v1)|null|
 
 ## Autonomous_Driving_RL
 
