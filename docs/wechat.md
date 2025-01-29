@@ -1,4 +1,4 @@
-> Updated on 2025.01.28
+> Updated on 2025.01.29
 
 ## Autonomous_Driving_Planning
 
@@ -46,7 +46,6 @@
 - 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
 - 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 - 2025-01-22, **PPO-Based Vehicle Control for Ramp Merging Scheme Assisted by Enhanced C-V2X**, Qiong Wu et.al., Paper: [http://arxiv.org/abs/2501.12656v1](http://arxiv.org/abs/2501.12656v1), Code: **[https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x](https://github.com/qiongwu86/ppo-based-vehicle-control-for-ramp-merging-scheme-assisted-by-enhanced-c-v2x)**
-- 2025-01-21, **RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression**, Uri Gadot et.al., Paper: [http://arxiv.org/abs/2501.12216v1](http://arxiv.org/abs/2501.12216v1)
 
 ## World_Model
 
@@ -59,5 +58,4 @@
 - 2025-01-22, **QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks**, Naman Jain et.al., Paper: [http://arxiv.org/abs/2501.13165v1](http://arxiv.org/abs/2501.13165v1)
 - 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 - 2025-01-22, **Int2Planner: An Intention-based Multi-modal Motion Planner for Integrated Prediction and Planning**, Xiaolei Chen et.al., Paper: [http://arxiv.org/abs/2501.12799v1](http://arxiv.org/abs/2501.12799v1)
-- 2025-01-22, **Improved Detection and Diagnosis of Faults in Deep Neural Networks Using Hierarchical and Explainable Classification**, Sigma Jahan et.al., Paper: [http://arxiv.org/abs/2501.12560v1](http://arxiv.org/abs/2501.12560v1)
 
