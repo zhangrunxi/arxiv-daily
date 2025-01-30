@@ -1,11 +1,10 @@
-> Updated on 2025.01.29
+> Updated on 2025.01.30
 
 ## Autonomous_Driving_Planning
 
 - 2025-01-28, **Scenario Understanding of Traffic Scenes Through Large Visual Language Models**, Rivera Esteban et.al., Paper: [http://arxiv.org/abs/2501.17131v1](http://arxiv.org/abs/2501.17131v1)
 - 2025-01-26, **Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**, Yinan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15564v1](http://arxiv.org/abs/2501.15564v1)
 - 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
-- 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -48,7 +47,6 @@
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
 - 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
 - 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
-- 2025-01-23, **AdaWM: Adaptive World Model based Planning for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2501.13072v2](http://arxiv.org/abs/2501.13072v2)
 
 ## World_Model
 
@@ -61,5 +59,4 @@
 - 2025-01-24, **HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2501.14729v1](http://arxiv.org/abs/2501.14729v1), Code: **[https://github.com/lmd0311/hermes](https://github.com/lmd0311/hermes)**
 - 2025-01-24, **Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**, Faiz Muhammad Chaudhry et.al., Paper: [http://arxiv.org/abs/2501.14510v1](http://arxiv.org/abs/2501.14510v1)
 - 2025-01-23, **Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**, Lu Wang et.al., Paper: [http://arxiv.org/abs/2501.13563v1](http://arxiv.org/abs/2501.13563v1)
-- 2025-01-22, **QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks**, Naman Jain et.al., Paper: [http://arxiv.org/abs/2501.13165v1](http://arxiv.org/abs/2501.13165v1)
 
