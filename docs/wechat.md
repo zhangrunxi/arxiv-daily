@@ -1,4 +1,4 @@
-> Updated on 2025.01.30
+> Updated on 2025.01.31
 
 ## Autonomous_Driving_Planning
 
@@ -38,7 +38,6 @@
 - 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
 - 2025-01-26, **The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**, Raha Aghaei et.al., Paper: [http://arxiv.org/abs/2501.15411v1](http://arxiv.org/abs/2501.15411v1)
 - 2025-01-24, **HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**, Xin Zhou et.al., Paper: [http://arxiv.org/abs/2501.14729v1](http://arxiv.org/abs/2501.14729v1), Code: **[https://github.com/lmd0311/hermes](https://github.com/lmd0311/hermes)**
-- 2025-01-24, **Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**, Yile Gu et.al., Paper: [http://arxiv.org/abs/2501.14170v1](http://arxiv.org/abs/2501.14170v1)
 
 ## Autonomous_Driving_RL
 

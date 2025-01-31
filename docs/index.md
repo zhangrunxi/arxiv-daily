@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 
 ## Autonomous_Driving_Planning
 
@@ -52,7 +52,6 @@ layout: default
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15850v1-b31b1b.svg)](http://arxiv.org/abs/2501.15850v1)|null|
 |**2025-01-26**|**The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**|Raha Aghaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15411v1-b31b1b.svg)](http://arxiv.org/abs/2501.15411v1)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14729v1-b31b1b.svg)](http://arxiv.org/abs/2501.14729v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmd0311/hermes)**|
-|**2025-01-24**|**Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**|Yile Gu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14170v1-b31b1b.svg)](http://arxiv.org/abs/2501.14170v1)|null|
 
 ## Autonomous_Driving_RL
 
