@@ -4,7 +4,6 @@
 
 - 2025-01-28, **Scenario Understanding of Traffic Scenes Through Large Visual Language Models**, Rivera Esteban et.al., Paper: [http://arxiv.org/abs/2501.17131v1](http://arxiv.org/abs/2501.17131v1)
 - 2025-01-26, **Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**, Yinan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15564v1](http://arxiv.org/abs/2501.15564v1)
-- 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -31,7 +30,6 @@
 - 2025-01-27, **Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**, Arsalan Ali Malik et.al., Paper: [http://arxiv.org/abs/2501.16217v1](http://arxiv.org/abs/2501.16217v1)
 - 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
 - 2025-01-24, **Performance Evaluation of Satellite-Based Data Offloading on Starlink Constellations**, Alexander Bonora et.al., Paper: [http://arxiv.org/abs/2501.14878v1](http://arxiv.org/abs/2501.14878v1)
-- 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
 
 ## Autonomous_Driving_LLM
 
@@ -41,9 +39,9 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-01-30, **DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2501.18086v1](http://arxiv.org/abs/2501.18086v1)
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
 - 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
-- 2025-01-24, **MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**, Linfeng Liang et.al., Paper: [http://arxiv.org/abs/2501.14451v1](http://arxiv.org/abs/2501.14451v1)
 
 ## World_Model
 
