@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 
 ## Autonomous_Driving_Planning
 
@@ -41,7 +41,6 @@ layout: default
 |**2025-01-27**|**Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**|Han Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.16480v1-b31b1b.svg)](http://arxiv.org/abs/2501.16480v1)|null|
 |**2025-01-27**|**Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**|Arsalan Ali Malik et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.16217v1-b31b1b.svg)](http://arxiv.org/abs/2501.16217v1)|null|
 |**2025-01-26**|**RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**|Zhihan Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15493v1-b31b1b.svg)](http://arxiv.org/abs/2501.15493v1)|null|
-|**2025-01-24**|**Performance Evaluation of Satellite-Based Data Offloading on Starlink Constellations**|Alexander Bonora et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14878v1-b31b1b.svg)](http://arxiv.org/abs/2501.14878v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -49,7 +48,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15850v1-b31b1b.svg)](http://arxiv.org/abs/2501.15850v1)|null|
 |**2025-01-26**|**The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**|Raha Aghaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15411v1-b31b1b.svg)](http://arxiv.org/abs/2501.15411v1)|null|
-|**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14729v1-b31b1b.svg)](http://arxiv.org/abs/2501.14729v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmd0311/hermes)**|
 
 ## Autonomous_Driving_RL
 
@@ -70,6 +68,4 @@ layout: default
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15850v1-b31b1b.svg)](http://arxiv.org/abs/2501.15850v1)|null|
 |**2025-01-26**|**Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**|Yinan Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15564v1-b31b1b.svg)](http://arxiv.org/abs/2501.15564v1)|null|
 |**2025-01-26**|**RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**|Zhihan Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.15493v1-b31b1b.svg)](http://arxiv.org/abs/2501.15493v1)|null|
-|**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14729v1-b31b1b.svg)](http://arxiv.org/abs/2501.14729v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmd0311/hermes)**|
-|**2025-01-24**|**Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**|Faiz Muhammad Chaudhry et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.14510v1-b31b1b.svg)](http://arxiv.org/abs/2501.14510v1)|null|
 
