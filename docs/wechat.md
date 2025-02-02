@@ -14,32 +14,21 @@
 - 2025-01-28, **SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation**, Jianing Li et.al., Paper: [http://arxiv.org/abs/2501.16684v1](http://arxiv.org/abs/2501.16684v1), Code: **[https://github.com/northsummer/sliceocc](https://github.com/northsummer/sliceocc)**
 - 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 - 2025-01-26, **Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**, Yinan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15564v1](http://arxiv.org/abs/2501.15564v1)
-- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
-- 2025-01-26, **The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**, Raha Aghaei et.al., Paper: [http://arxiv.org/abs/2501.15411v1](http://arxiv.org/abs/2501.15411v1)
-- 2025-01-26, **Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**, Lianqing Zheng et.al., Paper: [http://arxiv.org/abs/2501.15394v1](http://arxiv.org/abs/2501.15394v1)
-
-## Autonomous_Driving_Decision
-
-- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
-- 2025-01-26, **The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**, Raha Aghaei et.al., Paper: [http://arxiv.org/abs/2501.15411v1](http://arxiv.org/abs/2501.15411v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-01-28, **Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**, Pengfei Zhu et.al., Paper: [http://arxiv.org/abs/2501.16767v1](http://arxiv.org/abs/2501.16767v1)
 - 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 - 2025-01-27, **Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**, Arsalan Ali Malik et.al., Paper: [http://arxiv.org/abs/2501.16217v1](http://arxiv.org/abs/2501.16217v1)
-- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
 
 ## Autonomous_Driving_LLM
 
 - 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
-- 2025-01-26, **The Potential of Large Language Models in Supply Chain Management: Advancing Decision-Making, Efficiency, and Innovation**, Raha Aghaei et.al., Paper: [http://arxiv.org/abs/2501.15411v1](http://arxiv.org/abs/2501.15411v1)
 
 ## Autonomous_Driving_RL
 
 - 2025-01-30, **DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2501.18086v1](http://arxiv.org/abs/2501.18086v1)
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
-- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
 
 ## World_Model
 
@@ -49,5 +38,4 @@
 - 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 - 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
 - 2025-01-26, **Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**, Yinan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15564v1](http://arxiv.org/abs/2501.15564v1)
-- 2025-01-26, **RLER-TTE: An Efficient and Effective Framework for En Route Travel Time Estimation with Reinforcement Learning**, Zhihan Zheng et.al., Paper: [http://arxiv.org/abs/2501.15493v1](http://arxiv.org/abs/2501.15493v1)
 
