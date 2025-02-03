@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-01-31, **Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo**, Hee-Yang Jung et.al., Paper: [http://arxiv.org/abs/2501.18942v1](http://arxiv.org/abs/2501.18942v1)
 - 2025-01-28, **Scenario Understanding of Traffic Scenes Through Large Visual Language Models**, Rivera Esteban et.al., Paper: [http://arxiv.org/abs/2501.17131v1](http://arxiv.org/abs/2501.17131v1)
 
 ## Autonomous_Driving_Prediction
@@ -19,10 +20,6 @@
 - 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 - 2025-01-27, **Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**, Arsalan Ali Malik et.al., Paper: [http://arxiv.org/abs/2501.16217v1](http://arxiv.org/abs/2501.16217v1)
 
-## Autonomous_Driving_LLM
-
-- 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
-
 ## Autonomous_Driving_RL
 
 - 2025-01-30, **DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**, Se-Wook Yoo et.al., Paper: [http://arxiv.org/abs/2501.18086v1](http://arxiv.org/abs/2501.18086v1)
@@ -34,5 +31,4 @@
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
 - 2025-01-28, **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**, Faria Huq et.al., Paper: [http://arxiv.org/abs/2501.16609v1](http://arxiv.org/abs/2501.16609v1)
 - 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
-- 2025-01-27, **LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**, Yuewen Mei et.al., Paper: [http://arxiv.org/abs/2501.15850v1](http://arxiv.org/abs/2501.15850v1)
 
