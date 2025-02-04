@@ -1,4 +1,4 @@
-> Updated on 2025.02.03
+> Updated on 2025.02.04
 
 ## Autonomous_Driving_Planning
 
@@ -12,13 +12,10 @@
 - 2025-01-28, **Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction**, Hy Nguyen et.al., Paper: [http://arxiv.org/abs/2501.16753v1](http://arxiv.org/abs/2501.16753v1)
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
 - 2025-01-28, **SliceOcc: Indoor 3D Semantic Occupancy Prediction with Vertical Slice Representation**, Jianing Li et.al., Paper: [http://arxiv.org/abs/2501.16684v1](http://arxiv.org/abs/2501.16684v1), Code: **[https://github.com/northsummer/sliceocc](https://github.com/northsummer/sliceocc)**
-- 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-01-28, **Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**, Pengfei Zhu et.al., Paper: [http://arxiv.org/abs/2501.16767v1](http://arxiv.org/abs/2501.16767v1)
-- 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
-- 2025-01-27, **Evaluation of isolation design flow (IDF) for Single Chip Cryptography (SCC) application**, Arsalan Ali Malik et.al., Paper: [http://arxiv.org/abs/2501.16217v1](http://arxiv.org/abs/2501.16217v1)
 
 ## Autonomous_Driving_RL
 
@@ -29,6 +26,4 @@
 
 - 2025-01-28, **A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**, Hossein Mirzaei et.al., Paper: [http://arxiv.org/abs/2501.17289v1](http://arxiv.org/abs/2501.17289v1)
 - 2025-01-28, **Dream to Drive with Predictive Individual World Model**, Yinfeng Gao et.al., Paper: [http://arxiv.org/abs/2501.16733v1](http://arxiv.org/abs/2501.16733v1), Code: **[https://github.com/gaoyinfeng/piwm](https://github.com/gaoyinfeng/piwm)**
-- 2025-01-28, **CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation**, Faria Huq et.al., Paper: [http://arxiv.org/abs/2501.16609v1](http://arxiv.org/abs/2501.16609v1)
-- 2025-01-27, **Modular Framework for Uncertainty Prediction in Autonomous Vehicle Motion Forecasting within Complex Traffic Scenarios**, Han Wang et.al., Paper: [http://arxiv.org/abs/2501.16480v1](http://arxiv.org/abs/2501.16480v1)
 
