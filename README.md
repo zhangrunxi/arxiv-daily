@@ -4,18 +4,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03695v1-b31b1b.svg)](http://arxiv.org/abs/2502.03695v1)|null|
 |**2025-02-04**|**Risk-Aware Driving Scenario Analysis with Large Language Models**|Yuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02145v1-b31b1b.svg)](http://arxiv.org/abs/2502.02145v1)|null|
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
 |**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01937v1-b31b1b.svg)](http://arxiv.org/abs/2502.01937v1)|null|
 |**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01894v1-b31b1b.svg)](http://arxiv.org/abs/2502.01894v1)|null|
 |**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00843v1-b31b1b.svg)](http://arxiv.org/abs/2502.00843v1)|null|
 |**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00395v1-b31b1b.svg)](http://arxiv.org/abs/2502.00395v1)|null|
-|**2025-01-31**|**Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo**|Hee-Yang Jung et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2501.18942v1-b31b1b.svg)](http://arxiv.org/abs/2501.18942v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03695v1-b31b1b.svg)](http://arxiv.org/abs/2502.03695v1)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02692v1-b31b1b.svg)](http://arxiv.org/abs/2502.02692v1)|null|
 |**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02537v1-b31b1b.svg)](http://arxiv.org/abs/2502.02537v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|null|
@@ -29,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02692v1-b31b1b.svg)](http://arxiv.org/abs/2502.02692v1)|null|
 |**2025-02-04**|**Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02549v1-b31b1b.svg)](http://arxiv.org/abs/2502.02549v1)|null|
 |**2025-02-04**|**Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**|Rudolf Reiter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02133v1-b31b1b.svg)](http://arxiv.org/abs/2502.02133v1)|null|
@@ -41,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03813v1-b31b1b.svg)](http://arxiv.org/abs/2502.03813v1)|null|
 |**2025-02-05**|**Driver Assistance System Based on Multimodal Data Hazard Detection**|Long Zhouxiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03005v1-b31b1b.svg)](http://arxiv.org/abs/2502.03005v1)|null|
 |**2025-02-04**|**SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**|Hitvarth Diwanji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02773v1-b31b1b.svg)](http://arxiv.org/abs/2502.02773v1)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02692v1-b31b1b.svg)](http://arxiv.org/abs/2502.02692v1)|null|
@@ -67,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
 |**2025-02-05**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02972v1-b31b1b.svg)](http://arxiv.org/abs/2502.02972v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|null|
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
