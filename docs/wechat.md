@@ -8,7 +8,6 @@
 - 2025-02-04, **A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**, Yuntianyi Chen et.al., Paper: [http://arxiv.org/abs/2502.01937v1](http://arxiv.org/abs/2502.01937v1)
 - 2025-02-04, **SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**, Goodarz Mehr et.al., Paper: [http://arxiv.org/abs/2502.01894v1](http://arxiv.org/abs/2502.01894v1)
 - 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
-- 2025-02-01, **FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**, Maximilian Leitenstern et.al., Paper: [http://arxiv.org/abs/2502.00395v1](http://arxiv.org/abs/2502.00395v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -19,8 +18,6 @@
 - 2025-02-03, **Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**, Reza Sadeghian et.al., Paper: [http://arxiv.org/abs/2502.01856v1](http://arxiv.org/abs/2502.01856v1)
 - 2025-02-01, **Leveraging Stable Diffusion for Monocular Depth Estimation via Image Semantic Encoding**, Jingming Xia et.al., Paper: [http://arxiv.org/abs/2502.01666v1](http://arxiv.org/abs/2502.01666v1)
 - 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
-- 2025-02-01, **FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**, Maximilian Leitenstern et.al., Paper: [http://arxiv.org/abs/2502.00395v1](http://arxiv.org/abs/2502.00395v1)
-- 2025-02-04, **INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**, Dianwei Chen et.al., Paper: [http://arxiv.org/abs/2502.00262v2](http://arxiv.org/abs/2502.00262v2)
 
 ## Autonomous_Driving_Decision
 
@@ -30,8 +27,6 @@
 - 2025-02-04, **Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**, Rudolf Reiter et.al., Paper: [http://arxiv.org/abs/2502.02133v1](http://arxiv.org/abs/2502.02133v1)
 - 2025-02-04, **A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**, Yuntianyi Chen et.al., Paper: [http://arxiv.org/abs/2502.01937v1](http://arxiv.org/abs/2502.01937v1)
 - 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
-- 2025-02-01, **A Differentiated Reward Method for Reinforcement Learning based Multi-Vehicle Cooperative Decision-Making Algorithms**, Ye Han et.al., Paper: [http://arxiv.org/abs/2502.00352v1](http://arxiv.org/abs/2502.00352v1)
-- 2025-02-04, **INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**, Dianwei Chen et.al., Paper: [http://arxiv.org/abs/2502.00262v2](http://arxiv.org/abs/2502.00262v2)
 
 ## Autonomous_Driving_E2E
 
@@ -39,7 +34,6 @@
 - 2025-02-05, **Driver Assistance System Based on Multimodal Data Hazard Detection**, Long Zhouxiang et.al., Paper: [http://arxiv.org/abs/2502.03005v1](http://arxiv.org/abs/2502.03005v1)
 - 2025-02-04, **SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**, Hitvarth Diwanji et.al., Paper: [http://arxiv.org/abs/2502.02773v1](http://arxiv.org/abs/2502.02773v1)
 - 2025-02-04, **Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**, Amit Ranjan Trivedi et.al., Paper: [http://arxiv.org/abs/2502.02692v1](http://arxiv.org/abs/2502.02692v1)
-- 2025-02-04, **INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**, Dianwei Chen et.al., Paper: [http://arxiv.org/abs/2502.00262v2](http://arxiv.org/abs/2502.00262v2)
 
 ## Autonomous_Driving_LLM
 
@@ -52,7 +46,6 @@
 
 - 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
 - 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
-- 2025-02-01, **A Differentiated Reward Method for Reinforcement Learning based Multi-Vehicle Cooperative Decision-Making Algorithms**, Ye Han et.al., Paper: [http://arxiv.org/abs/2502.00352v1](http://arxiv.org/abs/2502.00352v1)
 
 ## World_Model
 
@@ -61,5 +54,4 @@
 - 2025-02-04, **Event-aided Semantic Scene Completion**, Shangwei Guo et.al., Paper: [http://arxiv.org/abs/2502.02334v1](http://arxiv.org/abs/2502.02334v1)
 - 2025-02-04, **From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**, Siwei Luo et.al., Paper: [http://arxiv.org/abs/2502.02025v1](http://arxiv.org/abs/2502.02025v1)
 - 2025-02-02, **SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation**, Mingyu Yang et.al., Paper: [http://arxiv.org/abs/2502.00960v1](http://arxiv.org/abs/2502.00960v1)
-- 2025-02-04, **INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**, Dianwei Chen et.al., Paper: [http://arxiv.org/abs/2502.00262v2](http://arxiv.org/abs/2502.00262v2)
 
