@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.08
+## Updated on 2025.02.09
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02537v1-b31b1b.svg)](http://arxiv.org/abs/2502.02537v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|null|
 |**2025-02-03**|**Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**|Reza Sadeghian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01856v1-b31b1b.svg)](http://arxiv.org/abs/2502.01856v1)|null|
-|**2025-02-01**|**Leveraging Stable Diffusion for Monocular Depth Estimation via Image Semantic Encoding**|Jingming Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01666v1-b31b1b.svg)](http://arxiv.org/abs/2502.01666v1)|null|
 |**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00843v1-b31b1b.svg)](http://arxiv.org/abs/2502.00843v1)|null|
 
 ## Autonomous_Driving_Decision
