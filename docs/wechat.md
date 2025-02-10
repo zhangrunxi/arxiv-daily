@@ -1,4 +1,4 @@
-> Updated on 2025.02.09
+> Updated on 2025.02.10
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,6 @@
 - 2025-02-04, **From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**, Siwei Luo et.al., Paper: [http://arxiv.org/abs/2502.02025v1](http://arxiv.org/abs/2502.02025v1)
 - 2025-02-04, **A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**, Yuntianyi Chen et.al., Paper: [http://arxiv.org/abs/2502.01937v1](http://arxiv.org/abs/2502.01937v1)
 - 2025-02-04, **SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**, Goodarz Mehr et.al., Paper: [http://arxiv.org/abs/2502.01894v1](http://arxiv.org/abs/2502.01894v1), Code: **[https://github.com/goodarzmehr/simbev](https://github.com/goodarzmehr/simbev)**
-- 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -16,7 +15,6 @@
 - 2025-02-04, **Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**, Huiqun Huang et.al., Paper: [http://arxiv.org/abs/2502.02537v1](http://arxiv.org/abs/2502.02537v1)
 - 2025-02-04, **Event-aided Semantic Scene Completion**, Shangwei Guo et.al., Paper: [http://arxiv.org/abs/2502.02334v1](http://arxiv.org/abs/2502.02334v1), Code: **[https://github.com/pandapan01/evssc](https://github.com/pandapan01/evssc)**
 - 2025-02-03, **Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**, Reza Sadeghian et.al., Paper: [http://arxiv.org/abs/2502.01856v1](http://arxiv.org/abs/2502.01856v1)
-- 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
 
 ## Autonomous_Driving_Decision
 
@@ -44,7 +42,6 @@
 ## Autonomous_Driving_RL
 
 - 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
-- 2025-02-02, **VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**, Yuxin Lin et.al., Paper: [http://arxiv.org/abs/2502.00843v1](http://arxiv.org/abs/2502.00843v1)
 
 ## World_Model
 
@@ -52,5 +49,4 @@
 - 2025-02-05, **Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**, Wei-Bin Kou et.al., Paper: [http://arxiv.org/abs/2502.02972v1](http://arxiv.org/abs/2502.02972v1)
 - 2025-02-04, **Event-aided Semantic Scene Completion**, Shangwei Guo et.al., Paper: [http://arxiv.org/abs/2502.02334v1](http://arxiv.org/abs/2502.02334v1), Code: **[https://github.com/pandapan01/evssc](https://github.com/pandapan01/evssc)**
 - 2025-02-04, **From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**, Siwei Luo et.al., Paper: [http://arxiv.org/abs/2502.02025v1](http://arxiv.org/abs/2502.02025v1)
-- 2025-02-02, **SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation**, Mingyu Yang et.al., Paper: [http://arxiv.org/abs/2502.00960v1](http://arxiv.org/abs/2502.00960v1)
 

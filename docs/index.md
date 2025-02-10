@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,6 @@ layout: default
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
 |**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01937v1-b31b1b.svg)](http://arxiv.org/abs/2502.01937v1)|null|
 |**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01894v1-b31b1b.svg)](http://arxiv.org/abs/2502.01894v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goodarzmehr/simbev)**|
-|**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00843v1-b31b1b.svg)](http://arxiv.org/abs/2502.00843v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -24,7 +23,6 @@ layout: default
 |**2025-02-04**|**Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**|Huiqun Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02537v1-b31b1b.svg)](http://arxiv.org/abs/2502.02537v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandapan01/evssc)**|
 |**2025-02-03**|**Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**|Reza Sadeghian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01856v1-b31b1b.svg)](http://arxiv.org/abs/2502.01856v1)|null|
-|**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00843v1-b31b1b.svg)](http://arxiv.org/abs/2502.00843v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -60,7 +58,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-03**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01387v1-b31b1b.svg)](http://arxiv.org/abs/2502.01387v1)|null|
-|**2025-02-02**|**VLM-Assisted Continual learning for Visual Question Answering in Self-Driving**|Yuxin Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00843v1-b31b1b.svg)](http://arxiv.org/abs/2502.00843v1)|null|
 
 ## World_Model
 
@@ -70,5 +67,4 @@ layout: default
 |**2025-02-05**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02972v1-b31b1b.svg)](http://arxiv.org/abs/2502.02972v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandapan01/evssc)**|
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
-|**2025-02-02**|**SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation**|Mingyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.00960v1-b31b1b.svg)](http://arxiv.org/abs/2502.00960v1)|null|
 
