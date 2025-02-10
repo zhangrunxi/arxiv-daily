@@ -10,6 +10,8 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2025-02-07, **GaussRender: Learning 3D Occupancy with Gaussian Rendering**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2502.05040v1](http://arxiv.org/abs/2502.05040v1)
+- 2025-02-07, **Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**, Bei Zhou et.al., Paper: [http://arxiv.org/abs/2502.04696v1](http://arxiv.org/abs/2502.04696v1)
 - 2025-02-06, **Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**, Zhouheng Li et.al., Paper: [http://arxiv.org/abs/2502.03695v1](http://arxiv.org/abs/2502.03695v1)
 - 2025-02-04, **Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**, Amit Ranjan Trivedi et.al., Paper: [http://arxiv.org/abs/2502.02692v1](http://arxiv.org/abs/2502.02692v1)
 - 2025-02-04, **Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**, Huiqun Huang et.al., Paper: [http://arxiv.org/abs/2502.02537v1](http://arxiv.org/abs/2502.02537v1)
