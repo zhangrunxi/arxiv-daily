@@ -1,4 +1,4 @@
-> Updated on 2025.02.10
+> Updated on 2025.02.11
 
 ## Autonomous_Driving_Planning
 
@@ -6,7 +6,6 @@
 - 2025-02-04, **Risk-Aware Driving Scenario Analysis with Large Language Models**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2502.02145v1](http://arxiv.org/abs/2502.02145v1), Code: **[https://github.com/yuangao-tum/riskaware-scenario-analyse](https://github.com/yuangao-tum/riskaware-scenario-analyse)**
 - 2025-02-04, **From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**, Siwei Luo et.al., Paper: [http://arxiv.org/abs/2502.02025v1](http://arxiv.org/abs/2502.02025v1)
 - 2025-02-04, **A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**, Yuntianyi Chen et.al., Paper: [http://arxiv.org/abs/2502.01937v1](http://arxiv.org/abs/2502.01937v1)
-- 2025-02-04, **SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**, Goodarz Mehr et.al., Paper: [http://arxiv.org/abs/2502.01894v1](http://arxiv.org/abs/2502.01894v1), Code: **[https://github.com/goodarzmehr/simbev](https://github.com/goodarzmehr/simbev)**
 
 ## Autonomous_Driving_Prediction
 
@@ -16,7 +15,6 @@
 - 2025-02-04, **Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**, Amit Ranjan Trivedi et.al., Paper: [http://arxiv.org/abs/2502.02692v1](http://arxiv.org/abs/2502.02692v1)
 - 2025-02-04, **Uncertainty Quantification for Collaborative Object Detection Under Adversarial Attacks**, Huiqun Huang et.al., Paper: [http://arxiv.org/abs/2502.02537v1](http://arxiv.org/abs/2502.02537v1)
 - 2025-02-04, **Event-aided Semantic Scene Completion**, Shangwei Guo et.al., Paper: [http://arxiv.org/abs/2502.02334v1](http://arxiv.org/abs/2502.02334v1), Code: **[https://github.com/pandapan01/evssc](https://github.com/pandapan01/evssc)**
-- 2025-02-03, **Reliability-Driven LiDAR-Camera Fusion for Robust 3D Object Detection**, Reza Sadeghian et.al., Paper: [http://arxiv.org/abs/2502.01856v1](http://arxiv.org/abs/2502.01856v1)
 
 ## Autonomous_Driving_Decision
 
@@ -25,7 +23,6 @@
 - 2025-02-04, **Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**, Ron Benchetrit et.al., Paper: [http://arxiv.org/abs/2502.02549v1](http://arxiv.org/abs/2502.02549v1)
 - 2025-02-04, **Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**, Rudolf Reiter et.al., Paper: [http://arxiv.org/abs/2502.02133v1](http://arxiv.org/abs/2502.02133v1)
 - 2025-02-04, **A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**, Yuntianyi Chen et.al., Paper: [http://arxiv.org/abs/2502.01937v1](http://arxiv.org/abs/2502.01937v1)
-- 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
 
 ## Autonomous_Driving_E2E
 
@@ -39,11 +36,6 @@
 - 2025-02-04, **SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**, Hitvarth Diwanji et.al., Paper: [http://arxiv.org/abs/2502.02773v1](http://arxiv.org/abs/2502.02773v1)
 - 2025-02-04, **Risk-Aware Driving Scenario Analysis with Large Language Models**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2502.02145v1](http://arxiv.org/abs/2502.02145v1), Code: **[https://github.com/yuangao-tum/riskaware-scenario-analyse](https://github.com/yuangao-tum/riskaware-scenario-analyse)**
 - 2025-02-04, **From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**, Siwei Luo et.al., Paper: [http://arxiv.org/abs/2502.02025v1](http://arxiv.org/abs/2502.02025v1)
-- 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
-
-## Autonomous_Driving_RL
-
-- 2025-02-03, **TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2502.01387v1](http://arxiv.org/abs/2502.01387v1)
 
 ## World_Model
 
