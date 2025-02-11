@@ -4,15 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**|Tianshuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06419v1-b31b1b.svg)](http://arxiv.org/abs/2502.06419v1)|null|
+|**2025-02-10**|**Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles**|Lei Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06359v1-b31b1b.svg)](http://arxiv.org/abs/2502.06359v1)|null|
+|**2025-02-08**|**Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**|Mitul Goswami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05476v1-b31b1b.svg)](http://arxiv.org/abs/2502.05476v1)|null|
 |**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03695v1-b31b1b.svg)](http://arxiv.org/abs/2502.03695v1)|null|
-|**2025-02-04**|**Risk-Aware Driving Scenario Analysis with Large Language Models**|Yuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02145v1-b31b1b.svg)](http://arxiv.org/abs/2502.02145v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuangao-tum/riskaware-scenario-analyse)**|
-|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
-|**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01937v1-b31b1b.svg)](http://arxiv.org/abs/2502.01937v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05629v1-b31b1b.svg)](http://arxiv.org/abs/2502.05629v1)|null|
 |**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05040v1-b31b1b.svg)](http://arxiv.org/abs/2502.05040v1)|null|
 |**2025-02-07**|**Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**|Bei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04696v1-b31b1b.svg)](http://arxiv.org/abs/2502.04696v1)|null|
 |**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03695v1-b31b1b.svg)](http://arxiv.org/abs/2502.03695v1)|null|
@@ -24,16 +25,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Actual Achieved Gain and Optimal Perceived Gain: Modeling Human Take-over Decisions Towards Automated Vehicles' Suggestions**|Shuning Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06179v1-b31b1b.svg)](http://arxiv.org/abs/2502.06179v1)|null|
+|**2025-02-09**|**MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**|Jiabin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05957v1-b31b1b.svg)](http://arxiv.org/abs/2502.05957v1)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02692v1-b31b1b.svg)](http://arxiv.org/abs/2502.02692v1)|null|
 |**2025-02-04**|**Anytime Incremental $ρ$POMDP Planning in Continuous Spaces**|Ron Benchetrit et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02549v1-b31b1b.svg)](http://arxiv.org/abs/2502.02549v1)|null|
-|**2025-02-04**|**Synthesis of Model Predictive Control and Reinforcement Learning: Survey and Classification**|Rudolf Reiter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02133v1-b31b1b.svg)](http://arxiv.org/abs/2502.02133v1)|null|
-|**2025-02-04**|**A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems**|Yuntianyi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.01937v1-b31b1b.svg)](http://arxiv.org/abs/2502.01937v1)|null|
 
 ## Autonomous_Driving_E2E
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**|Qingsong Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05859v1-b31b1b.svg)](http://arxiv.org/abs/2502.05859v1)|null|
 |**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03813v1-b31b1b.svg)](http://arxiv.org/abs/2502.03813v1)|null|
 |**2025-02-05**|**Driver Assistance System Based on Multimodal Data Hazard Detection**|Long Zhouxiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.03005v1-b31b1b.svg)](http://arxiv.org/abs/2502.03005v1)|null|
 |**2025-02-04**|**SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**|Hitvarth Diwanji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02773v1-b31b1b.svg)](http://arxiv.org/abs/2502.02773v1)|null|
@@ -43,16 +45,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**|Tianshuo Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06419v1-b31b1b.svg)](http://arxiv.org/abs/2502.06419v1)|null|
+|**2025-02-09**|**MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**|Jiabin Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05957v1-b31b1b.svg)](http://arxiv.org/abs/2502.05957v1)|null|
 |**2025-02-04**|**SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**|Hitvarth Diwanji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02773v1-b31b1b.svg)](http://arxiv.org/abs/2502.02773v1)|null|
-|**2025-02-04**|**Risk-Aware Driving Scenario Analysis with Large Language Models**|Yuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02145v1-b31b1b.svg)](http://arxiv.org/abs/2502.02145v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuangao-tum/riskaware-scenario-analyse)**|
-|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
+
+## Autonomous_Driving_RL
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-02-09**|**Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**|Yixin Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05943v1-b31b1b.svg)](http://arxiv.org/abs/2502.05943v1)|null|
 
 ## World_Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06682v1-b31b1b.svg)](http://arxiv.org/abs/2502.06682v1)|null|
+|**2025-02-08**|**Surprise Potential as a Measure of Interactivity in Driving Scenarios**|Wenhao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05677v1-b31b1b.svg)](http://arxiv.org/abs/2502.05677v1)|null|
+|**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05629v1-b31b1b.svg)](http://arxiv.org/abs/2502.05629v1)|null|
+|**2025-02-08**|**Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**|Mitul Goswami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05476v1-b31b1b.svg)](http://arxiv.org/abs/2502.05476v1)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.04249v1-b31b1b.svg)](http://arxiv.org/abs/2502.04249v1)|null|
 |**2025-02-05**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**|Wei-Bin Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02972v1-b31b1b.svg)](http://arxiv.org/abs/2502.02972v1)|null|
 |**2025-02-04**|**Event-aided Semantic Scene Completion**|Shangwei Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02334v1-b31b1b.svg)](http://arxiv.org/abs/2502.02334v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandapan01/evssc)**|
-|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.02025v1-b31b1b.svg)](http://arxiv.org/abs/2502.02025v1)|null|
 
