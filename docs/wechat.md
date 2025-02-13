@@ -2,6 +2,9 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-02-12, **MoDitector: Module-Directed Testing for Autonomous Driving Systems**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2502.08504v1](http://arxiv.org/abs/2502.08504v1)
+- 2025-02-12, **FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**, Yang Sun et.al., Paper: [http://arxiv.org/abs/2502.08260v1](http://arxiv.org/abs/2502.08260v1)
+- 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**, Azizjon Kobilov et.al., Paper: [http://arxiv.org/abs/2502.07772v1](http://arxiv.org/abs/2502.07772v1)
 - 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
@@ -11,6 +14,8 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2025-02-12, **MoDitector: Module-Directed Testing for Autonomous Driving Systems**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2502.08504v1](http://arxiv.org/abs/2502.08504v1)
+- 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
 - 2025-02-11, **Online Aggregation of Trajectory Predictors**, Alex Tong et.al., Paper: [http://arxiv.org/abs/2502.07178v1](http://arxiv.org/abs/2502.07178v1)
@@ -27,9 +32,9 @@
 
 ## Autonomous_Driving_E2E
 
+- 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
 - 2025-02-09, **SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2502.05859v1](http://arxiv.org/abs/2502.05859v1)
-- 2025-02-06, **Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**, Xuan Li et.al., Paper: [http://arxiv.org/abs/2502.03813v1](http://arxiv.org/abs/2502.03813v1)
 
 ## Autonomous_Driving_LLM
 
@@ -40,10 +45,13 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-02-10, **Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2502.07829v1](http://arxiv.org/abs/2502.07829v1)
 - 2025-02-09, **Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**, Yixin Cui et.al., Paper: [http://arxiv.org/abs/2502.05943v1](http://arxiv.org/abs/2502.05943v1)
 
 ## World_Model
 
+- 2025-02-12, **FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**, Yang Sun et.al., Paper: [http://arxiv.org/abs/2502.08260v1](http://arxiv.org/abs/2502.08260v1)
+- 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
 - 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
 - 2025-02-08, **Surprise Potential as a Measure of Interactivity in Driving Scenarios**, Wenhao Ding et.al., Paper: [http://arxiv.org/abs/2502.05677v1](http://arxiv.org/abs/2502.05677v1)
