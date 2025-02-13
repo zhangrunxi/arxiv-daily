@@ -1,4 +1,4 @@
-> Updated on 2025.02.12
+> Updated on 2025.02.13
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,6 @@
 - 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
 - 2025-02-10, **Occlusion-Aware Contingency Safety-Critical Planning for Autonomous Vehicles**, Lei Zheng et.al., Paper: [http://arxiv.org/abs/2502.06359v1](http://arxiv.org/abs/2502.06359v1)
 - 2025-02-08, **Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**, Mitul Goswami et.al., Paper: [http://arxiv.org/abs/2502.05476v1](http://arxiv.org/abs/2502.05476v1)
-- 2025-02-06, **Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**, Zhouheng Li et.al., Paper: [http://arxiv.org/abs/2502.03695v1](http://arxiv.org/abs/2502.03695v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -18,7 +17,6 @@
 - 2025-02-08, **TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**, Yangguang He et.al., Paper: [http://arxiv.org/abs/2502.05629v1](http://arxiv.org/abs/2502.05629v1)
 - 2025-02-07, **GaussRender: Learning 3D Occupancy with Gaussian Rendering**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2502.05040v1](http://arxiv.org/abs/2502.05040v1)
 - 2025-02-07, **Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**, Bei Zhou et.al., Paper: [http://arxiv.org/abs/2502.04696v1](http://arxiv.org/abs/2502.04696v1)
-- 2025-02-06, **Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**, Zhouheng Li et.al., Paper: [http://arxiv.org/abs/2502.03695v1](http://arxiv.org/abs/2502.03695v1)
 
 ## Autonomous_Driving_Decision
 
