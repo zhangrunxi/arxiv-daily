@@ -1,4 +1,4 @@
-> Updated on 2025.02.14
+> Updated on 2025.02.15
 
 ## Autonomous_Driving_Planning
 
@@ -23,7 +23,6 @@
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1)
 - 2025-02-11, **Online Aggregation of Trajectory Predictors**, Alex Tong et.al., Paper: [http://arxiv.org/abs/2502.07178v1](http://arxiv.org/abs/2502.07178v1)
 - 2025-02-08, **TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**, Yangguang He et.al., Paper: [http://arxiv.org/abs/2502.05629v1](http://arxiv.org/abs/2502.05629v1)
-- 2025-02-07, **GaussRender: Learning 3D Occupancy with Gaussian Rendering**, Loick Chambon et.al., Paper: [http://arxiv.org/abs/2502.05040v1](http://arxiv.org/abs/2502.05040v1), Code: **[https://github.com/valeoai/gaussrender](https://github.com/valeoai/gaussrender)**
 
 ## Autonomous_Driving_Decision
 

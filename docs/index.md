@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.14
+## Updated on 2025.02.15
 
 ## Autonomous_Driving_Planning
 
@@ -31,7 +31,6 @@ layout: default
 |**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07309v1-b31b1b.svg)](http://arxiv.org/abs/2502.07309v1)|null|
 |**2025-02-11**|**Online Aggregation of Trajectory Predictors**|Alex Tong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07178v1-b31b1b.svg)](http://arxiv.org/abs/2502.07178v1)|null|
 |**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05629v1-b31b1b.svg)](http://arxiv.org/abs/2502.05629v1)|null|
-|**2025-02-07**|**GaussRender: Learning 3D Occupancy with Gaussian Rendering**|Loick Chambon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05040v1-b31b1b.svg)](http://arxiv.org/abs/2502.05040v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/gaussrender)**|
 
 ## Autonomous_Driving_Decision
 
