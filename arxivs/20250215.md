@@ -72,5 +72,4 @@
 |**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06682v1-b31b1b.svg)](http://arxiv.org/abs/2502.06682v1)|null|
 |**2025-02-08**|**Surprise Potential as a Measure of Interactivity in Driving Scenarios**|Wenhao Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05677v1-b31b1b.svg)](http://arxiv.org/abs/2502.05677v1)|null|
 |**2025-02-08**|**TrackDiffuser: Nearly Model-Free Bayesian Filtering with Diffusion Model**|Yangguang He et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05629v1-b31b1b.svg)](http://arxiv.org/abs/2502.05629v1)|null|
-|**2025-02-08**|**Convolutional Neural Network Segmentation for Satellite Imagery Data to Identify Landforms Using U-Net Architecture**|Mitul Goswami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.05476v1-b31b1b.svg)](http://arxiv.org/abs/2502.05476v1)|null|
 
