@@ -16,7 +16,6 @@
 ## Autonomous_Driving_Prediction
 
 - 2025-02-13, **Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**, Yiming Yang et.al., Paper: [http://arxiv.org/abs/2502.08974v1](http://arxiv.org/abs/2502.08974v1)
-- 2025-02-09, **Deployment-friendly Lane-changing Intention Prediction Powered by Brain-inspired Spiking Neural Networks**, Junjie Yang et.al., Paper: [http://arxiv.org/abs/2502.08659v1](http://arxiv.org/abs/2502.08659v1)
 - 2025-02-12, **MoDitector: Module-Directed Testing for Autonomous Driving Systems**, Renzhi Wang et.al., Paper: [http://arxiv.org/abs/2502.08504v1](http://arxiv.org/abs/2502.08504v1)
 - 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
@@ -35,7 +34,6 @@
 - 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**
 - 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Divide and Merge: Motion and Semantic Learning in End-to-End Autonomous Driving**, Yinzhe Shen et.al., Paper: [http://arxiv.org/abs/2502.07631v1](http://arxiv.org/abs/2502.07631v1)
-- 2025-02-09, **SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**, Qingsong Yan et.al., Paper: [http://arxiv.org/abs/2502.05859v1](http://arxiv.org/abs/2502.05859v1)
 
 ## Autonomous_Driving_LLM
 
