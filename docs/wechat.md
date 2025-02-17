@@ -1,4 +1,4 @@
-> Updated on 2025.02.16
+> Updated on 2025.02.17
 
 ## Autonomous_Driving_Planning
 
@@ -27,7 +27,6 @@
 - 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**
 - 2025-02-10, **Motion Forecasting for Autonomous Vehicles: A Survey**, Jianxin Shi et.al., Paper: [http://arxiv.org/abs/2502.08664v1](http://arxiv.org/abs/2502.08664v1)
 - 2025-02-10, **Actual Achieved Gain and Optimal Perceived Gain: Modeling Human Take-over Decisions Towards Automated Vehicles' Suggestions**, Shuning Zhang et.al., Paper: [http://arxiv.org/abs/2502.06179v1](http://arxiv.org/abs/2502.06179v1)
-- 2025-02-09, **MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**, Jiabin Tang et.al., Paper: [http://arxiv.org/abs/2502.05957v1](http://arxiv.org/abs/2502.05957v1)
 
 ## Autonomous_Driving_E2E
 
@@ -39,13 +38,11 @@
 
 - 2025-02-11, **Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**, Azizjon Kobilov et.al., Paper: [http://arxiv.org/abs/2502.07772v1](http://arxiv.org/abs/2502.07772v1)
 - 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
-- 2025-02-09, **MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents**, Jiabin Tang et.al., Paper: [http://arxiv.org/abs/2502.05957v1](http://arxiv.org/abs/2502.05957v1)
 
 ## Autonomous_Driving_RL
 
 - 2025-02-13, **Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**, Shay Snyder et.al., Paper: [http://arxiv.org/abs/2502.09393v1](http://arxiv.org/abs/2502.09393v1)
 - 2025-02-10, **Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2502.07829v1](http://arxiv.org/abs/2502.07829v1)
-- 2025-02-09, **Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**, Yixin Cui et.al., Paper: [http://arxiv.org/abs/2502.05943v1](http://arxiv.org/abs/2502.05943v1)
 
 ## World_Model
 
