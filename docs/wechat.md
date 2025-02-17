@@ -38,7 +38,6 @@
 
 - 2025-02-14, **V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**, Hsu-kuang Chiu et.al., Paper: [http://arxiv.org/abs/2502.09980v1](http://arxiv.org/abs/2502.09980v1)
 - 2025-02-11, **Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**, Azizjon Kobilov et.al., Paper: [http://arxiv.org/abs/2502.07772v1](http://arxiv.org/abs/2502.07772v1)
-- 2025-02-10, **Occ-LLM: Enhancing Autonomous Driving with Occupancy-Based Large Language Models**, Tianshuo Xu et.al., Paper: [http://arxiv.org/abs/2502.06419v1](http://arxiv.org/abs/2502.06419v1)
 
 ## Autonomous_Driving_RL
 
