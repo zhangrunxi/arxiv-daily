@@ -1,4 +1,4 @@
-> Updated on 2025.02.17
+> Updated on 2025.02.18
 
 ## Autonomous_Driving_Planning
 
@@ -42,7 +42,6 @@
 ## Autonomous_Driving_RL
 
 - 2025-02-13, **Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**, Shay Snyder et.al., Paper: [http://arxiv.org/abs/2502.09393v1](http://arxiv.org/abs/2502.09393v1)
-- 2025-02-10, **Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing**, Sihao Wu et.al., Paper: [http://arxiv.org/abs/2502.07829v1](http://arxiv.org/abs/2502.07829v1)
 
 ## World_Model
 
@@ -50,5 +49,4 @@
 - 2025-02-12, **FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**, Yang Sun et.al., Paper: [http://arxiv.org/abs/2502.08260v1](http://arxiv.org/abs/2502.08260v1), Code: **[https://github.com/lawbreaker2022/fixdrive2025](https://github.com/lawbreaker2022/fixdrive2025)**
 - 2025-02-12, **End-to-End Predictive Planner for Autonomous Driving with Consistency Models**, Anjian Li et.al., Paper: [http://arxiv.org/abs/2502.08033v1](http://arxiv.org/abs/2502.08033v1)
 - 2025-02-11, **Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2502.07309v1](http://arxiv.org/abs/2502.07309v1), Code: **[https://github.com/getterupper/PreWorld](https://github.com/getterupper/PreWorld)**
-- 2025-02-10, **Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**, Tai-Yu Pan et.al., Paper: [http://arxiv.org/abs/2502.06682v1](http://arxiv.org/abs/2502.06682v1)
 

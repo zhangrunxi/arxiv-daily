@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 
 ## Autonomous_Driving_Planning
 
@@ -58,7 +58,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09393v1-b31b1b.svg)](http://arxiv.org/abs/2502.09393v1)|null|
-|**2025-02-10**|**Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing**|Sihao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07829v1-b31b1b.svg)](http://arxiv.org/abs/2502.07829v1)|null|
 
 ## World_Model
 
@@ -68,5 +67,4 @@ layout: default
 |**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08260v1-b31b1b.svg)](http://arxiv.org/abs/2502.08260v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lawbreaker2022/fixdrive2025)**|
 |**2025-02-12**|**End-to-End Predictive Planner for Autonomous Driving with Consistency Models**|Anjian Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08033v1-b31b1b.svg)](http://arxiv.org/abs/2502.08033v1)|null|
 |**2025-02-11**|**Semi-Supervised Vision-Centric 3D Occupancy World Model for Autonomous Driving**|Xiang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.07309v1-b31b1b.svg)](http://arxiv.org/abs/2502.07309v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/getterupper/PreWorld)**|
-|**2025-02-10**|**Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene**|Tai-Yu Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.06682v1-b31b1b.svg)](http://arxiv.org/abs/2502.06682v1)|null|
 
