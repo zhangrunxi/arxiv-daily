@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 
 ## Autonomous_Driving_Planning
 
@@ -16,7 +16,6 @@ layout: default
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09393v1-b31b1b.svg)](http://arxiv.org/abs/2502.09393v1)|null|
 |**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJLab-ADG/LimSim)**|
 |**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08974v1-b31b1b.svg)](http://arxiv.org/abs/2502.08974v1)|null|
-|**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08504v1-b31b1b.svg)](http://arxiv.org/abs/2502.08504v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -29,7 +28,6 @@ layout: default
 |**2025-02-13**|**Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**|Kumar Manas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10477v1-b31b1b.svg)](http://arxiv.org/abs/2502.10477v1)|null|
 |**2025-02-14**|**Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**|Jacob Knaup et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09918v1-b31b1b.svg)](http://arxiv.org/abs/2502.09918v1)|null|
 |**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08974v1-b31b1b.svg)](http://arxiv.org/abs/2502.08974v1)|null|
-|**2025-02-12**|**MoDitector: Module-Directed Testing for Autonomous Driving Systems**|Renzhi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08504v1-b31b1b.svg)](http://arxiv.org/abs/2502.08504v1)|null|
 
 ## Autonomous_Driving_Decision
 
