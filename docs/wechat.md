@@ -8,8 +8,6 @@
 - 2025-02-17, **V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**, Hsu-kuang Chiu et.al., Paper: [http://arxiv.org/abs/2502.09980v2](http://arxiv.org/abs/2502.09980v2)
 - 2025-02-14, **Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**, Jacob Knaup et.al., Paper: [http://arxiv.org/abs/2502.09918v1](http://arxiv.org/abs/2502.09918v1)
 - 2025-02-13, **Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**, Shay Snyder et.al., Paper: [http://arxiv.org/abs/2502.09393v1](http://arxiv.org/abs/2502.09393v1)
-- 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**
-- 2025-02-13, **Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**, Yiming Yang et.al., Paper: [http://arxiv.org/abs/2502.08974v1](http://arxiv.org/abs/2502.08974v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -19,7 +17,6 @@
 - 2025-02-14, **The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**, Sifan Tu et.al., Paper: [http://arxiv.org/abs/2502.10498v1](http://arxiv.org/abs/2502.10498v1)
 - 2025-02-13, **Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**, Kumar Manas et.al., Paper: [http://arxiv.org/abs/2502.10477v1](http://arxiv.org/abs/2502.10477v1)
 - 2025-02-14, **Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**, Jacob Knaup et.al., Paper: [http://arxiv.org/abs/2502.09918v1](http://arxiv.org/abs/2502.09918v1)
-- 2025-02-13, **Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**, Yiming Yang et.al., Paper: [http://arxiv.org/abs/2502.08974v1](http://arxiv.org/abs/2502.08974v1)
 
 ## Autonomous_Driving_Decision
 
@@ -27,12 +24,11 @@
 - 2025-02-17, **Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**, Natalie Grabowsky et.al., Paper: [http://arxiv.org/abs/2502.11864v1](http://arxiv.org/abs/2502.11864v1)
 - 2025-02-17, **PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**, Morgan Byrd et.al., Paper: [http://arxiv.org/abs/2502.11377v1](http://arxiv.org/abs/2502.11377v1)
 - 2025-02-14, **Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**, Jacob Knaup et.al., Paper: [http://arxiv.org/abs/2502.09918v1](http://arxiv.org/abs/2502.09918v1)
-- 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**
 
 ## Autonomous_Driving_E2E
 
+- 2025-02-19, **MEX: Memory-efficient Approach to Referring Multi-Object Tracking**, Huu-Thien Tran et.al., Paper: [http://arxiv.org/abs/2502.13875v1](http://arxiv.org/abs/2502.13875v1)
 - 2025-02-18, **RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2502.13144v1](http://arxiv.org/abs/2502.13144v1)
-- 2025-02-13, **LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**, Daocheng Fu et.al., Paper: [http://arxiv.org/abs/2502.09170v1](http://arxiv.org/abs/2502.09170v1), Code: **[https://github.com/PJLab-ADG/LimSim](https://github.com/PJLab-ADG/LimSim)**
 
 ## Autonomous_Driving_LLM
 

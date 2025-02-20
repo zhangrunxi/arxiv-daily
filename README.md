@@ -10,8 +10,6 @@
 |**2025-02-17**|**V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**|Hsu-kuang Chiu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09980v2-b31b1b.svg)](http://arxiv.org/abs/2502.09980v2)|null|
 |**2025-02-14**|**Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**|Jacob Knaup et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09918v1-b31b1b.svg)](http://arxiv.org/abs/2502.09918v1)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09393v1-b31b1b.svg)](http://arxiv.org/abs/2502.09393v1)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJLab-ADG/LimSim)**|
-|**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08974v1-b31b1b.svg)](http://arxiv.org/abs/2502.08974v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -23,7 +21,6 @@
 |**2025-02-14**|**The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**|Sifan Tu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10498v1-b31b1b.svg)](http://arxiv.org/abs/2502.10498v1)|null|
 |**2025-02-13**|**Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**|Kumar Manas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10477v1-b31b1b.svg)](http://arxiv.org/abs/2502.10477v1)|null|
 |**2025-02-14**|**Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**|Jacob Knaup et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09918v1-b31b1b.svg)](http://arxiv.org/abs/2502.09918v1)|null|
-|**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.08974v1-b31b1b.svg)](http://arxiv.org/abs/2502.08974v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -33,14 +30,13 @@
 |**2025-02-17**|**Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**|Natalie Grabowsky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11864v1-b31b1b.svg)](http://arxiv.org/abs/2502.11864v1)|null|
 |**2025-02-17**|**PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**|Morgan Byrd et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11377v1-b31b1b.svg)](http://arxiv.org/abs/2502.11377v1)|null|
 |**2025-02-14**|**Dual Control for Interactive Autonomous Merging with Model Predictive Diffusion**|Jacob Knaup et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09918v1-b31b1b.svg)](http://arxiv.org/abs/2502.09918v1)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJLab-ADG/LimSim)**|
 
 ## Autonomous_Driving_E2E
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13875v1-b31b1b.svg)](http://arxiv.org/abs/2502.13875v1)|null|
 |**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13144v1-b31b1b.svg)](http://arxiv.org/abs/2502.13144v1)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.09170v1-b31b1b.svg)](http://arxiv.org/abs/2502.09170v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PJLab-ADG/LimSim)**|
 
 ## Autonomous_Driving_LLM
 
