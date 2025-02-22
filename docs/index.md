@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 
 ## Autonomous_Driving_Planning
 
@@ -21,7 +21,6 @@ layout: default
 |**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13024v1-b31b1b.svg)](http://arxiv.org/abs/2502.13024v1)|null|
 |**2025-02-17**|**Residual Learning towards High-fidelity Vehicle Dynamics Modeling with Transformer**|Jinyu Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11800v1-b31b1b.svg)](http://arxiv.org/abs/2502.11800v1)|null|
 |**2025-02-17**|**MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**|Jingcheng Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11663v1-b31b1b.svg)](http://arxiv.org/abs/2502.11663v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sensetime-fvg/opendwm)**|
-|**2025-02-14**|**The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**|Sifan Tu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10498v1-b31b1b.svg)](http://arxiv.org/abs/2502.10498v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmd0311/awesome-world-model)**|
 
 ## Autonomous_Driving_Decision
 
@@ -66,5 +65,4 @@ layout: default
 |**2025-02-17**|**MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**|Jingcheng Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11663v1-b31b1b.svg)](http://arxiv.org/abs/2502.11663v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sensetime-fvg/opendwm)**|
 |**2025-02-17**|**PrivilegedDreamer: Explicit Imagination of Privileged Information for Rapid Adaptation of Learned Policies**|Morgan Byrd et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11377v1-b31b1b.svg)](http://arxiv.org/abs/2502.11377v1)|null|
 |**2025-02-17**|**A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**|Zikang Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11352v1-b31b1b.svg)](http://arxiv.org/abs/2502.11352v1)|null|
-|**2025-02-14**|**Adaptive Neural Networks for Intelligent Data-Driven Development**|Youssef Shoeb et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10603v1-b31b1b.svg)](http://arxiv.org/abs/2502.10603v1)|null|
 
