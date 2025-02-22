@@ -4,7 +4,6 @@
 
 - 2025-02-20, **Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**, Gregg Rabideau et.al., Paper: [http://arxiv.org/abs/2502.14803v1](http://arxiv.org/abs/2502.14803v1)
 - 2025-02-17, **A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**, Zikang Xiong et.al., Paper: [http://arxiv.org/abs/2502.11352v1](http://arxiv.org/abs/2502.11352v1)
-- 2025-02-15, **NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**, Shutong Zhang et.al., Paper: [http://arxiv.org/abs/2502.10720v1](http://arxiv.org/abs/2502.10720v1)
 
 ## Autonomous_Driving_Prediction
 

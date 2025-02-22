@@ -6,7 +6,6 @@
 |---|---|---|---|---|
 |**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14803v1-b31b1b.svg)](http://arxiv.org/abs/2502.14803v1)|null|
 |**2025-02-17**|**A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**|Zikang Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11352v1-b31b1b.svg)](http://arxiv.org/abs/2502.11352v1)|null|
-|**2025-02-15**|**NPSim: Nighttime Photorealistic Simulation From Daytime Images With Monocular Inverse Rendering and Ray Tracing**|Shutong Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.10720v1-b31b1b.svg)](http://arxiv.org/abs/2502.10720v1)|null|
 
 ## Autonomous_Driving_Prediction
 
