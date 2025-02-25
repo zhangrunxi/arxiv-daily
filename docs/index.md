@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 
 ## Autonomous_Driving_Planning
 
@@ -22,7 +22,6 @@ layout: default
 |**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14416v1-b31b1b.svg)](http://arxiv.org/abs/2502.14416v1)|null|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14235v1-b31b1b.svg)](http://arxiv.org/abs/2502.14235v1)|null|
 |**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13024v1-b31b1b.svg)](http://arxiv.org/abs/2502.13024v1)|null|
-|**2025-02-17**|**Residual Learning towards High-fidelity Vehicle Dynamics Modeling with Transformer**|Jinyu Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11800v1-b31b1b.svg)](http://arxiv.org/abs/2502.11800v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -31,7 +30,6 @@ layout: default
 |**2025-02-21**|**A modular risk concept for complex systems**|Dag McGeorge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15482v1-b31b1b.svg)](http://arxiv.org/abs/2502.15482v1)|null|
 |**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14520v1-b31b1b.svg)](http://arxiv.org/abs/2502.14520v1)|null|
 |**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13024v1-b31b1b.svg)](http://arxiv.org/abs/2502.13024v1)|null|
-|**2025-02-17**|**Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**|Natalie Grabowsky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11864v1-b31b1b.svg)](http://arxiv.org/abs/2502.11864v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -53,7 +51,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13144v1-b31b1b.svg)](http://arxiv.org/abs/2502.13144v1)|null|
-|**2025-02-17**|**Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**|Natalie Grabowsky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11864v1-b31b1b.svg)](http://arxiv.org/abs/2502.11864v1)|null|
 
 ## World_Model
 
@@ -66,5 +63,4 @@ layout: default
 |**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14014v1-b31b1b.svg)](http://arxiv.org/abs/2502.14014v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhiyuanli218/segret)**|
 |**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13024v1-b31b1b.svg)](http://arxiv.org/abs/2502.13024v1)|null|
 |**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.12686v1-b31b1b.svg)](http://arxiv.org/abs/2502.12686v1)|null|
-|**2025-02-17**|**Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**|Natalie Grabowsky et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.11864v1-b31b1b.svg)](http://arxiv.org/abs/2502.11864v1)|null|
 

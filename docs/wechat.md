@@ -1,4 +1,4 @@
-> Updated on 2025.02.24
+> Updated on 2025.02.25
 
 ## Autonomous_Driving_Planning
 
@@ -14,14 +14,12 @@
 - 2025-02-20, **Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**, Jon Gutiérrez-Zaballa et.al., Paper: [http://arxiv.org/abs/2502.14416v1](http://arxiv.org/abs/2502.14416v1)
 - 2025-02-20, **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Yedong Shen et.al., Paper: [http://arxiv.org/abs/2502.14235v1](http://arxiv.org/abs/2502.14235v1)
 - 2025-02-18, **Fragility-aware Classification for Understanding Risk and Improving Generalization**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2502.13024v1](http://arxiv.org/abs/2502.13024v1)
-- 2025-02-17, **Residual Learning towards High-fidelity Vehicle Dynamics Modeling with Transformer**, Jinyu Miao et.al., Paper: [http://arxiv.org/abs/2502.11800v1](http://arxiv.org/abs/2502.11800v1)
 
 ## Autonomous_Driving_Decision
 
 - 2025-02-21, **A modular risk concept for complex systems**, Dag McGeorge et.al., Paper: [http://arxiv.org/abs/2502.15482v1](http://arxiv.org/abs/2502.15482v1)
 - 2025-02-20, **Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2502.14520v1](http://arxiv.org/abs/2502.14520v1)
 - 2025-02-18, **Fragility-aware Classification for Understanding Risk and Improving Generalization**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2502.13024v1](http://arxiv.org/abs/2502.13024v1)
-- 2025-02-17, **Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**, Natalie Grabowsky et.al., Paper: [http://arxiv.org/abs/2502.11864v1](http://arxiv.org/abs/2502.11864v1)
 
 ## Autonomous_Driving_E2E
 
@@ -37,7 +35,6 @@
 ## Autonomous_Driving_RL
 
 - 2025-02-18, **RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**, Hao Gao et.al., Paper: [http://arxiv.org/abs/2502.13144v1](http://arxiv.org/abs/2502.13144v1)
-- 2025-02-17, **Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**, Natalie Grabowsky et.al., Paper: [http://arxiv.org/abs/2502.11864v1](http://arxiv.org/abs/2502.11864v1)
 
 ## World_Model
 
@@ -48,5 +45,4 @@
 - 2025-02-19, **SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**, Zhiyuan Li et.al., Paper: [http://arxiv.org/abs/2502.14014v1](http://arxiv.org/abs/2502.14014v1), Code: **[https://github.com/zhiyuanli218/segret](https://github.com/zhiyuanli218/segret)**
 - 2025-02-18, **Fragility-aware Classification for Understanding Risk and Improving Generalization**, Chen Yang et.al., Paper: [http://arxiv.org/abs/2502.13024v1](http://arxiv.org/abs/2502.13024v1)
 - 2025-02-18, **RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**, Yiheng Wang et.al., Paper: [http://arxiv.org/abs/2502.12686v1](http://arxiv.org/abs/2502.12686v1)
-- 2025-02-17, **Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?**, Natalie Grabowsky et.al., Paper: [http://arxiv.org/abs/2502.11864v1](http://arxiv.org/abs/2502.11864v1)
 
