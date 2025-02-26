@@ -4,32 +4,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17949v1-b31b1b.svg)](http://arxiv.org/abs/2502.17949v1)|null|
 |**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16804v1-b31b1b.svg)](http://arxiv.org/abs/2502.16804v1)|null|
-|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16589v1-b31b1b.svg)](http://arxiv.org/abs/2502.16589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomiaozhang/Co-MTP)**|
+|**2025-02-25**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16589v2-b31b1b.svg)](http://arxiv.org/abs/2502.16589v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomiaozhang/Co-MTP)**|
 |**2025-02-20**|**Getting SMARTER for Motion Planning in Autonomous Driving Systems**|Montgomery Alban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15824v1-b31b1b.svg)](http://arxiv.org/abs/2502.15824v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15635v2-b31b1b.svg)](http://arxiv.org/abs/2502.15635v2)|null|
-|**2025-02-19**|**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**|Rui Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14917v1-b31b1b.svg)](http://arxiv.org/abs/2502.14917v1)|null|
 |**2025-02-20**|**Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**|Gregg Rabideau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14803v1-b31b1b.svg)](http://arxiv.org/abs/2502.14803v1)|null|
 
 ## Autonomous_Driving_Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**|Nengyue Su et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.18013v1-b31b1b.svg)](http://arxiv.org/abs/2502.18013v1)|null|
+|**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17949v1-b31b1b.svg)](http://arxiv.org/abs/2502.17949v1)|null|
 |**2025-02-24**|**Inverse Kinematics on Guiding Vector Fields for Robot Path Following**|Yu Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17313v1-b31b1b.svg)](http://arxiv.org/abs/2502.17313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swarm-systems-lab/gvf_ik)**|
 |**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16907v1-b31b1b.svg)](http://arxiv.org/abs/2502.16907v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-25**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16736v2-b31b1b.svg)](http://arxiv.org/abs/2502.16736v2)|null|
-|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16589v1-b31b1b.svg)](http://arxiv.org/abs/2502.16589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomiaozhang/Co-MTP)**|
+|**2025-02-25**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16589v2-b31b1b.svg)](http://arxiv.org/abs/2502.16589v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomiaozhang/Co-MTP)**|
 |**2025-02-23**|**An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**|Tianchen Ji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16389v1-b31b1b.svg)](http://arxiv.org/abs/2502.16389v1)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15672v1-b31b1b.svg)](http://arxiv.org/abs/2502.15672v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/VideoActionModel)**|
 |**2025-02-24**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15342v2-b31b1b.svg)](http://arxiv.org/abs/2502.15342v2)|null|
 |**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15180v1-b31b1b.svg)](http://arxiv.org/abs/2502.15180v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlchen-c/occprophet)**|
-|**2025-02-20**|**Reliable Explainability of Deep Learning Spatial-Spectral Classifiers for Improved Semantic Segmentation in Autonomous Driving**|Jon Gutiérrez-Zaballa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14416v1-b31b1b.svg)](http://arxiv.org/abs/2502.14416v1)|null|
-|**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14235v1-b31b1b.svg)](http://arxiv.org/abs/2502.14235v1)|null|
 
 ## Autonomous_Driving_Decision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17821v1-b31b1b.svg)](http://arxiv.org/abs/2502.17821v1)|null|
 |**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16804v1-b31b1b.svg)](http://arxiv.org/abs/2502.16804v1)|null|
 |**2025-02-22**|**A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**|Jack Hirschman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16141v1-b31b1b.svg)](http://arxiv.org/abs/2502.16141v1)|null|
 |**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16027v1-b31b1b.svg)](http://arxiv.org/abs/2502.16027v1)|null|
@@ -41,11 +42,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17949v1-b31b1b.svg)](http://arxiv.org/abs/2502.17949v1)|null|
 |**2025-02-24**|**Inverse Kinematics on Guiding Vector Fields for Robot Path Following**|Yu Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17313v1-b31b1b.svg)](http://arxiv.org/abs/2502.17313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swarm-systems-lab/gvf_ik)**|
 |**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16027v1-b31b1b.svg)](http://arxiv.org/abs/2502.16027v1)|null|
 |**2025-02-20**|**Getting SMARTER for Motion Planning in Autonomous Driving Systems**|Montgomery Alban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15824v1-b31b1b.svg)](http://arxiv.org/abs/2502.15824v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15635v2-b31b1b.svg)](http://arxiv.org/abs/2502.15635v2)|null|
-|**2025-02-19**|**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**|Rui Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14917v1-b31b1b.svg)](http://arxiv.org/abs/2502.14917v1)|null|
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13875v1-b31b1b.svg)](http://arxiv.org/abs/2502.13875v1)|null|
 
 ## Autonomous_Driving_LLM
@@ -64,6 +65,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**|Istiaq Ahmed Fahad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.17843v1-b31b1b.svg)](http://arxiv.org/abs/2502.17843v1)|null|
 |**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16907v1-b31b1b.svg)](http://arxiv.org/abs/2502.16907v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scnu-rislab/mambaflow)**|
 |**2025-02-25**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16736v2-b31b1b.svg)](http://arxiv.org/abs/2502.16736v2)|null|
 |**2025-02-20**|**Getting SMARTER for Motion Planning in Autonomous Driving Systems**|Montgomery Alban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15824v1-b31b1b.svg)](http://arxiv.org/abs/2502.15824v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
