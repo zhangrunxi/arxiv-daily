@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 
 ## Autonomous_Driving_Planning
 
@@ -27,7 +27,7 @@ layout: default
 |**2025-02-25**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16589v2-b31b1b.svg)](http://arxiv.org/abs/2502.16589v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomiaozhang/Co-MTP)**|
 |**2025-02-23**|**An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**|Tianchen Ji et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16389v1-b31b1b.svg)](http://arxiv.org/abs/2502.16389v1)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15672v1-b31b1b.svg)](http://arxiv.org/abs/2502.15672v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/VideoActionModel)**|
-|**2025-02-24**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15342v2-b31b1b.svg)](http://arxiv.org/abs/2502.15342v2)|null|
+|**2025-02-26**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15342v3-b31b1b.svg)](http://arxiv.org/abs/2502.15342v3)|null|
 |**2025-02-21**|**OccProphet: Pushing Efficiency Frontier of Camera-Only 4D Occupancy Forecasting with Observer-Forecaster-Refiner Framework**|Junliang Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15180v1-b31b1b.svg)](http://arxiv.org/abs/2502.15180v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jlchen-c/occprophet)**|
 
 ## Autonomous_Driving_Decision
@@ -51,7 +51,6 @@ layout: default
 |**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.16027v1-b31b1b.svg)](http://arxiv.org/abs/2502.16027v1)|null|
 |**2025-02-20**|**Getting SMARTER for Motion Planning in Autonomous Driving Systems**|Montgomery Alban et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15824v1-b31b1b.svg)](http://arxiv.org/abs/2502.15824v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huawei-noah/SMARTS)**|
 |**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15635v2-b31b1b.svg)](http://arxiv.org/abs/2502.15635v2)|null|
-|**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.13875v1-b31b1b.svg)](http://arxiv.org/abs/2502.13875v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -77,5 +76,4 @@ layout: default
 |**2025-02-20**|**Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**|Richard Marcus et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.15076v1-b31b1b.svg)](http://arxiv.org/abs/2502.15076v1)|null|
 |**2025-02-20**|**CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond**|Yukai Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14493v1-b31b1b.svg)](http://arxiv.org/abs/2502.14493v1)|null|
 |**2025-02-20**|**ODVerse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11**|Tianyou Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14314v1-b31b1b.svg)](http://arxiv.org/abs/2502.14314v1)|null|
-|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2502.14014v1-b31b1b.svg)](http://arxiv.org/abs/2502.14014v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhiyuanli218/segret)**|
 
