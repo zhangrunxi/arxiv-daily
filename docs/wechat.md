@@ -31,7 +31,6 @@
 - 2025-02-22, **A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**, Haidong Wang et.al., Paper: [http://arxiv.org/abs/2502.16027v1](http://arxiv.org/abs/2502.16027v1)
 - 2025-02-21, **Computation Offloading Strategies in Integrated Terrestrial and Non-Terrestrial Networks**, Muhammad Ahmed Mohsin et.al., Paper: [http://arxiv.org/abs/2502.15903v1](http://arxiv.org/abs/2502.15903v1)
 - 2025-02-21, **A modular risk concept for complex systems**, Dag McGeorge et.al., Paper: [http://arxiv.org/abs/2502.15482v1](http://arxiv.org/abs/2502.15482v1)
-- 2025-02-20, **Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**, Meng Wang et.al., Paper: [http://arxiv.org/abs/2502.14520v1](http://arxiv.org/abs/2502.14520v1)
 
 ## Autonomous_Driving_E2E
 
