@@ -1,4 +1,4 @@
-> Updated on 2025.02.27
+> Updated on 2025.02.28
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,6 @@
 - 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
 - 2025-02-25, **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2502.16589v2](http://arxiv.org/abs/2502.16589v2), Code: **[https://github.com/xiaomiaozhang/Co-MTP](https://github.com/xiaomiaozhang/Co-MTP)**
 - 2025-02-24, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v2](http://arxiv.org/abs/2502.15635v2)
-- 2025-02-20, **Planning, scheduling, and execution on the Moon: the CADRE technology demonstration mission**, Gregg Rabideau et.al., Paper: [http://arxiv.org/abs/2502.14803v1](http://arxiv.org/abs/2502.14803v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -56,5 +55,4 @@
 - 2025-02-24, **MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**, Jiehao Luo et.al., Paper: [http://arxiv.org/abs/2502.16907v1](http://arxiv.org/abs/2502.16907v1), Code: **[https://github.com/scnu-rislab/mambaflow](https://github.com/scnu-rislab/mambaflow)**
 - 2025-02-25, **AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.16736v2](http://arxiv.org/abs/2502.16736v2)
 - 2025-02-21, **VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2502.15672v1](http://arxiv.org/abs/2502.15672v1), Code: **[https://github.com/valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel)**
-- 2025-02-20, **Synth It Like KITTI: Synthetic Data Generation for Object Detection in Driving Scenarios**, Richard Marcus et.al., Paper: [http://arxiv.org/abs/2502.15076v1](http://arxiv.org/abs/2502.15076v1)
 
