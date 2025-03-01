@@ -29,7 +29,6 @@
 - 2025-02-25, **Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**, Amirhossein Roknilamouki et.al., Paper: [http://arxiv.org/abs/2502.18655v1](http://arxiv.org/abs/2502.18655v1)
 - 2025-02-25, **CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.17821v1](http://arxiv.org/abs/2502.17821v1)
 - 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
-- 2025-02-22, **A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**, Jack Hirschman et.al., Paper: [http://arxiv.org/abs/2502.16141v1](http://arxiv.org/abs/2502.16141v1)
 
 ## Autonomous_Driving_E2E
 
