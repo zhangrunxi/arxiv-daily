@@ -1,4 +1,4 @@
-> Updated on 2025.02.28
+> Updated on 2025.03.01
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,6 @@
 - 2025-02-25, **InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2502.17949v1](http://arxiv.org/abs/2502.17949v1)
 - 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
 - 2025-02-25, **Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**, Xinyu Zhang et.al., Paper: [http://arxiv.org/abs/2502.16589v2](http://arxiv.org/abs/2502.16589v2), Code: **[https://github.com/xiaomiaozhang/Co-MTP](https://github.com/xiaomiaozhang/Co-MTP)**
-- 2025-02-24, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v2](http://arxiv.org/abs/2502.15635v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -31,9 +30,6 @@
 - 2025-02-25, **CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.17821v1](http://arxiv.org/abs/2502.17821v1)
 - 2025-02-24, **Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**, Yaozu Wu et.al., Paper: [http://arxiv.org/abs/2502.16804v1](http://arxiv.org/abs/2502.16804v1)
 - 2025-02-22, **A Hybrid Neural Network for High-Throughput Attosecond Resolution Single-shot X-ray Pulse Characterization**, Jack Hirschman et.al., Paper: [http://arxiv.org/abs/2502.16141v1](http://arxiv.org/abs/2502.16141v1)
-- 2025-02-22, **A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**, Haidong Wang et.al., Paper: [http://arxiv.org/abs/2502.16027v1](http://arxiv.org/abs/2502.16027v1)
-- 2025-02-21, **Computation Offloading Strategies in Integrated Terrestrial and Non-Terrestrial Networks**, Muhammad Ahmed Mohsin et.al., Paper: [http://arxiv.org/abs/2502.15903v1](http://arxiv.org/abs/2502.15903v1)
-- 2025-02-21, **A modular risk concept for complex systems**, Dag McGeorge et.al., Paper: [http://arxiv.org/abs/2502.15482v1](http://arxiv.org/abs/2502.15482v1)
 
 ## Autonomous_Driving_E2E
 
@@ -41,8 +37,6 @@
 - 2025-02-26, **Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2502.19177v1](http://arxiv.org/abs/2502.19177v1)
 - 2025-02-25, **InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2502.17949v1](http://arxiv.org/abs/2502.17949v1)
 - 2025-02-24, **Inverse Kinematics on Guiding Vector Fields for Robot Path Following**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2502.17313v1](http://arxiv.org/abs/2502.17313v1), Code: **[https://github.com/swarm-systems-lab/gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)**
-- 2025-02-22, **A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**, Haidong Wang et.al., Paper: [http://arxiv.org/abs/2502.16027v1](http://arxiv.org/abs/2502.16027v1)
-- 2025-02-24, **Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**, Ziqian Ni et.al., Paper: [http://arxiv.org/abs/2502.15635v2](http://arxiv.org/abs/2502.15635v2)
 
 ## Autonomous_Driving_LLM
 
@@ -62,5 +56,4 @@
 - 2025-02-25, **Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads**, Istiaq Ahmed Fahad et.al., Paper: [http://arxiv.org/abs/2502.17843v1](http://arxiv.org/abs/2502.17843v1)
 - 2025-02-24, **MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**, Jiehao Luo et.al., Paper: [http://arxiv.org/abs/2502.16907v1](http://arxiv.org/abs/2502.16907v1), Code: **[https://github.com/scnu-rislab/mambaflow](https://github.com/scnu-rislab/mambaflow)**
 - 2025-02-25, **AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**, Rui Liu et.al., Paper: [http://arxiv.org/abs/2502.16736v2](http://arxiv.org/abs/2502.16736v2)
-- 2025-02-21, **VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2502.15672v1](http://arxiv.org/abs/2502.15672v1), Code: **[https://github.com/valeoai/VideoActionModel](https://github.com/valeoai/VideoActionModel)**
 
