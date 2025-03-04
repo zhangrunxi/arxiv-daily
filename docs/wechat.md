@@ -1,4 +1,4 @@
-> Updated on 2025.03.03
+> Updated on 2025.03.04
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,6 @@
 - 2025-02-26, **Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2502.19177v1](http://arxiv.org/abs/2502.19177v1)
 - 2025-02-25, **Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**, Nengyue Su et.al., Paper: [http://arxiv.org/abs/2502.18013v1](http://arxiv.org/abs/2502.18013v1)
 - 2025-02-25, **InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2502.17949v1](http://arxiv.org/abs/2502.17949v1)
-- 2025-02-24, **Inverse Kinematics on Guiding Vector Fields for Robot Path Following**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2502.17313v1](http://arxiv.org/abs/2502.17313v1), Code: **[https://github.com/swarm-systems-lab/gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)**
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +32,6 @@
 - 2025-02-27, **VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2502.20108v1](http://arxiv.org/abs/2502.20108v1)
 - 2025-02-26, **Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**, Anton Backhaus et.al., Paper: [http://arxiv.org/abs/2502.19177v1](http://arxiv.org/abs/2502.19177v1)
 - 2025-02-25, **InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**, Bo Zhang et.al., Paper: [http://arxiv.org/abs/2502.17949v1](http://arxiv.org/abs/2502.17949v1)
-- 2025-02-24, **Inverse Kinematics on Guiding Vector Fields for Robot Path Following**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2502.17313v1](http://arxiv.org/abs/2502.17313v1), Code: **[https://github.com/swarm-systems-lab/gvf_ik](https://github.com/swarm-systems-lab/gvf_ik)**
 
 ## Autonomous_Driving_RL
 
