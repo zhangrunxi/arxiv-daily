@@ -1,4 +1,4 @@
-> Updated on 2025.03.04
+> Updated on 2025.03.05
 
 ## Autonomous_Driving_Planning
 
@@ -21,7 +21,6 @@
 - 2025-02-28, **WorldModelBench: Judging Video Generation Models As World Models**, Dacheng Li et.al., Paper: [http://arxiv.org/abs/2502.20694v1](http://arxiv.org/abs/2502.20694v1)
 - 2025-03-01, **VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**, Ziang Guo et.al., Paper: [http://arxiv.org/abs/2502.20108v2](http://arxiv.org/abs/2502.20108v2)
 - 2025-02-27, **Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2502.20084v1](http://arxiv.org/abs/2502.20084v1)
-- 2025-02-25, **Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**, Amirhossein Roknilamouki et.al., Paper: [http://arxiv.org/abs/2502.18655v1](http://arxiv.org/abs/2502.18655v1)
 
 ## Autonomous_Driving_E2E
 
@@ -34,7 +33,6 @@
 - 2025-02-28, **AuthSim: Towards Authentic and Effective Safety-critical Scenario Generation for Autonomous Driving Tests**, Yukuan Yang et.al., Paper: [http://arxiv.org/abs/2502.21100v1](http://arxiv.org/abs/2502.21100v1)
 - 2025-02-27, **CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**, Dongkun Zhang et.al., Paper: [http://arxiv.org/abs/2502.19908v1](http://arxiv.org/abs/2502.19908v1)
 - 2025-02-26, **RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**, Zhitao Wang et.al., Paper: [http://arxiv.org/abs/2502.18846v1](http://arxiv.org/abs/2502.18846v1)
-- 2025-02-25, **Provably Efficient RL for Linear MDPs under Instantaneous Safety Constraints in Non-Convex Feature Spaces**, Amirhossein Roknilamouki et.al., Paper: [http://arxiv.org/abs/2502.18655v1](http://arxiv.org/abs/2502.18655v1)
 
 ## World_Model
 
