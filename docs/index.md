@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.08
+## Updated on 2025.03.09
 
 ## Autonomous_Driving_Planning
 
@@ -28,7 +28,6 @@ layout: default
 |**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.02578v1-b31b1b.svg)](http://arxiv.org/abs/2503.02578v1)|null|
 |**2025-03-05**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.01676v2-b31b1b.svg)](http://arxiv.org/abs/2503.01676v2)|null|
 |**2025-03-02**|**CARIL: Confidence-Aware Regression in Imitation Learning for Autonomous Driving**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.00783v1-b31b1b.svg)](http://arxiv.org/abs/2503.00783v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elahedlv/confidence_aware_il)**|
-|**2025-03-01**|**Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics**|Prakhar Gupta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.00577v1-b31b1b.svg)](http://arxiv.org/abs/2503.00577v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -66,7 +65,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.02624v1-b31b1b.svg)](http://arxiv.org/abs/2503.02624v1)|null|
 |**2025-03-05**|**Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**|Elahe Delavari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.01676v2-b31b1b.svg)](http://arxiv.org/abs/2503.01676v2)|null|
-|**2025-03-01**|**Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics**|Prakhar Gupta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.00577v1-b31b1b.svg)](http://arxiv.org/abs/2503.00577v1)|null|
 
 ## World_Model
 

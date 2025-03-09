@@ -1,4 +1,4 @@
-> Updated on 2025.03.08
+> Updated on 2025.03.09
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@
 - 2025-03-04, **TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**, Xinying Hong et.al., Paper: [http://arxiv.org/abs/2503.02578v1](http://arxiv.org/abs/2503.02578v1)
 - 2025-03-05, **Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.01676v2](http://arxiv.org/abs/2503.01676v2)
 - 2025-03-02, **CARIL: Confidence-Aware Regression in Imitation Learning for Autonomous Driving**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.00783v1](http://arxiv.org/abs/2503.00783v1), Code: **[https://github.com/elahedlv/confidence_aware_il](https://github.com/elahedlv/confidence_aware_il)**
-- 2025-03-01, **Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics**, Prakhar Gupta et.al., Paper: [http://arxiv.org/abs/2503.00577v1](http://arxiv.org/abs/2503.00577v1)
 
 ## Autonomous_Driving_Decision
 
@@ -50,7 +49,6 @@
 
 - 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
 - 2025-03-05, **Perceptual Motor Learning with Active Inference Framework for Robust Lateral Control**, Elahe Delavari et.al., Paper: [http://arxiv.org/abs/2503.01676v2](http://arxiv.org/abs/2503.01676v2)
-- 2025-03-01, **Actor-Critic Cooperative Compensation to Model Predictive Control for Off-Road Autonomous Vehicles Under Unknown Dynamics**, Prakhar Gupta et.al., Paper: [http://arxiv.org/abs/2503.00577v1](http://arxiv.org/abs/2503.00577v1)
 
 ## World_Model
 
