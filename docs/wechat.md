@@ -33,7 +33,6 @@
 - 2025-03-06, **Quantifying and Modeling Driving Styles in Trajectory Forecasting**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2503.04994v1](http://arxiv.org/abs/2503.04994v1)
 - 2025-03-05, **BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**, Katharina Winter et.al., Paper: [http://arxiv.org/abs/2503.03074v1](http://arxiv.org/abs/2503.03074v1), Code: **[https://github.com/intelligent-vehicles/bevdriver](https://github.com/intelligent-vehicles/bevdriver)**
 - 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
-- 2025-03-04, **TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**, Xinying Hong et.al., Paper: [http://arxiv.org/abs/2503.02578v1](http://arxiv.org/abs/2503.02578v1), Code: **[https://github.com/krabs-h/ts-cgnet](https://github.com/krabs-h/ts-cgnet)**
 
 ## Autonomous_Driving_E2E
 
