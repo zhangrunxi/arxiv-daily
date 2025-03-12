@@ -1,4 +1,4 @@
-> Updated on 2025.03.11
+> Updated on 2025.03.12
 
 ## Autonomous_Driving_Planning
 
@@ -31,8 +31,6 @@
 - 2025-03-10, **Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies**, Ryan Poon et.al., Paper: [http://arxiv.org/abs/2503.07423v1](http://arxiv.org/abs/2503.07423v1)
 - 2025-03-09, **Attention, Please! PixelSHAP Reveals What Vision-Language Models Actually Focus On**, Roni Goldshmidt et.al., Paper: [http://arxiv.org/abs/2503.06670v1](http://arxiv.org/abs/2503.06670v1)
 - 2025-03-06, **Quantifying and Modeling Driving Styles in Trajectory Forecasting**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2503.04994v1](http://arxiv.org/abs/2503.04994v1)
-- 2025-03-05, **BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**, Katharina Winter et.al., Paper: [http://arxiv.org/abs/2503.03074v1](http://arxiv.org/abs/2503.03074v1), Code: **[https://github.com/intelligent-vehicles/bevdriver](https://github.com/intelligent-vehicles/bevdriver)**
-- 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
 
 ## Autonomous_Driving_E2E
 
@@ -53,15 +51,13 @@
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
 - 2025-03-09, **Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2503.06497v1](http://arxiv.org/abs/2503.06497v1)
 - 2025-03-08, **Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection**, Chandan Kumar Sah et.al., Paper: [http://arxiv.org/abs/2503.06313v1](http://arxiv.org/abs/2503.06313v1)
-- 2025-03-07, **MastermindEval: A Simple But Scalable Reasoning Benchmark**, Jonas Golde et.al., Paper: [http://arxiv.org/abs/2503.05891v1](http://arxiv.org/abs/2503.05891v1)
+- 2025-03-11, **MastermindEval: A Simple But Scalable Reasoning Benchmark**, Jonas Golde et.al., Paper: [http://arxiv.org/abs/2503.05891v2](http://arxiv.org/abs/2503.05891v2)
 - 2025-03-07, **A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**, Shanhe You et.al., Paper: [http://arxiv.org/abs/2503.05164v1](http://arxiv.org/abs/2503.05164v1)
-- 2025-03-05, **BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving**, Katharina Winter et.al., Paper: [http://arxiv.org/abs/2503.03074v1](http://arxiv.org/abs/2503.03074v1), Code: **[https://github.com/intelligent-vehicles/bevdriver](https://github.com/intelligent-vehicles/bevdriver)**
 
 ## Autonomous_Driving_RL
 
 - 2025-03-09, **UAV-Assisted Coverage Hole Detection Using Reinforcement Learning in Urban Cellular Networks**, Mushfiqur Rahman et.al., Paper: [http://arxiv.org/abs/2503.06494v1](http://arxiv.org/abs/2503.06494v1)
 - 2025-03-07, **InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**, Feeza Khan Khanzada et.al., Paper: [http://arxiv.org/abs/2503.05573v1](http://arxiv.org/abs/2503.05573v1)
-- 2025-03-04, **Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**, Yang Li et.al., Paper: [http://arxiv.org/abs/2503.02624v1](http://arxiv.org/abs/2503.02624v1)
 
 ## World_Model
 
