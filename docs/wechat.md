@@ -2,51 +2,57 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
+- 2025-03-11, **Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2503.08661v1](http://arxiv.org/abs/2503.08661v1)
+- 2025-03-11, **HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2503.08612v1](http://arxiv.org/abs/2503.08612v1)
+- 2025-03-11, **FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.08162v1](http://arxiv.org/abs/2503.08162v1)
+- 2025-03-10, **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2503.07608v1](http://arxiv.org/abs/2503.07608v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
 - 2025-03-10, **Temporal Triplane Transformers as Occupancy World Models**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2503.07338v1](http://arxiv.org/abs/2503.07338v1)
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
 - 2025-03-09, **Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**, Kai Ren et.al., Paper: [http://arxiv.org/abs/2503.06779v1](http://arxiv.org/abs/2503.06779v1)
 - 2025-03-08, **Object-Centric World Model for Language-Guided Manipulation**, Youngjoon Jeong et.al., Paper: [http://arxiv.org/abs/2503.06170v1](http://arxiv.org/abs/2503.06170v1)
-- 2025-03-08, **InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**, Seongjun Choi et.al., Paper: [http://arxiv.org/abs/2503.06010v1](http://arxiv.org/abs/2503.06010v1)
-- 2025-03-08, **Learning to Drive by Imitating Surrounding Vehicles**, Yasin Sonmez et.al., Paper: [http://arxiv.org/abs/2503.05997v1](http://arxiv.org/abs/2503.05997v1)
-- 2025-03-07, **FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**, Haotian Hu et.al., Paper: [http://arxiv.org/abs/2503.05492v1](http://arxiv.org/abs/2503.05492v1)
-- 2025-03-07, **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**, Zherui Huang et.al., Paper: [http://arxiv.org/abs/2503.05180v1](http://arxiv.org/abs/2503.05180v1)
-- 2025-03-06, **Quantifying and Modeling Driving Styles in Trajectory Forecasting**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2503.04994v1](http://arxiv.org/abs/2503.04994v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
+- 2025-03-11, **Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2503.08661v1](http://arxiv.org/abs/2503.08661v1)
+- 2025-03-11, **HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2503.08612v1](http://arxiv.org/abs/2503.08612v1)
+- 2025-03-11, **Simulating Automotive Radar with Lidar and Camera Inputs**, Peili Song et.al., Paper: [http://arxiv.org/abs/2503.08068v1](http://arxiv.org/abs/2503.08068v1)
+- 2025-03-11, **SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**, Akshat Ghiya et.al., Paper: [http://arxiv.org/abs/2503.08016v1](http://arxiv.org/abs/2503.08016v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
 - 2025-03-10, **LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.07367v1](http://arxiv.org/abs/2503.07367v1)
 - 2025-03-10, **Temporal Triplane Transformers as Occupancy World Models**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2503.07338v1](http://arxiv.org/abs/2503.07338v1)
 - 2025-03-10, **CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.07234v1](http://arxiv.org/abs/2503.07234v1)
 - 2025-03-10, **Temporal Overlapping Prediction: A Self-supervised Pre-training Method for LiDAR Moving Object Segmentation**, Ziliang Miao et.al., Paper: [http://arxiv.org/abs/2503.07167v1](http://arxiv.org/abs/2503.07167v1)
-- 2025-03-10, **HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2503.06821v1](http://arxiv.org/abs/2503.06821v1)
-- 2025-03-09, **Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**, Kai Ren et.al., Paper: [http://arxiv.org/abs/2503.06779v1](http://arxiv.org/abs/2503.06779v1)
-- 2025-03-09, **Steerable Pyramid Weighted Loss: Multi-Scale Adaptive Weighting for Semantic Segmentation**, Renhao Lu et.al., Paper: [http://arxiv.org/abs/2503.06604v1](http://arxiv.org/abs/2503.06604v1)
-- 2025-03-09, **Future-Aware Interaction Network For Motion Forecasting**, Shijie Li et.al., Paper: [http://arxiv.org/abs/2503.06565v1](http://arxiv.org/abs/2503.06565v1)
-- 2025-03-08, **ACAM-KD: Adaptive and Cooperative Attention Masking for Knowledge Distillation**, Qizhen Lan et.al., Paper: [http://arxiv.org/abs/2503.06307v1](http://arxiv.org/abs/2503.06307v1)
 
 ## Autonomous_Driving_Decision
 
+- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
+- 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1)
+- 2025-03-11, **FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.08162v1](http://arxiv.org/abs/2503.08162v1)
+- 2025-03-11, **SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**, Akshat Ghiya et.al., Paper: [http://arxiv.org/abs/2503.08016v1](http://arxiv.org/abs/2503.08016v1)
 - 2025-03-10, **Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies**, Ryan Poon et.al., Paper: [http://arxiv.org/abs/2503.07423v1](http://arxiv.org/abs/2503.07423v1)
 - 2025-03-09, **Attention, Please! PixelSHAP Reveals What Vision-Language Models Actually Focus On**, Roni Goldshmidt et.al., Paper: [http://arxiv.org/abs/2503.06670v1](http://arxiv.org/abs/2503.06670v1)
 - 2025-03-06, **Quantifying and Modeling Driving Styles in Trajectory Forecasting**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2503.04994v1](http://arxiv.org/abs/2503.04994v1)
 
 ## Autonomous_Driving_E2E
 
+- 2025-03-11, **Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**, Yufeng Diao et.al., Paper: [http://arxiv.org/abs/2503.08661v1](http://arxiv.org/abs/2503.08661v1)
+- 2025-03-11, **HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**, Yingqi Tang et.al., Paper: [http://arxiv.org/abs/2503.08612v1](http://arxiv.org/abs/2503.08612v1)
+- 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1)
+- 2025-03-11, **Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**, Runwei Guan et.al., Paper: [http://arxiv.org/abs/2503.08336v1](http://arxiv.org/abs/2503.08336v1)
+- 2025-03-11, **FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.08162v1](http://arxiv.org/abs/2503.08162v1)
+- 2025-03-10, **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2503.07608v1](http://arxiv.org/abs/2503.07608v1)
 - 2025-03-10, **Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**, Zongzheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.07485v1](http://arxiv.org/abs/2503.07485v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
 - 2025-03-10, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v1](http://arxiv.org/abs/2503.07168v1)
 - 2025-03-10, **RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**, Ruidan Xing et.al., Paper: [http://arxiv.org/abs/2503.07085v1](http://arxiv.org/abs/2503.07085v1)
-- 2025-03-09, **CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**, Rui Song et.al., Paper: [http://arxiv.org/abs/2503.06744v1](http://arxiv.org/abs/2503.06744v1)
-- 2025-03-09, **StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**, Yanqing Shen et.al., Paper: [http://arxiv.org/abs/2503.06601v1](http://arxiv.org/abs/2503.06601v1)
-- 2025-03-08, **Segment Anything, Even Occluded**, Wei-En Tai et.al., Paper: [http://arxiv.org/abs/2503.06261v1](http://arxiv.org/abs/2503.06261v1)
-- 2025-03-08, **TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking**, Hangyu Du et.al., Paper: [http://arxiv.org/abs/2503.06071v1](http://arxiv.org/abs/2503.06071v1)
-- 2025-03-10, **GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**, Zebin Xing et.al., Paper: [http://arxiv.org/abs/2503.05689v2](http://arxiv.org/abs/2503.05689v2)
-- 2025-03-07, **An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**, Changhong Lin et.al., Paper: [http://arxiv.org/abs/2503.05088v1](http://arxiv.org/abs/2503.05088v1)
 
 ## Autonomous_Driving_LLM
 
+- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1)
+- 2025-03-11, **FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.08162v1](http://arxiv.org/abs/2503.08162v1)
 - 2025-03-10, **CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.07234v1](http://arxiv.org/abs/2503.07234v1)
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
 - 2025-03-09, **Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2503.06497v1](http://arxiv.org/abs/2503.06497v1)
@@ -56,11 +62,14 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1)
+- 2025-03-10, **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2503.07608v1](http://arxiv.org/abs/2503.07608v1)
 - 2025-03-09, **UAV-Assisted Coverage Hole Detection Using Reinforcement Learning in Urban Cellular Networks**, Mushfiqur Rahman et.al., Paper: [http://arxiv.org/abs/2503.06494v1](http://arxiv.org/abs/2503.06494v1)
 - 2025-03-07, **InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**, Feeza Khan Khanzada et.al., Paper: [http://arxiv.org/abs/2503.05573v1](http://arxiv.org/abs/2503.05573v1)
 
 ## World_Model
 
+- 2025-03-11, **JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**, Runjian Chen et.al., Paper: [http://arxiv.org/abs/2503.08422v1](http://arxiv.org/abs/2503.08422v1)
 - 2025-03-10, **Temporal Triplane Transformers as Occupancy World Models**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2503.07338v1](http://arxiv.org/abs/2503.07338v1)
 - 2025-03-10, **CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.07234v1](http://arxiv.org/abs/2503.07234v1)
 - 2025-03-10, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v1](http://arxiv.org/abs/2503.07168v1)
@@ -70,5 +79,4 @@
 - 2025-03-07, **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**, Zherui Huang et.al., Paper: [http://arxiv.org/abs/2503.05180v1](http://arxiv.org/abs/2503.05180v1)
 - 2025-03-07, **An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**, Changhong Lin et.al., Paper: [http://arxiv.org/abs/2503.05088v1](http://arxiv.org/abs/2503.05088v1)
 - 2025-03-06, **Quantifying and Modeling Driving Styles in Trajectory Forecasting**, Laura Zheng et.al., Paper: [http://arxiv.org/abs/2503.04994v1](http://arxiv.org/abs/2503.04994v1)
-- 2025-03-06, **INTENT: Trajectory Prediction Framework with Intention-Guided Contrastive Clustering**, Yihong Tang et.al., Paper: [http://arxiv.org/abs/2503.04952v1](http://arxiv.org/abs/2503.04952v1)
 
