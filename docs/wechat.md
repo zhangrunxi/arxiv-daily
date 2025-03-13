@@ -1,4 +1,4 @@
-> Updated on 2025.03.12
+> Updated on 2025.03.13
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,7 @@
 - 2025-03-10, **Temporal Triplane Transformers as Occupancy World Models**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2503.07338v1](http://arxiv.org/abs/2503.07338v1)
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
 - 2025-03-09, **Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**, Kai Ren et.al., Paper: [http://arxiv.org/abs/2503.06779v1](http://arxiv.org/abs/2503.06779v1)
-- 2025-03-08, **Object-Centric World Model for Language-Guided Manipulation**, Youngjoon Jeong et.al., Paper: [http://arxiv.org/abs/2503.06170v1](http://arxiv.org/abs/2503.06170v1)
+- 2025-03-12, **Object-Centric World Model for Language-Guided Manipulation**, Youngjoon Jeong et.al., Paper: [http://arxiv.org/abs/2503.06170v2](http://arxiv.org/abs/2503.06170v2)
 
 ## Autonomous_Driving_Prediction
 
@@ -46,8 +46,8 @@
 - 2025-03-10, **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2503.07608v1](http://arxiv.org/abs/2503.07608v1)
 - 2025-03-10, **Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**, Zongzheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.07485v1](http://arxiv.org/abs/2503.07485v1)
 - 2025-03-10, **CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**, Ziliang Xiong et.al., Paper: [http://arxiv.org/abs/2503.07425v1](http://arxiv.org/abs/2503.07425v1)
-- 2025-03-10, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v1](http://arxiv.org/abs/2503.07168v1)
-- 2025-03-10, **RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**, Ruidan Xing et.al., Paper: [http://arxiv.org/abs/2503.07085v1](http://arxiv.org/abs/2503.07085v1)
+- 2025-03-12, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v2](http://arxiv.org/abs/2503.07168v2)
+- 2025-03-12, **RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**, Ruidan Xing et.al., Paper: [http://arxiv.org/abs/2503.07085v2](http://arxiv.org/abs/2503.07085v2)
 
 ## Autonomous_Driving_LLM
 
@@ -57,7 +57,7 @@
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
 - 2025-03-09, **Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2503.06497v1](http://arxiv.org/abs/2503.06497v1)
 - 2025-03-08, **Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection**, Chandan Kumar Sah et.al., Paper: [http://arxiv.org/abs/2503.06313v1](http://arxiv.org/abs/2503.06313v1)
-- 2025-03-11, **MastermindEval: A Simple But Scalable Reasoning Benchmark**, Jonas Golde et.al., Paper: [http://arxiv.org/abs/2503.05891v2](http://arxiv.org/abs/2503.05891v2)
+- 2025-03-12, **MastermindEval: A Simple But Scalable Reasoning Benchmark**, Jonas Golde et.al., Paper: [http://arxiv.org/abs/2503.05891v3](http://arxiv.org/abs/2503.05891v3)
 - 2025-03-07, **A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**, Shanhe You et.al., Paper: [http://arxiv.org/abs/2503.05164v1](http://arxiv.org/abs/2503.05164v1)
 
 ## Autonomous_Driving_RL
@@ -72,9 +72,9 @@
 - 2025-03-11, **JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**, Runjian Chen et.al., Paper: [http://arxiv.org/abs/2503.08422v1](http://arxiv.org/abs/2503.08422v1)
 - 2025-03-10, **Temporal Triplane Transformers as Occupancy World Models**, Haoran Xu et.al., Paper: [http://arxiv.org/abs/2503.07338v1](http://arxiv.org/abs/2503.07338v1)
 - 2025-03-10, **CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.07234v1](http://arxiv.org/abs/2503.07234v1)
-- 2025-03-10, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v1](http://arxiv.org/abs/2503.07168v1)
+- 2025-03-12, **HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**, Jing Yang et.al., Paper: [http://arxiv.org/abs/2503.07168v2](http://arxiv.org/abs/2503.07168v2)
 - 2025-03-10, **HierDAMap: Towards Universal Domain Adaptive BEV Mapping via Hierarchical Perspective Priors**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2503.06821v1](http://arxiv.org/abs/2503.06821v1)
-- 2025-03-08, **Object-Centric World Model for Language-Guided Manipulation**, Youngjoon Jeong et.al., Paper: [http://arxiv.org/abs/2503.06170v1](http://arxiv.org/abs/2503.06170v1)
+- 2025-03-12, **Object-Centric World Model for Language-Guided Manipulation**, Youngjoon Jeong et.al., Paper: [http://arxiv.org/abs/2503.06170v2](http://arxiv.org/abs/2503.06170v2)
 - 2025-03-07, **InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**, Feeza Khan Khanzada et.al., Paper: [http://arxiv.org/abs/2503.05573v1](http://arxiv.org/abs/2503.05573v1)
 - 2025-03-07, **Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**, Zherui Huang et.al., Paper: [http://arxiv.org/abs/2503.05180v1](http://arxiv.org/abs/2503.05180v1)
 - 2025-03-07, **An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**, Changhong Lin et.al., Paper: [http://arxiv.org/abs/2503.05088v1](http://arxiv.org/abs/2503.05088v1)
