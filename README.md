@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08661v1-b31b1b.svg)](http://arxiv.org/abs/2503.08661v1)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08612v1-b31b1b.svg)](http://arxiv.org/abs/2503.08612v1)|null|
@@ -13,22 +14,21 @@
 |**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07338v1-b31b1b.svg)](http://arxiv.org/abs/2503.07338v1)|null|
 |**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07020v1-b31b1b.svg)](http://arxiv.org/abs/2503.07020v1)|null|
 |**2025-03-09**|**Chance-Constrained Trajectory Planning with Multimodal Environmental Uncertainty**|Kai Ren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06779v1-b31b1b.svg)](http://arxiv.org/abs/2503.06779v1)|null|
-|**2025-03-12**|**Object-Centric World Model for Language-Guided Manipulation**|Youngjoon Jeong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06170v2-b31b1b.svg)](http://arxiv.org/abs/2503.06170v2)|null|
 
 ## Autonomous_Driving_Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09464v1-b31b1b.svg)](http://arxiv.org/abs/2503.09464v1)|null|
+|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09366v1-b31b1b.svg)](http://arxiv.org/abs/2503.09366v1)|null|
+|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
+|**2025-03-12**|**Dual-Domain Homogeneous Fusion with Cross-Modal Mamba and Progressive Decoder for 3D Object Detection**|Xuzhong Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08992v1-b31b1b.svg)](http://arxiv.org/abs/2503.08992v1)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08661v1-b31b1b.svg)](http://arxiv.org/abs/2503.08661v1)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08612v1-b31b1b.svg)](http://arxiv.org/abs/2503.08612v1)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08068v1-b31b1b.svg)](http://arxiv.org/abs/2503.08068v1)|null|
 |**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08016v1-b31b1b.svg)](http://arxiv.org/abs/2503.08016v1)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07425v1-b31b1b.svg)](http://arxiv.org/abs/2503.07425v1)|null|
-|**2025-03-10**|**LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07367v1-b31b1b.svg)](http://arxiv.org/abs/2503.07367v1)|null|
-|**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07338v1-b31b1b.svg)](http://arxiv.org/abs/2503.07338v1)|null|
-|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
-|**2025-03-10**|**Temporal Overlapping Prediction: A Self-supervised Pre-training Method for LiDAR Moving Object Segmentation**|Ziliang Miao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07167v1-b31b1b.svg)](http://arxiv.org/abs/2503.07167v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -46,6 +46,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09366v1-b31b1b.svg)](http://arxiv.org/abs/2503.09366v1)|null|
+|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08661v1-b31b1b.svg)](http://arxiv.org/abs/2503.08661v1)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08612v1-b31b1b.svg)](http://arxiv.org/abs/2503.08612v1)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|null|
@@ -54,13 +56,12 @@
 |**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07608v1-b31b1b.svg)](http://arxiv.org/abs/2503.07608v1)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07485v1-b31b1b.svg)](http://arxiv.org/abs/2503.07485v1)|null|
 |**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07425v1-b31b1b.svg)](http://arxiv.org/abs/2503.07425v1)|null|
-|**2025-03-12**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07168v2-b31b1b.svg)](http://arxiv.org/abs/2503.07168v2)|null|
-|**2025-03-12**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07085v2-b31b1b.svg)](http://arxiv.org/abs/2503.07085v2)|null|
 
 ## Autonomous_Driving_LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09594v1-b31b1b.svg)](http://arxiv.org/abs/2503.09594v1)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|null|
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08162v1-b31b1b.svg)](http://arxiv.org/abs/2503.08162v1)|null|
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
@@ -83,6 +84,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**A Case Study on Model Checking and Runtime Verification for Awkernel**|Akira Hasegawa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09282v1-b31b1b.svg)](http://arxiv.org/abs/2503.09282v1)|null|
+|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
 |**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08422v1-b31b1b.svg)](http://arxiv.org/abs/2503.08422v1)|null|
 |**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07338v1-b31b1b.svg)](http://arxiv.org/abs/2503.07338v1)|null|
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
@@ -91,6 +94,4 @@
 |**2025-03-12**|**Object-Centric World Model for Language-Guided Manipulation**|Youngjoon Jeong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06170v2-b31b1b.svg)](http://arxiv.org/abs/2503.06170v2)|null|
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05573v1-b31b1b.svg)](http://arxiv.org/abs/2503.05573v1)|null|
 |**2025-03-07**|**Safety-Critical Traffic Simulation with Adversarial Transfer of Driving Intentions**|Zherui Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05180v1-b31b1b.svg)](http://arxiv.org/abs/2503.05180v1)|null|
-|**2025-03-07**|**An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**|Changhong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.05088v1-b31b1b.svg)](http://arxiv.org/abs/2503.05088v1)|null|
-|**2025-03-06**|**Quantifying and Modeling Driving Styles in Trajectory Forecasting**|Laura Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.04994v1-b31b1b.svg)](http://arxiv.org/abs/2503.04994v1)|null|
 
