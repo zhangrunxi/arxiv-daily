@@ -71,7 +71,6 @@ layout: default
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08162v1-b31b1b.svg)](http://arxiv.org/abs/2503.08162v1)|null|
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
 |**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07020v1-b31b1b.svg)](http://arxiv.org/abs/2503.07020v1)|null|
-|**2025-03-09**|**Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**|Enming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06497v1-b31b1b.svg)](http://arxiv.org/abs/2503.06497v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -81,7 +80,6 @@ layout: default
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09638v1-b31b1b.svg)](http://arxiv.org/abs/2503.09638v1)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|null|
 |**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07608v1-b31b1b.svg)](http://arxiv.org/abs/2503.07608v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/alphadrive)**|
-|**2025-03-09**|**UAV-Assisted Coverage Hole Detection Using Reinforcement Learning in Urban Cellular Networks**|Mushfiqur Rahman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06494v1-b31b1b.svg)](http://arxiv.org/abs/2503.06494v1)|null|
 
 ## World_Model
 

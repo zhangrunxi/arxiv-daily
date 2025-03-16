@@ -57,7 +57,6 @@
 - 2025-03-11, **FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**, Kangan Qian et.al., Paper: [http://arxiv.org/abs/2503.08162v1](http://arxiv.org/abs/2503.08162v1)
 - 2025-03-10, **CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2503.07234v1](http://arxiv.org/abs/2503.07234v1)
 - 2025-03-10, **Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**, Yuting Hu et.al., Paper: [http://arxiv.org/abs/2503.07020v1](http://arxiv.org/abs/2503.07020v1)
-- 2025-03-09, **Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**, Enming Zhang et.al., Paper: [http://arxiv.org/abs/2503.06497v1](http://arxiv.org/abs/2503.06497v1)
 
 ## Autonomous_Driving_RL
 
@@ -65,7 +64,6 @@
 - 2025-03-12, **Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**, Milad Rahmati et.al., Paper: [http://arxiv.org/abs/2503.09638v1](http://arxiv.org/abs/2503.09638v1)
 - 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1)
 - 2025-03-10, **AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2503.07608v1](http://arxiv.org/abs/2503.07608v1), Code: **[https://github.com/hustvl/alphadrive](https://github.com/hustvl/alphadrive)**
-- 2025-03-09, **UAV-Assisted Coverage Hole Detection Using Reinforcement Learning in Urban Cellular Networks**, Mushfiqur Rahman et.al., Paper: [http://arxiv.org/abs/2503.06494v1](http://arxiv.org/abs/2503.06494v1)
 
 ## World_Model
 
