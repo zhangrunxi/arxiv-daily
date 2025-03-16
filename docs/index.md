@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.15
+## Updated on 2025.03.16
 
 ## Autonomous_Driving_Planning
 
@@ -72,7 +72,6 @@ layout: default
 |**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07234v1-b31b1b.svg)](http://arxiv.org/abs/2503.07234v1)|null|
 |**2025-03-10**|**Combating Partial Perception Deficit in Autonomous Driving with Multimodal LLM Commonsense**|Yuting Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07020v1-b31b1b.svg)](http://arxiv.org/abs/2503.07020v1)|null|
 |**2025-03-09**|**Evaluation of Safety Cognition Capability in Vision-Language Models for Autonomous Driving**|Enming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06497v1-b31b1b.svg)](http://arxiv.org/abs/2503.06497v1)|null|
-|**2025-03-08**|**Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection**|Chandan Kumar Sah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.06313v1-b31b1b.svg)](http://arxiv.org/abs/2503.06313v1)|null|
 
 ## Autonomous_Driving_RL
 
