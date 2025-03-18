@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 
 ## Autonomous_Driving_Planning
 
@@ -12,12 +12,11 @@ layout: default
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11400v1-b31b1b.svg)](http://arxiv.org/abs/2503.11400v1)|null|
 |**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10621v1-b31b1b.svg)](http://arxiv.org/abs/2503.10621v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-ishaq/drivelmm-o1)**|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
-|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
+|**2025-03-17**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v2-b31b1b.svg)](http://arxiv.org/abs/2503.09215v2)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxliu0314/colmdriver)**|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08661v1-b31b1b.svg)](http://arxiv.org/abs/2503.08661v1)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08612v1-b31b1b.svg)](http://arxiv.org/abs/2503.08612v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nullmax-vision/hip-ad)**|
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08162v1-b31b1b.svg)](http://arxiv.org/abs/2503.08162v1)|null|
-|**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07608v1-b31b1b.svg)](http://arxiv.org/abs/2503.07608v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/alphadrive)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -47,7 +46,6 @@ layout: default
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/v-max)**|
 |**2025-03-11**|**FASIONAD++ : Integrating High-Level Instruction and Information Bottleneck in FAt-Slow fusION Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08162v1-b31b1b.svg)](http://arxiv.org/abs/2503.08162v1)|null|
 |**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08016v1-b31b1b.svg)](http://arxiv.org/abs/2503.08016v1)|null|
-|**2025-03-10**|**Advances in Hybrid Modular Climbing Robots: Design Principles and Refinement Strategies**|Ryan Poon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07423v1-b31b1b.svg)](http://arxiv.org/abs/2503.07423v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -58,7 +56,7 @@ layout: default
 |**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11265v1-b31b1b.svg)](http://arxiv.org/abs/2503.11265v1)|null|
 |**2025-03-14**|**Active Learning from Scene Embeddings for End-to-End Autonomous Driving**|Wenhao Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11062v1-b31b1b.svg)](http://arxiv.org/abs/2503.11062v1)|null|
 |**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09366v1-b31b1b.svg)](http://arxiv.org/abs/2503.09366v1)|null|
-|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
+|**2025-03-17**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v2-b31b1b.svg)](http://arxiv.org/abs/2503.09215v2)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08661v1-b31b1b.svg)](http://arxiv.org/abs/2503.08661v1)|null|
 |**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08612v1-b31b1b.svg)](http://arxiv.org/abs/2503.08612v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nullmax-vision/hip-ad)**|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/v-max)**|
@@ -79,7 +77,6 @@ layout: default
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09638v1-b31b1b.svg)](http://arxiv.org/abs/2503.09638v1)|null|
 |**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/v-max)**|
-|**2025-03-10**|**AlphaDrive: Unleashing the Power of VLMs in Autonomous Driving via Reinforcement Learning and Reasoning**|Bo Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.07608v1-b31b1b.svg)](http://arxiv.org/abs/2503.07608v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustvl/alphadrive)**|
 
 ## World_Model
 
@@ -93,6 +90,6 @@ layout: default
 |**2025-03-12**|**Evaluating the Impact of Synthetic Data on Object Detection Tasks in Autonomous Driving**|Enes Özeren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09803v1-b31b1b.svg)](http://arxiv.org/abs/2503.09803v1)|null|
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09638v1-b31b1b.svg)](http://arxiv.org/abs/2503.09638v1)|null|
 |**2025-03-12**|**A Case Study on Model Checking and Runtime Verification for Awkernel**|Akira Hasegawa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09282v1-b31b1b.svg)](http://arxiv.org/abs/2503.09282v1)|null|
-|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v1-b31b1b.svg)](http://arxiv.org/abs/2503.09215v1)|null|
+|**2025-03-17**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v2-b31b1b.svg)](http://arxiv.org/abs/2503.09215v2)|null|
 |**2025-03-13**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08422v2-b31b1b.svg)](http://arxiv.org/abs/2503.08422v2)|null|
 
