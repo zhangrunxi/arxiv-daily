@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 
 ## Autonomous_Driving_Planning
 
@@ -17,7 +17,6 @@ layout: default
 |**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10621v1-b31b1b.svg)](http://arxiv.org/abs/2503.10621v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayesha-ishaq/drivelmm-o1)**|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
 |**2025-03-17**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space**|Jian Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09215v2-b31b1b.svg)](http://arxiv.org/abs/2503.09215v2)|null|
-|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxliu0314/colmdriver)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -39,7 +38,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
-|**2025-03-17**|**A Reference Architecture for Autonomous Networks An Agent-Based Approach**|Joseph Sifakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12871v1-b31b1b.svg)](http://arxiv.org/abs/2503.12871v1)|null|
+|**2025-03-18**|**A Reference Architecture for Autonomous Networks: An Agent-Based Approach**|Joseph Sifakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12871v2-b31b1b.svg)](http://arxiv.org/abs/2503.12871v2)|null|
 |**2025-03-16**|**Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12637v1-b31b1b.svg)](http://arxiv.org/abs/2503.12637v1)|null|
 |**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12055v1-b31b1b.svg)](http://arxiv.org/abs/2503.12055v1)|null|
 |**2025-03-15**|**Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**|Zhenxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12030v1-b31b1b.svg)](http://arxiv.org/abs/2503.12030v1)|null|
@@ -70,7 +69,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
 |**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09594v1-b31b1b.svg)](http://arxiv.org/abs/2503.09594v1)|null|
-|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08683v1-b31b1b.svg)](http://arxiv.org/abs/2503.08683v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxliu0314/colmdriver)**|
 
 ## Autonomous_Driving_RL
 
@@ -80,7 +78,6 @@ layout: default
 |**2025-03-14**|**Controllable Latent Diffusion for Traffic Simulation**|Yizhuo Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11771v1-b31b1b.svg)](http://arxiv.org/abs/2503.11771v1)|null|
 |**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.09638v1-b31b1b.svg)](http://arxiv.org/abs/2503.09638v1)|null|
-|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.08388v1-b31b1b.svg)](http://arxiv.org/abs/2503.08388v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valeoai/v-max)**|
 
 ## World_Model
 

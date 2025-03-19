@@ -1,4 +1,4 @@
-> Updated on 2025.03.18
+> Updated on 2025.03.19
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@
 - 2025-03-13, **DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.10621v1](http://arxiv.org/abs/2503.10621v1), Code: **[https://github.com/ayesha-ishaq/drivelmm-o1](https://github.com/ayesha-ishaq/drivelmm-o1)**
 - 2025-03-13, **Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**, Derun Li et.al., Paper: [http://arxiv.org/abs/2503.10434v1](http://arxiv.org/abs/2503.10434v1)
 - 2025-03-17, **Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2503.09215v2](http://arxiv.org/abs/2503.09215v2)
-- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1), Code: **[https://github.com/cxliu0314/colmdriver](https://github.com/cxliu0314/colmdriver)**
 
 ## Autonomous_Driving_Prediction
 
@@ -29,7 +28,7 @@
 ## Autonomous_Driving_Decision
 
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-17, **A Reference Architecture for Autonomous Networks An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v1](http://arxiv.org/abs/2503.12871v1)
+- 2025-03-18, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v2](http://arxiv.org/abs/2503.12871v2)
 - 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
 - 2025-03-15, **Generative Modeling of Adversarial Lane-Change Scenario**, Chuancheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.12055v1](http://arxiv.org/abs/2503.12055v1)
 - 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
@@ -56,7 +55,6 @@
 
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 - 2025-03-12, **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2503.09594v1](http://arxiv.org/abs/2503.09594v1)
-- 2025-03-11, **CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**, Changxing Liu et.al., Paper: [http://arxiv.org/abs/2503.08683v1](http://arxiv.org/abs/2503.08683v1), Code: **[https://github.com/cxliu0314/colmdriver](https://github.com/cxliu0314/colmdriver)**
 
 ## Autonomous_Driving_RL
 
@@ -64,7 +62,6 @@
 - 2025-03-14, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v1](http://arxiv.org/abs/2503.11771v1)
 - 2025-03-13, **Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**, Derun Li et.al., Paper: [http://arxiv.org/abs/2503.10434v1](http://arxiv.org/abs/2503.10434v1)
 - 2025-03-12, **Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**, Milad Rahmati et.al., Paper: [http://arxiv.org/abs/2503.09638v1](http://arxiv.org/abs/2503.09638v1)
-- 2025-03-11, **V-Max: Making RL practical for Autonomous Driving**, Valentin Charraut et.al., Paper: [http://arxiv.org/abs/2503.08388v1](http://arxiv.org/abs/2503.08388v1), Code: **[https://github.com/valeoai/v-max](https://github.com/valeoai/v-max)**
 
 ## World_Model
 
