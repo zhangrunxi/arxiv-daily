@@ -1,4 +1,4 @@
-> Updated on 2025.03.19
+> Updated on 2025.03.20
 
 ## Autonomous_Driving_Planning
 
@@ -29,9 +29,9 @@
 ## Autonomous_Driving_Decision
 
 - 2025-03-18, **RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving**, Yujin Wang et.al., Paper: [http://arxiv.org/abs/2503.13861v1](http://arxiv.org/abs/2503.13861v1)
-- 2025-03-17, **From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2503.13754v1](http://arxiv.org/abs/2503.13754v1)
+- 2025-03-19, **From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2503.13754v2](http://arxiv.org/abs/2503.13754v2)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-18, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v2](http://arxiv.org/abs/2503.12871v2)
+- 2025-03-19, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v3](http://arxiv.org/abs/2503.12871v3)
 - 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
 - 2025-03-15, **Generative Modeling of Adversarial Lane-Change Scenario**, Chuancheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.12055v1](http://arxiv.org/abs/2503.12055v1)
 - 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
@@ -55,12 +55,11 @@
 ## Autonomous_Driving_LLM
 
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-12, **SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**, Katrin Renz et.al., Paper: [http://arxiv.org/abs/2503.09594v1](http://arxiv.org/abs/2503.09594v1)
 
 ## Autonomous_Driving_RL
 
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-14, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v1](http://arxiv.org/abs/2503.11771v1)
+- 2025-03-19, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v2](http://arxiv.org/abs/2503.11771v2)
 - 2025-03-13, **Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**, Derun Li et.al., Paper: [http://arxiv.org/abs/2503.10434v1](http://arxiv.org/abs/2503.10434v1)
 
 ## World_Model
@@ -74,5 +73,5 @@
 - 2025-03-16, **Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks**, Mehmet Kerem Turkcan et.al., Paper: [http://arxiv.org/abs/2503.12531v1](http://arxiv.org/abs/2503.12531v1)
 - 2025-03-15, **Bench2FreeAD: A Benchmark for Vision-based End-to-end Navigation in Unstructured Robotic Environments**, Yuhang Peng et.al., Paper: [http://arxiv.org/abs/2503.12180v1](http://arxiv.org/abs/2503.12180v1)
 - 2025-03-15, **TACO: Taming Diffusion for in-the-wild Video Amodal Completion**, Ruijie Lu et.al., Paper: [http://arxiv.org/abs/2503.12049v1](http://arxiv.org/abs/2503.12049v1)
-- 2025-03-14, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v1](http://arxiv.org/abs/2503.11771v1)
+- 2025-03-19, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v2](http://arxiv.org/abs/2503.11771v2)
 
