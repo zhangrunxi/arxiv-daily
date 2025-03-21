@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 
 ## Autonomous_Driving_Planning
 
@@ -77,7 +77,6 @@ layout: default
 |**2025-03-19**|**HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**|Cheng Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15049v1-b31b1b.svg)](http://arxiv.org/abs/2503.15049v1)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
 |**2025-03-19**|**Controllable Latent Diffusion for Traffic Simulation**|Yizhuo Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.11771v2-b31b1b.svg)](http://arxiv.org/abs/2503.11771v2)|null|
-|**2025-03-13**|**Finetuning Generative Trajectory Model with Reinforcement Learning from Human Feedback**|Derun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.10434v1-b31b1b.svg)](http://arxiv.org/abs/2503.10434v1)|null|
 
 ## World_Model
 
