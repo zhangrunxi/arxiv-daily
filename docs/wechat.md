@@ -1,4 +1,4 @@
-> Updated on 2025.03.21
+> Updated on 2025.03.22
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@
 - 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
 - 2025-03-15, **DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2503.12170v1](http://arxiv.org/abs/2503.12170v1)
 - 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
-- 2025-03-14, **Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2503.11650v1](http://arxiv.org/abs/2503.11650v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -36,8 +35,6 @@
 - 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
 - 2025-03-15, **Generative Modeling of Adversarial Lane-Change Scenario**, Chuancheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.12055v1](http://arxiv.org/abs/2503.12055v1)
 - 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
-- 2025-03-14, **Centaur: Robust End-to-End Autonomous Driving with Test-Time Training**, Chonghao Sima et.al., Paper: [http://arxiv.org/abs/2503.11650v1](http://arxiv.org/abs/2503.11650v1)
-- 2025-03-14, **A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**, Tin Stribor Sohn et.al., Paper: [http://arxiv.org/abs/2503.11400v1](http://arxiv.org/abs/2503.11400v1)
 
 ## Autonomous_Driving_E2E
 
@@ -62,7 +59,6 @@
 
 - 2025-03-19, **HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**, Cheng Wang et.al., Paper: [http://arxiv.org/abs/2503.15049v1](http://arxiv.org/abs/2503.15049v1)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-19, **Controllable Latent Diffusion for Traffic Simulation**, Yizhuo Xiao et.al., Paper: [http://arxiv.org/abs/2503.11771v2](http://arxiv.org/abs/2503.11771v2)
 
 ## World_Model
 
