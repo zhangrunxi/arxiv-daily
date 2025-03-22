@@ -5,12 +5,11 @@
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
 - 2025-03-18, **Generating Causal Explanations of Vehicular Agent Behavioural Interactions with Learnt Reward Profiles**, Rhys Howard et.al., Paper: [http://arxiv.org/abs/2503.14557v1](http://arxiv.org/abs/2503.14557v1)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1), Code: **[https://github.com/mbzuai-oryx/trackingmeetslmm](https://github.com/mbzuai-oryx/trackingmeetslmm)**
-- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1)
+- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
 - 2025-03-18, **A Systematic Digital Engineering Approach to Verification & Validation of Autonomous Ground Vehicles in Off-Road Environments**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2503.13787v1](http://arxiv.org/abs/2503.13787v1)
 - 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
 - 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
 - 2025-03-15, **DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2503.12170v1](http://arxiv.org/abs/2503.12170v1)
-- 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -21,7 +20,7 @@
 - 2025-03-19, **SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**, Yinqi Chen et.al., Paper: [http://arxiv.org/abs/2503.14837v1](http://arxiv.org/abs/2503.14837v1)
 - 2025-03-18, **RAT: Boosting Misclassification Detection Ability without Extra Data**, Ge Yan et.al., Paper: [http://arxiv.org/abs/2503.14783v1](http://arxiv.org/abs/2503.14783v1)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1), Code: **[https://github.com/mbzuai-oryx/trackingmeetslmm](https://github.com/mbzuai-oryx/trackingmeetslmm)**
-- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1)
+- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
 - 2025-03-17, **AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2503.13430v1](http://arxiv.org/abs/2503.13430v1)
 - 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
 
@@ -33,15 +32,13 @@
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 - 2025-03-19, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v3](http://arxiv.org/abs/2503.12871v3)
 - 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
-- 2025-03-15, **Generative Modeling of Adversarial Lane-Change Scenario**, Chuancheng Zhang et.al., Paper: [http://arxiv.org/abs/2503.12055v1](http://arxiv.org/abs/2503.12055v1)
-- 2025-03-15, **Hydra-NeXt: Robust Closed-Loop Driving with Open-Loop Training**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2503.12030v1](http://arxiv.org/abs/2503.12030v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
 - 2025-03-19, **V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**, Baolu Li et.al., Paper: [http://arxiv.org/abs/2503.15435v1](http://arxiv.org/abs/2503.15435v1)
 - 2025-03-19, **USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**, Joseph Emmanuel DL Dayo et.al., Paper: [http://arxiv.org/abs/2503.14950v1](http://arxiv.org/abs/2503.14950v1)
-- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1)
+- 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
 - 2025-03-18, **A Systematic Digital Engineering Approach to Verification & Validation of Autonomous Ground Vehicles in Off-Road Environments**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2503.13787v1](http://arxiv.org/abs/2503.13787v1)
 - 2025-03-17, **WMINet: A Wheel-Mounted Inertial Learning Approach For Mobile-Robot Positioning**, Gal Versano et.al., Paper: [http://arxiv.org/abs/2503.13568v1](http://arxiv.org/abs/2503.13568v1)
 - 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
