@@ -1,4 +1,4 @@
-> Updated on 2025.03.22
+> Updated on 2025.03.23
 
 ## Autonomous_Driving_Planning
 
@@ -9,7 +9,6 @@
 - 2025-03-18, **A Systematic Digital Engineering Approach to Verification & Validation of Autonomous Ground Vehicles in Off-Road Environments**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2503.13787v1](http://arxiv.org/abs/2503.13787v1)
 - 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
 - 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
-- 2025-03-15, **DiffAD: A Unified Diffusion Modeling Approach for Autonomous Driving**, Tao Wang et.al., Paper: [http://arxiv.org/abs/2503.12170v1](http://arxiv.org/abs/2503.12170v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -44,7 +43,6 @@
 - 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
 - 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
 - 2025-03-17, **Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**, Kailin Li et.al., Paper: [http://arxiv.org/abs/2503.12820v1](http://arxiv.org/abs/2503.12820v1)
-- 2025-03-15, **Bench2FreeAD: A Benchmark for Vision-based End-to-end Navigation in Unstructured Robotic Environments**, Yuhang Peng et.al., Paper: [http://arxiv.org/abs/2503.12180v1](http://arxiv.org/abs/2503.12180v1)
 
 ## Autonomous_Driving_LLM
 
