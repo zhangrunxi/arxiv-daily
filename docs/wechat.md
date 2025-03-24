@@ -1,4 +1,4 @@
-> Updated on 2025.03.23
+> Updated on 2025.03.24
 
 ## Autonomous_Driving_Planning
 
@@ -30,7 +30,6 @@
 - 2025-03-19, **From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2503.13754v2](http://arxiv.org/abs/2503.13754v2)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 - 2025-03-19, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v3](http://arxiv.org/abs/2503.12871v3)
-- 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
 
 ## Autonomous_Driving_E2E
 
@@ -64,7 +63,4 @@
 - 2025-03-18, **Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**, Jinge Ma et.al., Paper: [http://arxiv.org/abs/2503.13869v1](http://arxiv.org/abs/2503.13869v1)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 - 2025-03-17, **SAM2 for Image and Video Segmentation: A Comprehensive Survey**, Zhang Jiaxing et.al., Paper: [http://arxiv.org/abs/2503.12781v1](http://arxiv.org/abs/2503.12781v1)
-- 2025-03-16, **Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**, Imran Kabir et.al., Paper: [http://arxiv.org/abs/2503.12663v1](http://arxiv.org/abs/2503.12663v1)
-- 2025-03-16, **Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**, Heye Huang et.al., Paper: [http://arxiv.org/abs/2503.12637v1](http://arxiv.org/abs/2503.12637v1)
-- 2025-03-16, **Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks**, Mehmet Kerem Turkcan et.al., Paper: [http://arxiv.org/abs/2503.12531v1](http://arxiv.org/abs/2503.12531v1)
 

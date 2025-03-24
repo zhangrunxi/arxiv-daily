@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 
 ## Autonomous_Driving_Planning
 
@@ -40,7 +40,6 @@ layout: default
 |**2025-03-19**|**From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence**|Krti Tallam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13754v2-b31b1b.svg)](http://arxiv.org/abs/2503.13754v2)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
 |**2025-03-19**|**A Reference Architecture for Autonomous Networks: An Agent-Based Approach**|Joseph Sifakis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12871v3-b31b1b.svg)](http://arxiv.org/abs/2503.12871v3)|null|
-|**2025-03-16**|**Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12637v1-b31b1b.svg)](http://arxiv.org/abs/2503.12637v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -82,7 +81,4 @@ layout: default
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13869v1-b31b1b.svg)](http://arxiv.org/abs/2503.13869v1)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13415v1-b31b1b.svg)](http://arxiv.org/abs/2503.13415v1)|null|
 |**2025-03-17**|**SAM2 for Image and Video Segmentation: A Comprehensive Survey**|Zhang Jiaxing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12781v1-b31b1b.svg)](http://arxiv.org/abs/2503.12781v1)|null|
-|**2025-03-16**|**Logic-RAG: Augmenting Large Multimodal Models with Visual-Spatial Knowledge for Road Scene Understanding**|Imran Kabir et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12663v1-b31b1b.svg)](http://arxiv.org/abs/2503.12663v1)|null|
-|**2025-03-16**|**Understanding Driver Cognition and Decision-Making Behaviors in High-Risk Scenarios: A Drift Diffusion Perspective**|Heye Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12637v1-b31b1b.svg)](http://arxiv.org/abs/2503.12637v1)|null|
-|**2025-03-16**|**Towards Suturing World Models: Learning Predictive Models for Robotic Surgical Tasks**|Mehmet Kerem Turkcan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.12531v1-b31b1b.svg)](http://arxiv.org/abs/2503.12531v1)|null|
 
