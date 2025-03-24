@@ -2,17 +2,20 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-03-21, **OpenCity3D: What do Vision-Language Models know about Urban Environments?**, Valentin Bieri et.al., Paper: [http://arxiv.org/abs/2503.16776v1](http://arxiv.org/abs/2503.16776v1)
+- 2025-03-20, **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**, Chengkai Huang et.al., Paper: [http://arxiv.org/abs/2503.16734v1](http://arxiv.org/abs/2503.16734v1)
+- 2025-03-19, **A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**, Yiming Cui et.al., Paper: [http://arxiv.org/abs/2503.16552v1](http://arxiv.org/abs/2503.16552v1)
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
-- 2025-03-18, **Generating Causal Explanations of Vehicular Agent Behavioural Interactions with Learnt Reward Profiles**, Rhys Howard et.al., Paper: [http://arxiv.org/abs/2503.14557v1](http://arxiv.org/abs/2503.14557v1)
+- 2025-03-18, **Generating Causal Explanations of Vehicular Agent Behavioural Interactions with Learnt Reward Profiles**, Rhys Howard et.al., Paper: [http://arxiv.org/abs/2503.14557v1](http://arxiv.org/abs/2503.14557v1), Code: **[https://github.com/cognitive-robots/gce_vbai_lrp_paper_resources](https://github.com/cognitive-robots/gce_vbai_lrp_paper_resources)**
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1), Code: **[https://github.com/mbzuai-oryx/trackingmeetslmm](https://github.com/mbzuai-oryx/trackingmeetslmm)**
 - 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
 - 2025-03-18, **A Systematic Digital Engineering Approach to Verification & Validation of Autonomous Ground Vehicles in Off-Road Environments**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2503.13787v1](http://arxiv.org/abs/2503.13787v1)
-- 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
-- 2025-03-17, **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, Guanhua Ding et.al., Paper: [http://arxiv.org/abs/2503.12968v1](http://arxiv.org/abs/2503.12968v1)
 
 ## Autonomous_Driving_Prediction
 
-- 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875v1](http://arxiv.org/abs/2503.15875v1)
+- 2025-03-21, **Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**, Alexandra Arzberger et.al., Paper: [http://arxiv.org/abs/2503.17168v1](http://arxiv.org/abs/2503.17168v1)
+- 2025-03-21, **OpenCity3D: What do Vision-Language Models know about Urban Environments?**, Valentin Bieri et.al., Paper: [http://arxiv.org/abs/2503.16776v1](http://arxiv.org/abs/2503.16776v1)
+- 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875v1](http://arxiv.org/abs/2503.15875v1), Code: **[https://github.com/xiaomi-mlab/mila.github.io](https://github.com/xiaomi-mlab/mila.github.io)**
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
 - 2025-03-19, **GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2503.15672v1](http://arxiv.org/abs/2503.15672v1)
 - 2025-03-19, **Generating Multimodal Driving Scenes via Next-Scene Prediction**, Yanhao Wu et.al., Paper: [http://arxiv.org/abs/2503.14945v1](http://arxiv.org/abs/2503.14945v1)
@@ -20,16 +23,17 @@
 - 2025-03-18, **RAT: Boosting Misclassification Detection Ability without Extra Data**, Ge Yan et.al., Paper: [http://arxiv.org/abs/2503.14783v1](http://arxiv.org/abs/2503.14783v1)
 - 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1), Code: **[https://github.com/mbzuai-oryx/trackingmeetslmm](https://github.com/mbzuai-oryx/trackingmeetslmm)**
 - 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
-- 2025-03-17, **AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2503.13430v1](http://arxiv.org/abs/2503.13430v1)
-- 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
 
 ## Autonomous_Driving_Decision
 
+- 2025-03-21, **How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**, Mingliang Li et.al., Paper: [http://arxiv.org/abs/2503.17174v1](http://arxiv.org/abs/2503.17174v1)
+- 2025-03-21, **Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**, Alexandra Arzberger et.al., Paper: [http://arxiv.org/abs/2503.17168v1](http://arxiv.org/abs/2503.17168v1)
+- 2025-03-20, **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**, Chengkai Huang et.al., Paper: [http://arxiv.org/abs/2503.16734v1](http://arxiv.org/abs/2503.16734v1)
+- 2025-03-19, **A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**, Yiming Cui et.al., Paper: [http://arxiv.org/abs/2503.16552v1](http://arxiv.org/abs/2503.16552v1)
 - 2025-03-19, **An Investigation of Beam Density on LiDAR Object Detection Performance**, Christoph Griesbacher et.al., Paper: [http://arxiv.org/abs/2503.15087v1](http://arxiv.org/abs/2503.15087v1)
 - 2025-03-18, **RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving**, Yujin Wang et.al., Paper: [http://arxiv.org/abs/2503.13861v1](http://arxiv.org/abs/2503.13861v1)
 - 2025-03-19, **From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence**, Krti Tallam et.al., Paper: [http://arxiv.org/abs/2503.13754v2](http://arxiv.org/abs/2503.13754v2)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-19, **A Reference Architecture for Autonomous Networks: An Agent-Based Approach**, Joseph Sifakis et.al., Paper: [http://arxiv.org/abs/2503.12871v3](http://arxiv.org/abs/2503.12871v3)
 
 ## Autonomous_Driving_E2E
 
@@ -38,29 +42,28 @@
 - 2025-03-19, **USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**, Joseph Emmanuel DL Dayo et.al., Paper: [http://arxiv.org/abs/2503.14950v1](http://arxiv.org/abs/2503.14950v1)
 - 2025-03-18, **Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**, Bozhou Zhang et.al., Paper: [http://arxiv.org/abs/2503.14182v1](http://arxiv.org/abs/2503.14182v1), Code: **[https://github.com/fudan-zvg/bridgead](https://github.com/fudan-zvg/bridgead)**
 - 2025-03-18, **A Systematic Digital Engineering Approach to Verification & Validation of Autonomous Ground Vehicles in Off-Road Environments**, Tanmay Vilas Samak et.al., Paper: [http://arxiv.org/abs/2503.13787v1](http://arxiv.org/abs/2503.13787v1)
-- 2025-03-17, **WMINet: A Wheel-Mounted Inertial Learning Approach For Mobile-Robot Positioning**, Gal Versano et.al., Paper: [http://arxiv.org/abs/2503.13568v1](http://arxiv.org/abs/2503.13568v1)
 - 2025-03-17, **Clustering is back: Reaching state-of-the-art LiDAR instance segmentation without training**, Corentin Sautier et.al., Paper: [http://arxiv.org/abs/2503.13203v1](http://arxiv.org/abs/2503.13203v1)
-- 2025-03-17, **InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**, Ruiqi Song et.al., Paper: [http://arxiv.org/abs/2503.13047v1](http://arxiv.org/abs/2503.13047v1)
-- 2025-03-17, **Hydra-MDP++: Advancing End-to-End Driving via Expert-Guided Hydra-Distillation**, Kailin Li et.al., Paper: [http://arxiv.org/abs/2503.12820v1](http://arxiv.org/abs/2503.12820v1)
 
 ## Autonomous_Driving_LLM
 
+- 2025-03-20, **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**, Chengkai Huang et.al., Paper: [http://arxiv.org/abs/2503.16734v1](http://arxiv.org/abs/2503.16734v1)
+- 2025-03-19, **A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**, Yiming Cui et.al., Paper: [http://arxiv.org/abs/2503.16552v1](http://arxiv.org/abs/2503.16552v1)
 - 2025-03-20, **BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**, Zenghui Yuan et.al., Paper: [http://arxiv.org/abs/2503.16023v1](http://arxiv.org/abs/2503.16023v1)
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 
 ## Autonomous_Driving_RL
 
-- 2025-03-19, **HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**, Cheng Wang et.al., Paper: [http://arxiv.org/abs/2503.15049v1](http://arxiv.org/abs/2503.15049v1)
+- 2025-03-19, **HAD-Gen: Human-like and Diverse Driving Behavior Modeling for Controllable Scenario Generation**, Cheng Wang et.al., Paper: [http://arxiv.org/abs/2503.15049v1](http://arxiv.org/abs/2503.15049v1), Code: **[https://github.com/robosafe-lab/sim4ad](https://github.com/robosafe-lab/sim4ad)**
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
 
 ## World_Model
 
+- 2025-03-21, **Salient Object Detection in Traffic Scene through the TSOD10K Dataset**, Yu Qiu et.al., Paper: [http://arxiv.org/abs/2503.16910v1](http://arxiv.org/abs/2503.16910v1)
 - 2025-03-20, **BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**, Zenghui Yuan et.al., Paper: [http://arxiv.org/abs/2503.16023v1](http://arxiv.org/abs/2503.16023v1)
-- 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875v1](http://arxiv.org/abs/2503.15875v1)
+- 2025-03-20, **MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**, Haiguang Wang et.al., Paper: [http://arxiv.org/abs/2503.15875v1](http://arxiv.org/abs/2503.15875v1), Code: **[https://github.com/xiaomi-mlab/mila.github.io](https://github.com/xiaomi-mlab/mila.github.io)**
 - 2025-03-19, **An Investigation of Beam Density on LiDAR Object Detection Performance**, Christoph Griesbacher et.al., Paper: [http://arxiv.org/abs/2503.15087v1](http://arxiv.org/abs/2503.15087v1)
 - 2025-03-18, **SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**, Xinqing Li et.al., Paper: [http://arxiv.org/abs/2503.13952v1](http://arxiv.org/abs/2503.13952v1), Code: **[https://github.com/li-zn-h/simworld](https://github.com/li-zn-h/simworld)**
 - 2025-03-18, **Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**, Jinge Ma et.al., Paper: [http://arxiv.org/abs/2503.13869v1](http://arxiv.org/abs/2503.13869v1)
 - 2025-03-17, **A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**, Weiqiang Jin et.al., Paper: [http://arxiv.org/abs/2503.13415v1](http://arxiv.org/abs/2503.13415v1)
-- 2025-03-17, **SAM2 for Image and Video Segmentation: A Comprehensive Survey**, Zhang Jiaxing et.al., Paper: [http://arxiv.org/abs/2503.12781v1](http://arxiv.org/abs/2503.12781v1)
 
