@@ -8,52 +8,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18730v1-b31b1b.svg)](http://arxiv.org/abs/2503.18730v1)|null|
+|**2025-03-24**|**Learning Orientation Field for OSM-Guided Autonomous Navigation**|Yuming Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18276v1-b31b1b.svg)](http://arxiv.org/abs/2503.18276v1)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16776v1-b31b1b.svg)](http://arxiv.org/abs/2503.16776v1)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
 |**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 |**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14498v1-b31b1b.svg)](http://arxiv.org/abs/2503.14498v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
-|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14182v1-b31b1b.svg)](http://arxiv.org/abs/2503.14182v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/bridgead)**|
 
 ## Autonomous_Driving_Prediction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18903v1-b31b1b.svg)](http://arxiv.org/abs/2503.18903v1)|null|
+|**2025-03-24**|**Robust Tube-based Control Strategy for Vision-guided Autonomous Vehicles**|Der-Hau Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18752v1-b31b1b.svg)](http://arxiv.org/abs/2503.18752v1)|null|
+|**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18730v1-b31b1b.svg)](http://arxiv.org/abs/2503.18730v1)|null|
+|**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18100v1-b31b1b.svg)](http://arxiv.org/abs/2503.18100v1)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v1-b31b1b.svg)](http://arxiv.org/abs/2503.17168v1)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16776v1-b31b1b.svg)](http://arxiv.org/abs/2503.16776v1)|null|
 |**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15875v1-b31b1b.svg)](http://arxiv.org/abs/2503.15875v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi-mlab/mila.github.io)**|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15672v1-b31b1b.svg)](http://arxiv.org/abs/2503.15672v1)|null|
 |**2025-03-19**|**Generating Multimodal Driving Scenes via Next-Scene Prediction**|Yanhao Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14945v1-b31b1b.svg)](http://arxiv.org/abs/2503.14945v1)|null|
-|**2025-03-19**|**SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**|Yinqi Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14837v1-b31b1b.svg)](http://arxiv.org/abs/2503.14837v1)|null|
-|**2025-03-18**|**RAT: Boosting Misclassification Detection Ability without Extra Data**|Ge Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14783v1-b31b1b.svg)](http://arxiv.org/abs/2503.14783v1)|null|
-|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14498v1-b31b1b.svg)](http://arxiv.org/abs/2503.14498v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
-|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14182v1-b31b1b.svg)](http://arxiv.org/abs/2503.14182v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/bridgead)**|
 
 ## Autonomous_Driving_Decision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18666v1-b31b1b.svg)](http://arxiv.org/abs/2503.18666v1)|null|
+|**2025-03-23**|**Conservative Perception Models for Probabilistic Model Checking**|Matthew Cleaveland et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18077v1-b31b1b.svg)](http://arxiv.org/abs/2503.18077v1)|null|
 |**2025-03-21**|**How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**|Mingliang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17174v1-b31b1b.svg)](http://arxiv.org/abs/2503.17174v1)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v1-b31b1b.svg)](http://arxiv.org/abs/2503.17168v1)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
 |**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15087v1-b31b1b.svg)](http://arxiv.org/abs/2503.15087v1)|null|
-|**2025-03-18**|**RAD: Retrieval-Augmented Decision-Making of Meta-Actions with Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13861v1-b31b1b.svg)](http://arxiv.org/abs/2503.13861v1)|null|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18108v1-b31b1b.svg)](http://arxiv.org/abs/2503.18108v1)|null|
+|**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17697v1-b31b1b.svg)](http://arxiv.org/abs/2503.17697v1)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15435v1-b31b1b.svg)](http://arxiv.org/abs/2503.15435v1)|null|
 |**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14950v1-b31b1b.svg)](http://arxiv.org/abs/2503.14950v1)|null|
-|**2025-03-18**|**Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning**|Bozhou Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14182v1-b31b1b.svg)](http://arxiv.org/abs/2503.14182v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fudan-zvg/bridgead)**|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18666v1-b31b1b.svg)](http://arxiv.org/abs/2503.18666v1)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
 |**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16023v1-b31b1b.svg)](http://arxiv.org/abs/2503.16023v1)|null|
@@ -69,10 +73,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18903v1-b31b1b.svg)](http://arxiv.org/abs/2503.18903v1)|null|
+|**2025-03-24**|**Robust Lane Detection with Wavelet-Enhanced Context Modeling and Adaptive Sampling**|Kunyang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18631v1-b31b1b.svg)](http://arxiv.org/abs/2503.18631v1)|null|
+|**2025-03-24**|**ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18438v1-b31b1b.svg)](http://arxiv.org/abs/2503.18438v1)|null|
+|**2025-03-23**|**Training A Neural Network For Partially Occluded Road Sign Identification In The Context Of Autonomous Vehicles**|Gulnaz Gimaletdinova et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18177v1-b31b1b.svg)](http://arxiv.org/abs/2503.18177v1)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18108v1-b31b1b.svg)](http://arxiv.org/abs/2503.18108v1)|null|
 |**2025-03-21**|**Salient Object Detection in Traffic Scene through the TSOD10K Dataset**|Yu Qiu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16910v1-b31b1b.svg)](http://arxiv.org/abs/2503.16910v1)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16023v1-b31b1b.svg)](http://arxiv.org/abs/2503.16023v1)|null|
 |**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15875v1-b31b1b.svg)](http://arxiv.org/abs/2503.15875v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi-mlab/mila.github.io)**|
 |**2025-03-19**|**An Investigation of Beam Density on LiDAR Object Detection Performance**|Christoph Griesbacher et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15087v1-b31b1b.svg)](http://arxiv.org/abs/2503.15087v1)|null|
-|**2025-03-18**|**SimWorld: A Unified Benchmark for Simulator-Conditioned Scene Generation via World Model**|Xinqing Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13952v1-b31b1b.svg)](http://arxiv.org/abs/2503.13952v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/li-zn-h/simworld)**|
-|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.13869v1-b31b1b.svg)](http://arxiv.org/abs/2503.13869v1)|null|
 
