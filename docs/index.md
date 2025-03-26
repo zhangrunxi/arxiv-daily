@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,6 @@ layout: default
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
 |**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 |**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
-|**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.14498v1-b31b1b.svg)](http://arxiv.org/abs/2503.14498v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
 
 ## Autonomous_Driving_Prediction
 

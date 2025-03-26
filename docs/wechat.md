@@ -1,4 +1,4 @@
-> Updated on 2025.03.25
+> Updated on 2025.03.26
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,6 @@
 - 2025-03-20, **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**, Chengkai Huang et.al., Paper: [http://arxiv.org/abs/2503.16734v1](http://arxiv.org/abs/2503.16734v1)
 - 2025-03-19, **A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**, Yiming Cui et.al., Paper: [http://arxiv.org/abs/2503.16552v1](http://arxiv.org/abs/2503.16552v1)
 - 2025-03-20, **AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**, Boshra Khalili et.al., Paper: [http://arxiv.org/abs/2503.15778v1](http://arxiv.org/abs/2503.15778v1)
-- 2025-03-18, **Tracking Meets Large Multimodal Models for Driving Scenario Understanding**, Ayesha Ishaq et.al., Paper: [http://arxiv.org/abs/2503.14498v1](http://arxiv.org/abs/2503.14498v1), Code: **[https://github.com/mbzuai-oryx/trackingmeetslmm](https://github.com/mbzuai-oryx/trackingmeetslmm)**
 
 ## Autonomous_Driving_Prediction
 
