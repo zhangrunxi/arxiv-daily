@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 
 ## Autonomous_Driving_Planning
 
@@ -13,8 +13,6 @@ layout: default
 |**2025-03-24**|**Learning Orientation Field for OSM-Guided Autonomous Navigation**|Yuming Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18276v1-b31b1b.svg)](http://arxiv.org/abs/2503.18276v1)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16776v1-b31b1b.svg)](http://arxiv.org/abs/2503.16776v1)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
-|**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
-|**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -26,10 +24,9 @@ layout: default
 |**2025-03-24**|**Robust Tube-based Control Strategy for Vision-guided Autonomous Vehicles**|Der-Hau Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18752v1-b31b1b.svg)](http://arxiv.org/abs/2503.18752v1)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18730v1-b31b1b.svg)](http://arxiv.org/abs/2503.18730v1)|null|
 |**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18100v1-b31b1b.svg)](http://arxiv.org/abs/2503.18100v1)|null|
-|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v1-b31b1b.svg)](http://arxiv.org/abs/2503.17168v1)|null|
+|**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v2-b31b1b.svg)](http://arxiv.org/abs/2503.17168v2)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16776v1-b31b1b.svg)](http://arxiv.org/abs/2503.16776v1)|null|
 |**2025-03-20**|**MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving**|Haiguang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15875v1-b31b1b.svg)](http://arxiv.org/abs/2503.15875v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaomi-mlab/mila.github.io)**|
-|**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -39,9 +36,8 @@ layout: default
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18666v1-b31b1b.svg)](http://arxiv.org/abs/2503.18666v1)|null|
 |**2025-03-23**|**Conservative Perception Models for Probabilistic Model Checking**|Matthew Cleaveland et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18077v1-b31b1b.svg)](http://arxiv.org/abs/2503.18077v1)|null|
 |**2025-03-21**|**How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**|Mingliang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17174v1-b31b1b.svg)](http://arxiv.org/abs/2503.17174v1)|null|
-|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v1-b31b1b.svg)](http://arxiv.org/abs/2503.17168v1)|null|
+|**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17168v2-b31b1b.svg)](http://arxiv.org/abs/2503.17168v2)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
-|**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -51,8 +47,6 @@ layout: default
 |**2025-03-25**|**A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19320v1-b31b1b.svg)](http://arxiv.org/abs/2503.19320v1)|null|
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18108v1-b31b1b.svg)](http://arxiv.org/abs/2503.18108v1)|null|
 |**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17697v1-b31b1b.svg)](http://arxiv.org/abs/2503.17697v1)|null|
-|**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
-|**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15435v1-b31b1b.svg)](http://arxiv.org/abs/2503.15435v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -62,9 +56,7 @@ layout: default
 |**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19276v1-b31b1b.svg)](http://arxiv.org/abs/2503.19276v1)|null|
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18666v1-b31b1b.svg)](http://arxiv.org/abs/2503.18666v1)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16734v1-b31b1b.svg)](http://arxiv.org/abs/2503.16734v1)|null|
-|**2025-03-19**|**A Vehicle-Infrastructure Multi-layer Cooperative Decision-making Framework**|Yiming Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16552v1-b31b1b.svg)](http://arxiv.org/abs/2503.16552v1)|null|
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.16023v1-b31b1b.svg)](http://arxiv.org/abs/2503.16023v1)|null|
-|**2025-03-20**|**AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models**|Boshra Khalili et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.15778v1-b31b1b.svg)](http://arxiv.org/abs/2503.15778v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -78,7 +70,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19713v1-b31b1b.svg)](http://arxiv.org/abs/2503.19713v1)|null|
-|**2025-03-25**|**ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**|Dohwan Ko et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19355v1-b31b1b.svg)](http://arxiv.org/abs/2503.19355v1)|null|
+|**2025-03-26**|**ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models**|Dohwan Ko et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19355v2-b31b1b.svg)](http://arxiv.org/abs/2503.19355v2)|null|
 |**2025-03-24**|**Building Blocks for Robust and Effective Semi-Supervised Real-World Object Detection**|Moussa Kassem Sbeyti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18903v1-b31b1b.svg)](http://arxiv.org/abs/2503.18903v1)|null|
 |**2025-03-24**|**Robust Lane Detection with Wavelet-Enhanced Context Modeling and Adaptive Sampling**|Kunyang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18631v1-b31b1b.svg)](http://arxiv.org/abs/2503.18631v1)|null|
 |**2025-03-24**|**ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**|Guosheng Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18438v1-b31b1b.svg)](http://arxiv.org/abs/2503.18438v1)|null|
