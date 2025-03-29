@@ -51,7 +51,6 @@ layout: default
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 |**2025-03-25**|**A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19320v1-b31b1b.svg)](http://arxiv.org/abs/2503.19320v1)|null|
 |**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18108v1-b31b1b.svg)](http://arxiv.org/abs/2503.18108v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cancaries/SceneCrafter)**|
-|**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.17697v1-b31b1b.svg)](http://arxiv.org/abs/2503.17697v1)|null|
 
 ## Autonomous_Driving_LLM
 
