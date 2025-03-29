@@ -1,4 +1,4 @@
-> Updated on 2025.03.28
+> Updated on 2025.03.29
 
 ## Autonomous_Driving_Planning
 
@@ -30,8 +30,6 @@
 - 2025-03-25, **ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**, Haoyu Fu et.al., Paper: [http://arxiv.org/abs/2503.19755v1](http://arxiv.org/abs/2503.19755v1)
 - 2025-03-24, **AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2503.18666v1](http://arxiv.org/abs/2503.18666v1)
 - 2025-03-23, **Conservative Perception Models for Probabilistic Model Checking**, Matthew Cleaveland et.al., Paper: [http://arxiv.org/abs/2503.18077v1](http://arxiv.org/abs/2503.18077v1)
-- 2025-03-21, **How to Promote Autonomous Driving with Evolving Technology: Business Strategy and Pricing Decision**, Mingliang Li et.al., Paper: [http://arxiv.org/abs/2503.17174v1](http://arxiv.org/abs/2503.17174v1)
-- 2025-03-26, **Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**, Alexandra Arzberger et.al., Paper: [http://arxiv.org/abs/2503.17168v2](http://arxiv.org/abs/2503.17168v2)
 
 ## Autonomous_Driving_E2E
 
