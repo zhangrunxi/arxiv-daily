@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20127v1-b31b1b.svg)](http://arxiv.org/abs/2503.20127v1)|null|
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18730v1-b31b1b.svg)](http://arxiv.org/abs/2503.18730v1)|null|
-|**2025-03-24**|**Learning Orientation Field for OSM-Guided Autonomous Navigation**|Yuming Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18276v1-b31b1b.svg)](http://arxiv.org/abs/2503.18276v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imrl/orifield)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -39,7 +38,6 @@ layout: default
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21232v1-b31b1b.svg)](http://arxiv.org/abs/2503.21232v1)|null|
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 |**2025-03-24**|**AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents**|Haoyu Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18666v1-b31b1b.svg)](http://arxiv.org/abs/2503.18666v1)|null|
-|**2025-03-23**|**Conservative Perception Models for Probabilistic Model Checking**|Matthew Cleaveland et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18077v1-b31b1b.svg)](http://arxiv.org/abs/2503.18077v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -50,7 +48,6 @@ layout: default
 |**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
 |**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 |**2025-03-25**|**A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19320v1-b31b1b.svg)](http://arxiv.org/abs/2503.19320v1)|null|
-|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.18108v1-b31b1b.svg)](http://arxiv.org/abs/2503.18108v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cancaries/SceneCrafter)**|
 
 ## Autonomous_Driving_LLM
 
