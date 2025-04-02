@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 
 ## Autonomous_Driving_Planning
 
@@ -12,8 +12,6 @@ layout: default
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23463v1-b31b1b.svg)](http://arxiv.org/abs/2503.23463v1)|null|
 |**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22496v1-b31b1b.svg)](http://arxiv.org/abs/2503.22496v1)|null|
 |**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
-|**2025-03-26**|**Bandwidth Allocation for Cloud-Augmented Autonomous Driving**|Peter Schafhalter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.20127v1-b31b1b.svg)](http://arxiv.org/abs/2503.20127v1)|null|
-|**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -28,7 +26,7 @@ layout: default
 |**2025-03-28**|**VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**|Yancong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22328v1-b31b1b.svg)](http://arxiv.org/abs/2503.22328v1)|null|
 |**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22201v1-b31b1b.svg)](http://arxiv.org/abs/2503.22201v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaewoo97/kdtf)**|
 |**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22087v1-b31b1b.svg)](http://arxiv.org/abs/2503.22087v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moonseokha/streamocc)**|
-|**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21477v1-b31b1b.svg)](http://arxiv.org/abs/2503.21477v1)|null|
+|**2025-04-01**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21477v2-b31b1b.svg)](http://arxiv.org/abs/2503.21477v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -42,7 +40,6 @@ layout: default
 |**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21232v1-b31b1b.svg)](http://arxiv.org/abs/2503.21232v1)|null|
-|**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -67,7 +64,6 @@ layout: default
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22436v1-b31b1b.svg)](http://arxiv.org/abs/2503.22436v1)|null|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**|Yimo Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21330v1-b31b1b.svg)](http://arxiv.org/abs/2503.21330v1)|null|
-|**2025-03-25**|**ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation**|Haoyu Fu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19755v1-b31b1b.svg)](http://arxiv.org/abs/2503.19755v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -77,7 +73,6 @@ layout: default
 |**2025-03-28**|**Markov Potential Game Construction and Multi-Agent Reinforcement Learning with Applications to Autonomous Driving**|Huiwen Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22867v1-b31b1b.svg)](http://arxiv.org/abs/2503.22867v1)|null|
 |**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22496v1-b31b1b.svg)](http://arxiv.org/abs/2503.22496v1)|null|
 |**2025-03-28**|**CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving**|Xinwei Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22248v1-b31b1b.svg)](http://arxiv.org/abs/2503.22248v1)|null|
-|**2025-03-27**|**Risk-Aware Reinforcement Learning for Autonomous Driving: Improving Safety When Driving through Intersection**|Bo Leng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.19690v2-b31b1b.svg)](http://arxiv.org/abs/2503.19690v2)|null|
 
 ## World_Model
 
