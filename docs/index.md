@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,7 @@ layout: default
 |**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23650v1-b31b1b.svg)](http://arxiv.org/abs/2503.23650v1)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23463v1-b31b1b.svg)](http://arxiv.org/abs/2503.23463v1)|null|
 |**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22496v1-b31b1b.svg)](http://arxiv.org/abs/2503.22496v1)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Depth2World/VLADBench)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -33,11 +33,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23650v1-b31b1b.svg)](http://arxiv.org/abs/2503.23650v1)|null|
-|**2025-03-31**|**GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**|Zhenlong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23633v1-b31b1b.svg)](http://arxiv.org/abs/2503.23633v1)|null|
+|**2025-04-01**|**GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**|Zhenlong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23633v2-b31b1b.svg)](http://arxiv.org/abs/2503.23633v2)|null|
 |**2025-03-28**|**Markov Potential Game Construction and Multi-Agent Reinforcement Learning with Applications to Autonomous Driving**|Huiwen Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22867v1-b31b1b.svg)](http://arxiv.org/abs/2503.22867v1)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22541v1-b31b1b.svg)](http://arxiv.org/abs/2503.22541v1)|null|
 |**2025-03-27**|**Towards Fully Automated Decision-Making Systems for Greenhouse Control: Challenges and Opportunities**|Yongshuai Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21640v1-b31b1b.svg)](http://arxiv.org/abs/2503.21640v1)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Depth2World/VLADBench)**|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21232v1-b31b1b.svg)](http://arxiv.org/abs/2503.21232v1)|null|
 
@@ -54,13 +54,13 @@ layout: default
 |**2025-03-28**|**VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**|Yancong Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22328v1-b31b1b.svg)](http://arxiv.org/abs/2503.22328v1)|null|
 |**2025-03-27**|**InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**|Kuang Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21659v1-b31b1b.svg)](http://arxiv.org/abs/2503.21659v1)|null|
 |**2025-03-27**|**Towards Fully Automated Decision-Making Systems for Greenhouse Control: Challenges and Opportunities**|Yongshuai Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21640v1-b31b1b.svg)](http://arxiv.org/abs/2503.21640v1)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21505v1-b31b1b.svg)](http://arxiv.org/abs/2503.21505v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Depth2World/VLADBench)**|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**|Zhenlong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23633v1-b31b1b.svg)](http://arxiv.org/abs/2503.23633v1)|null|
+|**2025-04-01**|**GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**|Zhenlong Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23633v2-b31b1b.svg)](http://arxiv.org/abs/2503.23633v2)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.22436v1-b31b1b.svg)](http://arxiv.org/abs/2503.22436v1)|null|
 |**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21411v1-b31b1b.svg)](http://arxiv.org/abs/2503.21411v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-27**|**Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**|Yimo Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.21330v1-b31b1b.svg)](http://arxiv.org/abs/2503.21330v1)|null|
