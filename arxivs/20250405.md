@@ -82,5 +82,4 @@
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24381v1-b31b1b.svg)](http://arxiv.org/abs/2503.24381v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasl-lab/uniocc)**|
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24320v1-b31b1b.svg)](http://arxiv.org/abs/2503.24320v1)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23765v1-b31b1b.svg)](http://arxiv.org/abs/2503.23765v1)|null|
-|**2025-03-29**|**VLM-C4L: Continual Core Dataset Learning with Corner Case Optimization via Vision-Language Models for Autonomous Driving**|Haibo Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.23046v1-b31b1b.svg)](http://arxiv.org/abs/2503.23046v1)|null|
 

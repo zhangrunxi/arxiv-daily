@@ -68,5 +68,4 @@
 - 2025-03-31, **UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**, Yuping Wang et.al., Paper: [http://arxiv.org/abs/2503.24381v1](http://arxiv.org/abs/2503.24381v1), Code: **[https://github.com/tasl-lab/uniocc](https://github.com/tasl-lab/uniocc)**
 - 2025-03-31, **Can Test-Time Scaling Improve World Foundation Model?**, Wenyan Cong et.al., Paper: [http://arxiv.org/abs/2503.24320v1](http://arxiv.org/abs/2503.24320v1)
 - 2025-03-31, **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**, Yun Li et.al., Paper: [http://arxiv.org/abs/2503.23765v1](http://arxiv.org/abs/2503.23765v1)
-- 2025-03-29, **VLM-C4L: Continual Core Dataset Learning with Corner Case Optimization via Vision-Language Models for Autonomous Driving**, Haibo Hu et.al., Paper: [http://arxiv.org/abs/2503.23046v1](http://arxiv.org/abs/2503.23046v1)
 
