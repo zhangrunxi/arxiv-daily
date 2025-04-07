@@ -1,4 +1,4 @@
-> Updated on 2025.04.06
+> Updated on 2025.04.07
 
 ## Autonomous_Driving_Planning
 
@@ -6,8 +6,6 @@
 - 2025-04-02, **End-to-End Driving with Online Trajectory Evaluation via BEV World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2504.01941v1](http://arxiv.org/abs/2504.01941v1)
 - 2025-04-01, **UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2504.00763v1](http://arxiv.org/abs/2504.00763v1)
 - 2025-04-01, **MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2504.00379v1](http://arxiv.org/abs/2504.00379v1)
-- 2025-03-31, **A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**, Zhuoren Li et.al., Paper: [http://arxiv.org/abs/2503.23650v1](http://arxiv.org/abs/2503.23650v1)
-- 2025-03-30, **OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**, Xingcheng Zhou et.al., Paper: [http://arxiv.org/abs/2503.23463v1](http://arxiv.org/abs/2503.23463v1), Code: **[https://github.com/DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA)**
 
 ## Autonomous_Driving_Prediction
 
@@ -29,8 +27,6 @@
 - 2025-04-01, **Foundation Models for Autonomous Driving System: An Initial Roadmap**, Xiongfei Wu et.al., Paper: [http://arxiv.org/abs/2504.00911v1](http://arxiv.org/abs/2504.00911v1)
 - 2025-04-01, **Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework**, Sakhinana Sagar Srinivas et.al., Paper: [http://arxiv.org/abs/2504.00338v1](http://arxiv.org/abs/2504.00338v1)
 - 2025-03-31, **CF-CAM: Gradient Perturbation Mitigation and Feature Stabilization for Reliable Interpretability**, Hongjie He et.al., Paper: [http://arxiv.org/abs/2504.00060v1](http://arxiv.org/abs/2504.00060v1)
-- 2025-03-31, **A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**, Zhuoren Li et.al., Paper: [http://arxiv.org/abs/2503.23650v1](http://arxiv.org/abs/2503.23650v1)
-- 2025-04-01, **GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**, Zhenlong Li et.al., Paper: [http://arxiv.org/abs/2503.23633v2](http://arxiv.org/abs/2503.23633v2)
 
 ## Autonomous_Driving_E2E
 
@@ -40,7 +36,6 @@
 - 2025-03-31, **A Benchmark for Vision-Centric HD Mapping by V2I Systems**, Miao Fan et.al., Paper: [http://arxiv.org/abs/2503.23963v1](http://arxiv.org/abs/2503.23963v1)
 - 2025-03-31, **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**, Yun Li et.al., Paper: [http://arxiv.org/abs/2503.23765v1](http://arxiv.org/abs/2503.23765v1)
 - 2025-03-31, **Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**, Jingzheng Li et.al., Paper: [http://arxiv.org/abs/2503.23708v1](http://arxiv.org/abs/2503.23708v1)
-- 2025-03-30, **OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**, Xingcheng Zhou et.al., Paper: [http://arxiv.org/abs/2503.23463v1](http://arxiv.org/abs/2503.23463v1), Code: **[https://github.com/DriveVLA/OpenDriveVLA](https://github.com/DriveVLA/OpenDriveVLA)**
 
 ## Autonomous_Driving_LLM
 
@@ -48,14 +43,12 @@
 - 2025-04-02, **Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**, Luca Garello et.al., Paper: [http://arxiv.org/abs/2504.01588v1](http://arxiv.org/abs/2504.01588v1)
 - 2025-04-01, **Foundation Models for Autonomous Driving System: An Initial Roadmap**, Xiongfei Wu et.al., Paper: [http://arxiv.org/abs/2504.00911v1](http://arxiv.org/abs/2504.00911v1)
 - 2025-04-01, **MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2504.00379v1](http://arxiv.org/abs/2504.00379v1)
-- 2025-04-01, **GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**, Zhenlong Li et.al., Paper: [http://arxiv.org/abs/2503.23633v2](http://arxiv.org/abs/2503.23633v2)
 
 ## Autonomous_Driving_RL
 
 - 2025-04-03, **CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**, Jingyi Wang et.al., Paper: [http://arxiv.org/abs/2504.02450v1](http://arxiv.org/abs/2504.02450v1)
 - 2025-04-03, **On learning racing policies with reinforcement learning**, Grzegorz Czechmanowski et.al., Paper: [http://arxiv.org/abs/2504.02420v1](http://arxiv.org/abs/2504.02420v1)
 - 2025-04-02, **Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**, Sorin Grigorescu et.al., Paper: [http://arxiv.org/abs/2504.01336v1](http://arxiv.org/abs/2504.01336v1)
-- 2025-03-31, **A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**, Zhuoren Li et.al., Paper: [http://arxiv.org/abs/2503.23650v1](http://arxiv.org/abs/2503.23650v1)
 
 ## World_Model
 
