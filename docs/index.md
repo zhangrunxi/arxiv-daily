@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 
 ## Autonomous_Driving_Planning
 
@@ -23,8 +23,6 @@ layout: default
 |**2025-04-02**|**Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**|Sorin Grigorescu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01336v1-b31b1b.svg)](http://arxiv.org/abs/2504.01336v1)|null|
 |**2025-04-01**|**ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**|Qi Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00437v1-b31b1b.svg)](http://arxiv.org/abs/2504.00437v1)|null|
 |**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00379v1-b31b1b.svg)](http://arxiv.org/abs/2504.00379v1)|null|
-|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24381v1-b31b1b.svg)](http://arxiv.org/abs/2503.24381v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasl-lab/uniocc)**|
-|**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24320v1-b31b1b.svg)](http://arxiv.org/abs/2503.24320v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +31,6 @@ layout: default
 |**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02450v1-b31b1b.svg)](http://arxiv.org/abs/2504.02450v1)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01588v1-b31b1b.svg)](http://arxiv.org/abs/2504.01588v1)|null|
 |**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00911v1-b31b1b.svg)](http://arxiv.org/abs/2504.00911v1)|null|
-|**2025-04-01**|**Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework**|Sakhinana Sagar Srinivas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00338v1-b31b1b.svg)](http://arxiv.org/abs/2504.00338v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -46,7 +43,6 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01990v1-b31b1b.svg)](http://arxiv.org/abs/2504.01990v1)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01588v1-b31b1b.svg)](http://arxiv.org/abs/2504.01588v1)|null|
 |**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00911v1-b31b1b.svg)](http://arxiv.org/abs/2504.00911v1)|null|
 |**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00379v1-b31b1b.svg)](http://arxiv.org/abs/2504.00379v1)|null|
@@ -66,11 +62,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02918v1-b31b1b.svg)](http://arxiv.org/abs/2504.02918v1)|null|
 |**2025-04-03**|**MinkOcc: Towards real-time label-efficient semantic occupancy prediction**|Samuel Sze et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02270v1-b31b1b.svg)](http://arxiv.org/abs/2504.02270v1)|null|
-|**2025-03-31**|**Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems**|Bang Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01990v1-b31b1b.svg)](http://arxiv.org/abs/2504.01990v1)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01957v2-b31b1b.svg)](http://arxiv.org/abs/2504.01957v2)|null|
 |**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01941v1-b31b1b.svg)](http://arxiv.org/abs/2504.01941v1)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01668v1-b31b1b.svg)](http://arxiv.org/abs/2504.01668v1)|null|
-|**2025-04-01**|**Agentic Multimodal AI for Hyperpersonalized B2B and B2C Advertising in Competitive Markets: An AI-Driven Competitive Advertising Framework**|Sakhinana Sagar Srinivas et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00338v1-b31b1b.svg)](http://arxiv.org/abs/2504.00338v1)|null|
-|**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24381v1-b31b1b.svg)](http://arxiv.org/abs/2503.24381v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasl-lab/uniocc)**|
-|**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2503.24320v1-b31b1b.svg)](http://arxiv.org/abs/2503.24320v1)|null|
 
