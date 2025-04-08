@@ -11,7 +11,6 @@
 - 2025-04-04, **Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs**, Yu-Zhe Shi et.al., Paper: [http://arxiv.org/abs/2504.03810v1](http://arxiv.org/abs/2504.03810v1)
 - 2025-04-03, **Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**, Shu-Wei Lu et.al., Paper: [http://arxiv.org/abs/2504.01957v2](http://arxiv.org/abs/2504.01957v2)
 - 2025-04-02, **End-to-End Driving with Online Trajectory Evaluation via BEV World Model**, Yingyan Li et.al., Paper: [http://arxiv.org/abs/2504.01941v1](http://arxiv.org/abs/2504.01941v1)
-- 2025-04-01, **UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**, Yunxuan Mao et.al., Paper: [http://arxiv.org/abs/2504.00763v1](http://arxiv.org/abs/2504.00763v1)
 
 ## Autonomous_Driving_Prediction
 

@@ -13,7 +13,6 @@
 |**2025-04-04**|**Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs**|Yu-Zhe Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.03810v1-b31b1b.svg)](http://arxiv.org/abs/2504.03810v1)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01957v2-b31b1b.svg)](http://arxiv.org/abs/2504.01957v2)|null|
 |**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01941v1-b31b1b.svg)](http://arxiv.org/abs/2504.01941v1)|null|
-|**2025-04-01**|**UnIRe: Unsupervised Instance Decomposition for Dynamic Urban Scene Reconstruction**|Yunxuan Mao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00763v1-b31b1b.svg)](http://arxiv.org/abs/2504.00763v1)|null|
 
 ## Autonomous_Driving_Prediction
 
