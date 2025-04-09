@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 
 ## Autonomous_Driving_Planning
 
@@ -43,7 +43,6 @@ layout: default
 |**2025-04-05**|**From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**|Avijit Saha Asru et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04244v1-b31b1b.svg)](http://arxiv.org/abs/2504.04244v1)|null|
 |**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.02450v1-b31b1b.svg)](http://arxiv.org/abs/2504.02450v1)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01588v1-b31b1b.svg)](http://arxiv.org/abs/2504.01588v1)|null|
-|**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00911v1-b31b1b.svg)](http://arxiv.org/abs/2504.00911v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -59,7 +58,6 @@ layout: default
 |**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04419v1-b31b1b.svg)](http://arxiv.org/abs/2504.04419v1)|null|
 |**2025-04-06**|**OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**|Shihao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04348v1-b31b1b.svg)](http://arxiv.org/abs/2504.04348v1)|null|
 |**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.01588v1-b31b1b.svg)](http://arxiv.org/abs/2504.01588v1)|null|
-|**2025-04-01**|**Foundation Models for Autonomous Driving System: An Initial Roadmap**|Xiongfei Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.00911v1-b31b1b.svg)](http://arxiv.org/abs/2504.00911v1)|null|
 
 ## Autonomous_Driving_RL
 
