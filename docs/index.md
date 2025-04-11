@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 
 ## Autonomous_Driving_Planning
 
@@ -23,7 +23,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06863v1-b31b1b.svg)](http://arxiv.org/abs/2504.06863v1)|null|
-|**2025-04-09**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v1-b31b1b.svg)](http://arxiv.org/abs/2504.06647v1)|null|
+|**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v2-b31b1b.svg)](http://arxiv.org/abs/2504.06647v2)|null|
 |**2025-04-08**|**Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**|Abinav Kalyanasundaram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06105v1-b31b1b.svg)](http://arxiv.org/abs/2504.06105v1)|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.05727v1-b31b1b.svg)](http://arxiv.org/abs/2504.05727v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HopeYless/SAP-CoPE-Project)**|
 |**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.05649v1-b31b1b.svg)](http://arxiv.org/abs/2504.05649v1)|null|

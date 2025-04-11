@@ -1,4 +1,4 @@
-> Updated on 2025.04.10
+> Updated on 2025.04.11
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,7 @@
 ## Autonomous_Driving_Prediction
 
 - 2025-04-09, **MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**, Chang Nie et.al., Paper: [http://arxiv.org/abs/2504.06863v1](http://arxiv.org/abs/2504.06863v1)
-- 2025-04-09, **Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**, Nan Peng et.al., Paper: [http://arxiv.org/abs/2504.06647v1](http://arxiv.org/abs/2504.06647v1)
+- 2025-04-10, **Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**, Nan Peng et.al., Paper: [http://arxiv.org/abs/2504.06647v2](http://arxiv.org/abs/2504.06647v2)
 - 2025-04-08, **Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**, Abinav Kalyanasundaram et.al., Paper: [http://arxiv.org/abs/2504.06105v1](http://arxiv.org/abs/2504.06105v1)
 - 2025-04-08, **SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2504.05727v1](http://arxiv.org/abs/2504.05727v1), Code: **[https://github.com/HopeYless/SAP-CoPE-Project](https://github.com/HopeYless/SAP-CoPE-Project)**
 - 2025-04-08, **POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2504.05649v1](http://arxiv.org/abs/2504.05649v1)
