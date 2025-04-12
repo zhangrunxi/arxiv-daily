@@ -1,4 +1,4 @@
-> Updated on 2025.04.11
+> Updated on 2025.04.12
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@
 - 2025-04-06, **OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**, Shihao Wang et.al., Paper: [http://arxiv.org/abs/2504.04348v1](http://arxiv.org/abs/2504.04348v1)
 - 2025-04-06, **Data Scaling Laws for End-to-End Autonomous Driving**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2504.04338v1](http://arxiv.org/abs/2504.04338v1)
 - 2025-04-05, **From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**, Avijit Saha Asru et.al., Paper: [http://arxiv.org/abs/2504.04244v1](http://arxiv.org/abs/2504.04244v1)
-- 2025-04-04, **Control Map Distribution using Map Query Bank for Online Map Generation**, Ziming Liu et.al., Paper: [http://arxiv.org/abs/2504.03868v1](http://arxiv.org/abs/2504.03868v1)
 
 ## Autonomous_Driving_Prediction
 
