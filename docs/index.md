@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.12
+## Updated on 2025.04.13
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,6 @@ layout: default
 |**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04419v1-b31b1b.svg)](http://arxiv.org/abs/2504.04419v1)|null|
 |**2025-04-06**|**OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**|Shihao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04348v1-b31b1b.svg)](http://arxiv.org/abs/2504.04348v1)|null|
 |**2025-04-06**|**Data Scaling Laws for End-to-End Autonomous Driving**|Alexander Naumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04338v1-b31b1b.svg)](http://arxiv.org/abs/2504.04338v1)|null|
-|**2025-04-05**|**From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**|Avijit Saha Asru et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04244v1-b31b1b.svg)](http://arxiv.org/abs/2504.04244v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -42,7 +41,6 @@ layout: default
 |**2025-04-06**|**Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**|Cheng Chang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04419v1-b31b1b.svg)](http://arxiv.org/abs/2504.04419v1)|null|
 |**2025-04-06**|**OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**|Shihao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04348v1-b31b1b.svg)](http://arxiv.org/abs/2504.04348v1)|null|
 |**2025-04-06**|**Data Scaling Laws for End-to-End Autonomous Driving**|Alexander Naumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04338v1-b31b1b.svg)](http://arxiv.org/abs/2504.04338v1)|null|
-|**2025-04-05**|**From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**|Avijit Saha Asru et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.04244v1-b31b1b.svg)](http://arxiv.org/abs/2504.04244v1)|null|
 
 ## Autonomous_Driving_E2E
 

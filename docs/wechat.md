@@ -1,4 +1,4 @@
-> Updated on 2025.04.12
+> Updated on 2025.04.13
 
 ## Autonomous_Driving_Planning
 
@@ -9,7 +9,6 @@
 - 2025-04-06, **Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**, Cheng Chang et.al., Paper: [http://arxiv.org/abs/2504.04419v1](http://arxiv.org/abs/2504.04419v1)
 - 2025-04-06, **OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**, Shihao Wang et.al., Paper: [http://arxiv.org/abs/2504.04348v1](http://arxiv.org/abs/2504.04348v1)
 - 2025-04-06, **Data Scaling Laws for End-to-End Autonomous Driving**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2504.04338v1](http://arxiv.org/abs/2504.04338v1)
-- 2025-04-05, **From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**, Avijit Saha Asru et.al., Paper: [http://arxiv.org/abs/2504.04244v1](http://arxiv.org/abs/2504.04244v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -32,7 +31,6 @@
 - 2025-04-06, **Driving-RAG: Driving Scenarios Embedding, Search, and RAG Applications**, Cheng Chang et.al., Paper: [http://arxiv.org/abs/2504.04419v1](http://arxiv.org/abs/2504.04419v1)
 - 2025-04-06, **OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning**, Shihao Wang et.al., Paper: [http://arxiv.org/abs/2504.04348v1](http://arxiv.org/abs/2504.04348v1)
 - 2025-04-06, **Data Scaling Laws for End-to-End Autonomous Driving**, Alexander Naumann et.al., Paper: [http://arxiv.org/abs/2504.04338v1](http://arxiv.org/abs/2504.04338v1)
-- 2025-04-05, **From Automation to Autonomy in Smart Manufacturing: A Bayesian Optimization Framework for Modeling Multi-Objective Experimentation and Sequential Decision Making**, Avijit Saha Asru et.al., Paper: [http://arxiv.org/abs/2504.04244v1](http://arxiv.org/abs/2504.04244v1)
 
 ## Autonomous_Driving_E2E
 
