@@ -1,4 +1,4 @@
-> Updated on 2025.04.14
+> Updated on 2025.04.15
 
 ## Autonomous_Driving_Planning
 
@@ -16,8 +16,6 @@
 - 2025-04-08, **Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**, Abinav Kalyanasundaram et.al., Paper: [http://arxiv.org/abs/2504.06105v1](http://arxiv.org/abs/2504.06105v1)
 - 2025-04-08, **SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2504.05727v1](http://arxiv.org/abs/2504.05727v1), Code: **[https://github.com/HopeYless/SAP-CoPE-Project](https://github.com/HopeYless/SAP-CoPE-Project)**
 - 2025-04-08, **POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2504.05649v1](http://arxiv.org/abs/2504.05649v1)
-- 2025-04-07, **Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**, Yu Min Park et.al., Paper: [http://arxiv.org/abs/2504.05187v1](http://arxiv.org/abs/2504.05187v1)
-- 2025-04-07, **MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2504.05059v1](http://arxiv.org/abs/2504.05059v1)
 
 ## Autonomous_Driving_Decision
 
@@ -50,6 +48,4 @@
 - 2025-04-08, **Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**, Abinav Kalyanasundaram et.al., Paper: [http://arxiv.org/abs/2504.06105v1](http://arxiv.org/abs/2504.06105v1)
 - 2025-04-08, **PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**, Sriram Mandalika et.al., Paper: [http://arxiv.org/abs/2504.05908v1](http://arxiv.org/abs/2504.05908v1)
 - 2025-04-08, **SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**, Minghao Ning et.al., Paper: [http://arxiv.org/abs/2504.05727v1](http://arxiv.org/abs/2504.05727v1), Code: **[https://github.com/HopeYless/SAP-CoPE-Project](https://github.com/HopeYless/SAP-CoPE-Project)**
-- 2025-04-07, **Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**, Yu Min Park et.al., Paper: [http://arxiv.org/abs/2504.05187v1](http://arxiv.org/abs/2504.05187v1)
-- 2025-04-07, **MIAT: Maneuver-Intention-Aware Transformer for Spatio-Temporal Trajectory Prediction**, Chandra Raskoti et.al., Paper: [http://arxiv.org/abs/2504.05059v1](http://arxiv.org/abs/2504.05059v1)
 
