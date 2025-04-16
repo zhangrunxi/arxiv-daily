@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 
 ## Autonomous_Driving_Planning
 
@@ -25,7 +25,6 @@ layout: default
 |**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07507v1-b31b1b.svg)](http://arxiv.org/abs/2504.07507v1)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06863v1-b31b1b.svg)](http://arxiv.org/abs/2504.06863v1)|null|
 |**2025-04-10**|**Uni-PrevPredMap: Extending PrevPredMap to a Unified Framework of Prior-Informed Modeling for Online Vectorized HD Map Construction**|Nan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06647v2-b31b1b.svg)](http://arxiv.org/abs/2504.06647v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pnnnnnnn/uni-prevpredmap)**|
-|**2025-04-08**|**Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**|Abinav Kalyanasundaram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06105v1-b31b1b.svg)](http://arxiv.org/abs/2504.06105v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -66,5 +65,4 @@ layout: default
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07958v1-b31b1b.svg)](http://arxiv.org/abs/2504.07958v1)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06863v1-b31b1b.svg)](http://arxiv.org/abs/2504.06863v1)|null|
 |**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Junrui Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06584v1-b31b1b.svg)](http://arxiv.org/abs/2504.06584v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alniyatrui/cafe-ad)**|
-|**2025-04-08**|**Uncertainty-Aware Hybrid Machine Learning in Virtual Sensors for Vehicle Sideslip Angle Estimation**|Abinav Kalyanasundaram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.06105v1-b31b1b.svg)](http://arxiv.org/abs/2504.06105v1)|null|
 
