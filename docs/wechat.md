@@ -15,7 +15,6 @@
 - 2025-04-11, **Road Grip Uncertainty Estimation Through Surface State Segmentation**, Jyri Maanpää et.al., Paper: [http://arxiv.org/abs/2504.08452v1](http://arxiv.org/abs/2504.08452v1)
 - 2025-04-11, **VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**, Ziyan Liu et.al., Paper: [http://arxiv.org/abs/2504.08219v1](http://arxiv.org/abs/2504.08219v1)
 - 2025-04-10, **Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**, Zhiwei Zhang et.al., Paper: [http://arxiv.org/abs/2504.07507v1](http://arxiv.org/abs/2504.07507v1)
-- 2025-04-09, **MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**, Chang Nie et.al., Paper: [http://arxiv.org/abs/2504.06863v1](http://arxiv.org/abs/2504.06863v1)
 
 ## Autonomous_Driving_Decision
 
@@ -44,5 +43,4 @@
 - 2025-04-11, **VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**, Ziyan Liu et.al., Paper: [http://arxiv.org/abs/2504.08219v1](http://arxiv.org/abs/2504.08219v1)
 - 2025-04-10, **Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**, Yiqiao Li et.al., Paper: [http://arxiv.org/abs/2504.08154v1](http://arxiv.org/abs/2504.08154v1)
 - 2025-04-10, **Detect Anything 3D in the Wild**, Hanxue Zhang et.al., Paper: [http://arxiv.org/abs/2504.07958v1](http://arxiv.org/abs/2504.07958v1)
-- 2025-04-09, **MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**, Chang Nie et.al., Paper: [http://arxiv.org/abs/2504.06863v1](http://arxiv.org/abs/2504.06863v1)
 
