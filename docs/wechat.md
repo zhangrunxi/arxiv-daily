@@ -1,4 +1,4 @@
-> Updated on 2025.04.16
+> Updated on 2025.04.17
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,7 @@
 
 ## Autonomous_Driving_Prediction
 
-- 2025-04-15, **GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***, Eunsoo Im et.al., Paper: [http://arxiv.org/abs/2504.11014v1](http://arxiv.org/abs/2504.11014v1)
+- 2025-04-16, **GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***, Eunsoo Im et.al., Paper: [http://arxiv.org/abs/2504.11014v2](http://arxiv.org/abs/2504.11014v2)
 - 2025-04-14, **Decoupled Diffusion Sparks Adaptive Scene Generation**, Yunsong Zhou et.al., Paper: [http://arxiv.org/abs/2504.10485v1](http://arxiv.org/abs/2504.10485v1)
 - 2025-04-14, **LMFormer: Lane based Motion Prediction Transformer**, Harsh Yadav et.al., Paper: [http://arxiv.org/abs/2504.10275v1](http://arxiv.org/abs/2504.10275v1)
 - 2025-04-14, **Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**, Jiani Ni et.al., Paper: [http://arxiv.org/abs/2504.10007v1](http://arxiv.org/abs/2504.10007v1)

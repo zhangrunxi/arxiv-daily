@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v1-b31b1b.svg)](http://arxiv.org/abs/2504.11014v1)|null|
+|**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v2-b31b1b.svg)](http://arxiv.org/abs/2504.11014v2)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10485v1-b31b1b.svg)](http://arxiv.org/abs/2504.10485v1)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10275v1-b31b1b.svg)](http://arxiv.org/abs/2504.10275v1)|null|
 |**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10007v1-b31b1b.svg)](http://arxiv.org/abs/2504.10007v1)|null|
