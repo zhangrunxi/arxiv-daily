@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 
 ## Autonomous_Driving_Planning
 
@@ -45,7 +45,6 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
-|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.08154v1-b31b1b.svg)](http://arxiv.org/abs/2504.08154v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -61,6 +60,4 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
 |**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.08219v1-b31b1b.svg)](http://arxiv.org/abs/2504.08219v1)|null|
-|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.08154v1-b31b1b.svg)](http://arxiv.org/abs/2504.08154v1)|null|
-|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.07958v1-b31b1b.svg)](http://arxiv.org/abs/2504.07958v1)|null|
 
