@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.18
+## Updated on 2025.04.19
 
 ## Autonomous_Driving_Planning
 
@@ -57,7 +57,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**|Hongliang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11506v1-b31b1b.svg)](http://arxiv.org/abs/2504.11506v1)|null|
 |**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10266v1-b31b1b.svg)](http://arxiv.org/abs/2504.10266v1)|null|
-|**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.08704v1-b31b1b.svg)](http://arxiv.org/abs/2504.08704v1)|null|
 
 ## World_Model
 
