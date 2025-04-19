@@ -39,7 +39,6 @@
 |**2025-04-17**|**Two Tasks, One Goal: Uniting Motion and Planning for Excellent End To End Autonomous Driving Performance**|Lin Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12667v1-b31b1b.svg)](http://arxiv.org/abs/2504.12667v1)|null|
 |**2025-04-15**|**PatrolVision: Automated License Plate Recognition in the wild**|Anmol Singhal Navya Singhal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10810v1-b31b1b.svg)](http://arxiv.org/abs/2504.10810v1)|null|
 |**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10281v1-b31b1b.svg)](http://arxiv.org/abs/2504.10281v1)|null|
-|**2025-04-12**|**ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking**|Tzoulio Chamiti et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.09195v1-b31b1b.svg)](http://arxiv.org/abs/2504.09195v1)|null|
 
 ## Autonomous_Driving_LLM
 
