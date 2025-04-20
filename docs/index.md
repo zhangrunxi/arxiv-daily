@@ -25,7 +25,6 @@ layout: default
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10485v1-b31b1b.svg)](http://arxiv.org/abs/2504.10485v1)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10275v1-b31b1b.svg)](http://arxiv.org/abs/2504.10275v1)|null|
 |**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10007v1-b31b1b.svg)](http://arxiv.org/abs/2504.10007v1)|null|
-|**2025-04-13**|**FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's Eye View**|Yuting Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.09535v1-b31b1b.svg)](http://arxiv.org/abs/2504.09535v1)|null|
 
 ## Autonomous_Driving_Decision
 
