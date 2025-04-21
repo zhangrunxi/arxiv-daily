@@ -1,4 +1,4 @@
-> Updated on 2025.04.20
+> Updated on 2025.04.21
 
 ## Autonomous_Driving_Planning
 
@@ -37,7 +37,7 @@
 
 ## Autonomous_Driving_RL
 
-- 2025-04-15, **Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**, Hongliang Lu et.al., Paper: [http://arxiv.org/abs/2504.11506v1](http://arxiv.org/abs/2504.11506v1)
+- 2025-04-18, **Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**, Hongliang Lu et.al., Paper: [http://arxiv.org/abs/2504.11506v2](http://arxiv.org/abs/2504.11506v2)
 - 2025-04-14, **Vision based driving agent for race car simulation environments**, Gergely Bári et.al., Paper: [http://arxiv.org/abs/2504.10266v1](http://arxiv.org/abs/2504.10266v1)
 
 ## World_Model

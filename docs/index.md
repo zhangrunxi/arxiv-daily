@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 
 ## Autonomous_Driving_Planning
 
@@ -53,7 +53,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-15**|**Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**|Hongliang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11506v1-b31b1b.svg)](http://arxiv.org/abs/2504.11506v1)|null|
+|**2025-04-18**|**Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**|Hongliang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11506v2-b31b1b.svg)](http://arxiv.org/abs/2504.11506v2)|null|
 |**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10266v1-b31b1b.svg)](http://arxiv.org/abs/2504.10266v1)|null|
 
 ## World_Model
