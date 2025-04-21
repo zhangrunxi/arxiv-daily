@@ -13,21 +13,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**|Shanshuai Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13596v1-b31b1b.svg)](http://arxiv.org/abs/2504.13596v1)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13399v1-b31b1b.svg)](http://arxiv.org/abs/2504.13399v1)|null|
 |**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12826v1-b31b1b.svg)](http://arxiv.org/abs/2504.12826v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12709v1-b31b1b.svg)](http://arxiv.org/abs/2504.12709v1)|null|
 |**2025-04-16**|**Contract-based hierarchical control using predictive feasibility value functions**|Felix Berkel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12036v1-b31b1b.svg)](http://arxiv.org/abs/2504.12036v1)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 |**2025-04-16**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11014v2-b31b1b.svg)](http://arxiv.org/abs/2504.11014v2)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10485v1-b31b1b.svg)](http://arxiv.org/abs/2504.10485v1)|null|
 |**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10275v1-b31b1b.svg)](http://arxiv.org/abs/2504.10275v1)|null|
-|**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10007v1-b31b1b.svg)](http://arxiv.org/abs/2504.10007v1)|null|
 
 ## Autonomous_Driving_Decision
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13420v1-b31b1b.svg)](http://arxiv.org/abs/2504.13420v1)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12817v1-b31b1b.svg)](http://arxiv.org/abs/2504.12817v1)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 |**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.10757v1-b31b1b.svg)](http://arxiv.org/abs/2504.10757v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhourobotics/reasondrive)**|
 
 ## Autonomous_Driving_E2E
@@ -43,7 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13399v1-b31b1b.svg)](http://arxiv.org/abs/2504.13399v1)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
 ## Autonomous_Driving_RL
 
@@ -56,5 +59,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|null|
+|**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13420v1-b31b1b.svg)](http://arxiv.org/abs/2504.13420v1)|null|
+|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
