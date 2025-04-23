@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2025-04-17**|**UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**|Pengxuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12826v1-b31b1b.svg)](http://arxiv.org/abs/2504.12826v1)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12709v1-b31b1b.svg)](http://arxiv.org/abs/2504.12709v1)|null|
 |**2025-04-16**|**Contract-based hierarchical control using predictive feasibility value functions**|Felix Berkel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12036v1-b31b1b.svg)](http://arxiv.org/abs/2504.12036v1)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +32,6 @@ layout: default
 |**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14539v1-b31b1b.svg)](http://arxiv.org/abs/2504.14539v1)|null|
 |**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13420v1-b31b1b.svg)](http://arxiv.org/abs/2504.13420v1)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.12817v1-b31b1b.svg)](http://arxiv.org/abs/2504.12817v1)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
 ## Autonomous_Driving_E2E
 
@@ -48,7 +46,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-19**|**A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**|Chengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14241v1-b31b1b.svg)](http://arxiv.org/abs/2504.14241v1)|null|
 |**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13399v1-b31b1b.svg)](http://arxiv.org/abs/2504.13399v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mi3labucm/coooler)**|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
 ## World_Model
 
@@ -57,5 +54,4 @@ layout: default
 |**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14526v1-b31b1b.svg)](http://arxiv.org/abs/2504.14526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tong-zeng/dvbench)**|
 |**2025-04-19**|**A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**|Chengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14241v1-b31b1b.svg)](http://arxiv.org/abs/2504.14241v1)|null|
 |**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13420v1-b31b1b.svg)](http://arxiv.org/abs/2504.13420v1)|null|
-|**2025-04-15**|**Enhancing Autonomous Driving Systems with On-Board Deployed Large Language Models**|Nicolas Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.11514v1-b31b1b.svg)](http://arxiv.org/abs/2504.11514v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ForzaETH/LLMxRobot)**|
 
