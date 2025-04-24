@@ -1,4 +1,4 @@
-> Updated on 2025.04.23
+> Updated on 2025.04.24
 
 ## Autonomous_Driving_Planning
 
@@ -7,7 +7,6 @@
 - 2025-04-19, **Experience-based Refinement of Task Planning Knowledge in Autonomous Robots**, Hadeel Jazzaa et.al., Paper: [http://arxiv.org/abs/2504.14259v1](http://arxiv.org/abs/2504.14259v1)
 - 2025-04-17, **UncAD: Towards Safe End-to-end Autonomous Driving via Online Map Uncertainty**, Pengxuan Yang et.al., Paper: [http://arxiv.org/abs/2504.12826v1](http://arxiv.org/abs/2504.12826v1)
 - 2025-04-17, **Two Tasks, One Goal: Uniting Motion and Planning for Excellent End To End Autonomous Driving Performance**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2504.12667v1](http://arxiv.org/abs/2504.12667v1)
-- 2025-04-16, **Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**, Yafeng Bu et.al., Paper: [http://arxiv.org/abs/2504.12109v1](http://arxiv.org/abs/2504.12109v1)
 
 ## Autonomous_Driving_Prediction
 
