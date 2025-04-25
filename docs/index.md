@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15541v1-b31b1b.svg)](http://arxiv.org/abs/2504.15541v1)|null|
 |**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14240v1-b31b1b.svg)](http://arxiv.org/abs/2504.14240v1)|null|
 |**2025-04-18**|**LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**|Shanshuai Yuan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13596v1-b31b1b.svg)](http://arxiv.org/abs/2504.13596v1)|null|
-|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13399v1-b31b1b.svg)](http://arxiv.org/abs/2504.13399v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mi3labucm/coooler)**|
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +32,7 @@ layout: default
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16397v1-b31b1b.svg)](http://arxiv.org/abs/2504.16397v1)|null|
 |**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16377v1-b31b1b.svg)](http://arxiv.org/abs/2504.16377v1)|null|
 |**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15541v1-b31b1b.svg)](http://arxiv.org/abs/2504.15541v1)|null|
-|**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14539v1-b31b1b.svg)](http://arxiv.org/abs/2504.14539v1)|null|
+|**2025-04-24**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14539v2-b31b1b.svg)](http://arxiv.org/abs/2504.14539v2)|null|
 |**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13420v1-b31b1b.svg)](http://arxiv.org/abs/2504.13420v1)|null|
 
 ## Autonomous_Driving_E2E
@@ -48,7 +47,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16548v1-b31b1b.svg)](http://arxiv.org/abs/2504.16548v1)|null|
 |**2025-04-19**|**A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**|Chengming Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14241v1-b31b1b.svg)](http://arxiv.org/abs/2504.14241v1)|null|
-|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.13399v1-b31b1b.svg)](http://arxiv.org/abs/2504.13399v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mi3labucm/coooler)**|
 
 ## World_Model
 

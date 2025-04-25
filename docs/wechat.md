@@ -1,4 +1,4 @@
-> Updated on 2025.04.24
+> Updated on 2025.04.25
 
 ## Autonomous_Driving_Planning
 
@@ -16,14 +16,13 @@
 - 2025-04-22, **RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**, Qichao Liu et.al., Paper: [http://arxiv.org/abs/2504.15541v1](http://arxiv.org/abs/2504.15541v1)
 - 2025-04-19, **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**, Xie Liang et.al., Paper: [http://arxiv.org/abs/2504.14240v1](http://arxiv.org/abs/2504.14240v1)
 - 2025-04-18, **LMPOcc: 3D Semantic Occupancy Prediction Utilizing Long-Term Memory Prior from Historical Traversals**, Shanshuai Yuan et.al., Paper: [http://arxiv.org/abs/2504.13596v1](http://arxiv.org/abs/2504.13596v1)
-- 2025-04-18, **Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**, Shashank Shriram et.al., Paper: [http://arxiv.org/abs/2504.13399v1](http://arxiv.org/abs/2504.13399v1), Code: **[https://github.com/mi3labucm/coooler](https://github.com/mi3labucm/coooler)**
 
 ## Autonomous_Driving_Decision
 
 - 2025-04-23, **Circinus: Efficient Query Planner for Compound ML Serving**, Banruo Liu et.al., Paper: [http://arxiv.org/abs/2504.16397v1](http://arxiv.org/abs/2504.16397v1)
 - 2025-04-23, **SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**, Qu Weiming et.al., Paper: [http://arxiv.org/abs/2504.16377v1](http://arxiv.org/abs/2504.16377v1)
 - 2025-04-22, **RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**, Qichao Liu et.al., Paper: [http://arxiv.org/abs/2504.15541v1](http://arxiv.org/abs/2504.15541v1)
-- 2025-04-20, **Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**, Linkun Liu et.al., Paper: [http://arxiv.org/abs/2504.14539v1](http://arxiv.org/abs/2504.14539v1)
+- 2025-04-24, **Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**, Linkun Liu et.al., Paper: [http://arxiv.org/abs/2504.14539v2](http://arxiv.org/abs/2504.14539v2)
 - 2025-04-18, **Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**, Haoxiang Tian et.al., Paper: [http://arxiv.org/abs/2504.13420v1](http://arxiv.org/abs/2504.13420v1)
 
 ## Autonomous_Driving_E2E
@@ -34,7 +33,6 @@
 
 - 2025-04-23, **Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**, Lirui Guo et.al., Paper: [http://arxiv.org/abs/2504.16548v1](http://arxiv.org/abs/2504.16548v1)
 - 2025-04-19, **A Knowledge-Informed Deep Learning Paradigm for Generalizable and Stability-Optimized Car-Following Models**, Chengming Wang et.al., Paper: [http://arxiv.org/abs/2504.14241v1](http://arxiv.org/abs/2504.14241v1)
-- 2025-04-18, **Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**, Shashank Shriram et.al., Paper: [http://arxiv.org/abs/2504.13399v1](http://arxiv.org/abs/2504.13399v1), Code: **[https://github.com/mi3labucm/coooler](https://github.com/mi3labucm/coooler)**
 
 ## World_Model
 
