@@ -33,7 +33,6 @@ layout: default
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16397v1-b31b1b.svg)](http://arxiv.org/abs/2504.16397v1)|null|
 |**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16377v1-b31b1b.svg)](http://arxiv.org/abs/2504.16377v1)|null|
 |**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15541v1-b31b1b.svg)](http://arxiv.org/abs/2504.15541v1)|null|
-|**2025-04-24**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14539v2-b31b1b.svg)](http://arxiv.org/abs/2504.14539v2)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -53,5 +52,4 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.16923v1-b31b1b.svg)](http://arxiv.org/abs/2504.16923v1)|null|
 |**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.15776v1-b31b1b.svg)](http://arxiv.org/abs/2504.15776v1)|null|
-|**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.14526v1-b31b1b.svg)](http://arxiv.org/abs/2504.14526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tong-zeng/dvbench)**|
 

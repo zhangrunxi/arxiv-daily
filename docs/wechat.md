@@ -23,7 +23,6 @@
 - 2025-04-23, **Circinus: Efficient Query Planner for Compound ML Serving**, Banruo Liu et.al., Paper: [http://arxiv.org/abs/2504.16397v1](http://arxiv.org/abs/2504.16397v1)
 - 2025-04-23, **SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**, Qu Weiming et.al., Paper: [http://arxiv.org/abs/2504.16377v1](http://arxiv.org/abs/2504.16377v1)
 - 2025-04-22, **RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**, Qichao Liu et.al., Paper: [http://arxiv.org/abs/2504.15541v1](http://arxiv.org/abs/2504.15541v1)
-- 2025-04-24, **Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**, Linkun Liu et.al., Paper: [http://arxiv.org/abs/2504.14539v2](http://arxiv.org/abs/2504.14539v2)
 
 ## Autonomous_Driving_E2E
 
@@ -37,5 +36,4 @@
 
 - 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
 - 2025-04-22, **Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**, Quentin Herau et.al., Paper: [http://arxiv.org/abs/2504.15776v1](http://arxiv.org/abs/2504.15776v1)
-- 2025-04-20, **Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**, Tong Zeng et.al., Paper: [http://arxiv.org/abs/2504.14526v1](http://arxiv.org/abs/2504.14526v1), Code: **[https://github.com/tong-zeng/dvbench](https://github.com/tong-zeng/dvbench)**
 
