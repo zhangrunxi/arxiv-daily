@@ -1,17 +1,16 @@
-> Updated on 2025.04.27
+> Updated on 2025.04.28
 
 ## Autonomous_Driving_Planning
 
 - 2025-04-24, **Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**, Juan Carlos Climent Pardo et.al., Paper: [http://arxiv.org/abs/2504.17534v1](http://arxiv.org/abs/2504.17534v1)
-- 2025-04-24, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371v1](http://arxiv.org/abs/2504.17371v1)
+- 2025-04-25, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371v2](http://arxiv.org/abs/2504.17371v2)
 - 2025-04-23, **Circinus: Efficient Query Planner for Compound ML Serving**, Banruo Liu et.al., Paper: [http://arxiv.org/abs/2504.16397v1](http://arxiv.org/abs/2504.16397v1)
 - 2025-04-23, **SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**, Qu Weiming et.al., Paper: [http://arxiv.org/abs/2504.16377v1](http://arxiv.org/abs/2504.16377v1)
 - 2025-04-22, **Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**, Tobias Demmler et.al., Paper: [http://arxiv.org/abs/2504.15766v1](http://arxiv.org/abs/2504.15766v1)
-- 2025-04-20, **Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**, Qinghao Li et.al., Paper: [http://arxiv.org/abs/2504.14747v1](http://arxiv.org/abs/2504.14747v1)
 
 ## Autonomous_Driving_Prediction
 
-- 2025-04-24, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371v1](http://arxiv.org/abs/2504.17371v1)
+- 2025-04-25, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371v2](http://arxiv.org/abs/2504.17371v2)
 - 2025-04-24, **Improving Human-Autonomous Vehicle Interaction in Complex Systems**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2504.17170v1](http://arxiv.org/abs/2504.17170v1)
 - 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
 - 2025-04-23, **SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**, Qu Weiming et.al., Paper: [http://arxiv.org/abs/2504.16377v1](http://arxiv.org/abs/2504.16377v1)
