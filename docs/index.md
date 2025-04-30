@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 
 ## Autonomous_Driving_Planning
 
@@ -71,7 +71,6 @@ layout: default
 |**2025-04-27**|**CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19223v1-b31b1b.svg)](http://arxiv.org/abs/2504.19223v1)|null|
 |**2025-04-26**|**Imitation Learning for Autonomous Driving: Insights from Real-World Testing**|Hidayet Ersin Dursun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18847v1-b31b1b.svg)](http://arxiv.org/abs/2504.18847v1)|null|
 |**2025-04-26**|**Zero-Day Botnet Attack Detection in IoV: A Modular Approach Using Isolation Forests and Particle Swarm Optimization**|Abdelaziz Amara korba et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18814v1-b31b1b.svg)](http://arxiv.org/abs/2504.18814v1)|null|
-|**2025-04-22**|**DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment**|Xiaofan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18576v1-b31b1b.svg)](http://arxiv.org/abs/2504.18576v1)|null|
 |**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18190v1-b31b1b.svg)](http://arxiv.org/abs/2504.18190v1)|null|
 |**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18010v1-b31b1b.svg)](http://arxiv.org/abs/2504.18010v1)|null|
 |**2025-04-24**|**Virtual Roads, Smarter Safety: A Digital Twin Framework for Mixed Autonomous Traffic Safety Analysis**|Hao Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17968v1-b31b1b.svg)](http://arxiv.org/abs/2504.17968v1)|null|
