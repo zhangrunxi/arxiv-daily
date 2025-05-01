@@ -7,7 +7,6 @@
 |**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19580v1-b31b1b.svg)](http://arxiv.org/abs/2504.19580v1)|null|
 |**2025-04-25**|**The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**|Zalán Demeter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.18439v1-b31b1b.svg)](http://arxiv.org/abs/2504.18439v1)|null|
 |**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17838v1-b31b1b.svg)](http://arxiv.org/abs/2504.17838v1)|null|
-|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.17534v1-b31b1b.svg)](http://arxiv.org/abs/2504.17534v1)|null|
 
 ## Autonomous_Driving_Prediction
 
