@@ -1,4 +1,4 @@
-> Updated on 2025.04.30
+> Updated on 2025.05.01
 
 ## Autonomous_Driving_Planning
 
@@ -15,8 +15,6 @@
 - 2025-04-26, **Imitation Learning for Autonomous Driving: Insights from Real-World Testing**, Hidayet Ersin Dursun et.al., Paper: [http://arxiv.org/abs/2504.18847v1](http://arxiv.org/abs/2504.18847v1)
 - 2025-04-26, **Depth as Points: Center Point-based Depth Estimation**, Zhiheng Tu et.al., Paper: [http://arxiv.org/abs/2504.18773v1](http://arxiv.org/abs/2504.18773v1)
 - 2025-04-25, **Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**, Oussema Dhaouadi et.al., Paper: [http://arxiv.org/abs/2504.17371v2](http://arxiv.org/abs/2504.17371v2)
-- 2025-04-24, **Improving Human-Autonomous Vehicle Interaction in Complex Systems**, Robert Kaufman et.al., Paper: [http://arxiv.org/abs/2504.17170v1](http://arxiv.org/abs/2504.17170v1)
-- 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
 
 ## Autonomous_Driving_Decision
 
@@ -55,5 +53,4 @@
 - 2025-04-25, **What is the Added Value of UDA in the VFM Era?**, Brunó B. Englert et.al., Paper: [http://arxiv.org/abs/2504.18190v1](http://arxiv.org/abs/2504.18190v1)
 - 2025-04-25, **Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**, Zilin Huang et.al., Paper: [http://arxiv.org/abs/2504.18010v1](http://arxiv.org/abs/2504.18010v1)
 - 2025-04-24, **Virtual Roads, Smarter Safety: A Digital Twin Framework for Mixed Autonomous Traffic Safety Analysis**, Hao Zhang et.al., Paper: [http://arxiv.org/abs/2504.17968v1](http://arxiv.org/abs/2504.17968v1)
-- 2025-04-23, **Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**, Jacob Levy et.al., Paper: [http://arxiv.org/abs/2504.16923v1](http://arxiv.org/abs/2504.16923v1)
 
