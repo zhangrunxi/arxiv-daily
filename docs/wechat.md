@@ -10,8 +10,6 @@
 - 2025-05-01, **LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**, Zhijie Qiao et.al., Paper: [http://arxiv.org/abs/2505.00284v1](http://arxiv.org/abs/2505.00284v1)
 - 2025-04-28, **Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**, Jing Wang et.al., Paper: [http://arxiv.org/abs/2504.20004v1](http://arxiv.org/abs/2504.20004v1)
 - 2025-04-28, **Lifecycle Management of Optical Networks with Dynamic-Updating Digital Twin: A Hybrid Data-Driven and Physics-Informed Approach**, Yuchen Song et.al., Paper: [http://arxiv.org/abs/2504.19564v1](http://arxiv.org/abs/2504.19564v1)
-- 2025-04-26, **Imitation Learning for Autonomous Driving: Insights from Real-World Testing**, Hidayet Ersin Dursun et.al., Paper: [http://arxiv.org/abs/2504.18847v1](http://arxiv.org/abs/2504.18847v1)
-- 2025-04-26, **Depth as Points: Center Point-based Depth Estimation**, Zhiheng Tu et.al., Paper: [http://arxiv.org/abs/2504.18773v1](http://arxiv.org/abs/2504.18773v1)
 
 ## Autonomous_Driving_Decision
 
@@ -28,7 +26,6 @@
 - 2025-04-29, **Neural Stereo Video Compression with Hybrid Disparity Compensation**, Shiyin Jiang et.al., Paper: [http://arxiv.org/abs/2504.20383v1](http://arxiv.org/abs/2504.20383v1)
 - 2025-04-28, **Transforming Evidence Synthesis: A Systematic Review of the Evolution of Automated Meta-Analysis in the Age of AI**, Lingbo Li et.al., Paper: [http://arxiv.org/abs/2504.20113v1](http://arxiv.org/abs/2504.20113v1)
 - 2025-04-28, **ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**, Renju Feng et.al., Paper: [http://arxiv.org/abs/2504.19580v1](http://arxiv.org/abs/2504.19580v1)
-- 2025-04-26, **Imitation Learning for Autonomous Driving: Insights from Real-World Testing**, Hidayet Ersin Dursun et.al., Paper: [http://arxiv.org/abs/2504.18847v1](http://arxiv.org/abs/2504.18847v1)
 
 ## Autonomous_Driving_LLM
 
@@ -52,6 +49,4 @@
 - 2025-04-28, **The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**, Rupert Polley et.al., Paper: [http://arxiv.org/abs/2504.19722v1](http://arxiv.org/abs/2504.19722v1)
 - 2025-04-28, **Open-set Anomaly Segmentation in Complex Scenarios**, Song Xia et.al., Paper: [http://arxiv.org/abs/2504.19706v1](http://arxiv.org/abs/2504.19706v1)
 - 2025-04-27, **CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**, Alexander Baumann et.al., Paper: [http://arxiv.org/abs/2504.19223v1](http://arxiv.org/abs/2504.19223v1)
-- 2025-04-26, **Imitation Learning for Autonomous Driving: Insights from Real-World Testing**, Hidayet Ersin Dursun et.al., Paper: [http://arxiv.org/abs/2504.18847v1](http://arxiv.org/abs/2504.18847v1)
-- 2025-04-26, **Zero-Day Botnet Attack Detection in IoV: A Modular Approach Using Isolation Forests and Particle Swarm Optimization**, Abdelaziz Amara korba et.al., Paper: [http://arxiv.org/abs/2504.18814v1](http://arxiv.org/abs/2504.18814v1)
 
