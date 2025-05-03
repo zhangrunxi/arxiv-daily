@@ -1,9 +1,8 @@
-> Updated on 2025.05.02
+> Updated on 2025.05.03
 
 ## Autonomous_Driving_Planning
 
 - 2025-04-28, **ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**, Renju Feng et.al., Paper: [http://arxiv.org/abs/2504.19580v1](http://arxiv.org/abs/2504.19580v1)
-- 2025-04-25, **The Autonomous Software Stack of the FRED-003C: The Development That Led to Full-Scale Autonomous Racing**, Zalán Demeter et.al., Paper: [http://arxiv.org/abs/2504.18439v1](http://arxiv.org/abs/2504.18439v1)
 
 ## Autonomous_Driving_Prediction
 
