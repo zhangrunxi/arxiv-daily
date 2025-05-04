@@ -61,5 +61,4 @@
 |**2025-04-29**|**Automated Parking Trajectory Generation Using Deep Reinforcement Learning**|Zheyu Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.21071v1-b31b1b.svg)](http://arxiv.org/abs/2504.21071v1)|null|
 |**2025-04-28**|**The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**|Rupert Polley et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19722v1-b31b1b.svg)](http://arxiv.org/abs/2504.19722v1)|null|
 |**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19706v1-b31b1b.svg)](http://arxiv.org/abs/2504.19706v1)|null|
-|**2025-04-27**|**CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis**|Alexander Baumann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19223v1-b31b1b.svg)](http://arxiv.org/abs/2504.19223v1)|null|
 
