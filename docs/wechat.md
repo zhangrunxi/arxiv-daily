@@ -32,7 +32,6 @@
 - 2025-04-30, **V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**, Jannik Lübberstedt et.al., Paper: [http://arxiv.org/abs/2505.00156v1](http://arxiv.org/abs/2505.00156v1)
 - 2025-04-29, **Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**, Yanzhe Hu et.al., Paper: [http://arxiv.org/abs/2504.20763v1](http://arxiv.org/abs/2504.20763v1)
 - 2025-04-28, **Transforming Evidence Synthesis: A Systematic Review of the Evolution of Automated Meta-Analysis in the Age of AI**, Lingbo Li et.al., Paper: [http://arxiv.org/abs/2504.20113v1](http://arxiv.org/abs/2504.20113v1)
-- 2025-04-27, **Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**, Mi Zheng et.al., Paper: [http://arxiv.org/abs/2504.19183v1](http://arxiv.org/abs/2504.19183v1)
 
 ## Autonomous_Driving_RL
 

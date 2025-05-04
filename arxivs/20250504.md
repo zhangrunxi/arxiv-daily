@@ -42,7 +42,6 @@
 |**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00156v1-b31b1b.svg)](http://arxiv.org/abs/2505.00156v1)|null|
 |**2025-04-29**|**Understanding Large Language Model Supply Chain: Structure, Domain, and Vulnerabilities**|Yanzhe Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20763v1-b31b1b.svg)](http://arxiv.org/abs/2504.20763v1)|null|
 |**2025-04-28**|**Transforming Evidence Synthesis: A Systematic Review of the Evolution of Automated Meta-Analysis in the Age of AI**|Lingbo Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20113v1-b31b1b.svg)](http://arxiv.org/abs/2504.20113v1)|null|
-|**2025-04-27**|**Segmenting Objectiveness and Task-awareness Unknown Region for Autonomous Driving**|Mi Zheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.19183v1-b31b1b.svg)](http://arxiv.org/abs/2504.19183v1)|null|
 
 ## Autonomous_Driving_RL
 
