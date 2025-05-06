@@ -40,7 +40,6 @@ layout: default
 |**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
 |**2025-05-03**|**T-REX: Vision-Based System for Autonomous Leaf Detection and Grasp Estimation**|Srecharan Selvam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01654v1-b31b1b.svg)](http://arxiv.org/abs/2505.01654v1)|null|
 |**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Zhijie Qiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00284v1-b31b1b.svg)](http://arxiv.org/abs/2505.00284v1)|null|
-|**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2504.20383v1-b31b1b.svg)](http://arxiv.org/abs/2504.20383v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -66,7 +65,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Shangzhe Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02228v1-b31b1b.svg)](http://arxiv.org/abs/2505.02228v1)|null|
 |**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
-|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01893v1-b31b1b.svg)](http://arxiv.org/abs/2505.01893v1)|null|
+|**2025-05-03**|**DriveNetBench: An Affordable and Configurable Single-Camera Benchmarking System for Autonomous Driving Networks**|Ali Al-Bustami et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01893v1-b31b1b.svg)](http://arxiv.org/abs/2505.01893v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alibustami/DriveNetBench)**|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01729v1-b31b1b.svg)](http://arxiv.org/abs/2505.01729v1)|null|
 |**2025-04-29**|**Waymo Driverless Car Data Analysis and Driving Modeling using CNN and LSTM**|Aashish Kumar Misraa et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01446v1-b31b1b.svg)](http://arxiv.org/abs/2505.01446v1)|null|
 |**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01094v1-b31b1b.svg)](http://arxiv.org/abs/2505.01094v1)|null|
