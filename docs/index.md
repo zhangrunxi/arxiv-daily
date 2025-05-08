@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 
 ## Autonomous_Driving_Planning
 
@@ -30,7 +30,6 @@ layout: default
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
 |**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
 |**2025-05-03**|**Human-AI Governance (HAIG): A Trust-Utility Approach**|Zeynep Engin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01651v1-b31b1b.svg)](http://arxiv.org/abs/2505.01651v1)|null|
-|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00156v1-b31b1b.svg)](http://arxiv.org/abs/2505.00156v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -49,7 +48,6 @@ layout: default
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
 |**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01821v1-b31b1b.svg)](http://arxiv.org/abs/2505.01821v1)|null|
 |**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00972v1-b31b1b.svg)](http://arxiv.org/abs/2505.00972v1)|null|
-|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Jannik Lübberstedt et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.00156v1-b31b1b.svg)](http://arxiv.org/abs/2505.00156v1)|null|
 
 ## Autonomous_Driving_RL
 
