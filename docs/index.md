@@ -12,7 +12,6 @@ layout: default
 |**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
 |**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03695v1-b31b1b.svg)](http://arxiv.org/abs/2505.03695v1)|null|
 |**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
-|**2025-05-03**|**T-REX: Vision-Based System for Autonomous Leaf Detection and Grasp Estimation**|Srecharan Selvam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01654v1-b31b1b.svg)](http://arxiv.org/abs/2505.01654v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -36,7 +35,6 @@ layout: default
 |**2025-05-06**|**Moral Testing of Autonomous Driving Systems**|Wenbing Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03683v1-b31b1b.svg)](http://arxiv.org/abs/2505.03683v1)|null|
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
 |**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
-|**2025-05-03**|**Human-AI Governance (HAIG): A Trust-Utility Approach**|Zeynep Engin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01651v1-b31b1b.svg)](http://arxiv.org/abs/2505.01651v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -46,7 +44,6 @@ layout: default
 |**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05098v1-b31b1b.svg)](http://arxiv.org/abs/2505.05098v1)|null|
 |**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04526v1-b31b1b.svg)](http://arxiv.org/abs/2505.04526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davin-qi530/dfvo)**|
 |**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
-|**2025-05-03**|**T-REX: Vision-Based System for Autonomous Leaf Detection and Grasp Estimation**|Srecharan Selvam et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01654v1-b31b1b.svg)](http://arxiv.org/abs/2505.01654v1)|null|
 
 ## Autonomous_Driving_LLM
 
