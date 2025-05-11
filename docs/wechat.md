@@ -1,11 +1,10 @@
-> Updated on 2025.05.10
+> Updated on 2025.05.11
 
 ## Autonomous_Driving_Planning
 
 - 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
 - 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
 - 2025-05-06, **Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**, Faizan M. Tariq et.al., Paper: [http://arxiv.org/abs/2505.03695v1](http://arxiv.org/abs/2505.03695v1)
-- 2025-05-03, **PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**, Trisanth Srinivasan et.al., Paper: [http://arxiv.org/abs/2505.01881v1](http://arxiv.org/abs/2505.01881v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -14,8 +13,6 @@
 - 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
 - 2025-05-07, **Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**, Xuyang Wang et.al., Paper: [http://arxiv.org/abs/2505.04046v1](http://arxiv.org/abs/2505.04046v1)
 - 2025-05-06, **Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**, Kanghyun Jo et.al., Paper: [http://arxiv.org/abs/2505.03315v1](http://arxiv.org/abs/2505.03315v1)
-- 2025-05-03, **Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**, Hamzah I. Khan et.al., Paper: [http://arxiv.org/abs/2505.01945v1](http://arxiv.org/abs/2505.01945v1)
-- 2025-05-03, **PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**, Trisanth Srinivasan et.al., Paper: [http://arxiv.org/abs/2505.01881v1](http://arxiv.org/abs/2505.01881v1)
 
 ## Autonomous_Driving_Decision
 
@@ -24,21 +21,18 @@
 - 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
 - 2025-05-06, **Moral Testing of Autonomous Driving Systems**, Wenbing Tang et.al., Paper: [http://arxiv.org/abs/2505.03683v1](http://arxiv.org/abs/2505.03683v1)
 - 2025-05-04, **DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**, Xinmeng Hou et.al., Paper: [http://arxiv.org/abs/2505.02123v1](http://arxiv.org/abs/2505.02123v1)
-- 2025-05-03, **PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**, Trisanth Srinivasan et.al., Paper: [http://arxiv.org/abs/2505.01881v1](http://arxiv.org/abs/2505.01881v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
 - 2025-05-07, **DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**, Qi Zhou et.al., Paper: [http://arxiv.org/abs/2505.04526v1](http://arxiv.org/abs/2505.04526v1), Code: **[https://github.com/davin-qi530/dfvo](https://github.com/davin-qi530/dfvo)**
-- 2025-05-03, **Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**, Hamzah I. Khan et.al., Paper: [http://arxiv.org/abs/2505.01945v1](http://arxiv.org/abs/2505.01945v1)
 
 ## Autonomous_Driving_LLM
 
 - 2025-05-06, **Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**, Kanghyun Jo et.al., Paper: [http://arxiv.org/abs/2505.03315v1](http://arxiv.org/abs/2505.03315v1)
 - 2025-05-06, **RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.03238v1](http://arxiv.org/abs/2505.03238v1)
 - 2025-05-04, **DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**, Xinmeng Hou et.al., Paper: [http://arxiv.org/abs/2505.02123v1](http://arxiv.org/abs/2505.02123v1)
-- 2025-05-03, **Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**, Jing Liu et.al., Paper: [http://arxiv.org/abs/2505.01821v1](http://arxiv.org/abs/2505.01821v1)
 
 ## Autonomous_Driving_RL
 

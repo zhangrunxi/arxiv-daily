@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.10
+## Updated on 2025.05.11
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@ layout: default
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04980v1-b31b1b.svg)](http://arxiv.org/abs/2505.04980v1)|null|
 |**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
 |**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03695v1-b31b1b.svg)](http://arxiv.org/abs/2505.03695v1)|null|
-|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -22,8 +21,6 @@ layout: default
 |**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
 |**2025-05-07**|**Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks**|Xuyang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04046v1-b31b1b.svg)](http://arxiv.org/abs/2505.04046v1)|null|
 |**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03315v1-b31b1b.svg)](http://arxiv.org/abs/2505.03315v1)|null|
-|**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
-|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +31,6 @@ layout: default
 |**2025-05-07**|**Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**|Taoyuan Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04231v1-b31b1b.svg)](http://arxiv.org/abs/2505.04231v1)|null|
 |**2025-05-06**|**Moral Testing of Autonomous Driving Systems**|Wenbing Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03683v1-b31b1b.svg)](http://arxiv.org/abs/2505.03683v1)|null|
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
-|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01881v1-b31b1b.svg)](http://arxiv.org/abs/2505.01881v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -43,7 +39,6 @@ layout: default
 |**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05223v1-b31b1b.svg)](http://arxiv.org/abs/2505.05223v1)|null|
 |**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05098v1-b31b1b.svg)](http://arxiv.org/abs/2505.05098v1)|null|
 |**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04526v1-b31b1b.svg)](http://arxiv.org/abs/2505.04526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davin-qi530/dfvo)**|
-|**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|Hamzah I. Khan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01945v1-b31b1b.svg)](http://arxiv.org/abs/2505.01945v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -52,7 +47,6 @@ layout: default
 |**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03315v1-b31b1b.svg)](http://arxiv.org/abs/2505.03315v1)|null|
 |**2025-05-06**|**RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**|Liam Boyle et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03238v1-b31b1b.svg)](http://arxiv.org/abs/2505.03238v1)|null|
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.02123v1-b31b1b.svg)](http://arxiv.org/abs/2505.02123v1)|null|
-|**2025-05-03**|**Edge-Cloud Collaborative Computing on Distributed Intelligence and Model Optimization: A Survey**|Jing Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.01821v1-b31b1b.svg)](http://arxiv.org/abs/2505.01821v1)|null|
 
 ## Autonomous_Driving_RL
 
