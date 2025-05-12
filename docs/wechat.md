@@ -1,4 +1,4 @@
-> Updated on 2025.05.11
+> Updated on 2025.05.12
 
 ## Autonomous_Driving_Planning
 
@@ -20,7 +20,6 @@
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
 - 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
 - 2025-05-06, **Moral Testing of Autonomous Driving Systems**, Wenbing Tang et.al., Paper: [http://arxiv.org/abs/2505.03683v1](http://arxiv.org/abs/2505.03683v1)
-- 2025-05-04, **DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**, Xinmeng Hou et.al., Paper: [http://arxiv.org/abs/2505.02123v1](http://arxiv.org/abs/2505.02123v1)
 
 ## Autonomous_Driving_E2E
 
@@ -32,7 +31,6 @@
 
 - 2025-05-06, **Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**, Kanghyun Jo et.al., Paper: [http://arxiv.org/abs/2505.03315v1](http://arxiv.org/abs/2505.03315v1)
 - 2025-05-06, **RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.03238v1](http://arxiv.org/abs/2505.03238v1)
-- 2025-05-04, **DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**, Xinmeng Hou et.al., Paper: [http://arxiv.org/abs/2505.02123v1](http://arxiv.org/abs/2505.02123v1)
 
 ## Autonomous_Driving_RL
 
@@ -52,5 +50,4 @@
 - 2025-05-06, **RobotxR1: Enabling Embodied Robotic Intelligence on Large Language Models through Closed-Loop Reinforcement Learning**, Liam Boyle et.al., Paper: [http://arxiv.org/abs/2505.03238v1](http://arxiv.org/abs/2505.03238v1)
 - 2025-05-06, **RADE: Learning Risk-Adjustable Driving Environment via Multi-Agent Conditional Diffusion**, Jiawei Wang et.al., Paper: [http://arxiv.org/abs/2505.03178v1](http://arxiv.org/abs/2505.03178v1)
 - 2025-05-06, **VISLIX: An XAI Framework for Validating Vision Models with Slice Discovery and Analysis**, Xinyuan Yan et.al., Paper: [http://arxiv.org/abs/2505.03132v1](http://arxiv.org/abs/2505.03132v1)
-- 2025-05-04, **Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**, Shangzhe Li et.al., Paper: [http://arxiv.org/abs/2505.02228v1](http://arxiv.org/abs/2505.02228v1)
 
