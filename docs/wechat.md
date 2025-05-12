@@ -8,6 +8,8 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2025-05-09, **Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**, Francesco Prignoli et.al., Paper: [http://arxiv.org/abs/2505.05933v1](http://arxiv.org/abs/2505.05933v1)
+- 2025-05-08, **Closing the Loop: Motion Prediction Models beyond Open-Loop Benchmarks**, Mohamed-Khalil Bouzidi et.al., Paper: [http://arxiv.org/abs/2505.05638v1](http://arxiv.org/abs/2505.05638v1)
 - 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
 - 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
 - 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
@@ -16,6 +18,7 @@
 
 ## Autonomous_Driving_Decision
 
+- 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
 - 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
@@ -34,6 +37,7 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
 - 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
 - 2025-05-06, **RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**, Keyu Chen et.al., Paper: [http://arxiv.org/abs/2505.03344v1](http://arxiv.org/abs/2505.03344v1)
@@ -41,6 +45,7 @@
 
 ## World_Model
 
+- 2025-05-09, **Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**, Francesco Prignoli et.al., Paper: [http://arxiv.org/abs/2505.05933v1](http://arxiv.org/abs/2505.05933v1)
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
 - 2025-05-07, **Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**, Yuqiu Liu et.al., Paper: [http://arxiv.org/abs/2505.04662v1](http://arxiv.org/abs/2505.04662v1)
