@@ -13,7 +13,6 @@ layout: default
 |**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07417v1-b31b1b.svg)](http://arxiv.org/abs/2505.07417v1)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06746v1-b31b1b.svg)](http://arxiv.org/abs/2505.06746v1)|null|
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04980v1-b31b1b.svg)](http://arxiv.org/abs/2505.04980v1)|null|
-|**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
 
 ## Autonomous_Driving_Prediction
 

@@ -7,7 +7,6 @@
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
-- 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
 
 ## Autonomous_Driving_Prediction
 
