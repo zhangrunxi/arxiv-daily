@@ -2,6 +2,8 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-05-13, **Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**, Jason Zalev et.al., Paper: [http://arxiv.org/abs/2505.08724v1](http://arxiv.org/abs/2505.08724v1)
+- 2025-05-08, **A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**, Shuqi Shen et.al., Paper: [http://arxiv.org/abs/2505.07855v1](http://arxiv.org/abs/2505.07855v1)
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
@@ -22,6 +24,8 @@
 
 ## Autonomous_Driving_Decision
 
+- 2025-05-13, **Explaining Autonomous Vehicles with Intention-aware Policy Graphs**, Sara Montese et.al., Paper: [http://arxiv.org/abs/2505.08404v1](http://arxiv.org/abs/2505.08404v1)
+- 2025-05-13, **A Practical Introduction to Deep Reinforcement Learning**, Yinghan Sun et.al., Paper: [http://arxiv.org/abs/2505.08295v1](http://arxiv.org/abs/2505.08295v1)
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
@@ -30,11 +34,11 @@
 - 2025-05-09, **Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**, Ming Liu et.al., Paper: [http://arxiv.org/abs/2505.06413v1](http://arxiv.org/abs/2505.06413v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
-- 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
-- 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
 
 ## Autonomous_Driving_E2E
 
+- 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
+- 2025-05-08, **A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**, Shuqi Shen et.al., Paper: [http://arxiv.org/abs/2505.07855v1](http://arxiv.org/abs/2505.07855v1)
 - 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-13, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v2](http://arxiv.org/abs/2505.06780v2)
@@ -43,7 +47,6 @@
 - 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1), Code: **[https://github.com/comp-hci-lab/conversationalXAV](https://github.com/comp-hci-lab/conversationalXAV)**
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
-- 2025-05-07, **DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**, Qi Zhou et.al., Paper: [http://arxiv.org/abs/2505.04526v1](http://arxiv.org/abs/2505.04526v1), Code: **[https://github.com/davin-qi530/dfvo](https://github.com/davin-qi530/dfvo)**
 
 ## Autonomous_Driving_LLM
 
@@ -51,15 +54,18 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-05-13, **A Practical Introduction to Deep Reinforcement Learning**, Yinghan Sun et.al., Paper: [http://arxiv.org/abs/2505.08295v1](http://arxiv.org/abs/2505.08295v1)
+- 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
 - 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
-- 2025-05-07, **Multi-Agent Reinforcement Learning-based Cooperative Autonomous Driving in Smart Intersections**, Taoyuan Yu et.al., Paper: [http://arxiv.org/abs/2505.04231v1](http://arxiv.org/abs/2505.04231v1)
 
 ## World_Model
 
+- 2025-05-13, **Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**, Unai Gurbindo et.al., Paper: [http://arxiv.org/abs/2505.08228v1](http://arxiv.org/abs/2505.08228v1)
+- 2025-05-08, **A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**, Shuqi Shen et.al., Paper: [http://arxiv.org/abs/2505.07855v1](http://arxiv.org/abs/2505.07855v1)
 - 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
 - 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1)
 - 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
@@ -68,6 +74,4 @@
 - 2025-05-09, **Priority-Driven Safe Model Predictive Control Approach to Autonomous Driving Applications**, Francesco Prignoli et.al., Paper: [http://arxiv.org/abs/2505.05933v1](http://arxiv.org/abs/2505.05933v1)
 - 2025-05-08, **3D Scene Generation: A Survey**, Beichen Wen et.al., Paper: [http://arxiv.org/abs/2505.05474v1](http://arxiv.org/abs/2505.05474v1), Code: **[https://github.com/hzxie/awesome-3d-scene-generation](https://github.com/hzxie/awesome-3d-scene-generation)**
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
-- 2025-05-07, **Crafting Physical Adversarial Examples by Combining Differentiable and Physically Based Renders**, Yuqiu Liu et.al., Paper: [http://arxiv.org/abs/2505.04662v1](http://arxiv.org/abs/2505.04662v1)
-- 2025-05-07, **Verification of Digital Twins using Classical and Statistical Model Checking**, Raghavendran Gunasekaran et.al., Paper: [http://arxiv.org/abs/2505.04322v1](http://arxiv.org/abs/2505.04322v1)
 
