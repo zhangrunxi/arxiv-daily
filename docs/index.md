@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 
 ## Autonomous_Driving_Planning
 
@@ -12,7 +12,6 @@ layout: default
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06746v1-b31b1b.svg)](http://arxiv.org/abs/2505.06746v1)|null|
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Kazuki Atsuta et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04980v1-b31b1b.svg)](http://arxiv.org/abs/2505.04980v1)|null|
 |**2025-05-07**|**Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**|Petr Jahoda et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04392v1-b31b1b.svg)](http://arxiv.org/abs/2505.04392v1)|null|
-|**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.03695v1-b31b1b.svg)](http://arxiv.org/abs/2505.03695v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -37,7 +36,7 @@ layout: default
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06875v1-b31b1b.svg)](http://arxiv.org/abs/2505.06875v1)|null|
 |**2025-05-10**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06737v1-b31b1b.svg)](http://arxiv.org/abs/2505.06737v1)|null|
 |**2025-05-10**|**A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**|Linxuan Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06680v1-b31b1b.svg)](http://arxiv.org/abs/2505.06680v1)|null|
-|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06428v1-b31b1b.svg)](http://arxiv.org/abs/2505.06428v1)|null|
+|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06428v1-b31b1b.svg)](http://arxiv.org/abs/2505.06428v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comp-hci-lab/conversationalXAV)**|
 |**2025-05-09**|**Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**|Ming Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06413v1-b31b1b.svg)](http://arxiv.org/abs/2505.06413v1)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06218v1-b31b1b.svg)](http://arxiv.org/abs/2505.06218v1)|null|
 |**2025-05-08**|**PADriver: Towards Personalized Autonomous Driving**|Genghua Kou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05240v1-b31b1b.svg)](http://arxiv.org/abs/2505.05240v1)|null|
@@ -50,10 +49,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v1-b31b1b.svg)](http://arxiv.org/abs/2505.07634v1)|null|
 |**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07417v1-b31b1b.svg)](http://arxiv.org/abs/2505.07417v1)|null|
-|**2025-05-10**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06780v1-b31b1b.svg)](http://arxiv.org/abs/2505.06780v1)|null|
+|**2025-05-13**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06780v2-b31b1b.svg)](http://arxiv.org/abs/2505.06780v2)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06746v1-b31b1b.svg)](http://arxiv.org/abs/2505.06746v1)|null|
 |**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06515v1-b31b1b.svg)](http://arxiv.org/abs/2505.06515v1)|null|
-|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06428v1-b31b1b.svg)](http://arxiv.org/abs/2505.06428v1)|null|
+|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06428v1-b31b1b.svg)](http://arxiv.org/abs/2505.06428v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comp-hci-lab/conversationalXAV)**|
 |**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05223v1-b31b1b.svg)](http://arxiv.org/abs/2505.05223v1)|null|
 |**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Wei Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05098v1-b31b1b.svg)](http://arxiv.org/abs/2505.05098v1)|null|
 |**2025-05-07**|**DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**|Qi Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.04526v1-b31b1b.svg)](http://arxiv.org/abs/2505.04526v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davin-qi530/dfvo)**|

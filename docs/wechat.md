@@ -1,4 +1,4 @@
-> Updated on 2025.05.13
+> Updated on 2025.05.14
 
 ## Autonomous_Driving_Planning
 
@@ -6,7 +6,6 @@
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-08, **LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**, Kazuki Atsuta et.al., Paper: [http://arxiv.org/abs/2505.04980v1](http://arxiv.org/abs/2505.04980v1)
 - 2025-05-07, **Predicting Road Surface Anomalies by Visual Tracking of a Preceding Vehicle**, Petr Jahoda et.al., Paper: [http://arxiv.org/abs/2505.04392v1](http://arxiv.org/abs/2505.04392v1)
-- 2025-05-06, **Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**, Faizan M. Tariq et.al., Paper: [http://arxiv.org/abs/2505.03695v1](http://arxiv.org/abs/2505.03695v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -27,7 +26,7 @@
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
 - 2025-05-10, **A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**, Linxuan Huang et.al., Paper: [http://arxiv.org/abs/2505.06680v1](http://arxiv.org/abs/2505.06680v1)
-- 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1)
+- 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1), Code: **[https://github.com/comp-hci-lab/conversationalXAV](https://github.com/comp-hci-lab/conversationalXAV)**
 - 2025-05-09, **Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**, Ming Liu et.al., Paper: [http://arxiv.org/abs/2505.06413v1](http://arxiv.org/abs/2505.06413v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 - 2025-05-08, **PADriver: Towards Personalized Autonomous Driving**, Genghua Kou et.al., Paper: [http://arxiv.org/abs/2505.05240v1](http://arxiv.org/abs/2505.05240v1)
@@ -38,10 +37,10 @@
 
 - 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
-- 2025-05-10, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v1](http://arxiv.org/abs/2505.06780v1)
+- 2025-05-13, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v2](http://arxiv.org/abs/2505.06780v2)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-10, **RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**, Zhiwen Zeng et.al., Paper: [http://arxiv.org/abs/2505.06515v1](http://arxiv.org/abs/2505.06515v1)
-- 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1)
+- 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1), Code: **[https://github.com/comp-hci-lab/conversationalXAV](https://github.com/comp-hci-lab/conversationalXAV)**
 - 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
 - 2025-05-08, **X-Driver: Explainable Autonomous Driving with Vision-Language Models**, Wei Liu et.al., Paper: [http://arxiv.org/abs/2505.05098v1](http://arxiv.org/abs/2505.05098v1)
 - 2025-05-07, **DFVO: Learning Darkness-free Visible and Infrared Image Disentanglement and Fusion All at Once**, Qi Zhou et.al., Paper: [http://arxiv.org/abs/2505.04526v1](http://arxiv.org/abs/2505.04526v1), Code: **[https://github.com/davin-qi530/dfvo](https://github.com/davin-qi530/dfvo)**
