@@ -75,7 +75,6 @@
 |**2025-05-10**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06737v1-b31b1b.svg)](http://arxiv.org/abs/2505.06737v1)|null|
 |**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06482v1-b31b1b.svg)](http://arxiv.org/abs/2505.06482v1)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06218v1-b31b1b.svg)](http://arxiv.org/abs/2505.06218v1)|null|
-|**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.05223v1-b31b1b.svg)](http://arxiv.org/abs/2505.05223v1)|null|
 
 ## World_Model
 

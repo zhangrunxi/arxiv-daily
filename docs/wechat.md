@@ -63,7 +63,6 @@
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
 - 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)
 - 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
-- 2025-05-08, **Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**, Hendrik Surmann et.al., Paper: [http://arxiv.org/abs/2505.05223v1](http://arxiv.org/abs/2505.05223v1)
 
 ## World_Model
 
