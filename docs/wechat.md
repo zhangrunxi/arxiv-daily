@@ -1,4 +1,4 @@
-> Updated on 2025.05.14
+> Updated on 2025.05.15
 
 ## Autonomous_Driving_Planning
 
@@ -38,7 +38,7 @@
 
 - 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
 - 2025-05-08, **A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**, Shuqi Shen et.al., Paper: [http://arxiv.org/abs/2505.07855v1](http://arxiv.org/abs/2505.07855v1)
-- 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
+- 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-13, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v2](http://arxiv.org/abs/2505.06780v2)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
@@ -65,7 +65,7 @@
 
 - 2025-05-13, **Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**, Unai Gurbindo et.al., Paper: [http://arxiv.org/abs/2505.08228v1](http://arxiv.org/abs/2505.08228v1)
 - 2025-05-08, **A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**, Shuqi Shen et.al., Paper: [http://arxiv.org/abs/2505.07855v1](http://arxiv.org/abs/2505.07855v1)
-- 2025-05-12, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v1](http://arxiv.org/abs/2505.07634v1)
+- 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 - 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1)
 - 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
 - 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)

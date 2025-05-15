@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 
 ## Autonomous_Driving_Planning
 
@@ -50,7 +50,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08264v1-b31b1b.svg)](http://arxiv.org/abs/2505.08264v1)|null|
 |**2025-05-08**|**A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**|Shuqi Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07855v1-b31b1b.svg)](http://arxiv.org/abs/2505.07855v1)|null|
-|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v1-b31b1b.svg)](http://arxiv.org/abs/2505.07634v1)|null|
+|**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07417v1-b31b1b.svg)](http://arxiv.org/abs/2505.07417v1)|null|
 |**2025-05-13**|**Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**|Atsushi Yano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06780v2-b31b1b.svg)](http://arxiv.org/abs/2505.06780v2)|null|
 |**2025-05-10**|**M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**|Morui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06746v1-b31b1b.svg)](http://arxiv.org/abs/2505.06746v1)|null|
@@ -83,7 +83,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08228v1-b31b1b.svg)](http://arxiv.org/abs/2505.08228v1)|null|
 |**2025-05-08**|**A Physics-informed End-to-End Occupancy Framework for Motion Planning of Autonomous Vehicles**|Shuqi Shen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07855v1-b31b1b.svg)](http://arxiv.org/abs/2505.07855v1)|null|
-|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v1-b31b1b.svg)](http://arxiv.org/abs/2505.07634v1)|null|
+|**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07084v1-b31b1b.svg)](http://arxiv.org/abs/2505.07084v1)|null|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06856v1-b31b1b.svg)](http://arxiv.org/abs/2505.06856v1)|null|
 |**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06482v1-b31b1b.svg)](http://arxiv.org/abs/2505.06482v1)|null|
