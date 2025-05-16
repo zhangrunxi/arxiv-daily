@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10258v1-b31b1b.svg)](http://arxiv.org/abs/2505.10258v1)|null|
 |**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09427v2-b31b1b.svg)](http://arxiv.org/abs/2505.09427v2)|null|
 |**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09315v1-b31b1b.svg)](http://arxiv.org/abs/2505.09315v1)|null|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
@@ -31,6 +32,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10482v1-b31b1b.svg)](http://arxiv.org/abs/2505.10482v1)|null|
 |**2025-05-15**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09305v2-b31b1b.svg)](http://arxiv.org/abs/2505.09305v2)|null|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08854v1-b31b1b.svg)](http://arxiv.org/abs/2505.08854v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/genai4ad)**|
@@ -40,7 +42,6 @@
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06875v1-b31b1b.svg)](http://arxiv.org/abs/2505.06875v1)|null|
 |**2025-05-10**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06737v1-b31b1b.svg)](http://arxiv.org/abs/2505.06737v1)|null|
 |**2025-05-10**|**A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**|Linxuan Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06680v1-b31b1b.svg)](http://arxiv.org/abs/2505.06680v1)|null|
-|**2025-05-09**|**What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**|Somayeh Molaei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06428v1-b31b1b.svg)](http://arxiv.org/abs/2505.06428v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comp-hci-lab/conversationalXAV)**|
 
 ## Autonomous_Driving_E2E
 
@@ -69,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10482v1-b31b1b.svg)](http://arxiv.org/abs/2505.10482v1)|null|
 |**2025-05-13**|**A Practical Introduction to Deep Reinforcement Learning**|Yinghan Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08295v1-b31b1b.svg)](http://arxiv.org/abs/2505.08295v1)|null|
 |**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08264v1-b31b1b.svg)](http://arxiv.org/abs/2505.08264v1)|null|
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06875v1-b31b1b.svg)](http://arxiv.org/abs/2505.06875v1)|null|
@@ -80,6 +82,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10016v1-b31b1b.svg)](http://arxiv.org/abs/2505.10016v1)|null|
 |**2025-05-15**|**Embodied Intelligent Industrial Robotics: Concepts and Techniques**|Chaoran Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09305v2-b31b1b.svg)](http://arxiv.org/abs/2505.09305v2)|null|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Yuhang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09092v1-b31b1b.svg)](http://arxiv.org/abs/2505.09092v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openlka/openlka)**|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
@@ -89,5 +92,4 @@
 |**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07084v1-b31b1b.svg)](http://arxiv.org/abs/2505.07084v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s95huang/drivesotif)**|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06856v1-b31b1b.svg)](http://arxiv.org/abs/2505.06856v1)|null|
 |**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06482v1-b31b1b.svg)](http://arxiv.org/abs/2505.06482v1)|null|
-|**2025-05-09**|**Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**|Ming Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06413v1-b31b1b.svg)](http://arxiv.org/abs/2505.06413v1)|null|
 

@@ -2,6 +2,7 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-05-15, **Inferring Driving Maps by Deep Learning-based Trail Map Extraction**, Michael Hubbertz et.al., Paper: [http://arxiv.org/abs/2505.10258v1](http://arxiv.org/abs/2505.10258v1)
 - 2025-05-15, **SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**, Achref Doula et.al., Paper: [http://arxiv.org/abs/2505.09427v2](http://arxiv.org/abs/2505.09427v2)
 - 2025-05-14, **TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**, Xuefeng Jiang et.al., Paper: [http://arxiv.org/abs/2505.09315v1](http://arxiv.org/abs/2505.09315v1)
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
@@ -25,6 +26,7 @@
 
 ## Autonomous_Driving_Decision
 
+- 2025-05-15, **Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**, Ningyuan Yang et.al., Paper: [http://arxiv.org/abs/2505.10482v1](http://arxiv.org/abs/2505.10482v1)
 - 2025-05-15, **Embodied Intelligent Industrial Robotics: Concepts and Techniques**, Chaoran Zhang et.al., Paper: [http://arxiv.org/abs/2505.09305v2](http://arxiv.org/abs/2505.09305v2)
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
 - 2025-05-13, **Generative AI for Autonomous Driving: Frontiers and Opportunities**, Yuping Wang et.al., Paper: [http://arxiv.org/abs/2505.08854v1](http://arxiv.org/abs/2505.08854v1), Code: **[https://github.com/taco-group/genai4ad](https://github.com/taco-group/genai4ad)**
@@ -34,7 +36,6 @@
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
 - 2025-05-10, **A Survey on Data-Driven Modeling of Human Drivers' Lane-Changing Decisions**, Linxuan Huang et.al., Paper: [http://arxiv.org/abs/2505.06680v1](http://arxiv.org/abs/2505.06680v1)
-- 2025-05-09, **What Do People Want to Know About Artificial Intelligence (AI)? The Importance of Answering End-User Questions to Explain Autonomous Vehicle (AV) Decisions**, Somayeh Molaei et.al., Paper: [http://arxiv.org/abs/2505.06428v1](http://arxiv.org/abs/2505.06428v1), Code: **[https://github.com/comp-hci-lab/conversationalXAV](https://github.com/comp-hci-lab/conversationalXAV)**
 
 ## Autonomous_Driving_E2E
 
@@ -57,6 +58,7 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-05-15, **Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**, Ningyuan Yang et.al., Paper: [http://arxiv.org/abs/2505.10482v1](http://arxiv.org/abs/2505.10482v1)
 - 2025-05-13, **A Practical Introduction to Deep Reinforcement Learning**, Yinghan Sun et.al., Paper: [http://arxiv.org/abs/2505.08295v1](http://arxiv.org/abs/2505.08295v1)
 - 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
@@ -66,6 +68,7 @@
 
 ## World_Model
 
+- 2025-05-15, **Application of YOLOv8 in monocular downward multiple Car Target detection**, Shijie Lyu et.al., Paper: [http://arxiv.org/abs/2505.10016v1](http://arxiv.org/abs/2505.10016v1)
 - 2025-05-15, **Embodied Intelligent Industrial Robotics: Concepts and Techniques**, Chaoran Zhang et.al., Paper: [http://arxiv.org/abs/2505.09305v2](http://arxiv.org/abs/2505.09305v2)
 - 2025-05-14, **OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**, Yuhang Wang et.al., Paper: [http://arxiv.org/abs/2505.09092v1](http://arxiv.org/abs/2505.09092v1), Code: **[https://github.com/openlka/openlka](https://github.com/openlka/openlka)**
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
@@ -75,5 +78,4 @@
 - 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1), Code: **[https://github.com/s95huang/drivesotif](https://github.com/s95huang/drivesotif)**
 - 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
 - 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)
-- 2025-05-09, **Natural Reflection Backdoor Attack on Vision Language Model for Autonomous Driving**, Ming Liu et.al., Paper: [http://arxiv.org/abs/2505.06413v1](http://arxiv.org/abs/2505.06413v1)
 
