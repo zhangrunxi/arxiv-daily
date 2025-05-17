@@ -1,4 +1,4 @@
-> Updated on 2025.05.16
+> Updated on 2025.05.17
 
 ## Autonomous_Driving_Planning
 
@@ -63,8 +63,6 @@
 - 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
 - 2025-05-11, **Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**, Chengkai Xu et.al., Paper: [http://arxiv.org/abs/2505.06875v1](http://arxiv.org/abs/2505.06875v1)
 - 2025-05-10, **Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06737v1](http://arxiv.org/abs/2505.06737v1)
-- 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)
-- 2025-05-09, **Let Humanoids Hike! Integrative Skill Development on Complex Trails**, Kwan-Yee Lin et.al., Paper: [http://arxiv.org/abs/2505.06218v1](http://arxiv.org/abs/2505.06218v1)
 
 ## World_Model
 
@@ -77,5 +75,4 @@
 - 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 - 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1), Code: **[https://github.com/s95huang/drivesotif](https://github.com/s95huang/drivesotif)**
 - 2025-05-11, **Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**, Bonan Wang et.al., Paper: [http://arxiv.org/abs/2505.06856v1](http://arxiv.org/abs/2505.06856v1)
-- 2025-05-10, **Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**, Minting Pan et.al., Paper: [http://arxiv.org/abs/2505.06482v1](http://arxiv.org/abs/2505.06482v1)
 

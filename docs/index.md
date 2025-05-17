@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 
 ## Autonomous_Driving_Planning
 
@@ -79,8 +79,6 @@ layout: default
 |**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08264v1-b31b1b.svg)](http://arxiv.org/abs/2505.08264v1)|null|
 |**2025-05-11**|**Towards Human-Centric Autonomous Driving: A Fast-Slow Architecture Integrating Large Language Model Guidance with Reinforcement Learning**|Chengkai Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06875v1-b31b1b.svg)](http://arxiv.org/abs/2505.06875v1)|null|
 |**2025-05-10**|**Balancing Progress and Safety: A Novel Risk-Aware Objective for RL in Autonomous Driving**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06737v1-b31b1b.svg)](http://arxiv.org/abs/2505.06737v1)|null|
-|**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06482v1-b31b1b.svg)](http://arxiv.org/abs/2505.06482v1)|null|
-|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06218v1-b31b1b.svg)](http://arxiv.org/abs/2505.06218v1)|null|
 
 ## World_Model
 
@@ -95,5 +93,4 @@ layout: default
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07084v1-b31b1b.svg)](http://arxiv.org/abs/2505.07084v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s95huang/drivesotif)**|
 |**2025-05-11**|**Beyond Patterns: Harnessing Causal Logic for Autonomous Driving Trajectory Prediction**|Bonan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06856v1-b31b1b.svg)](http://arxiv.org/abs/2505.06856v1)|null|
-|**2025-05-10**|**Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach**|Minting Pan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.06482v1-b31b1b.svg)](http://arxiv.org/abs/2505.06482v1)|null|
 
