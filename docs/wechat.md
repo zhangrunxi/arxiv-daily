@@ -22,7 +22,6 @@
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
 - 2025-05-10, **TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**, Marius Baden et.al., Paper: [http://arxiv.org/abs/2505.06743v1](http://arxiv.org/abs/2505.06743v1)
 - 2025-05-10, **Boundary-Guided Trajectory Prediction for Road Aware and Physically Feasible Autonomous Driving**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.06740v1](http://arxiv.org/abs/2505.06740v1)
-- 2025-05-10, **RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**, Zhiwen Zeng et.al., Paper: [http://arxiv.org/abs/2505.06515v1](http://arxiv.org/abs/2505.06515v1)
 
 ## Autonomous_Driving_Decision
 
@@ -48,7 +47,6 @@
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
 - 2025-05-13, **Work-in-Progress: Multi-Deadline DAG Scheduling Model for Autonomous Driving Systems**, Atsushi Yano et.al., Paper: [http://arxiv.org/abs/2505.06780v2](http://arxiv.org/abs/2505.06780v2)
 - 2025-05-10, **M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark**, Morui Zhu et.al., Paper: [http://arxiv.org/abs/2505.06746v1](http://arxiv.org/abs/2505.06746v1)
-- 2025-05-10, **RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**, Zhiwen Zeng et.al., Paper: [http://arxiv.org/abs/2505.06515v1](http://arxiv.org/abs/2505.06515v1)
 
 ## Autonomous_Driving_LLM
 
