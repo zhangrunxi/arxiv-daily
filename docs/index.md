@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 
 ## Autonomous_Driving_Planning
 
@@ -24,7 +24,6 @@ layout: default
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09356v1-b31b1b.svg)](http://arxiv.org/abs/2505.09356v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gt-arc/apr-transformer)**|
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
 |**2025-05-12**|**LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**|Eunil Seo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07417v1-b31b1b.svg)](http://arxiv.org/abs/2505.07417v1)|null|
-|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07084v1-b31b1b.svg)](http://arxiv.org/abs/2505.07084v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s95huang/drivesotif)**|
 
 ## Autonomous_Driving_Decision
 
@@ -76,5 +75,4 @@ layout: default
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08999v1-b31b1b.svg)](http://arxiv.org/abs/2505.08999v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgao-lab/amga)**|
 |**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08228v1-b31b1b.svg)](http://arxiv.org/abs/2505.08228v1)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
-|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07084v1-b31b1b.svg)](http://arxiv.org/abs/2505.07084v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s95huang/drivesotif)**|
 

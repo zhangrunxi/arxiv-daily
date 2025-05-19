@@ -1,4 +1,4 @@
-> Updated on 2025.05.18
+> Updated on 2025.05.19
 
 ## Autonomous_Driving_Planning
 
@@ -16,7 +16,6 @@
 - 2025-05-14, **APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**, Srinivas Ravuri et.al., Paper: [http://arxiv.org/abs/2505.09356v1](http://arxiv.org/abs/2505.09356v1), Code: **[https://github.com/gt-arc/apr-transformer](https://github.com/gt-arc/apr-transformer)**
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
 - 2025-05-12, **LA-IMR: Latency-Aware, Predictive In-Memory Routing and Proactive Autoscaling for Tail-Latency-Sensitive Cloud Robotics**, Eunil Seo et.al., Paper: [http://arxiv.org/abs/2505.07417v1](http://arxiv.org/abs/2505.07417v1)
-- 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1), Code: **[https://github.com/s95huang/drivesotif](https://github.com/s95huang/drivesotif)**
 
 ## Autonomous_Driving_Decision
 
@@ -58,5 +57,4 @@
 - 2025-05-13, **Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**, Wei-Long Tian et.al., Paper: [http://arxiv.org/abs/2505.08999v1](http://arxiv.org/abs/2505.08999v1), Code: **[https://github.com/pgao-lab/amga](https://github.com/pgao-lab/amga)**
 - 2025-05-13, **Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**, Unai Gurbindo et.al., Paper: [http://arxiv.org/abs/2505.08228v1](http://arxiv.org/abs/2505.08228v1)
 - 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
-- 2025-05-11, **DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**, Shucheng Huang et.al., Paper: [http://arxiv.org/abs/2505.07084v1](http://arxiv.org/abs/2505.07084v1), Code: **[https://github.com/s95huang/drivesotif](https://github.com/s95huang/drivesotif)**
 
