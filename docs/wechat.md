@@ -1,4 +1,4 @@
-> Updated on 2025.05.19
+> Updated on 2025.05.20
 
 ## Autonomous_Driving_Planning
 
@@ -32,7 +32,6 @@
 - 2025-05-13, **Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**, Wei-Long Tian et.al., Paper: [http://arxiv.org/abs/2505.08999v1](http://arxiv.org/abs/2505.08999v1), Code: **[https://github.com/pgao-lab/amga](https://github.com/pgao-lab/amga)**
 - 2025-05-13, **Generative AI for Autonomous Driving: Frontiers and Opportunities**, Yuping Wang et.al., Paper: [http://arxiv.org/abs/2505.08854v1](http://arxiv.org/abs/2505.08854v1), Code: **[https://github.com/taco-group/genai4ad](https://github.com/taco-group/genai4ad)**
 - 2025-05-13, **Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**, Ahmed Abouelazm et.al., Paper: [http://arxiv.org/abs/2505.08264v1](http://arxiv.org/abs/2505.08264v1)
-- 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 
 ## Autonomous_Driving_LLM
 
@@ -56,5 +55,4 @@
 - 2025-05-14, **Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**, Letian Wang et.al., Paper: [http://arxiv.org/abs/2505.09074v1](http://arxiv.org/abs/2505.09074v1)
 - 2025-05-13, **Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**, Wei-Long Tian et.al., Paper: [http://arxiv.org/abs/2505.08999v1](http://arxiv.org/abs/2505.08999v1), Code: **[https://github.com/pgao-lab/amga](https://github.com/pgao-lab/amga)**
 - 2025-05-13, **Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**, Unai Gurbindo et.al., Paper: [http://arxiv.org/abs/2505.08228v1](http://arxiv.org/abs/2505.08228v1)
-- 2025-05-14, **Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**, Jian Liu et.al., Paper: [http://arxiv.org/abs/2505.07634v2](http://arxiv.org/abs/2505.07634v2), Code: **[https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**
 

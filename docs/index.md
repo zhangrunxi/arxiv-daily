@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 
 ## Autonomous_Driving_Planning
 
@@ -44,7 +44,6 @@ layout: default
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08999v1-b31b1b.svg)](http://arxiv.org/abs/2505.08999v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgao-lab/amga)**|
 |**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08854v1-b31b1b.svg)](http://arxiv.org/abs/2505.08854v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Automatic Curriculum Learning for Driving Scenarios: Towards Robust and Efficient Reinforcement Learning**|Ahmed Abouelazm et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08264v1-b31b1b.svg)](http://arxiv.org/abs/2505.08264v1)|null|
-|**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 
 ## Autonomous_Driving_LLM
 
@@ -74,5 +73,4 @@ layout: default
 |**2025-05-14**|**Deployable and Generalizable Motion Prediction: Taxonomy, Open Challenges and Future Directions**|Letian Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09074v1-b31b1b.svg)](http://arxiv.org/abs/2505.09074v1)|null|
 |**2025-05-13**|**Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking**|Wei-Long Tian et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08999v1-b31b1b.svg)](http://arxiv.org/abs/2505.08999v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgao-lab/amga)**|
 |**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.08228v1-b31b1b.svg)](http://arxiv.org/abs/2505.08228v1)|null|
-|**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Jian Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.07634v2-b31b1b.svg)](http://arxiv.org/abs/2505.07634v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 
