@@ -29,7 +29,6 @@ layout: default
 |**2025-05-15**|**Control Invariant Sets for Neural Network Dynamical Systems and Recursive Feasibility in Model Predictive Control**|Xiao Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11546v1-b31b1b.svg)](http://arxiv.org/abs/2505.11546v1)|null|
 |**2025-05-15**|**GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**|Lingjun Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10685v1-b31b1b.svg)](http://arxiv.org/abs/2505.10685v1)|null|
 |**2025-05-15**|**SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation**|Achref Doula et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09427v2-b31b1b.svg)](http://arxiv.org/abs/2505.09427v2)|null|
-|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.09356v1-b31b1b.svg)](http://arxiv.org/abs/2505.09356v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gt-arc/apr-transformer)**|
 
 ## Autonomous_Driving_Decision
 
