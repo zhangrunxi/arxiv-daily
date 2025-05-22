@@ -16,7 +16,6 @@ layout: default
 |**2025-05-19**|**Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**|Tanmay Vilas Samak et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12661v1-b31b1b.svg)](http://arxiv.org/abs/2505.12661v1)|null|
 |**2025-05-18**|**Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions**|Albert Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12327v1-b31b1b.svg)](http://arxiv.org/abs/2505.12327v1)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12311v1-b31b1b.svg)](http://arxiv.org/abs/2505.12311v1)|null|
-|**2025-05-15**|**Inferring Driving Maps by Deep Learning-based Trail Map Extraction**|Michael Hubbertz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.10258v1-b31b1b.svg)](http://arxiv.org/abs/2505.10258v1)|null|
 
 ## Autonomous_Driving_Prediction
 
