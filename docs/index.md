@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.23
+## Updated on 2025.05.24
 
 ## Autonomous_Driving_Planning
 
@@ -41,7 +41,6 @@ layout: default
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models**|Augusto Luis Ballardini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16498v1-b31b1b.svg)](http://arxiv.org/abs/2505.16498v1)|null|
 |**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v1-b31b1b.svg)](http://arxiv.org/abs/2505.15925v1)|null|
-|**2025-05-16**|**Quantum-Evolutionary Neural Networks for Multi-Agent Federated Learning**|Aarav Lala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15836v1-b31b1b.svg)](http://arxiv.org/abs/2505.15836v1)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15304v1-b31b1b.svg)](http://arxiv.org/abs/2505.15304v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 |**2025-05-20**|**Looking for an out: Affordances, uncertainty and collision avoidance behavior of human drivers**|Leif Johnson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14842v1-b31b1b.svg)](http://arxiv.org/abs/2505.14842v1)|null|
@@ -73,7 +72,6 @@ layout: default
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 |**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14948v1-b31b1b.svg)](http://arxiv.org/abs/2505.14948v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metro-smiles/ProgGen)**|
 |**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12567v1-b31b1b.svg)](http://arxiv.org/abs/2505.12567v1)|null|
-|**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.11247v1-b31b1b.svg)](http://arxiv.org/abs/2505.11247v1)|null|
 
 ## Autonomous_Driving_RL
 
