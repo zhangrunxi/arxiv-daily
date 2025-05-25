@@ -66,7 +66,6 @@
 - 2025-05-22, **HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**, Zhiwen Chen et.al., Paper: [http://arxiv.org/abs/2505.15793v2](http://arxiv.org/abs/2505.15793v2)
 - 2025-05-21, **Learning-based Autonomous Oversteer Control and Collision Avoidance**, Seokjun Lee et.al., Paper: [http://arxiv.org/abs/2505.15275v1](http://arxiv.org/abs/2505.15275v1)
 - 2025-05-19, **Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**, Muyang Fan et.al., Paper: [http://arxiv.org/abs/2505.13543v1](http://arxiv.org/abs/2505.13543v1)
-- 2025-05-18, **Distributional Soft Actor-Critic with Harmonic Gradient for Safe and Efficient Autonomous Driving in Multi-lane Scenarios**, Feihong Zhang et.al., Paper: [http://arxiv.org/abs/2505.13532v1](http://arxiv.org/abs/2505.13532v1)
 
 ## World_Model
 
