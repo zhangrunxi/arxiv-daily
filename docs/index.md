@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 
 ## Autonomous_Driving_Planning
 
@@ -23,7 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|null|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mona4399/featuremixing)**|
 |**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v1-b31b1b.svg)](http://arxiv.org/abs/2505.16938v1)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16524v1-b31b1b.svg)](http://arxiv.org/abs/2505.16524v1)|null|
@@ -56,7 +56,7 @@ layout: default
 |**2025-05-22**|**Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16394v1-b31b1b.svg)](http://arxiv.org/abs/2505.16394v1)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16278v1-b31b1b.svg)](http://arxiv.org/abs/2505.16278v1)|null|
 |**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v1-b31b1b.svg)](http://arxiv.org/abs/2505.15925v1)|null|
-|**2025-05-21**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15880v1-b31b1b.svg)](http://arxiv.org/abs/2505.15880v1)|null|
+|**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15880v2-b31b1b.svg)](http://arxiv.org/abs/2505.15880v2)|null|
 |**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seokjun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15275v1-b31b1b.svg)](http://arxiv.org/abs/2505.15275v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 |**2025-05-21**|**iPad: Iterative Proposal-centric End-to-End Autonomous Driving**|Ke Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15111v1-b31b1b.svg)](http://arxiv.org/abs/2505.15111v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kguo-cs/iPad)**|
@@ -71,7 +71,6 @@ layout: default
 |**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15269v1-b31b1b.svg)](http://arxiv.org/abs/2505.15269v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 |**2025-05-20**|**Programmatic Video Prediction Using Large Language Models**|Hao Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14948v1-b31b1b.svg)](http://arxiv.org/abs/2505.14948v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metro-smiles/ProgGen)**|
-|**2025-05-18**|**A Survey of Attacks on Large Language Models**|Wenrui Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.12567v1-b31b1b.svg)](http://arxiv.org/abs/2505.12567v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -81,13 +80,12 @@ layout: default
 |**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Yansong Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16377v1-b31b1b.svg)](http://arxiv.org/abs/2505.16377v1)|null|
 |**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15793v2-b31b1b.svg)](http://arxiv.org/abs/2505.15793v2)|null|
 |**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seokjun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15275v1-b31b1b.svg)](http://arxiv.org/abs/2505.15275v1)|null|
-|**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.13543v1-b31b1b.svg)](http://arxiv.org/abs/2505.13543v1)|null|
 
 ## World_Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|null|
+|**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mona4399/featuremixing)**|
 |**2025-05-22**|**Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models**|Augusto Luis Ballardini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16498v1-b31b1b.svg)](http://arxiv.org/abs/2505.16498v1)|null|
 |**2025-05-22**|**Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16394v1-b31b1b.svg)](http://arxiv.org/abs/2505.16394v1)|null|
 |**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Yansong Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16377v1-b31b1b.svg)](http://arxiv.org/abs/2505.16377v1)|null|
