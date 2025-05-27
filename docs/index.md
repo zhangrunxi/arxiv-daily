@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 
 ## Autonomous_Driving_Planning
 
@@ -27,10 +27,10 @@ layout: default
 |**2025-05-23**|**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**|Shuang Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17685v1-b31b1b.svg)](http://arxiv.org/abs/2505.17685v1)|null|
 |**2025-05-23**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v1-b31b1b.svg)](http://arxiv.org/abs/2505.17659v1)|null|
 |**2025-05-22**|**Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation**|Moru Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16985v1-b31b1b.svg)](http://arxiv.org/abs/2505.16985v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mona4399/featuremixing)**|
-|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v1-b31b1b.svg)](http://arxiv.org/abs/2505.16938v1)|null|
+|**2025-05-25**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v2-b31b1b.svg)](http://arxiv.org/abs/2505.16938v2)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16524v1-b31b1b.svg)](http://arxiv.org/abs/2505.16524v1)|null|
-|**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v1-b31b1b.svg)](http://arxiv.org/abs/2505.15925v1)|null|
+|**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v2-b31b1b.svg)](http://arxiv.org/abs/2505.15925v2)|null|
 |**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15703v1-b31b1b.svg)](http://arxiv.org/abs/2505.15703v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 
@@ -40,7 +40,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models**|Augusto Luis Ballardini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16498v1-b31b1b.svg)](http://arxiv.org/abs/2505.16498v1)|null|
-|**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v1-b31b1b.svg)](http://arxiv.org/abs/2505.15925v1)|null|
+|**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v2-b31b1b.svg)](http://arxiv.org/abs/2505.15925v2)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15304v1-b31b1b.svg)](http://arxiv.org/abs/2505.15304v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
 |**2025-05-20**|**Looking for an out: Affordances, uncertainty and collision avoidance behavior of human drivers**|Leif Johnson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.14842v1-b31b1b.svg)](http://arxiv.org/abs/2505.14842v1)|null|
@@ -50,12 +50,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-23**|**SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain**|Jiawei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17727v1-b31b1b.svg)](http://arxiv.org/abs/2505.17727v1)|null|
-|**2025-05-22**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v1-b31b1b.svg)](http://arxiv.org/abs/2505.16938v1)|null|
+|**2025-05-25**|**NovelSeek: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification**|NovelSeek Team et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16938v2-b31b1b.svg)](http://arxiv.org/abs/2505.16938v2)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16524v1-b31b1b.svg)](http://arxiv.org/abs/2505.16524v1)|null|
 |**2025-05-22**|**Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16394v1-b31b1b.svg)](http://arxiv.org/abs/2505.16394v1)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16278v1-b31b1b.svg)](http://arxiv.org/abs/2505.16278v1)|null|
-|**2025-05-21**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v1-b31b1b.svg)](http://arxiv.org/abs/2505.15925v1)|null|
+|**2025-05-23**|**VERDI: VLM-Embedded Reasoning for Autonomous Driving**|Bowen Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15925v2-b31b1b.svg)](http://arxiv.org/abs/2505.15925v2)|null|
 |**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15880v2-b31b1b.svg)](http://arxiv.org/abs/2505.15880v2)|null|
 |**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seokjun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15275v1-b31b1b.svg)](http://arxiv.org/abs/2505.15275v1)|null|
 |**2025-05-21**|**ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving**|Yunsheng Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15158v1-b31b1b.svg)](http://arxiv.org/abs/2505.15158v1)|null|
