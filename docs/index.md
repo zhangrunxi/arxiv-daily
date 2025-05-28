@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,7 @@ layout: default
 |**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17732v1-b31b1b.svg)](http://arxiv.org/abs/2505.17732v1)|null|
 |**2025-05-23**|**SafeMVDrive: Multi-view Safety-Critical Driving Video Synthesis in the Real World Domain**|Jiawei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17727v1-b31b1b.svg)](http://arxiv.org/abs/2505.17727v1)|null|
 |**2025-05-23**|**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**|Shuang Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17685v1-b31b1b.svg)](http://arxiv.org/abs/2505.17685v1)|null|
-|**2025-05-23**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v1-b31b1b.svg)](http://arxiv.org/abs/2505.17659v1)|null|
+|**2025-05-27**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v2-b31b1b.svg)](http://arxiv.org/abs/2505.17659v2)|null|
 |**2025-05-22**|**LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios**|Huaiyuan Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17209v1-b31b1b.svg)](http://arxiv.org/abs/2505.17209v1)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
 |**2025-05-22**|**CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving**|Huitong Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16524v1-b31b1b.svg)](http://arxiv.org/abs/2505.16524v1)|null|
@@ -24,7 +24,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20024v1-b31b1b.svg)](http://arxiv.org/abs/2505.20024v1)|null|
-|**2025-05-26**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v1-b31b1b.svg)](http://arxiv.org/abs/2505.19381v1)|null|
+|**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v2-b31b1b.svg)](http://arxiv.org/abs/2505.19381v2)|null|
 |**2025-05-25**|**DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving**|Chen Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19239v1-b31b1b.svg)](http://arxiv.org/abs/2505.19239v1)|null|
 |**2025-05-25**|**Sensorimotor features of self-awareness in multimodal large language models**|Iñaki Dellibarda Varela et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19237v1-b31b1b.svg)](http://arxiv.org/abs/2505.19237v1)|null|
 |**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18945v1-b31b1b.svg)](http://arxiv.org/abs/2505.18945v1)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2025-05-24**|**S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving**|Li Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18631v1-b31b1b.svg)](http://arxiv.org/abs/2505.18631v1)|null|
 |**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17801v1-b31b1b.svg)](http://arxiv.org/abs/2505.17801v1)|null|
 |**2025-05-23**|**FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving**|Shuang Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17685v1-b31b1b.svg)](http://arxiv.org/abs/2505.17685v1)|null|
-|**2025-05-23**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v1-b31b1b.svg)](http://arxiv.org/abs/2505.17659v1)|null|
+|**2025-05-27**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v2-b31b1b.svg)](http://arxiv.org/abs/2505.17659v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -40,7 +40,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20024v1-b31b1b.svg)](http://arxiv.org/abs/2505.20024v1)|null|
 |**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19939v1-b31b1b.svg)](http://arxiv.org/abs/2505.19939v1)|null|
-|**2025-05-26**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v1-b31b1b.svg)](http://arxiv.org/abs/2505.19381v1)|null|
+|**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v2-b31b1b.svg)](http://arxiv.org/abs/2505.19381v2)|null|
 |**2025-05-24**|**ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**|Xiaodong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18650v1-b31b1b.svg)](http://arxiv.org/abs/2505.18650v1)|null|
 |**2025-05-23**|**Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play**|Jiaxun Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18334v1-b31b1b.svg)](http://arxiv.org/abs/2505.18334v1)|null|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16805v1-b31b1b.svg)](http://arxiv.org/abs/2505.16805v1)|null|
@@ -55,7 +55,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20024v1-b31b1b.svg)](http://arxiv.org/abs/2505.20024v1)|null|
 |**2025-05-26**|**DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy**|Rui Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19516v1-b31b1b.svg)](http://arxiv.org/abs/2505.19516v1)|null|
-|**2025-05-26**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v1-b31b1b.svg)](http://arxiv.org/abs/2505.19381v1)|null|
+|**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v2-b31b1b.svg)](http://arxiv.org/abs/2505.19381v2)|null|
 |**2025-05-25**|**DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving**|Chen Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19239v1-b31b1b.svg)](http://arxiv.org/abs/2505.19239v1)|null|
 |**2025-05-25**|**Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back**|Jintao Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18945v1-b31b1b.svg)](http://arxiv.org/abs/2505.18945v1)|null|
 |**2025-05-24**|**ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**|Xiaodong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18650v1-b31b1b.svg)](http://arxiv.org/abs/2505.18650v1)|null|
@@ -86,7 +86,7 @@ layout: default
 |**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19939v1-b31b1b.svg)](http://arxiv.org/abs/2505.19939v1)|null|
 |**2025-05-26**|**Learning to Reason without External Rewards**|Xuandong Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19590v1-b31b1b.svg)](http://arxiv.org/abs/2505.19590v1)|null|
 |**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17801v1-b31b1b.svg)](http://arxiv.org/abs/2505.17801v1)|null|
-|**2025-05-23**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v1-b31b1b.svg)](http://arxiv.org/abs/2505.17659v1)|null|
+|**2025-05-27**|**Plan-R1: Safe and Feasible Trajectory Planning as Language Modeling**|Xiaolong Tang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.17659v2-b31b1b.svg)](http://arxiv.org/abs/2505.17659v2)|null|
 |**2025-05-22**|**Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)**|Zhenjie Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16394v1-b31b1b.svg)](http://arxiv.org/abs/2505.16394v1)|null|
 |**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Yansong Qu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.16377v1-b31b1b.svg)](http://arxiv.org/abs/2505.16377v1)|null|
 |**2025-05-22**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.15793v2-b31b1b.svg)](http://arxiv.org/abs/2505.15793v2)|null|
@@ -96,7 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-26**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v1-b31b1b.svg)](http://arxiv.org/abs/2505.19381v1)|null|
+|**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v2-b31b1b.svg)](http://arxiv.org/abs/2505.19381v2)|null|
 |**2025-05-25**|**DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving**|Chen Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19239v1-b31b1b.svg)](http://arxiv.org/abs/2505.19239v1)|null|
 |**2025-05-25**|**Sensorimotor features of self-awareness in multimodal large language models**|Iñaki Dellibarda Varela et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19237v1-b31b1b.svg)](http://arxiv.org/abs/2505.19237v1)|null|
 |**2025-05-24**|**ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**|Xiaodong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18650v1-b31b1b.svg)](http://arxiv.org/abs/2505.18650v1)|null|
