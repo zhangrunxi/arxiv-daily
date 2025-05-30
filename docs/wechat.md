@@ -1,8 +1,8 @@
-> Updated on 2025.05.29
+> Updated on 2025.05.30
 
 ## Autonomous_Driving_Planning
 
-- 2025-05-28, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v1](http://arxiv.org/abs/2505.22421v1)
+- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2)
 - 2025-05-27, **CogAD: Cognitive-Hierarchy Guided End-to-End Autonomous Driving**, Zhennan Wang et.al., Paper: [http://arxiv.org/abs/2505.21581v1](http://arxiv.org/abs/2505.21581v1)
 - 2025-05-27, **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**, Muzhi Zhu et.al., Paper: [http://arxiv.org/abs/2505.21457v1](http://arxiv.org/abs/2505.21457v1)
 - 2025-05-27, **RefAV: Towards Planning-Centric Scenario Mining**, Cainan Davidson et.al., Paper: [http://arxiv.org/abs/2505.20981v1](http://arxiv.org/abs/2505.20981v1)
@@ -16,8 +16,8 @@
 ## Autonomous_Driving_Prediction
 
 - 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1)
-- 2025-05-28, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v1](http://arxiv.org/abs/2505.22499v1)
-- 2025-05-28, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v1](http://arxiv.org/abs/2505.22461v1)
+- 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
+- 2025-05-29, **SHTOcc: Effective 3D Occupancy Prediction with Sparse Head and Tail Voxels**, Qiucheng Yu et.al., Paper: [http://arxiv.org/abs/2505.22461v2](http://arxiv.org/abs/2505.22461v2)
 - 2025-05-28, **LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments**, Chenfeng Wei et.al., Paper: [http://arxiv.org/abs/2505.21914v1](http://arxiv.org/abs/2505.21914v1)
 - 2025-05-27, **Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2505.21565v1](http://arxiv.org/abs/2505.21565v1)
 - 2025-05-27, **Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**, Dehao Wang et.al., Paper: [http://arxiv.org/abs/2505.21049v1](http://arxiv.org/abs/2505.21049v1)
@@ -37,7 +37,6 @@
 - 2025-05-27, **DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**, Anqing Jiang et.al., Paper: [http://arxiv.org/abs/2505.19381v2](http://arxiv.org/abs/2505.19381v2)
 - 2025-05-24, **ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**, Xiaodong Wang et.al., Paper: [http://arxiv.org/abs/2505.18650v1](http://arxiv.org/abs/2505.18650v1)
 - 2025-05-23, **Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play**, Jiaxun Cui et.al., Paper: [http://arxiv.org/abs/2505.18334v1](http://arxiv.org/abs/2505.18334v1)
-- 2025-05-22, **SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**, Xuesong Chen et.al., Paper: [http://arxiv.org/abs/2505.16805v1](http://arxiv.org/abs/2505.16805v1)
 
 ## Autonomous_Driving_E2E
 
@@ -61,7 +60,6 @@
 - 2025-05-25, **Sensorimotor features of self-awareness in multimodal large language models**, Iñaki Dellibarda Varela et.al., Paper: [http://arxiv.org/abs/2505.19237v1](http://arxiv.org/abs/2505.19237v1)
 - 2025-05-23, **Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play**, Jiaxun Cui et.al., Paper: [http://arxiv.org/abs/2505.18334v1](http://arxiv.org/abs/2505.18334v1)
 - 2025-05-23, **Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**, Bálint Gyevnár et.al., Paper: [http://arxiv.org/abs/2505.17801v1](http://arxiv.org/abs/2505.17801v1)
-- 2025-05-22, **LiloDriver: A Lifelong Learning Framework for Closed-loop Motion Planning in Long-tail Autonomous Driving Scenarios**, Huaiyuan Yao et.al., Paper: [http://arxiv.org/abs/2505.17209v1](http://arxiv.org/abs/2505.17209v1), Code: **[https://github.com/hyan-yao/lilodriver](https://github.com/hyan-yao/lilodriver)**
 
 ## Autonomous_Driving_RL
 
@@ -75,8 +73,8 @@
 ## World_Model
 
 - 2025-05-28, **A Human-Centric Approach to Explainable AI for Personalized Education**, Vinitra Swamy et.al., Paper: [http://arxiv.org/abs/2505.22541v1](http://arxiv.org/abs/2505.22541v1)
-- 2025-05-28, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v1](http://arxiv.org/abs/2505.22499v1)
-- 2025-05-28, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v1](http://arxiv.org/abs/2505.22421v1)
+- 2025-05-29, **The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**, Aixuan Li et.al., Paper: [http://arxiv.org/abs/2505.22499v2](http://arxiv.org/abs/2505.22499v2)
+- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2)
 - 2025-05-27, **Do you see what I see? An Ambiguous Optical Illusion Dataset exposing limitations of Explainable AI**, Carina Newen et.al., Paper: [http://arxiv.org/abs/2505.21589v1](http://arxiv.org/abs/2505.21589v1)
 - 2025-05-27, **CogAD: Cognitive-Hierarchy Guided End-to-End Autonomous Driving**, Zhennan Wang et.al., Paper: [http://arxiv.org/abs/2505.21581v1](http://arxiv.org/abs/2505.21581v1)
 - 2025-05-27, **Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**, Haicheng Liao et.al., Paper: [http://arxiv.org/abs/2505.21565v1](http://arxiv.org/abs/2505.21565v1)
