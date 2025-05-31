@@ -1,4 +1,4 @@
-> Updated on 2025.05.30
+> Updated on 2025.05.31
 
 ## Autonomous_Driving_Planning
 
@@ -61,7 +61,6 @@
 - 2025-05-27, **Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge**, Yue Fang et.al., Paper: [http://arxiv.org/abs/2505.20658v1](http://arxiv.org/abs/2505.20658v1)
 - 2025-05-26, **Learning to Reason without External Rewards**, Xuandong Zhao et.al., Paper: [http://arxiv.org/abs/2505.19590v1](http://arxiv.org/abs/2505.19590v1), Code: **[https://github.com/sunblaze-ucb/intuitor](https://github.com/sunblaze-ucb/intuitor)**
 - 2025-05-25, **Sensorimotor features of self-awareness in multimodal large language models**, Iñaki Dellibarda Varela et.al., Paper: [http://arxiv.org/abs/2505.19237v1](http://arxiv.org/abs/2505.19237v1)
-- 2025-05-23, **Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play**, Jiaxun Cui et.al., Paper: [http://arxiv.org/abs/2505.18334v1](http://arxiv.org/abs/2505.18334v1)
 
 ## Autonomous_Driving_RL
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 
 ## Autonomous_Driving_Planning
 
@@ -75,7 +75,6 @@ layout: default
 |**2025-05-27**|**Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge**|Yue Fang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20658v1-b31b1b.svg)](http://arxiv.org/abs/2505.20658v1)|null|
 |**2025-05-26**|**Learning to Reason without External Rewards**|Xuandong Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19590v1-b31b1b.svg)](http://arxiv.org/abs/2505.19590v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunblaze-ucb/intuitor)**|
 |**2025-05-25**|**Sensorimotor features of self-awareness in multimodal large language models**|Iñaki Dellibarda Varela et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19237v1-b31b1b.svg)](http://arxiv.org/abs/2505.19237v1)|null|
-|**2025-05-23**|**Towards Natural Language Communication for Cooperative Autonomous Driving via Self-Play**|Jiaxun Cui et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18334v1-b31b1b.svg)](http://arxiv.org/abs/2505.18334v1)|null|
 
 ## Autonomous_Driving_RL
 
