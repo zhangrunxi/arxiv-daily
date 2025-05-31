@@ -43,7 +43,6 @@
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.20024v1-b31b1b.svg)](http://arxiv.org/abs/2505.20024v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuxueyi/reasonplan)**|
 |**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19939v1-b31b1b.svg)](http://arxiv.org/abs/2505.19939v1)|null|
 |**2025-05-27**|**DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**|Anqing Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19381v2-b31b1b.svg)](http://arxiv.org/abs/2505.19381v2)|null|
-|**2025-05-24**|**ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**|Xiaodong Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.18650v1-b31b1b.svg)](http://arxiv.org/abs/2505.18650v1)|null|
 
 ## Autonomous_Driving_E2E
 

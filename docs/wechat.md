@@ -37,7 +37,6 @@
 - 2025-05-26, **ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**, Xueyi Liu et.al., Paper: [http://arxiv.org/abs/2505.20024v1](http://arxiv.org/abs/2505.20024v1), Code: **[https://github.com/liuxueyi/reasonplan](https://github.com/liuxueyi/reasonplan)**
 - 2025-05-26, **Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**, Ran Yu et.al., Paper: [http://arxiv.org/abs/2505.19939v1](http://arxiv.org/abs/2505.19939v1)
 - 2025-05-27, **DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**, Anqing Jiang et.al., Paper: [http://arxiv.org/abs/2505.19381v2](http://arxiv.org/abs/2505.19381v2)
-- 2025-05-24, **ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos**, Xiaodong Wang et.al., Paper: [http://arxiv.org/abs/2505.18650v1](http://arxiv.org/abs/2505.18650v1)
 
 ## Autonomous_Driving_E2E
 
