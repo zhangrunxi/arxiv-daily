@@ -4,10 +4,10 @@
 
 - 2025-05-29, **Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**, Haohan Chi et.al., Paper: [http://arxiv.org/abs/2505.23757v1](http://arxiv.org/abs/2505.23757v1), Code: **[https://github.com/ahydchh/impromptu-vla](https://github.com/ahydchh/impromptu-vla)**
 - 2025-05-29, **Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**, Yunshen Wang et.al., Paper: [http://arxiv.org/abs/2505.23115v1](http://arxiv.org/abs/2505.23115v1)
-- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2)
+- 2025-05-29, **GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**, Anthony Chen et.al., Paper: [http://arxiv.org/abs/2505.22421v2](http://arxiv.org/abs/2505.22421v2), Code: **[https://github.com/antonioo-c/geodrive](https://github.com/antonioo-c/geodrive)**
 - 2025-05-27, **CogAD: Cognitive-Hierarchy Guided End-to-End Autonomous Driving**, Zhennan Wang et.al., Paper: [http://arxiv.org/abs/2505.21581v1](http://arxiv.org/abs/2505.21581v1)
 - 2025-05-27, **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**, Muzhi Zhu et.al., Paper: [http://arxiv.org/abs/2505.21457v1](http://arxiv.org/abs/2505.21457v1)
-- 2025-05-27, **RefAV: Towards Planning-Centric Scenario Mining**, Cainan Davidson et.al., Paper: [http://arxiv.org/abs/2505.20981v1](http://arxiv.org/abs/2505.20981v1)
+- 2025-05-27, **RefAV: Towards Planning-Centric Scenario Mining**, Cainan Davidson et.al., Paper: [http://arxiv.org/abs/2505.20981v1](http://arxiv.org/abs/2505.20981v1), Code: **[https://github.com/cainand/refav](https://github.com/cainand/refav)**
 - 2025-05-27, **Generalized Coordination of Partially Cooperative Urban Traffic**, Max Bastian Mertens et.al., Paper: [http://arxiv.org/abs/2505.20879v1](http://arxiv.org/abs/2505.20879v1)
 - 2025-05-27, **DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving**, Muxi Diao et.al., Paper: [http://arxiv.org/abs/2505.20665v1](http://arxiv.org/abs/2505.20665v1)
 - 2025-05-26, **ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**, Xueyi Liu et.al., Paper: [http://arxiv.org/abs/2505.20024v1](http://arxiv.org/abs/2505.20024v1), Code: **[https://github.com/liuxueyi/reasonplan](https://github.com/liuxueyi/reasonplan)**
