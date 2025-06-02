@@ -83,7 +83,6 @@ layout: default
 |**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23249v1-b31b1b.svg)](http://arxiv.org/abs/2505.23249v1)|null|
 |**2025-05-28**|**An Optimistic Algorithm for online CMDPS with Anytime Adversarial Constraints**|Jiahui Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21841v1-b31b1b.svg)](http://arxiv.org/abs/2505.21841v1)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.21457v1-b31b1b.svg)](http://arxiv.org/abs/2505.21457v1)|null|
-|**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.19939v1-b31b1b.svg)](http://arxiv.org/abs/2505.19939v1)|null|
 
 ## World_Model
 
