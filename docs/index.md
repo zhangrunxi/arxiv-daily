@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,6 @@ layout: default
 |**2025-06-03**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24139v2-b31b1b.svg)](http://arxiv.org/abs/2505.24139v2)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23757v1-b31b1b.svg)](http://arxiv.org/abs/2505.23757v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23115v1-b31b1b.svg)](http://arxiv.org/abs/2505.23115v1)|null|
-|**2025-05-29**|**GeoDrive: 3D Geometry-Informed Driving World Model with Precise Action Control**|Anthony Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22421v2-b31b1b.svg)](http://arxiv.org/abs/2505.22421v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonioo-c/geodrive)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -29,8 +28,6 @@ layout: default
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23757v1-b31b1b.svg)](http://arxiv.org/abs/2505.23757v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23612v1-b31b1b.svg)](http://arxiv.org/abs/2505.23612v1)|null|
 |**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23115v1-b31b1b.svg)](http://arxiv.org/abs/2505.23115v1)|null|
-|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epfl-ml4ed/interpretcc)**|
-|**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22499v2-b31b1b.svg)](http://arxiv.org/abs/2505.22499v2)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -43,7 +40,6 @@ layout: default
 |**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Yongming Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24317v1-b31b1b.svg)](http://arxiv.org/abs/2505.24317v1)|null|
 |**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23612v1-b31b1b.svg)](http://arxiv.org/abs/2505.23612v1)|null|
 |**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23275v1-b31b1b.svg)](http://arxiv.org/abs/2505.23275v1)|null|
-|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epfl-ml4ed/interpretcc)**|
 
 ## Autonomous_Driving_E2E
 
@@ -65,7 +61,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23275v1-b31b1b.svg)](http://arxiv.org/abs/2505.23275v1)|null|
 |**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23249v1-b31b1b.svg)](http://arxiv.org/abs/2505.23249v1)|null|
-|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epfl-ml4ed/interpretcc)**|
 
 ## Autonomous_Driving_RL
 
@@ -92,5 +87,4 @@ layout: default
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24876v1-b31b1b.svg)](http://arxiv.org/abs/2505.24876v1)|null|
 |**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24361v1-b31b1b.svg)](http://arxiv.org/abs/2505.24361v1)|null|
 |**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.23115v1-b31b1b.svg)](http://arxiv.org/abs/2505.23115v1)|null|
-|**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.22541v1-b31b1b.svg)](http://arxiv.org/abs/2505.22541v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/epfl-ml4ed/interpretcc)**|
 
