@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 
 ## Autonomous_Driving_Planning
 
@@ -28,7 +28,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-31**|**A "Wenlu" Brain System for Multimodal Cognition and Embodied Decision-Making: A Secure New Architecture for Deep Integration of Foundation Models and Domain Knowledge**|Liang Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00570v1-b31b1b.svg)](http://arxiv.org/abs/2506.00570v1)|null|
 |**2025-05-31**|**Using Diffusion Ensembles to Estimate Uncertainty for End-to-End Autonomous Driving**|Florian Wintel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00560v1-b31b1b.svg)](http://arxiv.org/abs/2506.00560v1)|null|
-|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2505.24876v1-b31b1b.svg)](http://arxiv.org/abs/2505.24876v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -56,7 +55,6 @@ layout: default
 |**2025-06-02**|**The Actor-Critic Update Order Matters for PPO in Federated Reinforcement Learning**|Zhijie Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.01261v1-b31b1b.svg)](http://arxiv.org/abs/2506.01261v1)|null|
 |**2025-06-01**|**Robust and Safe Multi-Agent Reinforcement Learning Framework with Communication for Autonomous Vehicles**|Keshawn Smith et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00982v1-b31b1b.svg)](http://arxiv.org/abs/2506.00982v1)|null|
 |**2025-06-01**|**DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving**|Dawood Wasif et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00819v1-b31b1b.svg)](http://arxiv.org/abs/2506.00819v1)|null|
-|**2025-05-30**|**Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation**|Reece Keller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00138v1-b31b1b.svg)](http://arxiv.org/abs/2506.00138v1)|null|
 
 ## World_Model
 
@@ -71,5 +69,4 @@ layout: default
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02265v1-b31b1b.svg)](http://arxiv.org/abs/2506.02265v1)|null|
 |**2025-06-01**|**DriveMind: A Dual-VLM based Reinforcement Learning Framework for Autonomous Driving**|Dawood Wasif et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00819v1-b31b1b.svg)](http://arxiv.org/abs/2506.00819v1)|null|
 |**2025-05-31**|**A "Wenlu" Brain System for Multimodal Cognition and Embodied Decision-Making: A Secure New Architecture for Deep Integration of Foundation Models and Domain Knowledge**|Liang Geng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00570v1-b31b1b.svg)](http://arxiv.org/abs/2506.00570v1)|null|
-|**2025-05-30**|**Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation**|Reece Keller et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.00138v1-b31b1b.svg)](http://arxiv.org/abs/2506.00138v1)|null|
 
