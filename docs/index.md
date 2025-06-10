@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 
 ## Autonomous_Driving_Planning
 
@@ -44,7 +44,6 @@ layout: default
 |**2025-06-05**|**Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**|Vlastimil Martinek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05542v1-b31b1b.svg)](http://arxiv.org/abs/2506.05542v1)|null|
 |**2025-06-05**|**Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**|Hao Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05442v1-b31b1b.svg)](http://arxiv.org/abs/2506.05442v1)|null|
 |**2025-06-05**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02882v2-b31b1b.svg)](http://arxiv.org/abs/2506.02882v2)|null|
-|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02265v1-b31b1b.svg)](http://arxiv.org/abs/2506.02265v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -59,7 +58,7 @@ layout: default
 |**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06077v1-b31b1b.svg)](http://arxiv.org/abs/2506.06077v1)|null|
 |**2025-06-05**|**Self-Predictive Dynamics for Generalization of Vision-based Reinforcement Learning**|Kyungsoo Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05418v1-b31b1b.svg)](http://arxiv.org/abs/2506.05418v1)|null|
 |**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.04040v1-b31b1b.svg)](http://arxiv.org/abs/2506.04040v1)|null|
-|**2025-06-05**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.03568v2-b31b1b.svg)](http://arxiv.org/abs/2506.03568v2)|null|
+|**2025-06-05**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Li Zeqiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.03568v2-b31b1b.svg)](http://arxiv.org/abs/2506.03568v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lzqw/c-hac)**|
 
 ## World_Model
 
@@ -70,7 +69,7 @@ layout: default
 |**2025-06-05**|**Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**|Hao Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05442v1-b31b1b.svg)](http://arxiv.org/abs/2506.05442v1)|null|
 |**2025-06-04**|**AD-EE: Early Exiting for Fast and Reliable Vision-Language Models in Autonomous Driving**|Lianming Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05404v1-b31b1b.svg)](http://arxiv.org/abs/2506.05404v1)|null|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05336v1-b31b1b.svg)](http://arxiv.org/abs/2506.05336v1)|null|
-|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05280v2-b31b1b.svg)](http://arxiv.org/abs/2506.05280v2)|null|
+|**2025-06-06**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05280v2-b31b1b.svg)](http://arxiv.org/abs/2506.05280v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigcileng/bilateral-driving)**|
 |**2025-06-05**|**Real-Time LPV-Based Non-Linear Model Predictive Control for Robust Trajectory Tracking in Autonomous Vehicles**|Nitish Kumar et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.04684v1-b31b1b.svg)](http://arxiv.org/abs/2506.04684v1)|null|
 |**2025-06-05**|**Perfecting Depth: Uncertainty-Aware Enhancement of Metric Depth**|Jinyoung Jun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.04612v1-b31b1b.svg)](http://arxiv.org/abs/2506.04612v1)|null|
 |**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02580v1-b31b1b.svg)](http://arxiv.org/abs/2506.02580v1)|null|
