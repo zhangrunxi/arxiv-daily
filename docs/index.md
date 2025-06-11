@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 
 ## Autonomous_Driving_Planning
 
@@ -51,7 +51,6 @@ layout: default
 |**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06077v1-b31b1b.svg)](http://arxiv.org/abs/2506.06077v1)|null|
 |**2025-06-05**|**Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**|Vlastimil Martinek et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05542v1-b31b1b.svg)](http://arxiv.org/abs/2506.05542v1)|null|
 |**2025-06-05**|**Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**|Hao Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05442v1-b31b1b.svg)](http://arxiv.org/abs/2506.05442v1)|null|
-|**2025-06-05**|**GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**|Sohyun Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.02882v2-b31b1b.svg)](http://arxiv.org/abs/2506.02882v2)|null|
 
 ## Autonomous_Driving_LLM
 

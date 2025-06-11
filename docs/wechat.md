@@ -1,4 +1,4 @@
-> Updated on 2025.06.10
+> Updated on 2025.06.11
 
 ## Autonomous_Driving_Planning
 
@@ -39,7 +39,6 @@
 - 2025-06-06, **Self driving algorithm for an active four wheel drive racecar**, Gergely Bari et.al., Paper: [http://arxiv.org/abs/2506.06077v1](http://arxiv.org/abs/2506.06077v1)
 - 2025-06-05, **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**, Vlastimil Martinek et.al., Paper: [http://arxiv.org/abs/2506.05542v1](http://arxiv.org/abs/2506.05542v1)
 - 2025-06-05, **Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving**, Hao Jiang et.al., Paper: [http://arxiv.org/abs/2506.05442v1](http://arxiv.org/abs/2506.05442v1)
-- 2025-06-05, **GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation**, Sohyun Lee et.al., Paper: [http://arxiv.org/abs/2506.02882v2](http://arxiv.org/abs/2506.02882v2)
 
 ## Autonomous_Driving_LLM
 
