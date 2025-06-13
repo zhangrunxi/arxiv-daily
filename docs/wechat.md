@@ -63,7 +63,6 @@
 - 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
 - 2025-06-07, **WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making**, Guillaume Levy et.al., Paper: [http://arxiv.org/abs/2506.06725v1](http://arxiv.org/abs/2506.06725v1)
-- 2025-06-06, **Self driving algorithm for an active four wheel drive racecar**, Gergely Bari et.al., Paper: [http://arxiv.org/abs/2506.06077v1](http://arxiv.org/abs/2506.06077v1)
 
 ## World_Model
 
