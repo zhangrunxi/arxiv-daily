@@ -10,10 +10,12 @@
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
 - 2025-06-08, **Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**, Zhican Wang et.al., Paper: [http://arxiv.org/abs/2506.07069v1](http://arxiv.org/abs/2506.07069v1)
 - 2025-06-07, **Generalized Trajectory Scoring for End-to-end Multimodal Planning**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2506.06664v1](http://arxiv.org/abs/2506.06664v1)
-- 2025-06-06, **Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**, Yesheng Zhang et.al., Paper: [http://arxiv.org/abs/2506.05810v1](http://arxiv.org/abs/2506.05810v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-06-12, **QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2506.10977v1](http://arxiv.org/abs/2506.10977v1)
+- 2025-06-11, **DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2506.10242v1](http://arxiv.org/abs/2506.10242v1)
+- 2025-06-11, **Model Predictive Control-Based Optimal Energy Management of Autonomous Electric Vehicles Under Cold Temperatures**, Shanthan Kumar Padisala et.al., Paper: [http://arxiv.org/abs/2506.10221v1](http://arxiv.org/abs/2506.10221v1)
 - 2025-06-11, **Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2506.09881v1](http://arxiv.org/abs/2506.09881v1)
 - 2025-06-11, **ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**, Giacomo Rosin et.al., Paper: [http://arxiv.org/abs/2506.09626v1](http://arxiv.org/abs/2506.09626v1)
 - 2025-06-11, **A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**, Donglin Wang et.al., Paper: [http://arxiv.org/abs/2506.09512v1](http://arxiv.org/abs/2506.09512v1)
@@ -21,12 +23,10 @@
 - 2025-06-12, **ODG: Occupancy Prediction Using Dual Gaussians**, Yunxiao Shi et.al., Paper: [http://arxiv.org/abs/2506.09417v2](http://arxiv.org/abs/2506.09417v2)
 - 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
 - 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
-- 2025-06-08, **Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**, Zhican Wang et.al., Paper: [http://arxiv.org/abs/2506.07069v1](http://arxiv.org/abs/2506.07069v1)
-- 2025-06-08, **BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**, Yunxiao Shi et.al., Paper: [http://arxiv.org/abs/2506.07002v1](http://arxiv.org/abs/2506.07002v1)
-- 2025-06-07, **DONUT: A Decoder-Only Model for Trajectory Prediction**, Markus Knoche et.al., Paper: [http://arxiv.org/abs/2506.06854v1](http://arxiv.org/abs/2506.06854v1)
 
 ## Autonomous_Driving_Decision
 
+- 2025-06-11, **Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems**, Filip Cano et.al., Paper: [http://arxiv.org/abs/2506.10192v1](http://arxiv.org/abs/2506.10192v1)
 - 2025-06-11, **AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**, Zhaoyang Wei et.al., Paper: [http://arxiv.org/abs/2506.09557v1](http://arxiv.org/abs/2506.09557v1)
 - 2025-06-11, **A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**, Donglin Wang et.al., Paper: [http://arxiv.org/abs/2506.09512v1](http://arxiv.org/abs/2506.09512v1)
 - 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
@@ -37,6 +37,7 @@
 
 ## Autonomous_Driving_E2E
 
+- 2025-06-11, **RoCA: Robust Cross-Domain End-to-End Autonomous Driving**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2506.10145v1](http://arxiv.org/abs/2506.10145v1)
 - 2025-06-11, **Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2506.09800v1](http://arxiv.org/abs/2506.09800v1)
 - 2025-06-11, **AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**, Zhaoyang Wei et.al., Paper: [http://arxiv.org/abs/2506.09557v1](http://arxiv.org/abs/2506.09557v1)
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
@@ -46,10 +47,10 @@
 - 2025-06-07, **Generalized Trajectory Scoring for End-to-end Multimodal Planning**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2506.06664v1](http://arxiv.org/abs/2506.06664v1)
 - 2025-06-06, **STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**, Christian Fruhwirth-Reisinger et.al., Paper: [http://arxiv.org/abs/2506.06218v1](http://arxiv.org/abs/2506.06218v1)
 - 2025-06-06, **CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**, Peter Lengyel et.al., Paper: [http://arxiv.org/abs/2506.06128v1](http://arxiv.org/abs/2506.06128v1)
-- 2025-06-06, **Self driving algorithm for an active four wheel drive racecar**, Gergely Bari et.al., Paper: [http://arxiv.org/abs/2506.06077v1](http://arxiv.org/abs/2506.06077v1)
 
 ## Autonomous_Driving_LLM
 
+- 2025-06-11, **RoCA: Robust Cross-Domain End-to-End Autonomous Driving**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2506.10145v1](http://arxiv.org/abs/2506.10145v1)
 - 2025-06-10, **Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**, Ira Ceka et.al., Paper: [http://arxiv.org/abs/2506.08311v1](http://arxiv.org/abs/2506.08311v1)
 - 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416v1](http://arxiv.org/abs/2506.07416v1)
 - 2025-06-07, **WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making**, Guillaume Levy et.al., Paper: [http://arxiv.org/abs/2506.06725v1](http://arxiv.org/abs/2506.06725v1)
@@ -66,6 +67,8 @@
 
 ## World_Model
 
+- 2025-06-12, **QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**, Sicheng Zuo et.al., Paper: [http://arxiv.org/abs/2506.10977v1](http://arxiv.org/abs/2506.10977v1)
+- 2025-06-11, **RoCA: Robust Cross-Domain End-to-End Autonomous Driving**, Rajeev Yasarla et.al., Paper: [http://arxiv.org/abs/2506.10145v1](http://arxiv.org/abs/2506.10145v1)
 - 2025-06-11, **Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2506.09881v1](http://arxiv.org/abs/2506.09881v1)
 - 2025-06-11, **Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2506.09800v1](http://arxiv.org/abs/2506.09800v1)
 - 2025-06-11, **Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**, Yuxin Liu et.al., Paper: [http://arxiv.org/abs/2506.09485v1](http://arxiv.org/abs/2506.09485v1)
@@ -74,6 +77,4 @@
 - 2025-06-10, **Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2506.08533v1](http://arxiv.org/abs/2506.08533v1)
 - 2025-06-10, **Diffusion Models for Safety Validation of Autonomous Driving Systems**, Juanran Wang et.al., Paper: [http://arxiv.org/abs/2506.08459v1](http://arxiv.org/abs/2506.08459v1)
 - 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
-- 2025-06-09, **ZeroVO: Visual Odometry with Minimal Assumptions**, Lei Lai et.al., Paper: [http://arxiv.org/abs/2506.08005v1](http://arxiv.org/abs/2506.08005v1)
-- 2025-06-09, **R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**, William Ljungbergh et.al., Paper: [http://arxiv.org/abs/2506.07826v1](http://arxiv.org/abs/2506.07826v1)
 
