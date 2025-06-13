@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 
 ## Autonomous_Driving_Planning
 
@@ -26,7 +26,7 @@ layout: default
 |**2025-06-11**|**ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**|Giacomo Rosin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09626v1-b31b1b.svg)](http://arxiv.org/abs/2506.09626v1)|null|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09512v1-b31b1b.svg)](http://arxiv.org/abs/2506.09512v1)|null|
 |**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09485v1-b31b1b.svg)](http://arxiv.org/abs/2506.09485v1)|null|
-|**2025-06-11**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09417v1-b31b1b.svg)](http://arxiv.org/abs/2506.09417v1)|null|
+|**2025-06-12**|**ODG: Occupancy Prediction Using Dual Gaussians**|Yunxiao Shi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09417v2-b31b1b.svg)](http://arxiv.org/abs/2506.09417v2)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08541v1-b31b1b.svg)](http://arxiv.org/abs/2506.08541v1)|null|
 |**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08149v1-b31b1b.svg)](http://arxiv.org/abs/2506.08149v1)|null|
 |**2025-06-08**|**Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**|Zhican Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07069v1-b31b1b.svg)](http://arxiv.org/abs/2506.07069v1)|null|
@@ -44,7 +44,6 @@ layout: default
 |**2025-06-09**|**UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**|Pablo Moraes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07348v1-b31b1b.svg)](http://arxiv.org/abs/2506.07348v1)|null|
 |**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06664v1-b31b1b.svg)](http://arxiv.org/abs/2506.06664v1)|null|
 |**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06474v1-b31b1b.svg)](http://arxiv.org/abs/2506.06474v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EverettRichards/Edge-CAV)**|
-|**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Yuhan Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05667v1-b31b1b.svg)](http://arxiv.org/abs/2506.05667v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -68,7 +67,6 @@ layout: default
 |**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07416v1-b31b1b.svg)](http://arxiv.org/abs/2506.07416v1)|null|
 |**2025-06-07**|**WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making**|Guillaume Levy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06725v1-b31b1b.svg)](http://arxiv.org/abs/2506.06725v1)|null|
-|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.05336v1-b31b1b.svg)](http://arxiv.org/abs/2506.05336v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -89,7 +87,7 @@ layout: default
 |**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09881v1-b31b1b.svg)](http://arxiv.org/abs/2506.09881v1)|null|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09800v1-b31b1b.svg)](http://arxiv.org/abs/2506.09800v1)|null|
 |**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09485v1-b31b1b.svg)](http://arxiv.org/abs/2506.09485v1)|null|
-|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09042v1-b31b1b.svg)](http://arxiv.org/abs/2506.09042v1)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09042v2-b31b1b.svg)](http://arxiv.org/abs/2506.09042v2)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08541v1-b31b1b.svg)](http://arxiv.org/abs/2506.08541v1)|null|
 |**2025-06-10**|**Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**|Nihal Acharya Adde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08533v1-b31b1b.svg)](http://arxiv.org/abs/2506.08533v1)|null|
 |**2025-06-10**|**Diffusion Models for Safety Validation of Autonomous Driving Systems**|Juanran Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08459v1-b31b1b.svg)](http://arxiv.org/abs/2506.08459v1)|null|

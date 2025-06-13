@@ -1,4 +1,4 @@
-> Updated on 2025.06.12
+> Updated on 2025.06.13
 
 ## Autonomous_Driving_Planning
 
@@ -18,7 +18,7 @@
 - 2025-06-11, **ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**, Giacomo Rosin et.al., Paper: [http://arxiv.org/abs/2506.09626v1](http://arxiv.org/abs/2506.09626v1)
 - 2025-06-11, **A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**, Donglin Wang et.al., Paper: [http://arxiv.org/abs/2506.09512v1](http://arxiv.org/abs/2506.09512v1)
 - 2025-06-11, **Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**, Yuxin Liu et.al., Paper: [http://arxiv.org/abs/2506.09485v1](http://arxiv.org/abs/2506.09485v1)
-- 2025-06-11, **ODG: Occupancy Prediction Using Dual Gaussians**, Yunxiao Shi et.al., Paper: [http://arxiv.org/abs/2506.09417v1](http://arxiv.org/abs/2506.09417v1)
+- 2025-06-12, **ODG: Occupancy Prediction Using Dual Gaussians**, Yunxiao Shi et.al., Paper: [http://arxiv.org/abs/2506.09417v2](http://arxiv.org/abs/2506.09417v2)
 - 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
 - 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
 - 2025-06-08, **Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**, Zhican Wang et.al., Paper: [http://arxiv.org/abs/2506.07069v1](http://arxiv.org/abs/2506.07069v1)
@@ -34,7 +34,6 @@
 - 2025-06-09, **UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**, Pablo Moraes et.al., Paper: [http://arxiv.org/abs/2506.07348v1](http://arxiv.org/abs/2506.07348v1)
 - 2025-06-07, **Generalized Trajectory Scoring for End-to-end Multimodal Planning**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2506.06664v1](http://arxiv.org/abs/2506.06664v1)
 - 2025-06-06, **Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**, Everett Richards et.al., Paper: [http://arxiv.org/abs/2506.06474v1](http://arxiv.org/abs/2506.06474v1), Code: **[https://github.com/EverettRichards/Edge-CAV](https://github.com/EverettRichards/Edge-CAV)**
-- 2025-06-06, **DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**, Yuhan Hao et.al., Paper: [http://arxiv.org/abs/2506.05667v1](http://arxiv.org/abs/2506.05667v1)
 
 ## Autonomous_Driving_E2E
 
@@ -54,7 +53,6 @@
 - 2025-06-10, **Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**, Ira Ceka et.al., Paper: [http://arxiv.org/abs/2506.08311v1](http://arxiv.org/abs/2506.08311v1)
 - 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416v1](http://arxiv.org/abs/2506.07416v1)
 - 2025-06-07, **WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making**, Guillaume Levy et.al., Paper: [http://arxiv.org/abs/2506.06725v1](http://arxiv.org/abs/2506.06725v1)
-- 2025-06-05, **VideoMolmo: Spatio-Temporal Grounding Meets Pointing**, Ghazi Shazan Ahmad et.al., Paper: [http://arxiv.org/abs/2506.05336v1](http://arxiv.org/abs/2506.05336v1)
 
 ## Autonomous_Driving_RL
 
@@ -71,7 +69,7 @@
 - 2025-06-11, **Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**, Siyu Chen et.al., Paper: [http://arxiv.org/abs/2506.09881v1](http://arxiv.org/abs/2506.09881v1)
 - 2025-06-11, **Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**, Haochen Liu et.al., Paper: [http://arxiv.org/abs/2506.09800v1](http://arxiv.org/abs/2506.09800v1)
 - 2025-06-11, **Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**, Yuxin Liu et.al., Paper: [http://arxiv.org/abs/2506.09485v1](http://arxiv.org/abs/2506.09485v1)
-- 2025-06-10, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042v1](http://arxiv.org/abs/2506.09042v1)
+- 2025-06-11, **Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**, Xuanchi Ren et.al., Paper: [http://arxiv.org/abs/2506.09042v2](http://arxiv.org/abs/2506.09042v2)
 - 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
 - 2025-06-10, **Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**, Nihal Acharya Adde et.al., Paper: [http://arxiv.org/abs/2506.08533v1](http://arxiv.org/abs/2506.08533v1)
 - 2025-06-10, **Diffusion Models for Safety Validation of Autonomous Driving Systems**, Juanran Wang et.al., Paper: [http://arxiv.org/abs/2506.08459v1](http://arxiv.org/abs/2506.08459v1)
