@@ -1,4 +1,4 @@
-> Updated on 2025.06.13
+> Updated on 2025.06.14
 
 ## Autonomous_Driving_Planning
 
@@ -33,7 +33,6 @@
 - 2025-06-10, **Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**, Ira Ceka et.al., Paper: [http://arxiv.org/abs/2506.08311v1](http://arxiv.org/abs/2506.08311v1)
 - 2025-06-09, **UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**, Pablo Moraes et.al., Paper: [http://arxiv.org/abs/2506.07348v1](http://arxiv.org/abs/2506.07348v1)
 - 2025-06-07, **Generalized Trajectory Scoring for End-to-end Multimodal Planning**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2506.06664v1](http://arxiv.org/abs/2506.06664v1)
-- 2025-06-06, **Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**, Everett Richards et.al., Paper: [http://arxiv.org/abs/2506.06474v1](http://arxiv.org/abs/2506.06474v1), Code: **[https://github.com/EverettRichards/Edge-CAV](https://github.com/EverettRichards/Edge-CAV)**
 
 ## Autonomous_Driving_E2E
 
@@ -45,8 +44,6 @@
 - 2025-06-08, **Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**, Ni Ding et.al., Paper: [http://arxiv.org/abs/2506.07188v1](http://arxiv.org/abs/2506.07188v1)
 - 2025-06-08, **UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**, Wentao Zhao et.al., Paper: [http://arxiv.org/abs/2506.07013v1](http://arxiv.org/abs/2506.07013v1)
 - 2025-06-07, **Generalized Trajectory Scoring for End-to-end Multimodal Planning**, Zhenxin Li et.al., Paper: [http://arxiv.org/abs/2506.06664v1](http://arxiv.org/abs/2506.06664v1)
-- 2025-06-06, **STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**, Christian Fruhwirth-Reisinger et.al., Paper: [http://arxiv.org/abs/2506.06218v1](http://arxiv.org/abs/2506.06218v1)
-- 2025-06-06, **CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**, Peter Lengyel et.al., Paper: [http://arxiv.org/abs/2506.06128v1](http://arxiv.org/abs/2506.06128v1)
 
 ## Autonomous_Driving_LLM
 

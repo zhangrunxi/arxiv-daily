@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.13
+## Updated on 2025.06.14
 
 ## Autonomous_Driving_Planning
 
@@ -43,7 +43,6 @@ layout: default
 |**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
 |**2025-06-09**|**UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**|Pablo Moraes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07348v1-b31b1b.svg)](http://arxiv.org/abs/2506.07348v1)|null|
 |**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06664v1-b31b1b.svg)](http://arxiv.org/abs/2506.06664v1)|null|
-|**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06474v1-b31b1b.svg)](http://arxiv.org/abs/2506.06474v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EverettRichards/Edge-CAV)**|
 
 ## Autonomous_Driving_E2E
 
@@ -57,8 +56,6 @@ layout: default
 |**2025-06-08**|**Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**|Ni Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07188v1-b31b1b.svg)](http://arxiv.org/abs/2506.07188v1)|null|
 |**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07013v1-b31b1b.svg)](http://arxiv.org/abs/2506.07013v1)|null|
 |**2025-06-07**|**Generalized Trajectory Scoring for End-to-end Multimodal Planning**|Zhenxin Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06664v1-b31b1b.svg)](http://arxiv.org/abs/2506.06664v1)|null|
-|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06218v1-b31b1b.svg)](http://arxiv.org/abs/2506.06218v1)|null|
-|**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.06128v1-b31b1b.svg)](http://arxiv.org/abs/2506.06128v1)|null|
 
 ## Autonomous_Driving_LLM
 
