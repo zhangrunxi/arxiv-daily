@@ -1,4 +1,4 @@
-> Updated on 2025.06.14
+> Updated on 2025.06.15
 
 ## Autonomous_Driving_Planning
 
@@ -8,7 +8,6 @@
 - 2025-06-09, **Scaling Laws of Motion Forecasting and Planning -- A Technical Report**, Mustafa Baniodeh et.al., Paper: [http://arxiv.org/abs/2506.08228v1](http://arxiv.org/abs/2506.08228v1)
 - 2025-06-09, **Ego-centric Learning of Communicative World Models for Autonomous Driving**, Hang Wang et.al., Paper: [http://arxiv.org/abs/2506.08149v1](http://arxiv.org/abs/2506.08149v1)
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
-- 2025-06-08, **Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**, Zhican Wang et.al., Paper: [http://arxiv.org/abs/2506.07069v1](http://arxiv.org/abs/2506.07069v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -40,7 +39,6 @@
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
 - 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416v1](http://arxiv.org/abs/2506.07416v1)
 - 2025-06-08, **Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**, Ni Ding et.al., Paper: [http://arxiv.org/abs/2506.07188v1](http://arxiv.org/abs/2506.07188v1)
-- 2025-06-08, **UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**, Wentao Zhao et.al., Paper: [http://arxiv.org/abs/2506.07013v1](http://arxiv.org/abs/2506.07013v1)
 
 ## Autonomous_Driving_LLM
 

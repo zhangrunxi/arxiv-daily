@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 
 ## Autonomous_Driving_Planning
 
@@ -14,7 +14,6 @@ layout: default
 |**2025-06-09**|**Scaling Laws of Motion Forecasting and Planning -- A Technical Report**|Mustafa Baniodeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08228v1-b31b1b.svg)](http://arxiv.org/abs/2506.08228v1)|null|
 |**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08149v1-b31b1b.svg)](http://arxiv.org/abs/2506.08149v1)|null|
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08052v1-b31b1b.svg)](http://arxiv.org/abs/2506.08052v1)|null|
-|**2025-06-08**|**Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**|Zhican Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07069v1-b31b1b.svg)](http://arxiv.org/abs/2506.07069v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -52,7 +51,6 @@ layout: default
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08052v1-b31b1b.svg)](http://arxiv.org/abs/2506.08052v1)|null|
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07416v1-b31b1b.svg)](http://arxiv.org/abs/2506.07416v1)|null|
 |**2025-06-08**|**Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**|Ni Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07188v1-b31b1b.svg)](http://arxiv.org/abs/2506.07188v1)|null|
-|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07013v1-b31b1b.svg)](http://arxiv.org/abs/2506.07013v1)|null|
 
 ## Autonomous_Driving_LLM
 
