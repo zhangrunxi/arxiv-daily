@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 
 ## Autonomous_Driving_Planning
 
@@ -39,7 +39,6 @@ layout: default
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09512v1-b31b1b.svg)](http://arxiv.org/abs/2506.09512v1)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08541v1-b31b1b.svg)](http://arxiv.org/abs/2506.08541v1)|null|
 |**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
-|**2025-06-09**|**UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**|Pablo Moraes et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07348v1-b31b1b.svg)](http://arxiv.org/abs/2506.07348v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -50,7 +49,6 @@ layout: default
 |**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09557v1-b31b1b.svg)](http://arxiv.org/abs/2506.09557v1)|null|
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Yongkang Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08052v1-b31b1b.svg)](http://arxiv.org/abs/2506.08052v1)|null|
 |**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Jin Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07416v1-b31b1b.svg)](http://arxiv.org/abs/2506.07416v1)|null|
-|**2025-06-08**|**Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**|Ni Ding et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.07188v1-b31b1b.svg)](http://arxiv.org/abs/2506.07188v1)|null|
 
 ## Autonomous_Driving_LLM
 

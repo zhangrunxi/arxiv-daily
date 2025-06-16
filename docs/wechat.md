@@ -1,4 +1,4 @@
-> Updated on 2025.06.15
+> Updated on 2025.06.16
 
 ## Autonomous_Driving_Planning
 
@@ -29,7 +29,6 @@
 - 2025-06-11, **A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**, Donglin Wang et.al., Paper: [http://arxiv.org/abs/2506.09512v1](http://arxiv.org/abs/2506.09512v1)
 - 2025-06-10, **TrajFlow: Multi-modal Motion Prediction via Flow Matching**, Qi Yan et.al., Paper: [http://arxiv.org/abs/2506.08541v1](http://arxiv.org/abs/2506.08541v1)
 - 2025-06-10, **Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**, Ira Ceka et.al., Paper: [http://arxiv.org/abs/2506.08311v1](http://arxiv.org/abs/2506.08311v1)
-- 2025-06-09, **UruBots Autonomous Cars Challenge Pro Team Description Paper for FIRA 2025**, Pablo Moraes et.al., Paper: [http://arxiv.org/abs/2506.07348v1](http://arxiv.org/abs/2506.07348v1)
 
 ## Autonomous_Driving_E2E
 
@@ -38,7 +37,6 @@
 - 2025-06-11, **AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**, Zhaoyang Wei et.al., Paper: [http://arxiv.org/abs/2506.09557v1](http://arxiv.org/abs/2506.09557v1)
 - 2025-06-09, **ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**, Yongkang Li et.al., Paper: [http://arxiv.org/abs/2506.08052v1](http://arxiv.org/abs/2506.08052v1)
 - 2025-06-09, **LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2506.07416v1](http://arxiv.org/abs/2506.07416v1)
-- 2025-06-08, **Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks**, Ni Ding et.al., Paper: [http://arxiv.org/abs/2506.07188v1](http://arxiv.org/abs/2506.07188v1)
 
 ## Autonomous_Driving_LLM
 
