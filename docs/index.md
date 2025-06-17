@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 
 ## Autonomous_Driving_Planning
 
@@ -13,8 +13,6 @@ layout: default
 |**2025-06-11**|**From Theory to Practice: Advancing Multi-Robot Path Planning Algorithms and Applications**|Teng Guo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09914v1-b31b1b.svg)](http://arxiv.org/abs/2506.09914v1)|null|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09800v1-b31b1b.svg)](http://arxiv.org/abs/2506.09800v1)|null|
 |**2025-06-11**|**Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing**|Maria Damanaki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09469v1-b31b1b.svg)](http://arxiv.org/abs/2506.09469v1)|null|
-|**2025-06-09**|**Scaling Laws of Motion Forecasting and Planning -- A Technical Report**|Mustafa Baniodeh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08228v1-b31b1b.svg)](http://arxiv.org/abs/2506.08228v1)|null|
-|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08149v1-b31b1b.svg)](http://arxiv.org/abs/2506.08149v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -22,7 +20,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-13**|**FocalAD: Local Motion Planning for End-to-End Autonomous Driving**|Bin Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11419v1-b31b1b.svg)](http://arxiv.org/abs/2506.11419v1)|null|
 |**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11234v1-b31b1b.svg)](http://arxiv.org/abs/2506.11234v1)|null|
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuosc19/quadricformer)**|
 |**2025-06-11**|**DySS: Dynamic Queries and State-Space Learning for Efficient 3D Object Detection from Multi-Camera Videos**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10242v1-b31b1b.svg)](http://arxiv.org/abs/2506.10242v1)|null|
 |**2025-06-11**|**Model Predictive Control-Based Optimal Energy Management of Autonomous Electric Vehicles Under Cold Temperatures**|Shanthan Kumar Padisala et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10221v1-b31b1b.svg)](http://arxiv.org/abs/2506.10221v1)|null|
 |**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09881v1-b31b1b.svg)](http://arxiv.org/abs/2506.09881v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
@@ -41,7 +39,6 @@ layout: default
 |**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09557v1-b31b1b.svg)](http://arxiv.org/abs/2506.09557v1)|null|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09512v1-b31b1b.svg)](http://arxiv.org/abs/2506.09512v1)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08541v1-b31b1b.svg)](http://arxiv.org/abs/2506.08541v1)|null|
-|**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -62,7 +59,6 @@ layout: default
 |**2025-06-13**|**An Empirical study on LLM-based Log Retrieval for Software Engineering Metadata Management**|Simin Sun et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11659v1-b31b1b.svg)](http://arxiv.org/abs/2506.11659v1)|null|
 |**2025-06-10**|**Technical Report for Argoverse2 Scenario Mining Challenges on Iterative Error Correction and Spatially-Aware Prompting**|Yifei Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11124v1-b31b1b.svg)](http://arxiv.org/abs/2506.11124v1)|null|
 |**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10145v1-b31b1b.svg)](http://arxiv.org/abs/2506.10145v1)|null|
-|**2025-06-10**|**Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study**|Ira Ceka et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08311v1-b31b1b.svg)](http://arxiv.org/abs/2506.08311v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -72,14 +68,13 @@ layout: default
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09800v1-b31b1b.svg)](http://arxiv.org/abs/2506.09800v1)|null|
 |**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09512v1-b31b1b.svg)](http://arxiv.org/abs/2506.09512v1)|null|
 |**2025-06-10**|**Robust Evolutionary Multi-Objective Network Architecture Search for Reinforcement Learning (EMNAS-RL)**|Nihal Acharya Adde et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08533v1-b31b1b.svg)](http://arxiv.org/abs/2506.08533v1)|null|
-|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.08149v1-b31b1b.svg)](http://arxiv.org/abs/2506.08149v1)|null|
 
 ## World_Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11526v1-b31b1b.svg)](http://arxiv.org/abs/2506.11526v1)|null|
-|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|null|
+|**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10977v1-b31b1b.svg)](http://arxiv.org/abs/2506.10977v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuosc19/quadricformer)**|
 |**2025-06-11**|**RoCA: Robust Cross-Domain End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.10145v1-b31b1b.svg)](http://arxiv.org/abs/2506.10145v1)|null|
 |**2025-06-11**|**Leveraging Depth and Language for Open-Vocabulary Domain-Generalized Semantic Segmentation**|Siyu Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09881v1-b31b1b.svg)](http://arxiv.org/abs/2506.09881v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonymouse-9c53tp182bvz/vireo)**|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.09800v1-b31b1b.svg)](http://arxiv.org/abs/2506.09800v1)|null|
