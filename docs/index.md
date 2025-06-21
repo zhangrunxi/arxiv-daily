@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.20
+## Updated on 2025.06.21
 
 ## Autonomous_Driving_Planning
 
@@ -15,7 +15,6 @@ layout: default
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13757v1-b31b1b.svg)](http://arxiv.org/abs/2506.13757v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ucla-mobility/AutoVLA)**|
 |**2025-06-16**|**Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**|Martino Gulisano et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13622v1-b31b1b.svg)](http://arxiv.org/abs/2506.13622v1)|null|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13558v1-b31b1b.svg)](http://arxiv.org/abs/2506.13558v1)|null|
-|**2025-06-13**|**Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**|Boris Ivanovic et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.12251v1-b31b1b.svg)](http://arxiv.org/abs/2506.12251v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -37,7 +36,6 @@ layout: default
 |**2025-06-17**|**Mixed Traffic: A Perspective from Long Duration Autonomy**|Filippos Tzortzoglou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15004v1-b31b1b.svg)](http://arxiv.org/abs/2506.15004v1)|null|
 |**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14502v1-b31b1b.svg)](http://arxiv.org/abs/2506.14502v1)|null|
 |**2025-06-17**|**ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**|Fanzhi Zeng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14299v1-b31b1b.svg)](http://arxiv.org/abs/2506.14299v1)|null|
-|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11842v1-b31b1b.svg)](http://arxiv.org/abs/2506.11842v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -48,7 +46,6 @@ layout: default
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13757v1-b31b1b.svg)](http://arxiv.org/abs/2506.13757v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ucla-mobility/AutoVLA)**|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13558v1-b31b1b.svg)](http://arxiv.org/abs/2506.13558v1)|null|
 |**2025-06-16**|**RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning**|Yueru Luo et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13553v1-b31b1b.svg)](http://arxiv.org/abs/2506.13553v1)|null|
-|**2025-06-13**|**Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**|Boris Ivanovic et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.12251v1-b31b1b.svg)](http://arxiv.org/abs/2506.12251v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -59,7 +56,6 @@ layout: default
 |**2025-06-17**|**Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment**|Weiming Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14271v1-b31b1b.svg)](http://arxiv.org/abs/2506.14271v1)|null|
 |**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14096v1-b31b1b.svg)](http://arxiv.org/abs/2506.14096v1)|null|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.13558v1-b31b1b.svg)](http://arxiv.org/abs/2506.13558v1)|null|
-|**2025-06-13**|**Your Ride, Your Rules: Psychology and Cognition Enabled Automated Driving Systems**|Zhipeng Bao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.11842v1-b31b1b.svg)](http://arxiv.org/abs/2506.11842v1)|null|
 
 ## Autonomous_Driving_RL
 
