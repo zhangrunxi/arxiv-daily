@@ -47,7 +47,6 @@
 
 - 2025-06-17, **Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2506.14502v1](http://arxiv.org/abs/2506.14502v1)
 - 2025-06-17, **ADRD: LLM-Driven Autonomous Driving Based on Rule-based Decision Systems**, Fanzhi Zeng et.al., Paper: [http://arxiv.org/abs/2506.14299v1](http://arxiv.org/abs/2506.14299v1)
-- 2025-06-15, **Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**, Zhilin Lin et.al., Paper: [http://arxiv.org/abs/2506.12735v1](http://arxiv.org/abs/2506.12735v1)
 
 ## World_Model
 
@@ -59,5 +58,4 @@
 - 2025-06-16, **Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**, Martino Gulisano et.al., Paper: [http://arxiv.org/abs/2506.13622v1](http://arxiv.org/abs/2506.13622v1)
 - 2025-06-16, **COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2506.13260v1](http://arxiv.org/abs/2506.13260v1), Code: **[https://github.com/synsin0/come](https://github.com/synsin0/come)**
 - 2025-06-16, **STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**, Jiamin Wang et.al., Paper: [http://arxiv.org/abs/2506.13138v1](http://arxiv.org/abs/2506.13138v1)
-- 2025-06-15, **Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**, Zhilin Lin et.al., Paper: [http://arxiv.org/abs/2506.12735v1](http://arxiv.org/abs/2506.12735v1)
 
