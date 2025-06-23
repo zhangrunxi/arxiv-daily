@@ -71,5 +71,4 @@
 - 2025-06-17, **A Hierarchical Test Platform for Vision Language Model (VLM)-Integrated Real-World Autonomous Driving**, Yupeng Zhou et.al., Paper: [http://arxiv.org/abs/2506.14100v1](http://arxiv.org/abs/2506.14100v1)
 - 2025-06-16, **AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**, Zewei Zhou et.al., Paper: [http://arxiv.org/abs/2506.13757v1](http://arxiv.org/abs/2506.13757v1), Code: **[https://github.com/ucla-mobility/AutoVLA](https://github.com/ucla-mobility/AutoVLA)**
 - 2025-06-16, **Disturbance-aware minimum-time planning strategies for motorsport vehicles with probabilistic safety certificates**, Martino Gulisano et.al., Paper: [http://arxiv.org/abs/2506.13622v1](http://arxiv.org/abs/2506.13622v1)
-- 2025-06-16, **COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**, Yining Shi et.al., Paper: [http://arxiv.org/abs/2506.13260v1](http://arxiv.org/abs/2506.13260v1), Code: **[https://github.com/synsin0/come](https://github.com/synsin0/come)**
 
