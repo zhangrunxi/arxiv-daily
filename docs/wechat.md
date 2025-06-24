@@ -29,7 +29,6 @@
 - 2025-06-19, **Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**, Yiou Huang et.al., Paper: [http://arxiv.org/abs/2506.16336v1](http://arxiv.org/abs/2506.16336v1)
 - 2025-06-18, **MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**, Leonid Ivanov et.al., Paper: [http://arxiv.org/abs/2506.15313v1](http://arxiv.org/abs/2506.15313v1), Code: **[https://github.com/livanoff/mapfm](https://github.com/livanoff/mapfm)**
 - 2025-06-17, **Mixed Traffic: A Perspective from Long Duration Autonomy**, Filippos Tzortzoglou et.al., Paper: [http://arxiv.org/abs/2506.15004v1](http://arxiv.org/abs/2506.15004v1)
-- 2025-06-17, **Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2506.14502v1](http://arxiv.org/abs/2506.14502v1)
 
 ## Autonomous_Driving_E2E
 
@@ -52,7 +51,6 @@
 - 2025-06-21, **Optimization-Free Patch Attack on Stereo Depth Estimation**, Hangcheng Liu et.al., Paper: [http://arxiv.org/abs/2506.17632v1](http://arxiv.org/abs/2506.17632v1)
 - 2025-06-20, **DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**, Weitao Zhou et.al., Paper: [http://arxiv.org/abs/2506.16720v1](http://arxiv.org/abs/2506.16720v1)
 - 2025-06-19, **Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**, Yiou Huang et.al., Paper: [http://arxiv.org/abs/2506.16336v1](http://arxiv.org/abs/2506.16336v1)
-- 2025-06-17, **Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**, Xiao Wang et.al., Paper: [http://arxiv.org/abs/2506.14502v1](http://arxiv.org/abs/2506.14502v1)
 
 ## World_Model
 

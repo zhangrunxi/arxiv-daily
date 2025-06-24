@@ -39,7 +39,6 @@ layout: default
 |**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
 |**2025-06-17**|**Mixed Traffic: A Perspective from Long Duration Autonomy**|Filippos Tzortzoglou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15004v1-b31b1b.svg)](http://arxiv.org/abs/2506.15004v1)|null|
-|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14502v1-b31b1b.svg)](http://arxiv.org/abs/2506.14502v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -68,7 +67,6 @@ layout: default
 |**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17632v1-b31b1b.svg)](http://arxiv.org/abs/2506.17632v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
 |**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
-|**2025-06-17**|**Toward Safety-First Human-Like Decision Making for Autonomous Vehicles in Time-Varying Traffic Flow**|Xiao Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14502v1-b31b1b.svg)](http://arxiv.org/abs/2506.14502v1)|null|
 
 ## World_Model
 
