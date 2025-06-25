@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 
 ## Autonomous_Driving_Planning
 
@@ -13,7 +13,6 @@ layout: default
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
 |**2025-06-18**|**Advancing Autonomous Racing: A Comprehensive Survey of the RoboRacer (F1TENTH) Platform**|Israel Charles et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15899v1-b31b1b.svg)](http://arxiv.org/abs/2506.15899v1)|null|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14589v1-b31b1b.svg)](http://arxiv.org/abs/2506.14589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rex-sys-hk/netroller)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -38,7 +37,6 @@ layout: default
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
 |**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
-|**2025-06-17**|**Mixed Traffic: A Perspective from Long Duration Autonomy**|Filippos Tzortzoglou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15004v1-b31b1b.svg)](http://arxiv.org/abs/2506.15004v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -48,7 +46,6 @@ layout: default
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18725v1-b31b1b.svg)](http://arxiv.org/abs/2506.18725v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
 |**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14589v1-b31b1b.svg)](http://arxiv.org/abs/2506.14589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rex-sys-hk/netroller)**|
 
 ## Autonomous_Driving_LLM
 
@@ -56,7 +53,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17642v1-b31b1b.svg)](http://arxiv.org/abs/2506.17642v1)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
-|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.14589v1-b31b1b.svg)](http://arxiv.org/abs/2506.14589v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rex-sys-hk/netroller)**|
 
 ## Autonomous_Driving_RL
 
@@ -75,7 +71,7 @@ layout: default
 |**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18472v1-b31b1b.svg)](http://arxiv.org/abs/2506.18472v1)|null|
 |**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17632v1-b31b1b.svg)](http://arxiv.org/abs/2506.17632v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
-|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16262v2-b31b1b.svg)](http://arxiv.org/abs/2506.16262v2)|null|
+|**2025-06-23**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16262v2-b31b1b.svg)](http://arxiv.org/abs/2506.16262v2)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cmlab-korea/awesome-3d-low-level-vision)**|
 |**2025-06-19**|**Probabilistic Collision Risk Estimation for Pedestrian Navigation**|Amine Tourki et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16219v1-b31b1b.svg)](http://arxiv.org/abs/2506.16219v1)|null|
 |**2025-06-18**|**CooperRisk: A Driving Risk Quantification Pipeline with Multi-Agent Cooperative Perception and Prediction**|Mingyue Lei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15868v1-b31b1b.svg)](http://arxiv.org/abs/2506.15868v1)|null|
 
