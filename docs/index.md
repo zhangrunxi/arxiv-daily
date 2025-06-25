@@ -12,7 +12,6 @@ layout: default
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
 |**2025-06-18**|**Advancing Autonomous Racing: A Comprehensive Survey of the RoboRacer (F1TENTH) Platform**|Israel Charles et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15899v1-b31b1b.svg)](http://arxiv.org/abs/2506.15899v1)|null|
-|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
 
 ## Autonomous_Driving_Prediction
 
@@ -36,21 +35,22 @@ layout: default
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
 |**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
-|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
+|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19651v1-b31b1b.svg)](http://arxiv.org/abs/2506.19651v1)|null|
 |**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18785v1-b31b1b.svg)](http://arxiv.org/abs/2506.18785v1)|null|
 |**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18725v1-b31b1b.svg)](http://arxiv.org/abs/2506.18725v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
-|**2025-06-18**|**MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning**|Leonid Ivanov et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.15313v1-b31b1b.svg)](http://arxiv.org/abs/2506.15313v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/livanoff/mapfm)**|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
 |**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17642v1-b31b1b.svg)](http://arxiv.org/abs/2506.17642v1)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
 
@@ -68,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19850v1-b31b1b.svg)](http://arxiv.org/abs/2506.19850v1)|null|
+|**2025-06-24**|**Integrated Balanced and Staggered Routing in Autonomous Mobility-on-Demand Systems**|Antonio Coppola et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19722v1-b31b1b.svg)](http://arxiv.org/abs/2506.19722v1)|null|
+|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19651v1-b31b1b.svg)](http://arxiv.org/abs/2506.19651v1)|null|
+|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19615v1-b31b1b.svg)](http://arxiv.org/abs/2506.19615v1)|null|
 |**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18472v1-b31b1b.svg)](http://arxiv.org/abs/2506.18472v1)|null|
 |**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17632v1-b31b1b.svg)](http://arxiv.org/abs/2506.17632v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
