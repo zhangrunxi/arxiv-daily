@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 
 ## Autonomous_Driving_Planning
 
@@ -23,8 +23,6 @@ layout: default
 |**2025-06-22**|**ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17958v1-b31b1b.svg)](http://arxiv.org/abs/2506.17958v1)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17590v1-b31b1b.svg)](http://arxiv.org/abs/2506.17590v1)|null|
 |**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17004v1-b31b1b.svg)](http://arxiv.org/abs/2506.17004v1)|null|
-|**2025-06-19**|**DRIVE Through the Unpredictability:From a Protocol Investigating Slip to a Metric Estimating Command Uncertainty**|Nicolas Samson et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16593v1-b31b1b.svg)](http://arxiv.org/abs/2506.16593v1)|null|
-|**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -34,7 +32,6 @@ layout: default
 |**2025-06-24**|**A Framework for Uncertainty Quantification Based on Nearest Neighbors Across Layers**|Miguel N. Font et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19895v1-b31b1b.svg)](http://arxiv.org/abs/2506.19895v1)|null|
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
 |**2025-06-20**|**Revolutionizing Validation and Verification: Explainable Testing Methodologies for Intelligent Automotive Decision-Making Systems**|Halit Eris et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16876v1-b31b1b.svg)](http://arxiv.org/abs/2506.16876v1)|null|
-|**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -64,7 +61,6 @@ layout: default
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
 |**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17632v1-b31b1b.svg)](http://arxiv.org/abs/2506.17632v1)|null|
 |**2025-06-20**|**DRARL: Disengagement-Reason-Augmented Reinforcement Learning for Efficient Improvement of Autonomous Driving Policy**|Weitao Zhou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16720v1-b31b1b.svg)](http://arxiv.org/abs/2506.16720v1)|null|
-|**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.16336v1-b31b1b.svg)](http://arxiv.org/abs/2506.16336v1)|null|
 
 ## World_Model
 
