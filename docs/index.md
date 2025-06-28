@@ -24,7 +24,6 @@ layout: default
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
 |**2025-06-22**|**Bayesian Multiobject Tracking With Neural-Enhanced Motion and Measurement Models**|Shaoxiu Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18124v1-b31b1b.svg)](http://arxiv.org/abs/2506.18124v1)|null|
 |**2025-06-22**|**ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17958v1-b31b1b.svg)](http://arxiv.org/abs/2506.17958v1)|null|
-|**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17590v1-b31b1b.svg)](http://arxiv.org/abs/2506.17590v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -53,7 +52,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20531v1-b31b1b.svg)](http://arxiv.org/abs/2506.20531v1)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
-|**2025-06-21**|**May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**|Shaoyu Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17642v1-b31b1b.svg)](http://arxiv.org/abs/2506.17642v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -62,7 +60,6 @@ layout: default
 |**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21121v1-b31b1b.svg)](http://arxiv.org/abs/2506.21121v1)|null|
 |**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18304v1-b31b1b.svg)](http://arxiv.org/abs/2506.18304v1)|null|
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18234v1-b31b1b.svg)](http://arxiv.org/abs/2506.18234v1)|null|
-|**2025-06-21**|**Optimization-Free Patch Attack on Stereo Depth Estimation**|Hangcheng Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17632v1-b31b1b.svg)](http://arxiv.org/abs/2506.17632v1)|null|
 
 ## World_Model
 

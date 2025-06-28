@@ -16,7 +16,6 @@
 - 2025-06-23, **Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**, Yue Li et.al., Paper: [http://arxiv.org/abs/2506.18234v1](http://arxiv.org/abs/2506.18234v1)
 - 2025-06-22, **Bayesian Multiobject Tracking With Neural-Enhanced Motion and Measurement Models**, Shaoxiu Wei et.al., Paper: [http://arxiv.org/abs/2506.18124v1](http://arxiv.org/abs/2506.18124v1)
 - 2025-06-22, **ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2506.17958v1](http://arxiv.org/abs/2506.17958v1)
-- 2025-06-21, **DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**, Mihir Godbole et.al., Paper: [http://arxiv.org/abs/2506.17590v1](http://arxiv.org/abs/2506.17590v1)
 
 ## Autonomous_Driving_Decision
 
@@ -39,14 +38,12 @@
 
 - 2025-06-25, **Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**, Wenbin Gan et.al., Paper: [http://arxiv.org/abs/2506.20531v1](http://arxiv.org/abs/2506.20531v1)
 - 2025-06-24, **A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**, Shulan Ruan et.al., Paper: [http://arxiv.org/abs/2506.19769v1](http://arxiv.org/abs/2506.19769v1)
-- 2025-06-21, **May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs**, Shaoyu Yang et.al., Paper: [http://arxiv.org/abs/2506.17642v1](http://arxiv.org/abs/2506.17642v1)
 
 ## Autonomous_Driving_RL
 
 - 2025-06-26, **GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2506.21121v1](http://arxiv.org/abs/2506.21121v1)
 - 2025-06-23, **Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2506.18304v1](http://arxiv.org/abs/2506.18304v1)
 - 2025-06-23, **Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**, Yue Li et.al., Paper: [http://arxiv.org/abs/2506.18234v1](http://arxiv.org/abs/2506.18234v1)
-- 2025-06-21, **Optimization-Free Patch Attack on Stereo Depth Estimation**, Hangcheng Liu et.al., Paper: [http://arxiv.org/abs/2506.17632v1](http://arxiv.org/abs/2506.17632v1)
 
 ## World_Model
 
