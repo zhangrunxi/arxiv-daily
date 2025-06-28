@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 
 ## Autonomous_Driving_Planning
 
@@ -25,7 +25,6 @@ layout: default
 |**2025-06-22**|**Bayesian Multiobject Tracking With Neural-Enhanced Motion and Measurement Models**|Shaoxiu Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18124v1-b31b1b.svg)](http://arxiv.org/abs/2506.18124v1)|null|
 |**2025-06-22**|**ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty**|Xiangyuan Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17958v1-b31b1b.svg)](http://arxiv.org/abs/2506.17958v1)|null|
 |**2025-06-21**|**DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving**|Mihir Godbole et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17590v1-b31b1b.svg)](http://arxiv.org/abs/2506.17590v1)|null|
-|**2025-06-20**|**A Synthetic Benchmark for Collaborative 3D Semantic Occupancy Prediction in V2X Autonomous Driving**|Hanlin Wu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.17004v1-b31b1b.svg)](http://arxiv.org/abs/2506.17004v1)|null|
 
 ## Autonomous_Driving_Decision
 
