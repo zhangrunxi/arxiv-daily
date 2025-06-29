@@ -15,7 +15,6 @@
 - 2025-06-23, **SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**, Helin Cao et.al., Paper: [http://arxiv.org/abs/2506.18785v1](http://arxiv.org/abs/2506.18785v1)
 - 2025-06-23, **Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**, Yue Li et.al., Paper: [http://arxiv.org/abs/2506.18234v1](http://arxiv.org/abs/2506.18234v1)
 - 2025-06-22, **Bayesian Multiobject Tracking With Neural-Enhanced Motion and Measurement Models**, Shaoxiu Wei et.al., Paper: [http://arxiv.org/abs/2506.18124v1](http://arxiv.org/abs/2506.18124v1)
-- 2025-06-22, **ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty**, Xiangyuan Peng et.al., Paper: [http://arxiv.org/abs/2506.17958v1](http://arxiv.org/abs/2506.17958v1)
 
 ## Autonomous_Driving_Decision
 
