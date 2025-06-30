@@ -55,7 +55,6 @@
 |---|---|---|---|---|
 |**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22174v1-b31b1b.svg)](http://arxiv.org/abs/2506.22174v1)|null|
 |**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21121v1-b31b1b.svg)](http://arxiv.org/abs/2506.21121v1)|null|
-|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18304v1-b31b1b.svg)](http://arxiv.org/abs/2506.18304v1)|null|
 
 ## World_Model
 

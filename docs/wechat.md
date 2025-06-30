@@ -43,7 +43,6 @@
 
 - 2025-06-27, **ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**, Bavo Lesy et.al., Paper: [http://arxiv.org/abs/2506.22174v1](http://arxiv.org/abs/2506.22174v1)
 - 2025-06-26, **GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2506.21121v1](http://arxiv.org/abs/2506.21121v1)
-- 2025-06-23, **Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**, Junchao Fan et.al., Paper: [http://arxiv.org/abs/2506.18304v1](http://arxiv.org/abs/2506.18304v1)
 
 ## World_Model
 
