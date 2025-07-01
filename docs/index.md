@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 
 ## Autonomous_Driving_Planning
 
@@ -19,8 +19,6 @@ layout: default
 |**2025-06-26**|**Out-of-Distribution Semantic Occupancy Prediction**|Yuheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21185v1-b31b1b.svg)](http://arxiv.org/abs/2506.21185v1)|null|
 |**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21121v1-b31b1b.svg)](http://arxiv.org/abs/2506.21121v1)|null|
 |**2025-06-25**|**Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher**|Tomas Gallo Aquino et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20834v1-b31b1b.svg)](http://arxiv.org/abs/2506.20834v1)|null|
-|**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18798v1-b31b1b.svg)](http://arxiv.org/abs/2506.18798v1)|null|
-|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18785v1-b31b1b.svg)](http://arxiv.org/abs/2506.18785v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -42,8 +40,6 @@ layout: default
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20597v1-b31b1b.svg)](http://arxiv.org/abs/2506.20597v1)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
 |**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19651v1-b31b1b.svg)](http://arxiv.org/abs/2506.19651v1)|null|
-|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18785v1-b31b1b.svg)](http://arxiv.org/abs/2506.18785v1)|null|
-|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.18725v1-b31b1b.svg)](http://arxiv.org/abs/2506.18725v1)|null|
 
 ## Autonomous_Driving_LLM
 
