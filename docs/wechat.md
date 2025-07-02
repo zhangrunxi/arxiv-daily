@@ -67,5 +67,4 @@
 - 2025-06-25, **Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**, Soheyb Ribouh et.al., Paper: [http://arxiv.org/abs/2506.20597v1](http://arxiv.org/abs/2506.20597v1)
 - 2025-06-25, **Lightweight Multi-Frame Integration for Robust YOLO Object Detection in Videos**, Yitong Quan et.al., Paper: [http://arxiv.org/abs/2506.20550v1](http://arxiv.org/abs/2506.20550v1)
 - 2025-06-25, **Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**, Wenbin Gan et.al., Paper: [http://arxiv.org/abs/2506.20531v1](http://arxiv.org/abs/2506.20531v1)
-- 2025-06-25, **From 2D to 3D Cognition: A Brief Survey of General World Models**, Ningwei Xie et.al., Paper: [http://arxiv.org/abs/2506.20134v1](http://arxiv.org/abs/2506.20134v1)
 
