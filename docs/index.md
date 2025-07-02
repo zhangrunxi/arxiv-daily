@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 
 ## Autonomous_Driving_Planning
 
@@ -37,7 +37,6 @@ layout: default
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
 |**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23426v1-b31b1b.svg)](http://arxiv.org/abs/2506.23426v1)|null|
 |**2025-06-29**|**Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models**|Maarten Hugenholtz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23164v1-b31b1b.svg)](http://arxiv.org/abs/2506.23164v1)|null|
-|**2025-06-25**|**DriveBLIP2: Attention-Guided Explanation Generation for Complex Driving Scenarios**|Shihong Ling et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22494v1-b31b1b.svg)](http://arxiv.org/abs/2506.22494v1)|null|
 |**2025-06-27**|**Query as Test: An Intelligent Driving Test and Data Storage Method for Integrated Cockpit-Vehicle-Road Scenarios**|Shengyue Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22068v1-b31b1b.svg)](http://arxiv.org/abs/2506.22068v1)|null|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21885v1-b31b1b.svg)](http://arxiv.org/abs/2506.21885v1)|null|
 |**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21041v1-b31b1b.svg)](http://arxiv.org/abs/2506.21041v1)|null|
@@ -55,8 +54,6 @@ layout: default
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21885v1-b31b1b.svg)](http://arxiv.org/abs/2506.21885v1)|null|
 |**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21041v1-b31b1b.svg)](http://arxiv.org/abs/2506.21041v1)|null|
 |**2025-06-25**|**Differential Transformer-driven 6G Physical Layer for Collaborative Perception Enhancement**|Soheyb Ribouh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20597v1-b31b1b.svg)](http://arxiv.org/abs/2506.20597v1)|null|
-|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
-|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Letian Kang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19651v1-b31b1b.svg)](http://arxiv.org/abs/2506.19651v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -64,7 +61,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21885v1-b31b1b.svg)](http://arxiv.org/abs/2506.21885v1)|null|
 |**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20531v1-b31b1b.svg)](http://arxiv.org/abs/2506.20531v1)|null|
-|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.19769v1-b31b1b.svg)](http://arxiv.org/abs/2506.19769v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -82,7 +78,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24113v1-b31b1b.svg)](http://arxiv.org/abs/2506.24113v1)|null|
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23982v1-b31b1b.svg)](http://arxiv.org/abs/2506.23982v1)|null|
-|**2025-06-27**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22099v1-b31b1b.svg)](http://arxiv.org/abs/2506.22099v1)|null|
+|**2025-07-01**|**BézierGS: Dynamic Urban Scene Reconstruction with Bézier Curve Gaussian Splatting**|Zipei Ma et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.22099v2-b31b1b.svg)](http://arxiv.org/abs/2506.22099v2)|null|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21885v1-b31b1b.svg)](http://arxiv.org/abs/2506.21885v1)|null|
 |**2025-06-26**|**DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic**|Munish Monga et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.21260v1-b31b1b.svg)](http://arxiv.org/abs/2506.21260v1)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.20969v1-b31b1b.svg)](http://arxiv.org/abs/2506.20969v1)|null|
