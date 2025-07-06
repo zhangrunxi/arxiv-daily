@@ -37,7 +37,6 @@
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24044v1-b31b1b.svg)](http://arxiv.org/abs/2506.24044v1)|null|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
 |**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23426v1-b31b1b.svg)](http://arxiv.org/abs/2506.23426v1)|null|
-|**2025-06-29**|**Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models**|Maarten Hugenholtz et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23164v1-b31b1b.svg)](http://arxiv.org/abs/2506.23164v1)|null|
 
 ## Autonomous_Driving_E2E
 
