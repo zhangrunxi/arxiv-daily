@@ -53,7 +53,6 @@
 ## Autonomous_Driving_RL
 
 - 2025-06-30, **ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**, Mingfei Cheng et.al., Paper: [http://arxiv.org/abs/2506.23960v1](http://arxiv.org/abs/2506.23960v1)
-- 2025-06-30, **Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**, Guizhe Jin et.al., Paper: [http://arxiv.org/abs/2506.23771v1](http://arxiv.org/abs/2506.23771v1)
 
 ## World_Model
 

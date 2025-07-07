@@ -65,7 +65,6 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
-|**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23771v1-b31b1b.svg)](http://arxiv.org/abs/2506.23771v1)|null|
 
 ## World_Model
 
