@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.07
 
 ## Autonomous_Driving_Planning
 
@@ -40,7 +40,6 @@ layout: default
 |**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.01284v1-b31b1b.svg)](http://arxiv.org/abs/2507.01284v1)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.24044v1-b31b1b.svg)](http://arxiv.org/abs/2506.24044v1)|null|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
-|**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23426v1-b31b1b.svg)](http://arxiv.org/abs/2506.23426v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -71,7 +70,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23960v1-b31b1b.svg)](http://arxiv.org/abs/2506.23960v1)|null|
 |**2025-06-30**|**Multi-Timescale Hierarchical Reinforcement Learning for Unified Behavior and Control of Autonomous Driving**|Guizhe Jin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23771v1-b31b1b.svg)](http://arxiv.org/abs/2506.23771v1)|null|
-|**2025-06-29**|**InfGen: Scenario Generation as Next Token Group Prediction**|Zhenghao Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2506.23316v1-b31b1b.svg)](http://arxiv.org/abs/2506.23316v1)|null|
 
 ## World_Model
 
