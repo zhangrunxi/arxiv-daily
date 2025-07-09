@@ -1,11 +1,9 @@
-> Updated on 2025.07.08
+> Updated on 2025.07.09
 
 ## Autonomous_Driving_Planning
 
 - 2025-07-07, **NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2507.05227v1](http://arxiv.org/abs/2507.05227v1)
 - 2025-07-07, **Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**, Giwon Lee et.al., Paper: [http://arxiv.org/abs/2507.04790v1](http://arxiv.org/abs/2507.04790v1)
-- 2025-07-02, **VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**, Cristian Gariboldi et.al., Paper: [http://arxiv.org/abs/2507.01284v1](http://arxiv.org/abs/2507.01284v1)
-- 2025-07-01, **RTMap: Real-Time Recursive Mapping with Change Detection and Localization**, Yuheng Du et.al., Paper: [http://arxiv.org/abs/2507.00980v1](http://arxiv.org/abs/2507.00980v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -27,20 +25,12 @@
 - 2025-07-02, **Game-Theoretic Modeling of Vehicle Unprotected Left Turns Considering Drivers' Bounded Rationality**, Yuansheng Lian et.al., Paper: [http://arxiv.org/abs/2507.03002v1](http://arxiv.org/abs/2507.03002v1)
 - 2025-07-03, **MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**, Shivam Chaubey et.al., Paper: [http://arxiv.org/abs/2507.02438v1](http://arxiv.org/abs/2507.02438v1)
 - 2025-07-02, **LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**, Muhammad Atta ur Rahman et.al., Paper: [http://arxiv.org/abs/2507.01308v1](http://arxiv.org/abs/2507.01308v1)
-- 2025-07-02, **VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**, Cristian Gariboldi et.al., Paper: [http://arxiv.org/abs/2507.01284v1](http://arxiv.org/abs/2507.01284v1)
 
 ## Autonomous_Driving_E2E
 
 - 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
 - 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
-- 2025-07-02, **VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**, Cristian Gariboldi et.al., Paper: [http://arxiv.org/abs/2507.01284v1](http://arxiv.org/abs/2507.01284v1)
-- 2025-07-01, **RTMap: Real-Time Recursive Mapping with Change Detection and Localization**, Yuheng Du et.al., Paper: [http://arxiv.org/abs/2507.00980v1](http://arxiv.org/abs/2507.00980v1)
-- 2025-07-01, **SafeMap: Robust HD Map Construction from Incomplete Observations**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2507.00861v1](http://arxiv.org/abs/2507.00861v1)
-
-## Autonomous_Driving_LLM
-
-- 2025-07-02, **LLM-based Realistic Safety-Critical Driving Video Generation**, Yongjie Fu et.al., Paper: [http://arxiv.org/abs/2507.01264v1](http://arxiv.org/abs/2507.01264v1)
 
 ## Autonomous_Driving_RL
 
