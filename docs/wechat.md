@@ -2,11 +2,14 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
+- 2025-07-08, **DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**, Hyeongchan Ham et.al., Paper: [http://arxiv.org/abs/2507.05710v1](http://arxiv.org/abs/2507.05710v1)
 - 2025-07-07, **NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2507.05227v1](http://arxiv.org/abs/2507.05227v1)
 - 2025-07-07, **Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**, Giwon Lee et.al., Paper: [http://arxiv.org/abs/2507.04790v1](http://arxiv.org/abs/2507.04790v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-07-08, **DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**, Hyeongchan Ham et.al., Paper: [http://arxiv.org/abs/2507.05710v1](http://arxiv.org/abs/2507.05710v1)
 - 2025-07-07, **NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2507.05227v1](http://arxiv.org/abs/2507.05227v1)
 - 2025-07-07, **Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**, Tobias Demmler et.al., Paper: [http://arxiv.org/abs/2507.05098v1](http://arxiv.org/abs/2507.05098v1)
 - 2025-07-07, **SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**, Mengwei Xie et.al., Paper: [http://arxiv.org/abs/2507.04822v1](http://arxiv.org/abs/2507.04822v1)
@@ -16,21 +19,25 @@
 - 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
 - 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
 - 2025-07-03, **MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**, Shivam Chaubey et.al., Paper: [http://arxiv.org/abs/2507.02438v1](http://arxiv.org/abs/2507.02438v1)
-- 2025-07-03, **FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model**, Jiangxia Chen et.al., Paper: [http://arxiv.org/abs/2507.02250v1](http://arxiv.org/abs/2507.02250v1)
 
 ## Autonomous_Driving_Decision
 
+- 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
+- 2025-07-08, **DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**, Hyeongchan Ham et.al., Paper: [http://arxiv.org/abs/2507.05710v1](http://arxiv.org/abs/2507.05710v1)
 - 2025-07-06, **SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**, Liwen Xiao et.al., Paper: [http://arxiv.org/abs/2507.04263v1](http://arxiv.org/abs/2507.04263v1)
 - 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
-- 2025-07-02, **Game-Theoretic Modeling of Vehicle Unprotected Left Turns Considering Drivers' Bounded Rationality**, Yuansheng Lian et.al., Paper: [http://arxiv.org/abs/2507.03002v1](http://arxiv.org/abs/2507.03002v1)
 - 2025-07-03, **MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**, Shivam Chaubey et.al., Paper: [http://arxiv.org/abs/2507.02438v1](http://arxiv.org/abs/2507.02438v1)
-- 2025-07-02, **LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**, Muhammad Atta ur Rahman et.al., Paper: [http://arxiv.org/abs/2507.01308v1](http://arxiv.org/abs/2507.01308v1)
 
 ## Autonomous_Driving_E2E
 
+- 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
 - 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
 - 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
+
+## Autonomous_Driving_LLM
+
+- 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
 
 ## Autonomous_Driving_RL
 
@@ -48,8 +55,6 @@
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
 - 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
 - 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
-- 2025-07-02, **Game-Theoretic Modeling of Vehicle Unprotected Left Turns Considering Drivers' Bounded Rationality**, Yuansheng Lian et.al., Paper: [http://arxiv.org/abs/2507.03002v1](http://arxiv.org/abs/2507.03002v1)
 - 2025-07-03, **MISC: Minimal Intervention Shared Control with Guaranteed Safety under Non-Convex Constraints**, Shivam Chaubey et.al., Paper: [http://arxiv.org/abs/2507.02438v1](http://arxiv.org/abs/2507.02438v1)
 - 2025-07-03, **A Late Collaborative Perception Framework for 3D Multi-Object and Multi-Source Association and Fusion**, Maryem Fadili et.al., Paper: [http://arxiv.org/abs/2507.02430v1](http://arxiv.org/abs/2507.02430v1)
-- 2025-07-02, **What Really Matters for Robust Multi-Sensor HD Map Construction?**, Xiaoshuai Hao et.al., Paper: [http://arxiv.org/abs/2507.01484v1](http://arxiv.org/abs/2507.01484v1)
 
