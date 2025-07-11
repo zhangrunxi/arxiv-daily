@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 
 ## Autonomous_Driving_Planning
 
@@ -67,7 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v1-b31b1b.svg)](http://arxiv.org/abs/2507.06971v1)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v2-b31b1b.svg)](http://arxiv.org/abs/2507.06971v2)|null|
 |**2025-07-07**|**SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**|Mengwei Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04822v1-b31b1b.svg)](http://arxiv.org/abs/2507.04822v1)|null|
 |**2025-07-06**|**A Data-Driven Novelty Score for Diverse In-Vehicle Data Recording**|Philipp Reis et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04529v1-b31b1b.svg)](http://arxiv.org/abs/2507.04529v1)|null|
 |**2025-07-06**|**MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**|Zhendong Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04509v1-b31b1b.svg)](http://arxiv.org/abs/2507.04509v1)|null|
