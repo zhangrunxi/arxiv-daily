@@ -28,7 +28,6 @@
 - 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
 - 2025-07-08, **DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**, Hyeongchan Ham et.al., Paper: [http://arxiv.org/abs/2507.05710v1](http://arxiv.org/abs/2507.05710v1)
 - 2025-07-06, **SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**, Liwen Xiao et.al., Paper: [http://arxiv.org/abs/2507.04263v1](http://arxiv.org/abs/2507.04263v1)
-- 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
 
 ## Autonomous_Driving_E2E
 
@@ -59,5 +58,4 @@
 - 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
 - 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
-- 2025-07-04, **2.5D Object Detection for Intelligent Roadside Infrastructure**, Nikolai Polley et.al., Paper: [http://arxiv.org/abs/2507.03564v1](http://arxiv.org/abs/2507.03564v1)
 
