@@ -20,7 +20,6 @@
 - 2025-07-07, **CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**, Hanzhi Zhong et.al., Paper: [http://arxiv.org/abs/2507.04587v1](http://arxiv.org/abs/2507.04587v1)
 - 2025-07-06, **SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**, Liwen Xiao et.al., Paper: [http://arxiv.org/abs/2507.04263v1](http://arxiv.org/abs/2507.04263v1)
 - 2025-07-05, **Pedestrian Intention Prediction via Vision-Language Foundation Models**, Mohsen Azarmi et.al., Paper: [http://arxiv.org/abs/2507.04141v1](http://arxiv.org/abs/2507.04141v1)
-- 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
 
 ## Autonomous_Driving_Decision
 
@@ -35,7 +34,6 @@
 - 2025-07-08, **LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**, Yuhang Zhang et.al., Paper: [http://arxiv.org/abs/2507.05754v1](http://arxiv.org/abs/2507.05754v1)
 - 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
-- 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
 
 ## Autonomous_Driving_LLM
 
@@ -57,5 +55,4 @@
 - 2025-07-06, **A Data-Driven Novelty Score for Diverse In-Vehicle Data Recording**, Philipp Reis et.al., Paper: [http://arxiv.org/abs/2507.04529v1](http://arxiv.org/abs/2507.04529v1)
 - 2025-07-06, **MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**, Zhendong Xiao et.al., Paper: [http://arxiv.org/abs/2507.04509v1](http://arxiv.org/abs/2507.04509v1)
 - 2025-07-05, **Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**, Ziying Song et.al., Paper: [http://arxiv.org/abs/2507.04049v1](http://arxiv.org/abs/2507.04049v1)
-- 2025-07-05, **NRSeg: Noise-Resilient Learning for BEV Semantic Segmentation via Driving World Models**, Siyu Li et.al., Paper: [http://arxiv.org/abs/2507.04002v1](http://arxiv.org/abs/2507.04002v1)
 
