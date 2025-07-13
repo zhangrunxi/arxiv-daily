@@ -26,7 +26,6 @@ layout: default
 |**2025-07-07**|**Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05098v1-b31b1b.svg)](http://arxiv.org/abs/2507.05098v1)|null|
 |**2025-07-07**|**SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**|Mengwei Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04822v1-b31b1b.svg)](http://arxiv.org/abs/2507.04822v1)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04587v1-b31b1b.svg)](http://arxiv.org/abs/2507.04587v1)|null|
-|**2025-07-06**|**SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**|Liwen Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04263v1-b31b1b.svg)](http://arxiv.org/abs/2507.04263v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -35,7 +34,6 @@ layout: default
 |**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
 |**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Yuhang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05754v1-b31b1b.svg)](http://arxiv.org/abs/2507.05754v1)|null|
 |**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05710v1-b31b1b.svg)](http://arxiv.org/abs/2507.05710v1)|null|
-|**2025-07-06**|**SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement**|Liwen Xiao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04263v1-b31b1b.svg)](http://arxiv.org/abs/2507.04263v1)|null|
 
 ## Autonomous_Driving_E2E
 
