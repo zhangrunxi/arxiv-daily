@@ -13,7 +13,6 @@ layout: default
 |**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Yuhang Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05754v1-b31b1b.svg)](http://arxiv.org/abs/2507.05754v1)|null|
 |**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05710v1-b31b1b.svg)](http://arxiv.org/abs/2507.05710v1)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05227v1-b31b1b.svg)](http://arxiv.org/abs/2507.05227v1)|null|
-|**2025-07-07**|**Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning**|Giwon Lee et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04790v1-b31b1b.svg)](http://arxiv.org/abs/2507.04790v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +24,6 @@ layout: default
 |**2025-07-08**|**DRO-EDL-MPC: Evidential Deep Learning-Based Distributionally Robust Model Predictive Control for Safe Autonomous Driving**|Hyeongchan Ham et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05710v1-b31b1b.svg)](http://arxiv.org/abs/2507.05710v1)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05227v1-b31b1b.svg)](http://arxiv.org/abs/2507.05227v1)|null|
 |**2025-07-07**|**Beyond Features: How Dataset Design Influences Multi-Agent Trajectory Prediction Performance**|Tobias Demmler et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.05098v1-b31b1b.svg)](http://arxiv.org/abs/2507.05098v1)|null|
-|**2025-07-07**|**SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**|Mengwei Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04822v1-b31b1b.svg)](http://arxiv.org/abs/2507.04822v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -64,5 +62,4 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v2-b31b1b.svg)](http://arxiv.org/abs/2507.06971v2)|null|
-|**2025-07-07**|**SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions**|Mengwei Xie et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.04822v1-b31b1b.svg)](http://arxiv.org/abs/2507.04822v1)|null|
 
