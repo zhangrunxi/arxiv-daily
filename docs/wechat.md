@@ -1,10 +1,9 @@
-> Updated on 2025.07.15
+> Updated on 2025.07.16
 
 ## Autonomous_Driving_Planning
 
 - 2025-07-14, **MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2507.10047v1](http://arxiv.org/abs/2507.10047v1)
 - 2025-07-10, **MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**, Lu Xu et.al., Paper: [http://arxiv.org/abs/2507.07818v1](http://arxiv.org/abs/2507.07818v1)
-- 2025-07-08, **VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**, Shanting Wang et.al., Paper: [http://arxiv.org/abs/2507.06441v1](http://arxiv.org/abs/2507.06441v1)
 
 ## Autonomous_Driving_Prediction
 
@@ -13,7 +12,6 @@
 - 2025-07-11, **Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**, Thomas T. Zhang et.al., Paper: [http://arxiv.org/abs/2507.09061v1](http://arxiv.org/abs/2507.09061v1)
 - 2025-07-14, **STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**, Xinyi Ning et.al., Paper: [http://arxiv.org/abs/2507.08563v2](http://arxiv.org/abs/2507.08563v2)
 - 2025-07-10, **Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**, Abolfazl Zarghani et.al., Paper: [http://arxiv.org/abs/2507.07938v1](http://arxiv.org/abs/2507.07938v1)
-- 2025-07-08, **VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**, Shanting Wang et.al., Paper: [http://arxiv.org/abs/2507.06441v1](http://arxiv.org/abs/2507.06441v1)
 
 ## Autonomous_Driving_Decision
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10047v1-b31b1b.svg)](http://arxiv.org/abs/2507.10047v1)|null|
 |**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
-|**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06441v1-b31b1b.svg)](http://arxiv.org/abs/2507.06441v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -21,7 +20,6 @@ layout: default
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
 |**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v2-b31b1b.svg)](http://arxiv.org/abs/2507.08563v2)|null|
 |**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
-|**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06441v1-b31b1b.svg)](http://arxiv.org/abs/2507.06441v1)|null|
 
 ## Autonomous_Driving_Decision
 
