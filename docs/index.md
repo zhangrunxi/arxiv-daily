@@ -15,6 +15,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11531v1-b31b1b.svg)](http://arxiv.org/abs/2507.11531v1)|null|
 |**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09214v1-b31b1b.svg)](http://arxiv.org/abs/2507.09214v1)|null|
 |**2025-07-12**|**$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09144v1-b31b1b.svg)](http://arxiv.org/abs/2507.09144v1)|null|
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
@@ -59,6 +60,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11540v1-b31b1b.svg)](http://arxiv.org/abs/2507.11540v1)|null|
 |**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10034v1-b31b1b.svg)](http://arxiv.org/abs/2507.10034v1)|null|
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09993v1-b31b1b.svg)](http://arxiv.org/abs/2507.09993v1)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09836v1-b31b1b.svg)](http://arxiv.org/abs/2507.09836v1)|null|

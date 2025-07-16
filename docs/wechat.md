@@ -7,6 +7,7 @@
 
 ## Autonomous_Driving_Prediction
 
+- 2025-07-15, **Langevin Flows for Modeling Neural Latent Dynamics**, Yue Song et.al., Paper: [http://arxiv.org/abs/2507.11531v1](http://arxiv.org/abs/2507.11531v1)
 - 2025-07-12, **Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**, Shiyi Mu et.al., Paper: [http://arxiv.org/abs/2507.09214v1](http://arxiv.org/abs/2507.09214v1)
 - 2025-07-12, **$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144v1](http://arxiv.org/abs/2507.09144v1)
 - 2025-07-11, **Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**, Thomas T. Zhang et.al., Paper: [http://arxiv.org/abs/2507.09061v1](http://arxiv.org/abs/2507.09061v1)
@@ -41,6 +42,7 @@
 
 ## World_Model
 
+- 2025-07-15, **Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**, Zhen Xu et.al., Paper: [http://arxiv.org/abs/2507.11540v1](http://arxiv.org/abs/2507.11540v1)
 - 2025-07-14, **LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**, Xianghong Zou et.al., Paper: [http://arxiv.org/abs/2507.10034v1](http://arxiv.org/abs/2507.10034v1)
 - 2025-07-14, **3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**, Yixun Zhang et.al., Paper: [http://arxiv.org/abs/2507.09993v1](http://arxiv.org/abs/2507.09993v1)
 - 2025-07-14, **Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2507.09836v1](http://arxiv.org/abs/2507.09836v1)
