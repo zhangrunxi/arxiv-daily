@@ -2,11 +2,16 @@
 
 ## Autonomous_Driving_Planning
 
+- 2025-07-16, **Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2507.12083v1](http://arxiv.org/abs/2507.12083v1)
+- 2025-07-16, **Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**, Mohammed Hassanin et.al., Paper: [http://arxiv.org/abs/2507.11852v1](http://arxiv.org/abs/2507.11852v1)
 - 2025-07-14, **MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**, Marc Kaufeld et.al., Paper: [http://arxiv.org/abs/2507.10047v1](http://arxiv.org/abs/2507.10047v1)
 - 2025-07-10, **MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**, Lu Xu et.al., Paper: [http://arxiv.org/abs/2507.07818v1](http://arxiv.org/abs/2507.07818v1)
 
 ## Autonomous_Driving_Prediction
 
+- 2025-07-16, **MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**, Renjie Li et.al., Paper: [http://arxiv.org/abs/2507.12463v1](http://arxiv.org/abs/2507.12463v1)
+- 2025-07-16, **EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**, Yubo Hou et.al., Paper: [http://arxiv.org/abs/2507.12263v1](http://arxiv.org/abs/2507.12263v1)
+- 2025-07-16, **Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2507.12083v1](http://arxiv.org/abs/2507.12083v1)
 - 2025-07-15, **Langevin Flows for Modeling Neural Latent Dynamics**, Yue Song et.al., Paper: [http://arxiv.org/abs/2507.11531v1](http://arxiv.org/abs/2507.11531v1)
 - 2025-07-12, **Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**, Shiyi Mu et.al., Paper: [http://arxiv.org/abs/2507.09214v1](http://arxiv.org/abs/2507.09214v1)
 - 2025-07-12, **$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144v1](http://arxiv.org/abs/2507.09144v1)
@@ -36,6 +41,7 @@
 
 ## Autonomous_Driving_RL
 
+- 2025-07-16, **Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2507.12083v1](http://arxiv.org/abs/2507.12083v1)
 - 2025-07-14, **Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2507.09836v1](http://arxiv.org/abs/2507.09836v1)
 - 2025-07-12, **Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**, Mahsa Paknejad et.al., Paper: [http://arxiv.org/abs/2507.09341v1](http://arxiv.org/abs/2507.09341v1)
 - 2025-07-11, **Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**, Thomas T. Zhang et.al., Paper: [http://arxiv.org/abs/2507.09061v1](http://arxiv.org/abs/2507.09061v1)
