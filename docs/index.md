@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 
 ## Autonomous_Driving_Planning
 
@@ -67,5 +67,4 @@ layout: default
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09815v1-b31b1b.svg)](http://arxiv.org/abs/2507.09815v1)|null|
 |**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09214v1-b31b1b.svg)](http://arxiv.org/abs/2507.09214v1)|null|
 |**2025-07-12**|**$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09144v1-b31b1b.svg)](http://arxiv.org/abs/2507.09144v1)|null|
-|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.06971v2-b31b1b.svg)](http://arxiv.org/abs/2507.06971v2)|null|
 
