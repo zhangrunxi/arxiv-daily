@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 
 ## Autonomous_Driving_Planning
 
@@ -11,7 +11,6 @@ layout: default
 |**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
 |**2025-07-16**|**Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**|Mohammed Hassanin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11852v1-b31b1b.svg)](http://arxiv.org/abs/2507.11852v1)|null|
 |**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10047v1-b31b1b.svg)](http://arxiv.org/abs/2507.10047v1)|null|
-|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -25,7 +24,6 @@ layout: default
 |**2025-07-12**|**$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09144v1-b31b1b.svg)](http://arxiv.org/abs/2507.09144v1)|null|
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
 |**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v2-b31b1b.svg)](http://arxiv.org/abs/2507.08563v2)|null|
-|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -33,7 +31,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09815v1-b31b1b.svg)](http://arxiv.org/abs/2507.09815v1)|null|
 |**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v2-b31b1b.svg)](http://arxiv.org/abs/2507.08563v2)|null|
-|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07938v1-b31b1b.svg)](http://arxiv.org/abs/2507.07938v1)|null|
 
 ## Autonomous_Driving_E2E
 
@@ -43,7 +40,6 @@ layout: default
 |**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09341v1-b31b1b.svg)](http://arxiv.org/abs/2507.09341v1)|null|
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
 |**2025-07-11**|**End-to-End Generation of City-Scale Vectorized Maps by Crowdsourced Vehicles**|Zebang Feng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08901v1-b31b1b.svg)](http://arxiv.org/abs/2507.08901v1)|null|
-|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -51,7 +47,6 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
 |**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08716v1-b31b1b.svg)](http://arxiv.org/abs/2507.08716v1)|null|
-|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.07818v1-b31b1b.svg)](http://arxiv.org/abs/2507.07818v1)|null|
 
 ## Autonomous_Driving_RL
 
