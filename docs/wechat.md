@@ -28,7 +28,6 @@
 - 2025-07-17, **LaViPlan : Language-Guided Visual Path Planning with RLVR**, Hayeon Oh et.al., Paper: [http://arxiv.org/abs/2507.12911v1](http://arxiv.org/abs/2507.12911v1)
 - 2025-07-16, **ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**, Yuhang Lu et.al., Paper: [http://arxiv.org/abs/2507.12499v1](http://arxiv.org/abs/2507.12499v1)
 - 2025-07-13, **VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**, Younggun Kim et.al., Paper: [http://arxiv.org/abs/2507.09815v1](http://arxiv.org/abs/2507.09815v1)
-- 2025-07-14, **STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**, Xinyi Ning et.al., Paper: [http://arxiv.org/abs/2507.08563v2](http://arxiv.org/abs/2507.08563v2)
 
 ## Autonomous_Driving_E2E
 

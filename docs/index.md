@@ -38,7 +38,6 @@ layout: default
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v1-b31b1b.svg)](http://arxiv.org/abs/2507.12911v1)|null|
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09815v1-b31b1b.svg)](http://arxiv.org/abs/2507.09815v1)|null|
-|**2025-07-14**|**STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving**|Xinyi Ning et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08563v2-b31b1b.svg)](http://arxiv.org/abs/2507.08563v2)|null|
 
 ## Autonomous_Driving_E2E
 
