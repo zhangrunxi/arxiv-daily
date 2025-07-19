@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 
 ## Autonomous_Driving_Planning
 
@@ -47,14 +47,12 @@ layout: default
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
 |**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09341v1-b31b1b.svg)](http://arxiv.org/abs/2507.09341v1)|null|
-|**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
-|**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.08716v1-b31b1b.svg)](http://arxiv.org/abs/2507.08716v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -65,7 +63,6 @@ layout: default
 |**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09836v1-b31b1b.svg)](http://arxiv.org/abs/2507.09836v1)|null|
 |**2025-07-12**|**Meeting Deadlines in Motion: Deep RL for Real-Time Task Offloading in Vehicular Edge Networks**|Mahsa Paknejad et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09341v1-b31b1b.svg)](http://arxiv.org/abs/2507.09341v1)|null|
-|**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09061v1-b31b1b.svg)](http://arxiv.org/abs/2507.09061v1)|null|
 
 ## World_Model
 
