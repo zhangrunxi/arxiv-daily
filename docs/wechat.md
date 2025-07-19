@@ -20,8 +20,6 @@
 - 2025-07-16, **EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**, Yubo Hou et.al., Paper: [http://arxiv.org/abs/2507.12263v1](http://arxiv.org/abs/2507.12263v1)
 - 2025-07-16, **Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**, Muleilan Pei et.al., Paper: [http://arxiv.org/abs/2507.12083v1](http://arxiv.org/abs/2507.12083v1)
 - 2025-07-15, **Langevin Flows for Modeling Neural Latent Dynamics**, Yue Song et.al., Paper: [http://arxiv.org/abs/2507.11531v1](http://arxiv.org/abs/2507.11531v1)
-- 2025-07-12, **Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**, Shiyi Mu et.al., Paper: [http://arxiv.org/abs/2507.09214v1](http://arxiv.org/abs/2507.09214v1)
-- 2025-07-12, **$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144v1](http://arxiv.org/abs/2507.09144v1)
 
 ## Autonomous_Driving_Decision
 
@@ -57,6 +55,4 @@
 - 2025-07-14, **3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**, Yixun Zhang et.al., Paper: [http://arxiv.org/abs/2507.09993v1](http://arxiv.org/abs/2507.09993v1)
 - 2025-07-14, **Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**, Vindula Jayawardana et.al., Paper: [http://arxiv.org/abs/2507.09836v1](http://arxiv.org/abs/2507.09836v1)
 - 2025-07-13, **VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**, Younggun Kim et.al., Paper: [http://arxiv.org/abs/2507.09815v1](http://arxiv.org/abs/2507.09815v1)
-- 2025-07-12, **Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**, Shiyi Mu et.al., Paper: [http://arxiv.org/abs/2507.09214v1](http://arxiv.org/abs/2507.09214v1)
-- 2025-07-12, **$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**, Zhimin Liao et.al., Paper: [http://arxiv.org/abs/2507.09144v1](http://arxiv.org/abs/2507.09144v1)
 

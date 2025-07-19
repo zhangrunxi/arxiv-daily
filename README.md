@@ -24,8 +24,6 @@
 |**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12263v1-b31b1b.svg)](http://arxiv.org/abs/2507.12263v1)|null|
 |**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
 |**2025-07-15**|**Langevin Flows for Modeling Neural Latent Dynamics**|Yue Song et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11531v1-b31b1b.svg)](http://arxiv.org/abs/2507.11531v1)|null|
-|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09214v1-b31b1b.svg)](http://arxiv.org/abs/2507.09214v1)|null|
-|**2025-07-12**|**$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09144v1-b31b1b.svg)](http://arxiv.org/abs/2507.09144v1)|null|
 
 ## Autonomous_Driving_Decision
 
@@ -71,6 +69,4 @@
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09993v1-b31b1b.svg)](http://arxiv.org/abs/2507.09993v1)|null|
 |**2025-07-14**|**Multi-residual Mixture of Experts Learning for Cooperative Control in Multi-vehicle Systems**|Vindula Jayawardana et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09836v1-b31b1b.svg)](http://arxiv.org/abs/2507.09836v1)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09815v1-b31b1b.svg)](http://arxiv.org/abs/2507.09815v1)|null|
-|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09214v1-b31b1b.svg)](http://arxiv.org/abs/2507.09214v1)|null|
-|**2025-07-12**|**$I^{2}$-World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09144v1-b31b1b.svg)](http://arxiv.org/abs/2507.09144v1)|null|
 
