@@ -10,7 +10,6 @@
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 |**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
 |**2025-07-16**|**Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**|Mohammed Hassanin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11852v1-b31b1b.svg)](http://arxiv.org/abs/2507.11852v1)|null|
-|**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10047v1-b31b1b.svg)](http://arxiv.org/abs/2507.10047v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -41,7 +40,6 @@
 |---|---|---|---|---|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
-|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
 
 ## Autonomous_Driving_LLM
 
@@ -49,7 +47,6 @@
 |---|---|---|---|---|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14034v1-b31b1b.svg)](http://arxiv.org/abs/2507.14034v1)|null|
 |**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13729v1-b31b1b.svg)](http://arxiv.org/abs/2507.13729v1)|null|
-|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09876v1-b31b1b.svg)](http://arxiv.org/abs/2507.09876v1)|null|
 
 ## Autonomous_Driving_RL
 
@@ -70,6 +67,4 @@
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12762v1-b31b1b.svg)](http://arxiv.org/abs/2507.12762v1)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11540v1-b31b1b.svg)](http://arxiv.org/abs/2507.11540v1)|null|
-|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.10034v1-b31b1b.svg)](http://arxiv.org/abs/2507.10034v1)|null|
-|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.09993v1-b31b1b.svg)](http://arxiv.org/abs/2507.09993v1)|null|
 
