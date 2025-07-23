@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 
 ## Autonomous_Driving_Planning
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15266v1-b31b1b.svg)](http://arxiv.org/abs/2507.15266v1)|null|
 |**2025-07-20**|**CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**|Pan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14903v1-b31b1b.svg)](http://arxiv.org/abs/2507.14903v1)|null|
-|**2025-07-19**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v1-b31b1b.svg)](http://arxiv.org/abs/2507.14456v1)|null|
+|**2025-07-22**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v2-b31b1b.svg)](http://arxiv.org/abs/2507.14456v2)|null|
 |**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13225v1-b31b1b.svg)](http://arxiv.org/abs/2507.13225v1)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v2-b31b1b.svg)](http://arxiv.org/abs/2507.12911v2)|null|
 |**2025-07-17**|**FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning**|Jikai Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12800v1-b31b1b.svg)](http://arxiv.org/abs/2507.12800v1)|null|
@@ -50,7 +50,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15601v1-b31b1b.svg)](http://arxiv.org/abs/2507.15601v1)|null|
 |**2025-07-21**|**Robots for Kiwifruit Harvesting and Pollination**|Jamie Bell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15484v1-b31b1b.svg)](http://arxiv.org/abs/2507.15484v1)|null|
-|**2025-07-19**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v1-b31b1b.svg)](http://arxiv.org/abs/2507.14456v1)|null|
+|**2025-07-22**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v2-b31b1b.svg)](http://arxiv.org/abs/2507.14456v2)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 
@@ -82,5 +82,4 @@ layout: default
 |**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13729v1-b31b1b.svg)](http://arxiv.org/abs/2507.13729v1)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12762v1-b31b1b.svg)](http://arxiv.org/abs/2507.12762v1)|null|
-|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11540v1-b31b1b.svg)](http://arxiv.org/abs/2507.11540v1)|null|
 
