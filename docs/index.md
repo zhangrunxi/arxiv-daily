@@ -8,15 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**|Yifan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16177v1-b31b1b.svg)](http://arxiv.org/abs/2507.16177v1)|null|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15266v1-b31b1b.svg)](http://arxiv.org/abs/2507.15266v1)|null|
 |**2025-07-20**|**CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**|Pan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14903v1-b31b1b.svg)](http://arxiv.org/abs/2507.14903v1)|null|
 |**2025-07-22**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v2-b31b1b.svg)](http://arxiv.org/abs/2507.14456v2)|null|
 |**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13225v1-b31b1b.svg)](http://arxiv.org/abs/2507.13225v1)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v2-b31b1b.svg)](http://arxiv.org/abs/2507.12911v2)|null|
 |**2025-07-17**|**FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning**|Jikai Wang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12800v1-b31b1b.svg)](http://arxiv.org/abs/2507.12800v1)|null|
-|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
-|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
-|**2025-07-16**|**Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**|Mohammed Hassanin et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.11852v1-b31b1b.svg)](http://arxiv.org/abs/2507.11852v1)|null|
 
 ## Autonomous_Driving_Prediction
 
@@ -42,22 +40,24 @@ layout: default
 |**2025-07-20**|**CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**|Pan Hu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14903v1-b31b1b.svg)](http://arxiv.org/abs/2507.14903v1)|null|
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14066v1-b31b1b.svg)](http://arxiv.org/abs/2507.14066v1)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v2-b31b1b.svg)](http://arxiv.org/abs/2507.12911v2)|null|
-|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 
 ## Autonomous_Driving_E2E
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16725v1-b31b1b.svg)](http://arxiv.org/abs/2507.16725v1)|null|
+|**2025-07-22**|**A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**|Lorenzo Gentilini et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16621v1-b31b1b.svg)](http://arxiv.org/abs/2507.16621v1)|null|
+|**2025-07-22**|**A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**|Yifan Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16177v1-b31b1b.svg)](http://arxiv.org/abs/2507.16177v1)|null|
 |**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15601v1-b31b1b.svg)](http://arxiv.org/abs/2507.15601v1)|null|
 |**2025-07-21**|**Robots for Kiwifruit Harvesting and Pollination**|Jamie Bell et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15484v1-b31b1b.svg)](http://arxiv.org/abs/2507.15484v1)|null|
 |**2025-07-22**|**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**|Chi Wan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14456v2-b31b1b.svg)](http://arxiv.org/abs/2507.14456v2)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13162v1-b31b1b.svg)](http://arxiv.org/abs/2507.13162v1)|null|
-|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Yuhang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12499v1-b31b1b.svg)](http://arxiv.org/abs/2507.12499v1)|null|
 
 ## Autonomous_Driving_LLM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**RAVine: Reality-Aligned Evaluation for Agentic Search**|Yilong Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16725v1-b31b1b.svg)](http://arxiv.org/abs/2507.16725v1)|null|
 |**2025-07-21**|**HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics**|Sizhou Chen et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15518v1-b31b1b.svg)](http://arxiv.org/abs/2507.15518v1)|null|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14034v1-b31b1b.svg)](http://arxiv.org/abs/2507.14034v1)|null|
 |**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13729v1-b31b1b.svg)](http://arxiv.org/abs/2507.13729v1)|null|
@@ -70,12 +70,13 @@ layout: default
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14066v1-b31b1b.svg)](http://arxiv.org/abs/2507.14066v1)|null|
 |**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13225v1-b31b1b.svg)](http://arxiv.org/abs/2507.13225v1)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12911v2-b31b1b.svg)](http://arxiv.org/abs/2507.12911v2)|null|
-|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.12083v1-b31b1b.svg)](http://arxiv.org/abs/2507.12083v1)|null|
 
 ## World_Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16743v1-b31b1b.svg)](http://arxiv.org/abs/2507.16743v1)|null|
+|**2025-07-22**|**VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**|Kai Deng et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.16443v1-b31b1b.svg)](http://arxiv.org/abs/2507.16443v1)|null|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.15266v1-b31b1b.svg)](http://arxiv.org/abs/2507.15266v1)|null|
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.14066v1-b31b1b.svg)](http://arxiv.org/abs/2507.14066v1)|null|
 |**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2507.13801v1-b31b1b.svg)](http://arxiv.org/abs/2507.13801v1)|null|
