@@ -1,11 +1,11 @@
-> Updated on 2025.07.23
+> Updated on 2025.07.24
 
 ## Autonomous_Driving_Planning
 
 - 2025-07-22, **A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2507.16177v1](http://arxiv.org/abs/2507.16177v1)
 - 2025-07-21, **VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**, Haichao Liu et.al., Paper: [http://arxiv.org/abs/2507.15266v1](http://arxiv.org/abs/2507.15266v1)
 - 2025-07-20, **CoMoCAVs: Cohesive Decision-Guided Motion Planning for Connected and Autonomous Vehicles with Multi-Policy Reinforcement Learning**, Pan Hu et.al., Paper: [http://arxiv.org/abs/2507.14903v1](http://arxiv.org/abs/2507.14903v1)
-- 2025-07-22, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v2](http://arxiv.org/abs/2507.14456v2)
+- 2025-07-23, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v3](http://arxiv.org/abs/2507.14456v3)
 - 2025-07-17, **Signal Temporal Logic Compliant Co-design of Planning and Control**, Manas Sashank Juvvi et.al., Paper: [http://arxiv.org/abs/2507.13225v1](http://arxiv.org/abs/2507.13225v1)
 - 2025-07-21, **LaViPlan : Language-Guided Visual Path Planning with RLVR**, Hayeon Oh et.al., Paper: [http://arxiv.org/abs/2507.12911v2](http://arxiv.org/abs/2507.12911v2)
 - 2025-07-17, **FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning**, Jikai Wang et.al., Paper: [http://arxiv.org/abs/2507.12800v1](http://arxiv.org/abs/2507.12800v1)
@@ -20,8 +20,6 @@
 - 2025-07-21, **LaViPlan : Language-Guided Visual Path Planning with RLVR**, Hayeon Oh et.al., Paper: [http://arxiv.org/abs/2507.12911v2](http://arxiv.org/abs/2507.12911v2)
 - 2025-07-17, **World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**, Yanchen Guan et.al., Paper: [http://arxiv.org/abs/2507.12762v1](http://arxiv.org/abs/2507.12762v1)
 - 2025-07-17, **Domain-Enhanced Dual-Branch Model for Efficient and Interpretable Accident Anticipation**, Yanchen Guan et.al., Paper: [http://arxiv.org/abs/2507.12755v1](http://arxiv.org/abs/2507.12755v1)
-- 2025-07-16, **MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**, Renjie Li et.al., Paper: [http://arxiv.org/abs/2507.12463v1](http://arxiv.org/abs/2507.12463v1)
-- 2025-07-16, **EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**, Yubo Hou et.al., Paper: [http://arxiv.org/abs/2507.12263v1](http://arxiv.org/abs/2507.12263v1)
 
 ## Autonomous_Driving_Decision
 
@@ -38,7 +36,7 @@
 - 2025-07-22, **A Sparsity-Aware Autonomous Path Planning Accelerator with HW/SW Co-Design and Multi-Level Dataflow Optimization**, Yifan Zhang et.al., Paper: [http://arxiv.org/abs/2507.16177v1](http://arxiv.org/abs/2507.16177v1)
 - 2025-07-21, **Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**, Huiling Yang et.al., Paper: [http://arxiv.org/abs/2507.15601v1](http://arxiv.org/abs/2507.15601v1)
 - 2025-07-21, **Robots for Kiwifruit Harvesting and Pollination**, Jamie Bell et.al., Paper: [http://arxiv.org/abs/2507.15484v1](http://arxiv.org/abs/2507.15484v1)
-- 2025-07-22, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v2](http://arxiv.org/abs/2507.14456v2)
+- 2025-07-23, **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**, Chi Wan et.al., Paper: [http://arxiv.org/abs/2507.14456v3](http://arxiv.org/abs/2507.14456v3)
 - 2025-07-17, **Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**, Arian Mousakhan et.al., Paper: [http://arxiv.org/abs/2507.13162v1](http://arxiv.org/abs/2507.13162v1)
 
 ## Autonomous_Driving_LLM
